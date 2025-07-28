@@ -1,0 +1,9 @@
+<map id="UserStorageBootStrap" name="UserStorageBootStrap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,301,158,328"/>
+<area shape="rect" id="Node000002" href="$d3/dd0/structSDL__Storage.html" title=" " alt="" coords="32,203,131,229"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,245,84,301,79,301,79,245"/>
+<area shape="rect" id="Node000003" href="$d9/df7/structSDL__StorageInterface.html" title=" " alt="" coords="6,104,157,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,146,84,202,79,202,79,146"/>
+<area shape="rect" id="Node000004" href="$da/d8e/structSDL__PathInfo.html" title=" " alt="" coords="30,5,133,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="84,48,84,104,79,104,79,48"/>
+</map>

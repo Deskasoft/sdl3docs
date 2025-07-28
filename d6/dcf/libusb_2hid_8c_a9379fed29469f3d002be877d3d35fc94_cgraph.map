@@ -1,0 +1,20 @@
+<map id="create_device_info_for_device" name="create_device_info_for_device">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,121,136,164"/>
+<area shape="rect" id="Node000002" href="$d6/dcf/libusb_2hid_8c.html#a6c01aee67f7a961f17747660f6e817e3" title=" " alt="" coords="411,79,517,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,124,183,115,295,101,395,93,396,98,295,106,184,120,137,129"/>
+<area shape="rect" id="Node000006" href="$d6/dcf/libusb_2hid_8c.html#a24290f0bcb561bf958345ca15ac4f54e" title=" " alt="" coords="184,129,335,156"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="136,140,168,140,168,145,136,145"/>
+<area shape="rect" id="Node000009" href="$d6/dcf/libusb_2hid_8c.html#aa6447f46494d0aee6d88c8f67c7c72c9" title=" " alt="" coords="184,180,335,207"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="137,158,193,173,192,178,135,163"/>
+<area shape="rect" id="Node000003" href="$d6/dcf/libusb_2hid_8c.html#ada00cb58c1be3eee63ecf0ac884c5fc1" title=" " alt="" coords="615,5,743,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="500,76,592,41,614,35,615,40,594,47,501,81"/>
+<area shape="rect" id="Node000004" href="$d6/dcf/libusb_2hid_8c.html#a1d1ebc46d7f1472371a800d9ac64b60a" title=" " alt="" coords="593,56,765,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="518,86,578,82,578,87,518,91"/>
+<area shape="rect" id="Node000005" href="$d6/dcf/libusb_2hid_8c.html#ab61105ef7bde578ce99eaf288d784088" title=" " alt="" coords="602,123,756,149"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="518,100,596,116,595,122,517,105"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="316,126,395,106,396,111,317,131"/>
+<area shape="rect" id="Node000007" href="$d6/dcf/libusb_2hid_8c.html#aba28fe4f2fcb2559642181de3f0e5c35" title=" " alt="" coords="383,144,545,171"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="336,145,368,148,367,153,335,151"/>
+<area shape="rect" id="Node000008" href="$d6/dcf/libusb_2hid_8c.html#a95d442846376dc185e14a8686ee86593" title=" " alt="" coords="600,173,758,200"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="546,166,585,171,584,176,545,171"/>
+</map>

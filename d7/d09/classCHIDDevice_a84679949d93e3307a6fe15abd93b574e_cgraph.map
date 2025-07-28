@@ -1,0 +1,12 @@
+<map id="CHIDDevice::ReadReport" name="CHIDDevice::ReadReport">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,180,132"/>
+<area shape="rect" id="Node000002" href="$d7/d09/classCHIDDevice.html#add40838276f4e7cd0baf44463a857ccf" title=" " alt="" coords="228,29,428,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,102,227,65,252,58,254,63,229,71,128,107"/>
+<area shape="rect" id="Node000003" href="$d2/d5c/hid_8cpp.html#af11e28544aec2649912f769a993b4ed1" title=" " alt="" coords="266,80,390,107"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="180,107,250,99,250,104,180,112"/>
+<area shape="rect" id="Node000004" href="$d2/d5c/hid_8cpp.html#a372773a730381bce518e206cfb83765a" title=" " alt="" coords="275,131,381,157"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="180,125,260,134,259,139,180,131"/>
+<area shape="rect" id="Node000005" href="$d5/d75/SDL__core__unsupported_8c.html#a6cd0dafa9f187b994afe2fdbce3d4db7" title=" " alt="" coords="246,181,410,208"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="128,130,229,167,254,174,252,179,227,172,127,135"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="288,31,281,21,286,11,302,5,328,3,356,5,371,12,369,17,355,10,328,8,303,10,290,15,286,20,293,27"/>
+</map>

@@ -1,0 +1,26 @@
+var SDL__hidapi__libusb_8h =
+[
+    [ "calloc", "db/d75/SDL__hidapi__libusb_8h.html#a84beef8cc122add35118ec7cd35286c4", null ],
+    [ "free", "db/d75/SDL__hidapi__libusb_8h.html#a2c6efa7679f8cd9f61af96e105017560", null ],
+    [ "HIDAPI_TARGET_LIBUSB_API_VERSION", "db/d75/SDL__hidapi__libusb_8h.html#a01cc5447359396be4cb028aff55b6155", null ],
+    [ "HIDAPI_THREAD_MODEL_INCLUDE", "db/d75/SDL__hidapi__libusb_8h.html#a5fe7f97aaf2f6e43327d51187cf2bdc2", null ],
+    [ "iconv", "db/d75/SDL__hidapi__libusb_8h.html#ad346abc69a6294468fda08ccfbb2cfbd", null ],
+    [ "iconv_close", "db/d75/SDL__hidapi__libusb_8h.html#a0c4ff4bdefbf1576f3e7bab5fbc5ec89", null ],
+    [ "iconv_open", "db/d75/SDL__hidapi__libusb_8h.html#abc93f77b3b8b5891765c9f3c483ec013", null ],
+    [ "iconv_t", "db/d75/SDL__hidapi__libusb_8h.html#a394d3fb485b2577035dd4a8055724273", null ],
+    [ "LIBUSB_API_VERSION", "db/d75/SDL__hidapi__libusb_8h.html#aabe4bc36a83358685d36a6c853cbb4de", null ],
+    [ "libusb_get_string_descriptor", "db/d75/SDL__hidapi__libusb_8h.html#ae6735bf5c5218408c499fbe59cf0faec", null ],
+    [ "malloc", "db/d75/SDL__hidapi__libusb_8h.html#acf143577800376dd931c059ecc61ba06", null ],
+    [ "realloc", "db/d75/SDL__hidapi__libusb_8h.html#a1b739878adcdb46fb5d209af7ce79628", null ],
+    [ "setlocale", "db/d75/SDL__hidapi__libusb_8h.html#ab00be3c5cd706dbcc722d2a3b59c404a", null ],
+    [ "snprintf", "db/d75/SDL__hidapi__libusb_8h.html#aa367b75c5aed883fef5befbdf04835a4", null ],
+    [ "strcmp", "db/d75/SDL__hidapi__libusb_8h.html#a6b5d9a1031ac2602e31df1ba551bfafe", null ],
+    [ "strdup", "db/d75/SDL__hidapi__libusb_8h.html#a9254b089d435892385cf14d0ab4a7a2d", null ],
+    [ "strncpy", "db/d75/SDL__hidapi__libusb_8h.html#a5ad0cad79c46e9a6e2bc4b77ac50e271", null ],
+    [ "tolower", "db/d75/SDL__hidapi__libusb_8h.html#a0ce4bb6a1988a03e508025a3a52a70c0", null ],
+    [ "UNDEF_ICONV_CONST", "db/d75/SDL__hidapi__libusb_8h.html#aed6232cf7a5d272ac4dba894909c631d", null ],
+    [ "wcscmp", "db/d75/SDL__hidapi__libusb_8h.html#aaf9b1e91a07c9033cfd7ab21dd8cbac1", null ],
+    [ "wcsdup", "db/d75/SDL__hidapi__libusb_8h.html#a46c9dbe608f3f37d98a419e8caa94dd2", null ],
+    [ "wcsncpy", "db/d75/SDL__hidapi__libusb_8h.html#a2ab7b7fd18c87cc3cee03ec9c31af136", null ],
+    [ "SDL_libusb_get_string_descriptor", "db/d75/SDL__hidapi__libusb_8h.html#ae648c463534f3889161a34a83fb21c9d", null ]
+];

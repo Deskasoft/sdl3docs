@@ -1,0 +1,22 @@
+<map id="CopyOnePropertyData" name="CopyOnePropertyData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,421,159,448"/>
+<area shape="rect" id="Node000002" href="$d7/def/structSDL__Properties.html" title=" " alt="" coords="25,323,139,349"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,365,85,421,79,421,79,365"/>
+<area shape="rect" id="Node000003" href="$da/d27/structSDL__HashTable.html" title=" " alt="" coords="212,224,328,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="233,260,108,324,105,320,231,256"/>
+<area shape="rect" id="Node000004" href="$db/ddc/structSDL__RWLock.html" title=" " alt="" coords="350,125,454,152"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="374,164,289,226,286,221,371,159"/>
+<area shape="rect" id="Node000005" href="$d0/df2/structSDL__Mutex.html" title=" " alt="" coords="56,5,146,32"/>
+<area shape="poly" id="edge11_Node000002_Node000005" title=" " alt="" coords="49,42,35,57,20,92,15,130,18,169,27,207,52,275,77,321,72,324,48,277,21,209,13,170,10,130,15,91,30,55,45,38"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="143,37,170,54,183,67,191,78,199,89,212,99,350,125,349,130,210,104,196,93,187,82,179,70,167,58,141,41"/>
+<area shape="rect" id="Node000006" href="$d8/d0b/structSDL__Semaphore.html" title=" " alt="" coords="70,125,190,152"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="60,43,48,57,41,79,48,100,60,113,77,122,74,127,57,117,43,103,35,79,43,55,56,40"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="128,110,125,84,119,57,107,33,112,31,125,55,131,83,133,109"/>
+<area shape="rect" id="Node000007" href="$d0/d07/structSDL__Condition.html" title=" " alt="" coords="263,5,373,32"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="358,39,375,54,394,91,403,124,398,126,389,93,371,58,355,43"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="290,44,276,58,269,70,265,81,260,92,250,103,222,120,191,131,190,126,220,115,247,99,256,89,260,79,264,67,272,54,287,40"/>
+<area shape="rect" id="Node000008" href="$d1/dbc/structSDL__AtomicInt.html" title=" " alt="" coords="438,5,548,32"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="489,48,478,76,461,103,431,127,427,123,457,100,473,73,484,46"/>
+<area shape="rect" id="Node000009" href="$d7/dae/structSDL__HashItem.html" title=" " alt="" coords="214,125,326,152"/>
+<area shape="poly" id="edge10_Node000003_Node000009" title=" " alt="" coords="273,168,273,224,267,224,267,168"/>
+</map>

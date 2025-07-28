@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['d3d12texturedata_5ft_0',['D3D12TextureData_t',['../d0/de9/structD3D12TextureData__t.html',1,'']]],
+  ['detailedtiming_1',['DetailedTiming',['../d0/dfe/structDetailedTiming.html',1,'']]],
+  ['dideviceinstance_2',['DIDEVICEINSTANCE',['../d2/d28/structDIDEVICEINSTANCE.html',1,'']]],
+  ['displayconfig_5f2dregion_3',['DISPLAYCONFIG_2DREGION',['../de/d4a/structDISPLAYCONFIG__2DREGION.html',1,'']]],
+  ['displayconfig_5fdesktop_5fimage_5finfo_4',['DISPLAYCONFIG_DESKTOP_IMAGE_INFO',['../dc/de7/structDISPLAYCONFIG__DESKTOP__IMAGE__INFO.html',1,'']]],
+  ['displayconfig_5fdevice_5finfo_5fheader_5',['DISPLAYCONFIG_DEVICE_INFO_HEADER',['../d3/d41/structDISPLAYCONFIG__DEVICE__INFO__HEADER.html',1,'']]],
+  ['displayconfig_5fmode_5finfo_6',['DISPLAYCONFIG_MODE_INFO',['../dd/de5/structDISPLAYCONFIG__MODE__INFO.html',1,'']]],
+  ['displayconfig_5fpath_5finfo_7',['DISPLAYCONFIG_PATH_INFO',['../d8/d42/structDISPLAYCONFIG__PATH__INFO.html',1,'']]],
+  ['displayconfig_5fpath_5fsource_5finfo_8',['DISPLAYCONFIG_PATH_SOURCE_INFO',['../d7/d7e/structDISPLAYCONFIG__PATH__SOURCE__INFO.html',1,'']]],
+  ['displayconfig_5fpath_5ftarget_5finfo_9',['DISPLAYCONFIG_PATH_TARGET_INFO',['../d7/da8/structDISPLAYCONFIG__PATH__TARGET__INFO.html',1,'']]],
+  ['displayconfig_5frational_10',['DISPLAYCONFIG_RATIONAL',['../de/df3/structDISPLAYCONFIG__RATIONAL.html',1,'']]],
+  ['displayconfig_5fsource_5fdevice_5fname_11',['DISPLAYCONFIG_SOURCE_DEVICE_NAME',['../d2/daf/structDISPLAYCONFIG__SOURCE__DEVICE__NAME.html',1,'']]],
+  ['displayconfig_5fsource_5fmode_12',['DISPLAYCONFIG_SOURCE_MODE',['../df/dbd/structDISPLAYCONFIG__SOURCE__MODE.html',1,'']]],
+  ['displayconfig_5ftarget_5fdevice_5fname_13',['DISPLAYCONFIG_TARGET_DEVICE_NAME',['../d8/dc4/structDISPLAYCONFIG__TARGET__DEVICE__NAME.html',1,'']]],
+  ['displayconfig_5ftarget_5fdevice_5fname_5fflags_14',['DISPLAYCONFIG_TARGET_DEVICE_NAME_FLAGS',['../d8/d91/structDISPLAYCONFIG__TARGET__DEVICE__NAME__FLAGS.html',1,'']]],
+  ['displayconfig_5ftarget_5fmode_15',['DISPLAYCONFIG_TARGET_MODE',['../d5/d35/structDISPLAYCONFIG__TARGET__MODE.html',1,'']]],
+  ['displayconfig_5fvideo_5fsignal_5finfo_16',['DISPLAYCONFIG_VIDEO_SIGNAL_INFO',['../df/d67/structDISPLAYCONFIG__VIDEO__SIGNAL__INFO.html',1,'']]],
+  ['distortioncoordinates_5ft_17',['DistortionCoordinates_t',['../d5/dd8/structDistortionCoordinates__t.html',1,'']]],
+  ['driverdirectmode_5fframetiming_18',['DriverDirectMode_FrameTiming',['../de/d70/structDriverDirectMode__FrameTiming.html',1,'']]],
+  ['dwm_5fblurbehind_19',['DWM_BLURBEHIND',['../d8/d48/structDWM__BLURBEHIND.html',1,'']]]
+];

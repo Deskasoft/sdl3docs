@@ -1,0 +1,14 @@
+<map id="SDL_ScanFloat" name="SDL_ScanFloat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,119,83"/>
+<area shape="rect" id="Node000002" href="$d3/d02/SDL__stdlib_8c.html#a527e6563dbef9c20dc9bf4804a9a80ed" title=" " alt="" coords="169,5,258,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,53,156,35,158,40,105,58"/>
+<area shape="rect" id="Node000003" href="$d3/d02/SDL__stdlib_8c.html#a0f97bab0613d4633dfc9a13c1d8bd9f7" title=" " alt="" coords="795,85,894,112"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,69,747,92,779,93,779,99,747,97,119,74"/>
+<area shape="rect" id="Node000004" href="$d2/d23/SDL__string_8c.html#a9e7938c18051780cd349c15c4cf71f26" title=" " alt="" coords="167,111,260,137"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="102,81,161,102,159,107,100,86"/>
+<area shape="rect" id="Node000005" href="$d2/d23/SDL__string_8c.html#ae1408d80ee4bf76b1b215e0282697a32" title=" " alt="" coords="308,113,503,140"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="261,122,292,122,292,128,261,127"/>
+<area shape="rect" id="Node000006" href="$d2/d23/SDL__string_8c.html#a7973bb641d19e0ed46f90e07e09b07ed" title=" " alt="" coords="551,107,747,149"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="504,125,536,125,536,130,504,130"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="747,111,779,106,780,111,748,116"/>
+</map>

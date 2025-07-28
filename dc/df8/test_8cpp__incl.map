@@ -1,0 +1,17 @@
+<map id="SDL&#45;main/src/hidapi/testgui/test.cpp" name="SDL&#45;main/src/hidapi/testgui/test.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="201,5,341,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,49,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,51,64,98,63,93,205,46"/>
+<area shape="rect" id="Node000003" href="$dc/dd0/hidapi_8h.html" title=" " alt="" coords="72,96,139,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,51,147,91,144,86,227,46"/>
+<area shape="rect" id="Node000005" href="$d6/d8d/mac__support_8h.html" title=" " alt="" coords="163,96,270,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="259,50,236,85,231,82,255,47"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="294,96,358,123"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="287,47,311,82,306,85,283,50"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="382,96,445,123"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="309,46,379,86,377,90,306,51"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="470,96,533,123"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="331,46,456,89,454,94,330,51"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="72,171,139,197"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="108,123,108,155,103,155,103,123"/>
+</map>

@@ -1,0 +1,49 @@
+<map id="SDL_IsSupportedChannelCount" name="SDL_IsSupportedChannelCount">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2262,235,2470,261"/>
+<area shape="rect" id="Node000002" href="$dc/d77/SDL__audiocvt_8c.html#af70024537aa3624db425ee630d6af1eb" title=" " alt="" coords="2081,133,2181,160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2318,230,2163,163,2165,158,2320,226"/>
+<area shape="rect" id="Node000018" href="$dc/d77/SDL__audiocvt_8c.html#a3a1c20121b9e857a08c0ddb71d8022ef" title=" " alt="" coords="2048,285,2214,312"/>
+<area shape="poly" id="edge21_Node000001_Node000018" title=" " alt="" coords="2286,268,2197,287,2196,282,2285,263"/>
+<area shape="rect" id="Node000020" href="$dc/d77/SDL__audiocvt_8c.html#a10422193b770361b78f5e86c7513477b" title=" " alt="" coords="1547,232,1738,259"/>
+<area shape="poly" id="edge23_Node000001_Node000020" title=" " alt="" coords="2247,250,1738,248,1738,243,2247,245"/>
+<area shape="rect" id="Node000003" href="$dc/d77/SDL__audiocvt_8c.html#a6f6db364185a283949ea41d5e754cc54" title=" " alt="" coords="1548,137,1737,164"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="2066,150,1737,153,1737,147,2066,145"/>
+<area shape="rect" id="Node000007" href="$d6/d9b/SDL__audio_8c.html#a8768a1f42de2a99b41a2fe823cc04720" title=" " alt="" coords="991,96,1209,123"/>
+<area shape="poly" id="edge14_Node000002_Node000007" title=" " alt="" coords="2066,139,2000,132,1780,119,1561,112,1210,111,1210,105,1562,107,1780,114,2000,127,2066,134"/>
+<area shape="rect" id="Node000015" href="$df/dd6/SDL__audioqueue_8c.html#a8f210aa7469c65c456e261e4fd093639" title=" " alt="" coords="1800,184,1986,211"/>
+<area shape="poly" id="edge15_Node000002_Node000015" title=" " alt="" coords="2066,163,1960,186,1959,181,2065,158"/>
+<area shape="rect" id="Node000016" href="$d6/d9b/SDL__audio_8c.html#a3a132c60c931f1c864ba5da2b1c86717" title=" " alt="" coords="1007,24,1193,67"/>
+<area shape="poly" id="edge17_Node000002_Node000016" title=" " alt="" coords="2081,130,1999,107,1888,88,1774,73,1549,55,1348,47,1193,46,1193,41,1348,42,1549,50,1775,68,1889,83,2001,101,2082,125"/>
+<area shape="rect" id="Node000004" href="$dc/d77/SDL__audiocvt_8c.html#a3ba5e9e434f54078c84d9a1469d44fea" title=" " alt="" coords="1257,137,1499,164"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1533,153,1500,153,1500,148,1533,148"/>
+<area shape="rect" id="Node000005" href="$dc/d77/SDL__audiocvt_8c.html#a2cb08c5a71b1cb8d4fb4e1d4d3e8f9d6" title=" " alt="" coords="1011,147,1189,173"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1242,158,1189,160,1189,154,1242,153"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="1268,137,1194,126,1195,121,1269,132"/>
+<area shape="rect" id="Node000006" href="$dc/d77/SDL__audiocvt_8c.html#a90af0e041cebdc41c97e4f30cfdcf01a" title=" " alt="" coords="754,157,938,184"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="996,167,939,169,939,164,995,162"/>
+<area shape="rect" id="Node000008" href="$d3/d8a/SDL__dummyaudio_8c.html#a954b1d30669ef0d1b5d4615515c94498" title=" " alt="" coords="749,56,943,83"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="995,96,935,86,936,81,996,90"/>
+<area shape="rect" id="Node000010" href="$d6/d9b/SDL__audio_8c.html#a3473ee34d8a21ca17ce7dc8be4d62295" title=" " alt="" coords="772,107,920,133"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="975,117,921,120,920,114,975,112"/>
+<area shape="rect" id="Node000009" href="$d3/d8a/SDL__dummyaudio_8c.html#a29ca48806a568f46e322654ffd7271ab" title=" " alt="" coords="544,107,683,133"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="767,89,678,109,677,103,766,84"/>
+<area shape="rect" id="Node000011" href="$d6/d9b/SDL__audio_8c.html#a67d5d3273196908cd2180bde093c413d" title=" " alt="" coords="525,56,701,83"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="766,105,677,86,678,81,767,100"/>
+<area shape="rect" id="Node000012" href="$d6/d9b/SDL__audio_8c.html#ad4cae8cf429411be160ec61914b28043" title=" " alt="" coords="255,107,477,133"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="530,89,435,109,434,103,529,84"/>
+<area shape="rect" id="Node000013" href="$d6/d9b/SDL__audio_8c.html#ad4a998b0fa52004c6db6b4182de26f8c" title=" " alt="" coords="286,56,446,83"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="509,72,446,72,446,67,509,67"/>
+<area shape="rect" id="Node000014" href="$d6/d9b/SDL__audio_8c.html#a73ac117b5e299633d58be618680af357" title=" " alt="" coords="5,157,207,184"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="279,90,256,97,187,128,131,159,129,154,184,123,254,92,277,85"/>
+<area shape="poly" id="edge16_Node000015_Node000003" title=" " alt="" coords="1802,183,1717,167,1718,162,1803,178"/>
+<area shape="poly" id="edge18_Node000016_Node000008" title=" " alt="" coords="991,58,943,63,943,58,991,53"/>
+<area shape="rect" id="Node000017" href="$d6/d9b/SDL__audio_8c.html#a78509cdb3b4a17a333ba844e392a3c56" title=" " alt="" coords="769,5,923,32"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="991,37,923,29,923,24,991,31"/>
+<area shape="poly" id="edge20_Node000017_Node000011" title=" " alt="" coords="767,38,678,58,677,53,766,33"/>
+<area shape="rect" id="Node000019" href="$dc/d77/SDL__audiocvt_8c.html#a013d8e85ba5cb31a851d3bfd54b33df3" title=" " alt="" coords="1786,285,2000,312"/>
+<area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="2032,301,2001,301,2001,296,2032,296"/>
+<area shape="rect" id="Node000021" href="$dc/d77/SDL__audiocvt_8c.html#a2156709cb9b9dbcb2b1f07b9f98be580" title=" " alt="" coords="1016,208,1184,235"/>
+<area shape="poly" id="edge24_Node000020_Node000021" title=" " alt="" coords="1532,243,1184,228,1185,222,1532,238"/>
+<area shape="poly" id="edge25_Node000021_Node000006" title=" " alt="" coords="1014,207,916,187,917,182,1015,202"/>
+<area shape="poly" id="edge26_Node000021_Node000014" title=" " alt="" coords="1000,219,207,178,207,173,1001,214"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="SDL_UpdatedAudioDeviceFormat" name="SDL_UpdatedAudioDeviceFormat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="794,107,1013,133"/>
+<area shape="rect" id="Node000002" href="$d6/d9b/SDL__audio_8c.html#a67d5d3273196908cd2180bde093c413d" title=" " alt="" coords="548,56,724,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="814,106,709,86,710,81,815,101"/>
+<area shape="rect" id="Node000006" href="$d6/dfc/SDL__ps2audio_8c.html#a00b5c6f9dc289f7064bc5213f36f4df3" title=" " alt="" coords="552,107,720,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="779,123,720,123,720,117,779,117"/>
+<area shape="rect" id="Node000008" href="$d6/d9b/SDL__audio_8c.html#a6735716d3049d833c0ef936fabc61c35" title=" " alt="" coords="525,157,746,200"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="825,140,737,159,735,154,824,135"/>
+<area shape="rect" id="Node000003" href="$d6/d9b/SDL__audio_8c.html#ad4cae8cf429411be160ec61914b28043" title=" " alt="" coords="255,5,477,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="545,55,440,35,441,30,546,50"/>
+<area shape="rect" id="Node000004" href="$d6/d9b/SDL__audio_8c.html#ad4a998b0fa52004c6db6b4182de26f8c" title=" " alt="" coords="286,56,446,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="532,72,446,72,446,67,532,67"/>
+<area shape="rect" id="Node000005" href="$d6/d9b/SDL__audio_8c.html#a73ac117b5e299633d58be618680af357" title=" " alt="" coords="5,56,207,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="271,72,207,72,207,67,271,67"/>
+<area shape="rect" id="Node000007" href="$d6/dfc/SDL__ps2audio_8c.html#acecfd2562dfa8ecc7ee123b5e0b41ba3" title=" " alt="" coords="309,107,423,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="536,123,423,123,423,117,536,117"/>
+<area shape="rect" id="Node000009" href="$d6/d9b/SDL__audio_8c.html#aaac59559de953e0338e49f8d2d2911af" title=" " alt="" coords="255,165,476,192"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="509,181,477,181,477,176,509,176"/>
+</map>

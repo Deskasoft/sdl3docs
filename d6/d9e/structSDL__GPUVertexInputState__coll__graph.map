@@ -1,0 +1,7 @@
+<map id="SDL_GPUVertexInputState" name="SDL_GPUVertexInputState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="135,104,315,131"/>
+<area shape="rect" id="Node000002" href="$d0/dcd/structSDL__GPUVertexBufferDescription.html" title=" " alt="" coords="5,5,226,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,46,135,63,147,78,164,91,184,101,182,106,161,96,143,82,130,66,122,48"/>
+<area shape="rect" id="Node000003" href="$d6/da3/structSDL__GPUVertexAttribute.html" title=" " alt="" coords="250,5,419,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="328,48,319,66,307,82,288,96,268,106,266,101,285,91,303,78,315,63,323,46"/>
+</map>

@@ -1,0 +1,25 @@
+var dir_5ff092e5f06f31565bf7d80f5ccdf26c =
+[
+    [ "SDL_androidclipboard.c", "d5/da9/SDL__androidclipboard_8c.html", null ],
+    [ "SDL_androidclipboard.h", "d8/d51/SDL__androidclipboard_8h.html", "d8/d51/SDL__androidclipboard_8h" ],
+    [ "SDL_androidevents.c", "de/d5e/SDL__androidevents_8c.html", null ],
+    [ "SDL_androidevents.h", "df/d9e/SDL__androidevents_8h.html", "df/d9e/SDL__androidevents_8h" ],
+    [ "SDL_androidgl.c", "da/de9/SDL__androidgl_8c.html", null ],
+    [ "SDL_androidgl.h", "df/d07/SDL__androidgl_8h.html", "df/d07/SDL__androidgl_8h" ],
+    [ "SDL_androidkeyboard.c", "dc/d8e/SDL__androidkeyboard_8c.html", null ],
+    [ "SDL_androidkeyboard.h", "de/dd7/SDL__androidkeyboard_8h.html", "de/dd7/SDL__androidkeyboard_8h" ],
+    [ "SDL_androidmessagebox.c", "dc/d8b/SDL__androidmessagebox_8c.html", null ],
+    [ "SDL_androidmessagebox.h", "dc/dbf/SDL__androidmessagebox_8h.html", null ],
+    [ "SDL_androidmouse.c", "d5/da6/SDL__androidmouse_8c.html", null ],
+    [ "SDL_androidmouse.h", "dc/df1/SDL__androidmouse_8h.html", "dc/df1/SDL__androidmouse_8h" ],
+    [ "SDL_androidpen.c", "d7/d7b/SDL__androidpen_8c.html", null ],
+    [ "SDL_androidpen.h", "d0/d1d/SDL__androidpen_8h.html", "d0/d1d/SDL__androidpen_8h" ],
+    [ "SDL_androidtouch.c", "d5/daf/SDL__androidtouch_8c.html", null ],
+    [ "SDL_androidtouch.h", "d5/d95/SDL__androidtouch_8h.html", "d5/d95/SDL__androidtouch_8h" ],
+    [ "SDL_androidvideo.c", "de/df4/SDL__androidvideo_8c.html", null ],
+    [ "SDL_androidvideo.h", "d2/d07/SDL__androidvideo_8h.html", "d2/d07/SDL__androidvideo_8h" ],
+    [ "SDL_androidvulkan.c", "db/d59/SDL__androidvulkan_8c.html", null ],
+    [ "SDL_androidvulkan.h", "de/d83/SDL__androidvulkan_8h.html", null ],
+    [ "SDL_androidwindow.c", "d9/d2c/SDL__androidwindow_8c.html", null ],
+    [ "SDL_androidwindow.h", "d3/d27/SDL__androidwindow_8h.html", "d3/d27/SDL__androidwindow_8h" ]
+];

@@ -1,0 +1,23 @@
+<map id="SDL_GPUGraphicsPipelineCreateInfo" name="SDL_GPUGraphicsPipelineCreateInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1179,143,1422,170"/>
+<area shape="rect" id="Node000002" href="$d9/da0/structSDL__GPUVertexInputState.html" title=" " alt="" coords="800,34,981,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="997,53,1075,65,1156,85,1223,112,1277,141,1275,145,1221,117,1155,90,1074,71,996,59"/>
+<area shape="rect" id="Node000003" href="$d0/dcd/structSDL__GPUVertexBufferDescription.html" title=" " alt="" coords="343,7,563,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="579,26,800,39,800,45,579,31"/>
+<area shape="rect" id="Node000004" href="$d6/da3/structSDL__GPUVertexAttribute.html" title=" " alt="" coords="368,62,538,89"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="553,73,647,71,747,65,801,59,801,64,747,70,647,76,553,78"/>
+<area shape="rect" id="Node000005" href="$df/d2d/structSDL__GPURasterizerState.html" title=" " alt="" coords="804,89,978,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="993,109,1156,129,1225,140,1225,145,1155,134,993,114"/>
+<area shape="rect" id="Node000006" href="$d7/d63/structSDL__GPUMultisampleState.html" title=" " alt="" coords="798,143,983,170"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="999,154,1179,154,1179,159,999,159"/>
+<area shape="rect" id="Node000007" href="$d4/dd1/structSDL__GPUDepthStencilState.html" title=" " alt="" coords="796,198,985,225"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1000,201,1155,183,1237,168,1238,173,1156,189,1001,206"/>
+<area shape="rect" id="Node000008" href="$d8/d74/structSDL__GPUStencilOpState.html" title=" " alt="" coords="367,198,538,225"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="554,209,796,209,796,214,554,214"/>
+<area shape="rect" id="Node000009" href="$d5/d77/structSDL__GPUGraphicsPipelineTargetInfo.html" title=" " alt="" coords="771,253,1010,279"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1025,253,1090,242,1154,226,1222,198,1276,168,1278,173,1224,203,1156,231,1091,248,1026,258"/>
+<area shape="rect" id="Node000010" href="$d3/d38/structSDL__GPUColorTargetDescription.html" title=" " alt="" coords="345,253,561,279"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="576,263,770,263,770,269,576,269"/>
+<area shape="rect" id="Node000011" href="$dd/d6f/structSDL__GPUColorTargetBlendState.html" title=" " alt="" coords="5,253,220,279"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="235,263,344,263,344,269,235,269"/>
+</map>

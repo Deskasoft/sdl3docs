@@ -1,0 +1,15 @@
+<map id="Fcitx_GetPreeditCursorByte" name="Fcitx_GetPreeditCursorByte">
+<area shape="rect" id="Node000001" title=" " alt="" coords="828,31,1013,57"/>
+<area shape="rect" id="Node000002" href="$d8/d3d/SDL__fcitx_8c.html#ae2a17a5e6962c20316702ab6938a04d7" title=" " alt="" coords="637,31,780,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="812,47,780,47,780,41,812,41"/>
+<area shape="rect" id="Node000003" href="$d8/d3d/SDL__fcitx_8c.html#a66b7c030eae52c5b2def477c77be1630" title=" " alt="" coords="438,5,575,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="621,36,575,30,576,25,622,30"/>
+<area shape="rect" id="Node000007" href="$d4/d9f/SDL__system__theme_8c.html#a57eec74b9111f621d99a4b9e9ac939cd" title=" " alt="" coords="424,56,589,83"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="622,58,590,62,589,56,621,52"/>
+<area shape="rect" id="Node000004" href="$d8/d3d/SDL__fcitx_8c.html#a9599338ba69d63761b97538897945a2b" title=" " alt="" coords="268,5,376,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="423,21,376,21,376,16,423,16"/>
+<area shape="rect" id="Node000005" href="$d6/dca/SDL__ime_8c.html#a43c3ce1b3fb7c51d28e85239d2df465f" title=" " alt="" coords="157,5,220,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="252,21,220,21,220,16,252,16"/>
+<area shape="rect" id="Node000006" href="$d6/dca/SDL__ime_8c.html#aad8672e65d5ef336bee91410b6d6cebf" title=" " alt="" coords="5,5,109,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="141,21,109,21,109,16,141,16"/>
+</map>

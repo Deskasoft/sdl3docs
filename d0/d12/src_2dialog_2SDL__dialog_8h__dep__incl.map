@@ -1,0 +1,17 @@
+<map id="SDL&#45;main/src/dialog/SDL_dialog.h" name="SDL&#45;main/src/dialog/SDL_dialog.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="617,5,757,48"/>
+<area shape="rect" id="Node000002" href="$d5/d90/SDL__dialog_8c.html" title=" " alt="" coords="5,96,145,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="602,39,399,62,157,99,146,101,144,96,156,93,398,56,602,33"/>
+<area shape="rect" id="Node000003" href="$d5/de8/SDL__androiddialog_8c.html" title=" " alt="" coords="169,96,360,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="602,48,361,99,360,93,601,43"/>
+<area shape="rect" id="Node000004" href="$d4/deb/SDL__cocoadialog_8m.html" title=" " alt="" coords="384,96,566,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="624,57,526,98,524,93,622,52"/>
+<area shape="rect" id="Node000005" href="$d2/dd4/SDL__dummydialog_8c.html" title=" " alt="" coords="590,96,784,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="690,64,690,96,684,96,684,64"/>
+<area shape="rect" id="Node000006" href="$d3/d70/SDL__haikudialog_8cc.html" title=" " alt="" coords="808,96,984,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="751,52,848,93,846,98,749,57"/>
+<area shape="rect" id="Node000007" href="$d4/d8b/SDL__unixdialog_8c.html" title=" " alt="" coords="1008,96,1163,139"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="772,44,997,93,1008,96,1007,101,996,99,771,49"/>
+<area shape="rect" id="Node000008" href="$d5/d4b/SDL__windowsdialog_8c.html" title=" " alt="" coords="1188,96,1397,139"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="772,36,1175,93,1188,95,1187,101,1175,99,772,42"/>
+</map>

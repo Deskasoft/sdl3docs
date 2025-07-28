@@ -1,0 +1,25 @@
+var SDL__genericstorage_8c =
+[
+    [ "GenericEnumerateData", "dc/d79/structGenericEnumerateData.html", "dc/d79/structGenericEnumerateData" ],
+    [ "GenericEnumerateData", "d6/df0/SDL__genericstorage_8c.html#ac50159bfcc6889b3cc6408e3c85e843c", null ],
+    [ "GENERIC_CloseStorage", "d6/df0/SDL__genericstorage_8c.html#a05f61ad0eae002f3986d8064472390cf", null ],
+    [ "GENERIC_CopyStorageFile", "d6/df0/SDL__genericstorage_8c.html#a0bdab1e236b2e81e0d04fff0704ae13b", null ],
+    [ "GENERIC_CreateStorageDirectory", "d6/df0/SDL__genericstorage_8c.html#a091fb9a1b145cf002805a9b4d7abfd34", null ],
+    [ "GENERIC_EnumerateDirectory", "d6/df0/SDL__genericstorage_8c.html#a360fa961a540575d2efce62e785ce20b", null ],
+    [ "GENERIC_EnumerateStorageDirectory", "d6/df0/SDL__genericstorage_8c.html#acd7ec0ca9cf16e4c5be640cb391592bf", null ],
+    [ "GENERIC_GetStoragePathInfo", "d6/df0/SDL__genericstorage_8c.html#ad88f1ec7b83df2d34bff2382a4edf15c", null ],
+    [ "GENERIC_GetStorageSpaceRemaining", "d6/df0/SDL__genericstorage_8c.html#a43e0d100f21b7079eecb7f6839c4a3c8", null ],
+    [ "GENERIC_INTERNAL_CreateFullPath", "d6/df0/SDL__genericstorage_8c.html#a7a4ad9cda8f3aa7631bbb49fbaa43d2f", null ],
+    [ "GENERIC_OpenFileStorage", "d6/df0/SDL__genericstorage_8c.html#a4c9f1a72ada6343611b7f0c76c6426dc", null ],
+    [ "GENERIC_ReadStorageFile", "d6/df0/SDL__genericstorage_8c.html#ae739de53100fdbdbbe9f5f03ec5b6fbb", null ],
+    [ "GENERIC_RemoveStoragePath", "d6/df0/SDL__genericstorage_8c.html#a2221523b59363be6e9b313038e92bb7b", null ],
+    [ "GENERIC_RenameStoragePath", "d6/df0/SDL__genericstorage_8c.html#a0c465b07338f96743457340fe82df518", null ],
+    [ "GENERIC_Title_Create", "d6/df0/SDL__genericstorage_8c.html#a59558918f5f17a0376a4b8eae485ac39", null ],
+    [ "GENERIC_User_Create", "d6/df0/SDL__genericstorage_8c.html#a6fb4f231925c28fb8593e3dd6aa2ebc1", null ],
+    [ "GENERIC_WriteStorageFile", "d6/df0/SDL__genericstorage_8c.html#acf6ac449c8a8bd3e8641be67d9f1b499", null ],
+    [ "GENERIC_file_iface", "d6/df0/SDL__genericstorage_8c.html#a005913a9542d60c760b5718e5d399710", null ],
+    [ "GENERIC_title_iface", "d6/df0/SDL__genericstorage_8c.html#a73c8de9f14ef8d1a4e8bd34d0a3bc8b2", null ],
+    [ "GENERIC_titlebootstrap", "d6/df0/SDL__genericstorage_8c.html#a98bb21b18bede51f5e1c593eb2675b58", null ],
+    [ "GENERIC_user_iface", "d6/df0/SDL__genericstorage_8c.html#a7ea64672a9c5c296e29fe2052d9ca2a5", null ],
+    [ "GENERIC_userbootstrap", "d6/df0/SDL__genericstorage_8c.html#afc40b95dcb789643404942a39ee564c6", null ]
+];

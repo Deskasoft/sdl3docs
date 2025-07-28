@@ -1,0 +1,25 @@
+var structSDL__StorageInterface =
+[
+    [ "bool", "d9/df7/structSDL__StorageInterface.html#a3f857d8515f97b079db1f3e27a8615c7", null ],
+    [ "bool", "d9/df7/structSDL__StorageInterface.html#a6deb05d20a6ff6dd9ee247f92f84211b", null ],
+    [ "bool", "d9/df7/structSDL__StorageInterface.html#a4b5d8d42ee273e88a9375076e59f829c", null ],
+    [ "bool", "d9/df7/structSDL__StorageInterface.html#aa14fa11e7e90ddfda56079e489ab44c2", null ],
+    [ "bool", "d9/df7/structSDL__StorageInterface.html#adb79c281ac0db8bafa26dd122c903d6a", null ],
+    [ "bool", "d9/df7/structSDL__StorageInterface.html#a8ae81fd7cc0f6ab57999bbd3d6dc83a5", null ],
+    [ "bool", "d9/df7/structSDL__StorageInterface.html#a440236ba8baf9244408fd15552234e07", null ],
+    [ "bool", "d9/df7/structSDL__StorageInterface.html#ae05a8189d11ee783d6878b32bb3b9310", null ],
+    [ "bool", "d9/df7/structSDL__StorageInterface.html#a8687123bea745bd5fc50b62301256e70", null ],
+    [ "bool", "d9/df7/structSDL__StorageInterface.html#a9aabefd2a0ce1b0ee21773ae7320a890", null ],
+    [ "Uint64", "d9/df7/structSDL__StorageInterface.html#ad73ba506777a6a31ae1cbb39b17ebc4c", null ],
+    [ "callback", "d9/df7/structSDL__StorageInterface.html#a86bf8b72caacfea6dffd968bf7e73930", null ],
+    [ "callback_userdata", "d9/df7/structSDL__StorageInterface.html#a114be9300e9bc61fcdbf9bd8895795ca", null ],
+    [ "destination", "d9/df7/structSDL__StorageInterface.html#ab5dd59feb4e46922aece88edb4af6bf8", null ],
+    [ "info", "d9/df7/structSDL__StorageInterface.html#a31a3152f90c0a3f1cd6faa7dc156da5a", null ],
+    [ "length", "d9/df7/structSDL__StorageInterface.html#a878cb6d8bd8b18e83c42a295a1f78aa2", null ],
+    [ "length", "d9/df7/structSDL__StorageInterface.html#a90f60af3b23000043e1b2a7790268cba", null ],
+    [ "newpath", "d9/df7/structSDL__StorageInterface.html#add6fab212dc3eee0150d08206cccd53c", null ],
+    [ "oldpath", "d9/df7/structSDL__StorageInterface.html#a92223c41063c6afd466843925391e86b", null ],
+    [ "path", "d9/df7/structSDL__StorageInterface.html#af6fa804540ec0c5b1ee522a99fa6bf19", null ],
+    [ "source", "d9/df7/structSDL__StorageInterface.html#a0d8b035227fe56e069f335f247c1d977", null ],
+    [ "version", "d9/df7/structSDL__StorageInterface.html#a41a399032308b21a75dc017ed4e14abf", null ]
+];

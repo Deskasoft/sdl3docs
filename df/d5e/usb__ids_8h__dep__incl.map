@@ -1,0 +1,14 @@
+<map id="SDL&#45;main/src/joystick/usb_ids.h" name="SDL&#45;main/src/joystick/usb_ids.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="225,5,376,48"/>
+<area shape="rect" id="Node000002" href="$dc/dd7/SDL__hidapi_8c.html" title=" " alt="" coords="5,96,145,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,57,129,98,127,93,233,52"/>
+<area shape="rect" id="Node000003" href="$d0/d82/SDL__gamepad_8c.html" title=" " alt="" coords="169,96,320,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="281,63,260,97,255,94,277,60"/>
+<area shape="rect" id="Node000004" href="$dc/d2f/SDL__mfijoystick_8m.html" title=" " alt="" coords="271,187,442,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="320,61,334,95,347,144,356,186,350,187,342,145,328,97,315,63"/>
+<area shape="rect" id="Node000005" href="$d7/dcd/SDL__hidapijoystick__c_8h.html" title=" " alt="" coords="394,96,594,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="361,53,449,93,447,98,359,57"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="450,150,390,188,387,184,448,145"/>
+<area shape="rect" id="Node000006" href="$d6/df9/SDL__joystick_8c.html" title=" " alt="" coords="466,187,617,229"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="514,151,533,185,528,188,510,154"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="StdVideoH265SequenceParameterSetVui" name="StdVideoH265SequenceParameterSetVui">
+<area shape="rect" id="Node000001" title=" " alt="" coords="16,224,240,267"/>
+<area shape="rect" id="Node000002" href="$d9/ddf/structStdVideoH265SpsVuiFlags.html" title=" " alt="" coords="5,125,184,152"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,166,124,223,119,224,101,168"/>
+<area shape="rect" id="Node000003" href="$d5/df7/structStdVideoH265HrdParameters.html" title=" " alt="" coords="207,125,400,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="271,163,164,226,161,221,268,158"/>
+<area shape="rect" id="Node000004" href="$de/d1f/structStdVideoH265HrdFlags.html" title=" " alt="" coords="110,5,268,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="214,42,294,123,290,127,210,45"/>
+<area shape="rect" id="Node000005" href="$d6/d8a/structStdVideoH265SubLayerHrdParameters.html" title=" " alt="" coords="293,5,541,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="396,45,318,127,314,123,393,42"/>
+</map>

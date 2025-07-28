@@ -1,0 +1,21 @@
+<map id="SDL_PrivateAudioData" name="SDL_PrivateAudioData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="202,203,359,229"/>
+<area shape="rect" id="Node000002" href="$d4/d4a/structSDL__Thread.html" title=" " alt="" coords="184,104,278,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,145,247,177,266,200,262,204,242,180,231,147"/>
+<area shape="rect" id="Node000003" href="$d1/dbc/structSDL__AtomicInt.html" title=" " alt="" coords="5,5,116,32"/>
+<area shape="poly" id="edge10_Node000001_Node000003" title=" " alt="" coords="48,47,40,67,34,88,34,110,42,129,74,162,115,184,159,199,202,208,201,213,158,204,113,189,71,166,37,132,29,111,29,88,34,65,43,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,38,210,101,208,106,95,42"/>
+<area shape="rect" id="Node000004" href="$dc/dd9/structSDL__error.html" title=" " alt="" coords="172,5,253,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="220,47,231,103,226,104,215,48"/>
+<area shape="rect" id="Node000005" href="$d8/d0b/structSDL__Semaphore.html" title=" " alt="" coords="458,104,578,131"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="452,138,395,157,304,204,302,200,392,152,450,133"/>
+<area shape="rect" id="Node000006" href="$d0/df2/structSDL__Mutex.html" title=" " alt="" coords="503,203,594,229"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="513,146,512,162,515,178,523,190,533,200,529,204,519,193,510,180,507,163,508,146"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="552,187,552,171,549,156,532,133,536,130,554,154,557,171,557,187"/>
+<area shape="rect" id="Node000007" href="$d0/d07/structSDL__Condition.html" title=" " alt="" coords="463,5,572,32"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="520,48,520,104,515,104,515,48"/>
+<area shape="rect" id="Node000008" href="$d4/d99/structSDL__IOStream.html" title=" " alt="" coords="303,104,413,131"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="338,144,327,156,291,204,287,201,323,153,334,141"/>
+<area shape="rect" id="Node000009" href="$d9/ddf/structSDL__IOStreamInterface.html" title=" " alt="" coords="277,5,438,32"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="360,48,360,104,355,104,355,48"/>
+</map>

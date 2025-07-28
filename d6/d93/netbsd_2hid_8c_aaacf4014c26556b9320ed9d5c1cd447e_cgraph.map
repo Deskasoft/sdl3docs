@@ -1,0 +1,16 @@
+<map id="create_device_info" name="create_device_info">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,75,136,101"/>
+<area shape="rect" id="Node000002" href="$da/db5/linux_2hid_8c.html#a19d4afe103caf103ad9da7c77aa8d7d3" title=" " alt="" coords="184,24,321,51"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,71,186,53,188,58,122,76"/>
+<area shape="rect" id="Node000006" href="$d6/d8c/SDL__memset_8c.html#aa470f523bb3aef22ee14757d45ab934f" title=" " alt="" coords="218,75,286,101"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="136,85,203,85,203,91,136,91"/>
+<area shape="rect" id="Node000007" href="$da/db5/linux_2hid_8c.html#a1f0ac1c278c86d20eba750083a16d31c" title=" " alt="" coords="195,125,310,152"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="122,99,188,118,186,123,121,104"/>
+<area shape="rect" id="Node000003" href="$da/db5/linux_2hid_8c.html#a1b0703db2b80f02c7e3b51c77b5604fb" title=" " alt="" coords="592,24,719,51"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="305,21,369,9,457,3,545,9,591,17,590,22,544,14,457,8,369,14,306,26"/>
+<area shape="rect" id="Node000004" href="$da/db5/linux_2hid_8c.html#a04367defdccee748e0134113c753f5e5" title=" " alt="" coords="386,24,528,51"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="321,35,370,35,370,40,321,40"/>
+<area shape="rect" id="Node000005" href="$da/db5/linux_2hid_8c.html#a0d0aa83ca2edc3ed60dfd69c216688a5" title=" " alt="" coords="369,75,544,101"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="310,49,386,68,385,73,309,54"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="511,71,585,52,586,57,513,76"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="PrepareAudioFormat" name="PrepareAudioFormat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="749,31,890,57"/>
+<area shape="rect" id="Node000002" href="$d6/d9b/SDL__audio_8c.html#a67d5d3273196908cd2180bde093c413d" title=" " alt="" coords="525,31,701,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="734,47,702,47,702,41,734,41"/>
+<area shape="rect" id="Node000003" href="$d6/d9b/SDL__audio_8c.html#ad4cae8cf429411be160ec61914b28043" title=" " alt="" coords="255,5,477,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="509,36,477,33,478,27,510,31"/>
+<area shape="rect" id="Node000004" href="$d6/d9b/SDL__audio_8c.html#ad4a998b0fa52004c6db6b4182de26f8c" title=" " alt="" coords="286,56,446,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="510,57,446,64,446,59,509,52"/>
+<area shape="rect" id="Node000005" href="$d6/d9b/SDL__audio_8c.html#a73ac117b5e299633d58be618680af357" title=" " alt="" coords="5,56,207,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="271,72,207,72,207,67,271,67"/>
+</map>

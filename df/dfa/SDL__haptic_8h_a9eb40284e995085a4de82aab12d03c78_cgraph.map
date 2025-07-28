@@ -1,0 +1,9 @@
+<map id="SDL_StopHapticEffects" name="SDL_StopHapticEffects">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,166,83"/>
+<area shape="rect" id="Node000002" href="$d5/dcd/SDL__hidapihaptic_8h.html#a24817549ef2350a9ba01eafd76d2d74b" title=" " alt="" coords="214,5,407,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,53,233,33,234,39,149,58"/>
+<area shape="rect" id="Node000003" href="$d5/dcd/SDL__hidapihaptic_8h.html#add9c3cbb6ce082af099280a40605ff98" title=" " alt="" coords="217,56,404,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,67,201,67,201,72,166,72"/>
+<area shape="rect" id="Node000004" href="$d3/d5a/SDL__syshaptic_8h.html#a4c5c06e24ebcb596f4aacffe12f65927" title=" " alt="" coords="226,107,394,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,81,234,100,233,105,148,86"/>
+</map>

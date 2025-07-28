@@ -1,0 +1,44 @@
+<map id="SDL_BWin::_PostWindowEvent" name="SDL_BWin::_PostWindowEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="775,309,985,336"/>
+<area shape="rect" id="Node000002" href="$d7/d99/classSDL__BWin.html#a6ad18d2eae605ffd2b05accab4fbfbef" title=" " alt="" coords="517,5,727,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="868,295,850,243,821,178,780,110,754,80,726,53,693,35,696,30,729,49,758,76,784,107,826,175,855,241,873,294"/>
+<area shape="rect" id="Node000003" href="$d7/d99/classSDL__BWin.html#a2bf446a5590563566904a839bd5ff50b" title=" " alt="" coords="256,56,469,83"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="866,296,846,253,816,201,776,150,752,127,726,109,664,82,598,67,531,60,470,60,470,55,531,55,598,61,666,77,729,104,756,123,780,146,821,198,851,250,871,294"/>
+<area shape="rect" id="Node000005" href="$d7/d99/classSDL__BWin.html#a2abd9d44e9f9042847b0f3729a7cd851" title=" " alt="" coords="257,107,468,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="862,297,841,261,810,219,772,179,726,148,663,124,596,112,530,107,469,109,468,104,530,102,597,106,664,119,729,143,775,175,814,216,845,258,867,294"/>
+<area shape="rect" id="Node000006" href="$d7/d99/classSDL__BWin.html#a75040fa00d0834bb1298b9d66b84b474" title=" " alt="" coords="532,157,712,184"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="854,300,799,248,764,221,726,198,698,187,700,182,729,194,767,217,802,244,858,296"/>
+<area shape="rect" id="Node000007" href="$d7/d99/classSDL__BWin.html#acfef89f3195f1a29ae76a8f383528f19" title=" " alt="" coords="518,208,726,235"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="841,304,788,276,726,249,689,238,691,233,728,244,790,271,843,299"/>
+<area shape="rect" id="Node000009" href="$d7/d99/classSDL__BWin.html#ab621ede37a6867627ae8c46ceb6dfbab" title=" " alt="" coords="537,259,707,285"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="793,308,693,289,694,283,794,303"/>
+<area shape="rect" id="Node000010" href="$d7/d99/classSDL__BWin.html#a29b015bad7b1d05f333eb703b1240bfb" title=" " alt="" coords="532,309,712,336"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="760,325,712,325,712,320,760,320"/>
+<area shape="rect" id="Node000011" href="$d7/d99/classSDL__BWin.html#ab0e1165c98455cbfda0c5c32919ed312" title=" " alt="" coords="302,360,423,387"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="789,342,728,351,562,366,423,374,423,368,562,360,727,345,788,337"/>
+<area shape="rect" id="Node000013" href="$d7/d99/classSDL__BWin.html#ada35c5f9f97f85e445634b1fa23c5a86" title=" " alt="" coords="549,411,695,437"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="839,346,728,394,674,413,673,407,726,390,836,341"/>
+<area shape="rect" id="Node000015" href="$d7/d99/classSDL__BWin.html#ad696bf6d0ba420330d8c98b5bec80890" title=" " alt="" coords="532,461,713,488"/>
+<area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="858,350,802,402,767,429,729,452,700,463,698,458,726,447,764,424,799,397,854,346"/>
+<area shape="rect" id="Node000016" href="$d7/d99/classSDL__BWin.html#abf5b9ea4a045faa41a24938cf9ef78fc" title=" " alt="" coords="558,512,686,539"/>
+<area shape="poly" id="edge20_Node000001_Node000016" title=" " alt="" coords="866,351,843,385,812,427,774,468,729,502,687,519,685,514,726,498,770,464,808,423,839,382,861,348"/>
+<area shape="rect" id="Node000017" href="$d7/d99/classSDL__BWin.html#adb63fbde3f1c8af1aef669d2c90785c3" title=" " alt="" coords="524,563,720,589"/>
+<area shape="poly" id="edge23_Node000001_Node000017" title=" " alt="" coords="871,351,851,396,820,451,780,506,756,531,729,553,707,564,705,560,726,548,752,527,776,503,816,448,846,394,866,349"/>
+<area shape="rect" id="Node000018" href="$d7/d99/classSDL__BWin.html#ab8de498215c1f3cd984458c9c259f896" title=" " alt="" coords="558,613,686,640"/>
+<area shape="poly" id="edge24_Node000001_Node000018" title=" " alt="" coords="874,352,857,406,828,474,786,544,759,576,729,603,709,615,687,623,685,618,707,610,726,599,755,572,782,541,823,471,852,404,869,350"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="536,38,435,58,434,53,535,33"/>
+<area shape="rect" id="Node000004" href="$d7/d99/classSDL__BWin.html#a5debce974d86e8d29681ae52df65e88f" title=" " alt="" coords="7,107,206,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="277,89,178,109,177,103,276,84"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="241,123,206,123,206,117,241,117"/>
+<area shape="rect" id="Node000008" href="$d7/d99/classSDL__BWin.html#ada539d956861c24e0ec9ccefa127cde5" title=" " alt="" coords="256,183,468,209"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="502,212,469,209,469,204,503,207"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="299,180,154,137,155,131,301,175"/>
+<area shape="rect" id="Node000012" href="$d7/d99/classSDL__BWin.html#a3cbe2c7ffc73735da7bdcab9c9da9a84" title=" " alt="" coords="5,436,208,463"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="301,394,155,438,154,433,299,389"/>
+<area shape="poly" id="edge18_Node000013_Node000012" title=" " alt="" coords="533,431,208,447,208,442,533,426"/>
+<area shape="rect" id="Node000014" href="$d7/d99/classSDL__BWin.html#af85863347147176d7eb909888c63d5c1" title=" " alt="" coords="289,461,436,488"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="536,443,435,463,434,458,535,438"/>
+<area shape="poly" id="edge17_Node000014_Node000012" title=" " alt="" coords="273,469,208,462,208,457,273,463"/>
+<area shape="poly" id="edge22_Node000016_Node000012" title=" " alt="" coords="543,528,408,523,331,515,255,503,193,485,139,466,141,461,194,480,256,497,332,510,408,517,543,523"/>
+<area shape="poly" id="edge21_Node000016_Node000014" title=" " alt="" coords="543,513,434,491,435,486,544,507"/>
+</map>

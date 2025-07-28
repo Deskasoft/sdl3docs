@@ -1,0 +1,13 @@
+<map id="Android_SetAllowRecreateActivity" name="Android_SetAllowRecreateActivity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="388,48,565,91"/>
+<area shape="rect" id="Node000002" href="$d4/d4a/SDL__hints_8c.html#a73e0082888cc283440c6edbc2b98af32" title=" " alt="" coords="188,5,326,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="373,48,317,35,318,30,374,43"/>
+<area shape="rect" id="Node000004" href="$d4/d4a/SDL__hints_8c.html#a049312009bdcbf604720a78c3d342855" title=" " alt="" coords="200,56,314,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="372,72,314,72,314,67,372,67"/>
+<area shape="rect" id="Node000005" href="$d4/d4a/SDL__hints_8c.html#a825a47a55cc21f7608b94780e12884d5" title=" " alt="" coords="174,107,340,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="374,96,318,109,317,104,373,91"/>
+<area shape="rect" id="Node000003" href="$d4/d4a/SDL__hints_8c.html#a269c034384391a3242a9743a83d44b68" title=" " alt="" coords="5,5,126,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,21,126,21,126,16,172,16"/>
+<area shape="rect" id="Node000006" href="$d4/d4a/SDL__hints_8c.html#a8e70a1a863fe7abb439fdb2b23dbe0b5" title=" " alt="" coords="16,107,115,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="158,123,115,123,115,117,158,117"/>
+</map>

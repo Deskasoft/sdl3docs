@@ -1,0 +1,32 @@
+<map id="PLATFORM_hid_device_" name="PLATFORM_hid_device_">
+<area shape="rect" id="Node000001" title=" " alt="" coords="549,320,718,347"/>
+<area shape="rect" id="Node000002" href="$d9/d11/structhid__device__info.html" title=" " alt="" coords="286,212,397,239"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="379,244,431,269,490,293,572,317,571,322,488,299,428,274,376,249"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="414,215,421,219,424,226,416,235,398,239,397,234,413,230,419,225,417,222,411,219"/>
+<area shape="rect" id="Node000003" href="$d5/de3/structhidapi__thread__state.html" title=" " alt="" coords="478,212,613,239"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="559,251,588,294,615,318,612,322,584,298,555,254"/>
+<area shape="rect" id="Node000004" href="$d4/d4a/structSDL__Thread.html" title=" " alt="" coords="549,104,643,131"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="560,142,549,156,543,184,545,211,540,212,538,184,544,154,556,139"/>
+<area shape="rect" id="Node000005" href="$d1/dbc/structSDL__AtomicInt.html" title=" " alt="" coords="626,5,737,32"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="663,46,631,82,610,105,606,102,628,78,659,42"/>
+<area shape="rect" id="Node000006" href="$dc/dd9/structSDL__error.html" title=" " alt="" coords="521,5,602,32"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="574,46,594,103,589,105,569,48"/>
+<area shape="rect" id="Node000007" href="$d0/df2/structSDL__Mutex.html" title=" " alt="" coords="32,5,123,32"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="51,44,31,64,15,86,8,109,10,119,16,129,30,142,49,153,99,169,160,179,227,185,362,191,420,194,466,200,502,209,501,214,465,205,420,199,362,196,227,190,159,185,97,174,47,158,27,146,11,132,5,121,3,108,10,84,27,60,47,40"/>
+<area shape="rect" id="Node000008" href="$d8/d0b/structSDL__Semaphore.html" title=" " alt="" coords="69,104,190,131"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="94,44,125,102,121,105,89,47"/>
+<area shape="rect" id="Node000011" href="$d0/ddb/struct__SDL__ThreadBarrier.html" title=" " alt="" coords="279,104,418,131"/>
+<area shape="poly" id="edge14_Node000011_Node000007" title=" " alt="" coords="138,35,183,54,198,66,214,78,246,91,280,101,278,106,244,96,211,82,195,70,180,58,136,39"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="62,98,45,81,41,68,45,54,61,31,66,34,49,56,46,68,49,79,65,94"/>
+<area shape="rect" id="Node000009" href="$d0/d07/structSDL__Condition.html" title=" " alt="" coords="355,5,464,32"/>
+<area shape="poly" id="edge11_Node000003_Node000009" title=" " alt="" coords="430,43,437,55,480,129,538,210,534,213,475,132,433,57,425,46"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="341,36,311,45,283,58,271,70,258,82,225,97,191,108,189,102,223,92,255,78,267,66,280,54,309,40,339,31"/>
+<area shape="poly" id="edge15_Node000011_Node000009" title=" " alt="" coords="401,48,382,81,363,105,359,102,378,79,396,45"/>
+<area shape="rect" id="Node000010" href="$d7/dea/structpthread__barrier.html" title=" " alt="" coords="668,104,775,131"/>
+<area shape="poly" id="edge18_Node000001_Node000010" title=" " alt="" coords="716,146,690,234,668,297,649,321,645,318,663,295,685,232,711,145"/>
+<area shape="poly" id="edge12_Node000003_Node000010" title=" " alt="" coords="662,139,623,157,593,182,560,213,556,210,589,178,620,152,660,134"/>
+<area shape="poly" id="edge13_Node000003_Node000011" title=" " alt="" coords="368,141,384,160,404,176,443,193,497,209,496,214,442,198,401,181,381,164,364,145"/>
+<area shape="rect" id="Node000012" href="$d7/de0/structinput__report.html" title=" " alt="" coords="816,212,905,239"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="821,248,662,322,660,317,818,243"/>
+<area shape="poly" id="edge17_Node000012_Node000012" title=" " alt="" coords="921,214,928,218,931,226,923,236,906,239,905,234,921,231,926,225,924,222,919,219"/>
+</map>

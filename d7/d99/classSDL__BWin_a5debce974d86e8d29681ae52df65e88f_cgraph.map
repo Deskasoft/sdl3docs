@@ -1,0 +1,20 @@
+<map id="SDL_BWin::DispatchMessage" name="SDL_BWin::DispatchMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,205,108"/>
+<area shape="rect" id="Node000002" href="$d7/d99/classSDL__BWin.html#a1ce3c589a9932ff5174a3f3e78aef894" title=" " alt="" coords="280,5,438,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,78,252,41,281,34,282,39,253,47,144,83"/>
+<area shape="rect" id="Node000003" href="$d7/d99/classSDL__BWin.html#ada539d956861c24e0ec9ccefa127cde5" title=" " alt="" coords="253,56,466,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,82,238,79,238,84,205,87"/>
+<area shape="rect" id="Node000006" href="$d7/d99/classSDL__BWin.html#a2bf446a5590563566904a839bd5ff50b" title=" " alt="" coords="253,107,466,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="205,102,237,105,237,110,205,107"/>
+<area shape="rect" id="Node000008" href="$d7/d99/classSDL__BWin.html#a2abd9d44e9f9042847b0f3729a7cd851" title=" " alt="" coords="514,195,725,221"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="142,106,194,125,253,143,379,170,499,190,498,195,378,175,252,148,193,130,140,111"/>
+<area shape="rect" id="Node000004" href="$d7/d99/classSDL__BWin.html#acfef89f3195f1a29ae76a8f383528f19" title=" " alt="" coords="516,43,724,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="466,61,500,59,500,65,466,67"/>
+<area shape="rect" id="Node000005" href="$d7/d99/classSDL__BWin.html#ac1b9e8d89d63f99157b18afea4441cae" title=" " alt="" coords="773,119,983,145"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="669,67,816,111,814,116,667,72"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="466,120,758,127,758,132,466,125"/>
+<area shape="rect" id="Node000007" href="$d7/d99/classSDL__BWin.html#a6ad18d2eae605ffd2b05accab4fbfbef" title=" " alt="" coords="514,144,725,171"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="457,131,507,139,506,144,457,137"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="725,144,758,141,758,146,726,150"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="681,192,725,180,823,148,825,153,726,185,683,197"/>
+</map>

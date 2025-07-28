@@ -1,0 +1,9 @@
+<map id="VkRenderingAttachmentInfo" name="VkRenderingAttachmentInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="66,203,252,229"/>
+<area shape="rect" id="Node000002" href="$de/da0/unionVkClearValue.html" title=" " alt="" coords="109,104,209,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,146,162,202,156,202,156,146"/>
+<area shape="rect" id="Node000003" href="$dd/dd9/unionVkClearColorValue.html" title=" " alt="" coords="5,5,137,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,42,150,102,146,106,90,45"/>
+<area shape="rect" id="Node000004" href="$db/d68/structVkClearDepthStencilValue.html" title=" " alt="" coords="161,5,336,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="229,45,172,106,168,102,225,42"/>
+</map>

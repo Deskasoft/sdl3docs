@@ -1,0 +1,39 @@
+<map id="SDL&#45;main/src/hidapi/linux/hid.c" name="SDL&#45;main/src/hidapi/linux/hid.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="720,5,860,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,66,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="720,33,444,51,265,71,82,99,81,93,265,65,443,46,720,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="90,96,154,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="720,35,480,55,327,73,170,98,169,93,326,68,479,50,720,29"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="178,96,242,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="720,36,516,58,389,76,257,98,256,93,388,70,516,53,720,31"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="266,96,333,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="720,39,555,62,348,98,347,93,554,57,720,34"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="357,96,418,123"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="721,42,591,65,434,98,433,93,590,60,720,37"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="442,96,509,123"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="721,48,525,98,523,93,720,43"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="534,96,623,123"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="737,51,626,93,625,88,735,46"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="646,96,726,123"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="765,51,716,88,713,84,762,46"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="750,96,831,123"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="793,49,793,80,788,80,788,49"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="855,96,962,123"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="822,46,879,85,876,89,819,51"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="987,96,1044,123"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="849,46,973,90,972,95,847,51"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1068,96,1120,123"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="861,42,1054,93,1053,98,859,47"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="1144,96,1244,123"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="861,39,1129,92,1128,98,860,44"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="1268,96,1374,123"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="861,35,1253,93,1252,98,860,40"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="1398,96,1489,123"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="860,31,1089,54,1383,93,1382,98,1088,59,860,37"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="1513,96,1585,123"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="860,29,1136,48,1314,67,1498,93,1497,98,1314,72,1135,53,860,34"/>
+<area shape="rect" id="Node000018" href="$dc/dd0/hidapi_8h.html" title=" " alt="" coords="1609,96,1726,123"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="860,29,1174,51,1381,70,1594,93,1594,98,1380,75,1173,56,860,35"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="1634,171,1701,197"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="1670,123,1670,155,1665,155,1665,123"/>
+</map>

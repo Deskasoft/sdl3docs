@@ -1,0 +1,13 @@
+<map id="SDL&#45;main/src/video/wayland/SDL_waylandvideo.h" name="SDL&#45;main/src/video/wayland/SDL_waylandvideo.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,206,48"/>
+<area shape="rect" id="Node000002" href="$d5/d59/SDL__waylanddatamanager_8h.html" title=" " alt="" coords="38,187,282,229"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,62,133,138,153,185,148,187,128,139,109,64"/>
+<area shape="rect" id="Node000003" href="$d5/d6e/SDL__waylandevents__c_8h.html" title=" " alt="" coords="49,277,271,320"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="78,61,50,97,27,140,20,163,17,185,19,207,28,228,53,255,87,274,84,279,50,260,23,231,14,208,11,185,14,161,22,138,46,94,73,58"/>
+<area shape="rect" id="Node000004" href="$d2/d55/SDL__waylandwindow_8h.html" title=" " alt="" coords="143,96,356,139"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="154,54,217,93,215,98,151,59"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="154,245,155,277,150,277,149,245"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="166,262,165,230,171,230,172,262"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="220,152,183,188,179,184,216,148"/>
+<area shape="poly" id="edge7_Node000004_Node000003" title=" " alt="" coords="281,150,292,168,301,189,304,210,297,231,270,260,236,279,234,274,267,255,293,228,298,210,296,190,288,171,276,152"/>
+</map>

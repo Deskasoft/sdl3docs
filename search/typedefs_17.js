@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['x_0',['x',['../d3/dda/eglext_8h.html#acc11468aee54b60420a8f429a6619ab3',1,'eglext.h']]],
+  ['xevent_1',['XEvent',['../d1/d50/SDL__system_8h.html#a00d8109d160a907b65517bbca31072a4',1,'SDL_system.h']]],
+  ['xgenericeventcookie_2',['XGenericEventCookie',['../d8/d1c/SDL__x11xinput2_8h.html#a695ebb537d795e73dec0f590b8d81fc8',1,'SDL_x11xinput2.h']]],
+  ['xinputgetbatteryinformation_5ft_3',['XInputGetBatteryInformation_t',['../d1/d88/SDL__xinput_8h.html#abd754e461a7c91586c81e94eb32bdf1b',1,'SDL_xinput.h']]],
+  ['xinputgetcapabilities_5ft_4',['XInputGetCapabilities_t',['../d1/d88/SDL__xinput_8h.html#a83c9805c3e1ac95a6547065ce0ddc20a',1,'SDL_xinput.h']]],
+  ['xinputgetcapabilitiesex_5ft_5',['XInputGetCapabilitiesEx_t',['../d1/d88/SDL__xinput_8h.html#af11ac072937eed177f81eb8cf477056f',1,'SDL_xinput.h']]],
+  ['xinputgetstate_5ft_6',['XInputGetState_t',['../d1/d88/SDL__xinput_8h.html#a35b25c603e481231669e78ac648eaa52',1,'SDL_xinput.h']]],
+  ['xinputsetstate_5ft_7',['XInputSetState_t',['../d1/d88/SDL__xinput_8h.html#a05a88cce13ad6b1ad69a393e4439b911',1,'SDL_xinput.h']]],
+  ['xsettingsbuffer_8',['XSettingsBuffer',['../dd/d14/xsettings-client_8h.html#a1611899620ff4ca4e9c54c57c503d619',1,'xsettings-client.h']]],
+  ['xsettingsclient_9',['XSettingsClient',['../dd/d14/xsettings-client_8h.html#a2ef00c35778e9941cda6117ac6bdd186',1,'xsettings-client.h']]],
+  ['xsettingscolor_10',['XSettingsColor',['../dd/d14/xsettings-client_8h.html#a139284cf6b129df588301b7346af9c9f',1,'xsettings-client.h']]],
+  ['xsettingsgrabfunc_11',['XSettingsGrabFunc',['../dd/d14/xsettings-client_8h.html#a89318fcf5ccd9696456cfd283fd4a571',1,'xsettings-client.h']]],
+  ['xsettingslist_12',['XSettingsList',['../dd/d14/xsettings-client_8h.html#a38d449d4500264c78c3c8b2e5610aa79',1,'xsettings-client.h']]],
+  ['xsettingsnotifyfunc_13',['XSettingsNotifyFunc',['../dd/d14/xsettings-client_8h.html#a7c898cb71bd77ab1e0d1d285254edf0b',1,'xsettings-client.h']]],
+  ['xsettingssetting_14',['XSettingsSetting',['../dd/d14/xsettings-client_8h.html#ad188659054e3c2af301377a213aba472',1,'xsettings-client.h']]],
+  ['xsettingswatchfunc_15',['XSettingsWatchFunc',['../dd/d14/xsettings-client_8h.html#ac465313cf598054dcbc4ed4ee57fcc59',1,'xsettings-client.h']]]
+];

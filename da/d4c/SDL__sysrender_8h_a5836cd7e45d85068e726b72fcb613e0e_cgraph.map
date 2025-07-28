@@ -1,0 +1,11 @@
+<map id="SDL_ConvertToLinear" name="SDL_ConvertToLinear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,155,32"/>
+<area shape="rect" id="Node000002" href="$d0/d74/SDL__pixels_8c.html#a1ba7592e3ade26a072f69dc911e25c35" title=" " alt="" coords="203,5,339,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,16,187,16,187,21,155,21"/>
+<area shape="rect" id="Node000003" href="$d3/d02/SDL__stdlib_8c.html#ae19105f921d6c5e69d8ca7c9e7f88866" title=" " alt="" coords="387,5,469,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="340,16,371,16,371,21,340,21"/>
+<area shape="rect" id="Node000004" href="$d3/d02/SDL__stdlib_8c.html#a5ad148d1a87a4eda6008114e627f61da" title=" " alt="" coords="517,5,596,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="470,16,502,16,502,21,470,21"/>
+<area shape="rect" id="Node000005" href="$de/d5e/e__pow_8c.html#a59c4e50110dd57aa627494f79c8f37d5" title=" " alt="" coords="644,5,763,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="596,16,628,16,628,21,596,21"/>
+</map>

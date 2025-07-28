@@ -1,0 +1,27 @@
+var structValveControllerStatePacket__t =
+[
+    [ "_pad0", "d6/dbd/structValveControllerStatePacket__t.html#a20cbbabb9edbc543ebe75295a983294e", null ],
+    [ "_pad1", "d6/dbd/structValveControllerStatePacket__t.html#a0a87f9e5ed8947f699995142ba59f1b7", null ],
+    [ "ButtonTriggerData", "d6/dbd/structValveControllerStatePacket__t.html#a7123321395c1a72efec4784045abb9ba", null ],
+    [ "nLeft", "d6/dbd/structValveControllerStatePacket__t.html#a607a90a7156792e9dff64c788e7a42ee", null ],
+    [ "nRight", "d6/dbd/structValveControllerStatePacket__t.html#a3c3a08364b809b291bbb4b067ed28ad0", null ],
+    [ "sAccelX", "d6/dbd/structValveControllerStatePacket__t.html#ac9dfcf4945a70e60b507ad48db8efb1a", null ],
+    [ "sAccelY", "d6/dbd/structValveControllerStatePacket__t.html#a87a8d9dc37afe669f8940425e6bb6be2", null ],
+    [ "sAccelZ", "d6/dbd/structValveControllerStatePacket__t.html#aa301382ddd9b5c929107078a13012a32", null ],
+    [ "sGyroQuatW", "d6/dbd/structValveControllerStatePacket__t.html#ac2aa864fd26d39e202485372f4f32837", null ],
+    [ "sGyroQuatX", "d6/dbd/structValveControllerStatePacket__t.html#a7dfd395d5a80d9bebf2feab7bc4bcbd8", null ],
+    [ "sGyroQuatY", "d6/dbd/structValveControllerStatePacket__t.html#a36d48c40e00f781f2bf0804998e38460", null ],
+    [ "sGyroQuatZ", "d6/dbd/structValveControllerStatePacket__t.html#a9e2715fc1621da594ba8c5d458c0a4ee", null ],
+    [ "sGyroX", "d6/dbd/structValveControllerStatePacket__t.html#a7a2fcffcf3ea8d9331632c4b245d16b7", null ],
+    [ "sGyroY", "d6/dbd/structValveControllerStatePacket__t.html#a7bf95292b52437f66db30dac046e5844", null ],
+    [ "sGyroZ", "d6/dbd/structValveControllerStatePacket__t.html#a9720ed00d4ee501f39e4baa533c52582", null ],
+    [ "sLeftPadX", "d6/dbd/structValveControllerStatePacket__t.html#a0dc7b5d21b94845bac153ec04fb94148", null ],
+    [ "sLeftPadY", "d6/dbd/structValveControllerStatePacket__t.html#aca26b923d93b4e6a13f005bf84cae4ad", null ],
+    [ "sRightPadX", "d6/dbd/structValveControllerStatePacket__t.html#acf10c030c2e52e3103da418f7f1fc700", null ],
+    [ "sRightPadY", "d6/dbd/structValveControllerStatePacket__t.html#a597fc115f2c5c903c9b38787dcaf885c", null ],
+    [ "sTriggerL", "d6/dbd/structValveControllerStatePacket__t.html#aec05628caf46128d025ce32d5ee2095f", null ],
+    [ "sTriggerR", "d6/dbd/structValveControllerStatePacket__t.html#a9bdf55c39d478a9025a50248d6ab6af2", null ],
+    [ "Triggers", "d6/dbd/structValveControllerStatePacket__t.html#ada488f55de6e073b9ed466395e6e0ac3", null ],
+    [ "ulButtons", "d6/dbd/structValveControllerStatePacket__t.html#a063cb2b15517ba97234942e188ea7bf6", null ],
+    [ "unPacketNum", "d6/dbd/structValveControllerStatePacket__t.html#a2103f2b16e6fd9525e4e048a3778b0da", null ]
+];

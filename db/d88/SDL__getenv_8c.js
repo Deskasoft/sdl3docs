@@ -1,0 +1,26 @@
+var SDL__getenv_8c =
+[
+    [ "CopyEnvStringsData", "d5/d1c/structCopyEnvStringsData.html", "d5/d1c/structCopyEnvStringsData" ],
+    [ "CountEnvStringsData", "d2/d10/structCountEnvStringsData.html", "d2/d10/structCountEnvStringsData" ],
+    [ "SDL_Environment", "df/d59/structSDL__Environment.html", "df/d59/structSDL__Environment" ],
+    [ "HAVE_LOCAL_ENVIRONMENT", "db/d88/SDL__getenv_8c.html#a3e2c91b829ba72de44990ac54cb5286f", null ],
+    [ "CopyEnvStringsData", "db/d88/SDL__getenv_8c.html#a563ff8bc5f42c3a23ffc9a0a32188269", null ],
+    [ "CountEnvStringsData", "db/d88/SDL__getenv_8c.html#a0df9bee32dad24aca7401da00a9d9440", null ],
+    [ "CopyEnvStrings", "db/d88/SDL__getenv_8c.html#aadceb54df11ea4b5e032a2fd4f4d1d15", null ],
+    [ "CountEnvStrings", "db/d88/SDL__getenv_8c.html#a390245a3fb5695f4a1e283cfa9547f35", null ],
+    [ "SDL_CreateEnvironment", "db/d88/SDL__getenv_8c.html#a93e2316132325a2b44088a911a56c9a0", null ],
+    [ "SDL_DestroyEnvironment", "db/d88/SDL__getenv_8c.html#a008c87302b04e0ff1dee7db5b98f3fb7", null ],
+    [ "SDL_getenv", "db/d88/SDL__getenv_8c.html#a9cb61af22cab67edd9ffb09af36126fe", null ],
+    [ "SDL_getenv_unsafe", "db/d88/SDL__getenv_8c.html#a1b24ea1184e050cdd9737267e8999155", null ],
+    [ "SDL_GetEnvironment", "db/d88/SDL__getenv_8c.html#ae267ae7e85a720be9cbfd13e07943fe3", null ],
+    [ "SDL_GetEnvironmentVariable", "db/d88/SDL__getenv_8c.html#aa5bb102a3f0b8d7889229fb5fb7cdf6c", null ],
+    [ "SDL_GetEnvironmentVariables", "db/d88/SDL__getenv_8c.html#a32ec30c08341187cebff2e4ce2c1afb0", null ],
+    [ "SDL_InitEnvironment", "db/d88/SDL__getenv_8c.html#a53f3b041d210093a37345366a413f418", null ],
+    [ "SDL_QuitEnvironment", "db/d88/SDL__getenv_8c.html#a63810fc6afaf7b476eced5561891c6e6", null ],
+    [ "SDL_setenv_unsafe", "db/d88/SDL__getenv_8c.html#aff5f178b11cc9c0bc4aea104f44f7c2c", null ],
+    [ "SDL_SetEnvironmentVariable", "db/d88/SDL__getenv_8c.html#a4e9e01eb9bbe90f7f72e23c8dc31c670", null ],
+    [ "SDL_unsetenv_unsafe", "db/d88/SDL__getenv_8c.html#abefc6f8e877a8132723f2090dbefcad9", null ],
+    [ "SDL_UnsetEnvironmentVariable", "db/d88/SDL__getenv_8c.html#ae54a64d5346d405edfc5e9b313dfc15c", null ],
+    [ "environ", "db/d88/SDL__getenv_8c.html#aa006daaf11f1e2e45a6ababaf463212b", null ],
+    [ "SDL_environment", "db/d88/SDL__getenv_8c.html#abd4a47f5e2c1b3121be335000939e136", null ]
+];

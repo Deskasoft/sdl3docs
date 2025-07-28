@@ -1,0 +1,11 @@
+<map id="SDL&#45;main/src/video/haiku/SDL_bkeyboard.h" name="SDL&#45;main/src/video/haiku/SDL_bkeyboard.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="94,5,258,48"/>
+<area shape="rect" id="Node000002" href="$d5/d4e/SDL__BApp_8h.html" title=" " alt="" coords="94,96,259,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,64,179,96,174,96,174,64"/>
+<area shape="rect" id="Node000003" href="$d4/d2f/SDL__BWin_8h.html" title=" " alt="" coords="25,187,162,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="149,152,115,188,111,185,145,148"/>
+<area shape="rect" id="Node000005" href="$d0/d0c/SDL__bvideo_8cc.html" title=" " alt="" coords="186,187,335,229"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="208,148,243,185,239,188,204,152"/>
+<area shape="rect" id="Node000004" href="$d3/d70/SDL__haikudialog_8cc.html" title=" " alt="" coords="5,277,182,320"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="96,245,96,277,91,277,91,245"/>
+</map>

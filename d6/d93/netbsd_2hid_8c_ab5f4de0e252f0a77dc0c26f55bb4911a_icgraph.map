@@ -1,0 +1,6 @@
+<map id="enumerate_usb_devices" name="enumerate_usb_devices">
+<area shape="rect" id="Node000001" title=" " alt="" coords="238,29,400,56"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="357,16,344,10,319,8,296,10,283,15,280,20,286,27,282,30,275,21,279,11,294,5,319,3,345,5,359,12"/>
+<area shape="rect" id="Node000002" href="$d6/d93/netbsd_2hid_8c.html#af0dea306823d0667824a60d703dc3583" title=" " alt="" coords="5,29,190,56"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="222,45,190,45,190,40,222,40"/>
+</map>

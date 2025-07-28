@@ -1,0 +1,26 @@
+<map id="hidapi_initialize_device" name="hidapi_initialize_device">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,215,160,241"/>
+<area shape="rect" id="Node000002" href="$d6/dcf/libusb_2hid_8c.html#ab7ef9f071a118ee7c4b6295ea6c72dfa" title=" " alt="" coords="214,5,374,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,213,102,178,128,132,162,84,206,42,213,37,216,41,209,46,166,87,132,135,107,181,92,215"/>
+<area shape="rect" id="Node000003" href="$d6/dcf/libusb_2hid_8c.html#a9b5fc54e141d03493aa9e94c5cfd305f" title=" " alt="" coords="222,56,366,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="96,212,144,171,206,124,213,120,216,125,209,129,147,175,100,216"/>
+<area shape="rect" id="Node000004" href="$d0/d23/hidapi__thread__pthread_8h.html#a3364a18abb284086f4641b3af713a71f" title=" " alt="" coords="208,139,380,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="115,212,207,175,228,168,229,173,209,180,117,216"/>
+<area shape="rect" id="Node000006" href="$d0/d23/hidapi__thread__pthread_8h.html#afd68cab33aebfc7526882856b73b22a2" title=" " alt="" coords="223,189,364,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="159,216,207,210,208,216,160,221"/>
+<area shape="rect" id="Node000007" href="$d6/dcf/libusb_2hid_8c.html#a6ef0f647c7144184032b06f3f201b8d8" title=" " alt="" coords="247,240,341,267"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="160,235,231,243,231,249,159,240"/>
+<area shape="rect" id="Node000010" href="$d6/dcf/libusb_2hid_8c.html#a98c59ef4cd5441536d2d8c5c259ab64e" title=" " alt="" coords="247,291,341,317"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="117,240,209,276,232,284,231,289,207,281,115,244"/>
+<area shape="rect" id="Node000011" href="$d6/dcf/libusb_2hid_8c.html#a33a64f27e4fe08363a1b244e5c61c6e1" title=" " alt="" coords="250,341,338,368"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="99,240,145,283,176,306,209,327,236,338,234,343,206,332,173,311,142,287,95,244"/>
+<area shape="rect" id="Node000012" href="$d6/dcf/libusb_2hid_8c.html#ab43a77c7ea693b0c6c208255045a9156" title=" " alt="" coords="250,392,338,419"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="93,240,137,306,170,345,209,378,236,391,234,396,206,382,166,349,132,309,89,243"/>
+<area shape="rect" id="Node000005" href="$d1/de6/mac_2hid_8c.html#a8df4edee8d3c027775fbc3dd243216e8" title=" " alt="" coords="428,139,566,165"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="380,149,412,149,412,155,380,155"/>
+<area shape="rect" id="Node000008" href="$d6/d8c/SDL__memset_8c.html#aa470f523bb3aef22ee14757d45ab934f" title=" " alt="" coords="463,240,531,267"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="341,251,448,251,448,256,341,256"/>
+<area shape="rect" id="Node000009" href="$d3/dda/eglext_8h.html#a0f7193911e632cd84da4082d5c628fe3" title=" " alt="" coords="474,291,520,317"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="342,262,460,292,459,297,341,268"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="341,301,459,301,459,307,341,307"/>
+</map>

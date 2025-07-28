@@ -1,0 +1,12 @@
+<map id="hidapi_thread_mutex_lock" name="hidapi_thread_mutex_lock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="389,81,561,108"/>
+<area shape="rect" id="Node000002" href="$d6/dcf/libusb_2hid_8c.html#a9593b490d488dcb8017ceabebccc77bf" title=" " alt="" coords="165,5,319,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="425,78,340,47,301,35,302,30,342,41,427,73"/>
+<area shape="rect" id="Node000003" href="$d6/dcf/libusb_2hid_8c.html#a2a73a1b3bac9b258d879868e8e71abfa" title=" " alt="" coords="143,56,341,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="373,86,341,83,342,77,374,81"/>
+<area shape="rect" id="Node000004" href="$d6/dcf/libusb_2hid_8c.html#aa2e50f50e42895534d389328c4c57d9c" title=" " alt="" coords="191,107,292,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="374,108,293,117,293,112,373,103"/>
+<area shape="rect" id="Node000005" href="$d6/dcf/libusb_2hid_8c.html#a6017e697733bf1fba149c4302a72e218" title=" " alt="" coords="5,132,95,159"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="433,117,390,135,342,148,274,156,207,158,95,153,95,148,207,153,274,151,340,143,388,130,432,112"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="176,131,95,142,95,137,175,126"/>
+</map>

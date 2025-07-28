@@ -1,0 +1,36 @@
+var SDL__hidapi_8h =
+[
+    [ "SDL_hid_device_info", "d5/dc9/structSDL__hid__device__info.html", "d5/dc9/structSDL__hid__device__info" ],
+    [ "SDL_hid_bus_type", "d3/dcc/SDL__hidapi_8h.html#a4b6c8fa3340d23788f1bdf4003c20e64", null ],
+    [ "SDL_hid_device", "d3/dcc/SDL__hidapi_8h.html#a18d3a4f8f8ad3a21424bca406c0124a0", null ],
+    [ "SDL_hid_device_info", "d3/dcc/SDL__hidapi_8h.html#afb328d87ec06aec76ebbca2eab491a70", null ],
+    [ "SDL_hid_bus_type", "d3/dcc/SDL__hidapi_8h.html#a3796ba30db68d97bbebfa93d18686600", [
+      [ "SDL_HID_API_BUS_UNKNOWN", "d3/dcc/SDL__hidapi_8h.html#a3796ba30db68d97bbebfa93d18686600a5f6984d9928227d71c426fc285cfbbe9", null ],
+      [ "SDL_HID_API_BUS_USB", "d3/dcc/SDL__hidapi_8h.html#a3796ba30db68d97bbebfa93d18686600af3460e8f820e51e9bf2d33d0e737ab0e", null ],
+      [ "SDL_HID_API_BUS_BLUETOOTH", "d3/dcc/SDL__hidapi_8h.html#a3796ba30db68d97bbebfa93d18686600a605a3e21111f0d1160dd77a54526c0d5", null ],
+      [ "SDL_HID_API_BUS_I2C", "d3/dcc/SDL__hidapi_8h.html#a3796ba30db68d97bbebfa93d18686600a3e279caf0599dda2f06341b0e5af4ee3", null ],
+      [ "SDL_HID_API_BUS_SPI", "d3/dcc/SDL__hidapi_8h.html#a3796ba30db68d97bbebfa93d18686600a33c07f367e1bc09d40b75a5079390897", null ]
+    ] ],
+    [ "SDL_hid_ble_scan", "d3/dcc/SDL__hidapi_8h.html#a35847a82fe2be53e08a3e85c785712b5", null ],
+    [ "SDL_hid_close", "d3/dcc/SDL__hidapi_8h.html#a5733cbb8c7d9f929f0da328dba7b66c3", null ],
+    [ "SDL_hid_device_change_count", "d3/dcc/SDL__hidapi_8h.html#a1a2a01201f40f42a53da90b9dde00c81", null ],
+    [ "SDL_hid_enumerate", "d3/dcc/SDL__hidapi_8h.html#a5fc5142b65d819379382ac11b3f012e1", null ],
+    [ "SDL_hid_exit", "d3/dcc/SDL__hidapi_8h.html#a54b12c17b501fea86d9e2e7511a9c8ee", null ],
+    [ "SDL_hid_free_enumeration", "d3/dcc/SDL__hidapi_8h.html#a4ae97326b7b8c64e92c828490cd3034d", null ],
+    [ "SDL_hid_get_device_info", "d3/dcc/SDL__hidapi_8h.html#a706282fcd76086e1f87329f9d1e66c7e", null ],
+    [ "SDL_hid_get_feature_report", "d3/dcc/SDL__hidapi_8h.html#ac8bd289b67725853544604578d1bd16c", null ],
+    [ "SDL_hid_get_indexed_string", "d3/dcc/SDL__hidapi_8h.html#a55e5c4fe06c2677a536c314d44736764", null ],
+    [ "SDL_hid_get_input_report", "d3/dcc/SDL__hidapi_8h.html#aab5e3ced095dacee877f43ed3a66852e", null ],
+    [ "SDL_hid_get_manufacturer_string", "d3/dcc/SDL__hidapi_8h.html#aacfddca2bede482fe3571acdd6ac0d30", null ],
+    [ "SDL_hid_get_product_string", "d3/dcc/SDL__hidapi_8h.html#a83a8ddd4f4d05796578a3025db891638", null ],
+    [ "SDL_hid_get_report_descriptor", "d3/dcc/SDL__hidapi_8h.html#a66788c7e62b864bffae6c1b3e715196d", null ],
+    [ "SDL_hid_get_serial_number_string", "d3/dcc/SDL__hidapi_8h.html#a939f36a8d3e4f3ca3264ed26e07832c9", null ],
+    [ "SDL_hid_init", "d3/dcc/SDL__hidapi_8h.html#a7ecb3e3c09e3bfcb8768402a7c9aaacf", null ],
+    [ "SDL_hid_open", "d3/dcc/SDL__hidapi_8h.html#a75746b1c5a238353f530ff459ad98284", null ],
+    [ "SDL_hid_open_path", "d3/dcc/SDL__hidapi_8h.html#a4398dc4c0460952751b7b865c764d5c7", null ],
+    [ "SDL_hid_read", "d3/dcc/SDL__hidapi_8h.html#ac2607ccb7980c1a52b070d5582464f62", null ],
+    [ "SDL_hid_read_timeout", "d3/dcc/SDL__hidapi_8h.html#a769b4c9f642ab3266ea3af775453798b", null ],
+    [ "SDL_hid_send_feature_report", "d3/dcc/SDL__hidapi_8h.html#ae12714bd48e6bf98496ad082d1a96ec5", null ],
+    [ "SDL_hid_set_nonblocking", "d3/dcc/SDL__hidapi_8h.html#abbd8df049508babef2d463a856c3068b", null ],
+    [ "SDL_hid_write", "d3/dcc/SDL__hidapi_8h.html#ab5859c57004a33e8ffe908ce5ba3d927", null ]
+];

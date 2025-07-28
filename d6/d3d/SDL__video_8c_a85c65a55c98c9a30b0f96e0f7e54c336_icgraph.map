@@ -1,0 +1,13 @@
+<map id="SDL_FinishWindowCreation" name="SDL_FinishWindowCreation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="769,56,955,83"/>
+<area shape="rect" id="Node000002" href="$d6/d3d/SDL__video_8c.html#a9f3d88531134e2c3e575a3c2db7f8488" title=" " alt="" coords="495,31,721,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="753,61,722,58,722,53,754,56"/>
+<area shape="rect" id="Node000006" href="$d6/d3d/SDL__video_8c.html#ac71558ab32ba69c961258e4cb6bcaa01" title=" " alt="" coords="531,81,685,108"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="754,83,686,90,685,84,754,77"/>
+<area shape="rect" id="Node000003" href="$d6/d3d/SDL__video_8c.html#acc26de39ce1bd675446e4d6c05ebf4b0" title=" " alt="" coords="270,5,447,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="479,34,447,30,448,25,479,28"/>
+<area shape="rect" id="Node000004" href="$d6/d3d/SDL__video_8c.html#a83103c86f9e5c33ab9e1fb6dfa904b7f" title=" " alt="" coords="288,56,428,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="480,60,429,65,429,60,479,54"/>
+<area shape="rect" id="Node000005" href="$dd/df3/SDL__render_8c.html#a36f859fae15e4277ba052f9ecfb2816d" title=" " alt="" coords="5,56,222,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="272,72,222,72,222,67,272,67"/>
+</map>

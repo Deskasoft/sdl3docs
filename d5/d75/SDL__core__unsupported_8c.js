@@ -1,0 +1,28 @@
+var SDL__core__unsupported_8c =
+[
+    [ "SDL_RequestAndroidPermissionCallback", "d5/d75/SDL__core__unsupported_8c.html#acc19929833949d20de32d44028e5e81a", null ],
+    [ "JNI_OnLoad", "d5/d75/SDL__core__unsupported_8c.html#ada087ddbcfd23532c425de0bde424a71", null ],
+    [ "SDL_GDKResumeGPU", "d5/d75/SDL__core__unsupported_8c.html#a9d5b745d799bf263cc220c032eb0618c", null ],
+    [ "SDL_GDKSuspendComplete", "d5/d75/SDL__core__unsupported_8c.html#a0d65692b1a2af99c44445448f2ecd0ce", null ],
+    [ "SDL_GDKSuspendGPU", "d5/d75/SDL__core__unsupported_8c.html#a46bf2cf9099b3778f4dbe852ff1edf43", null ],
+    [ "SDL_GetAndroidActivity", "d5/d75/SDL__core__unsupported_8c.html#a91ff3e173c909f3667ac99dbfc352846", null ],
+    [ "SDL_GetAndroidCachePath", "d5/d75/SDL__core__unsupported_8c.html#a3929e436b492011b3a89297e22ea1488", null ],
+    [ "SDL_GetAndroidExternalStoragePath", "d5/d75/SDL__core__unsupported_8c.html#aaf2033afe3e228e8b02e2e709751cb9c", null ],
+    [ "SDL_GetAndroidExternalStorageState", "d5/d75/SDL__core__unsupported_8c.html#ac393a8d7a09ed2be4094728755a71eee", null ],
+    [ "SDL_GetAndroidInternalStoragePath", "d5/d75/SDL__core__unsupported_8c.html#a3d42edc2d5ac03431427cc274aa4a177", null ],
+    [ "SDL_GetAndroidJNIEnv", "d5/d75/SDL__core__unsupported_8c.html#a6cd0dafa9f187b994afe2fdbce3d4db7", null ],
+    [ "SDL_GetAndroidSDKVersion", "d5/d75/SDL__core__unsupported_8c.html#a39d181168e1d2967146594f832685f0e", null ],
+    [ "SDL_GetGDKDefaultUser", "d5/d75/SDL__core__unsupported_8c.html#aa83fa4082bc93302a113543ab8669cb7", null ],
+    [ "SDL_IsChromebook", "d5/d75/SDL__core__unsupported_8c.html#a505d967e4e80867188ce9a98ece7caf9", null ],
+    [ "SDL_IsDeXMode", "d5/d75/SDL__core__unsupported_8c.html#ae3b713f4113eedcab0481930385c6d9c", null ],
+    [ "SDL_RegisterApp", "d5/d75/SDL__core__unsupported_8c.html#aed2a9bf5c2005ff4b14443829bef0909", null ],
+    [ "SDL_RequestAndroidPermission", "d5/d75/SDL__core__unsupported_8c.html#aff88f4cf59251a729a52a5bbdc700024", null ],
+    [ "SDL_SendAndroidBackButton", "d5/d75/SDL__core__unsupported_8c.html#ab74d6bd17bfc4a160c079cb88cc81158", null ],
+    [ "SDL_SendAndroidMessage", "d5/d75/SDL__core__unsupported_8c.html#a3069acab292c700dcc220d617f21cc18", null ],
+    [ "SDL_SetLinuxThreadPriority", "d5/d75/SDL__core__unsupported_8c.html#a5509813bd7aca4d0d53d034706265595", null ],
+    [ "SDL_SetLinuxThreadPriorityAndPolicy", "d5/d75/SDL__core__unsupported_8c.html#aff8c222894627889a9690e239e246b8b", null ],
+    [ "SDL_SetWindowsMessageHook", "d5/d75/SDL__core__unsupported_8c.html#aec31e5d2961b007524526e612e919b84", null ],
+    [ "SDL_SetX11EventHook", "d5/d75/SDL__core__unsupported_8c.html#a5c918dc80ece45f07ccbf9da8e0a888d", null ],
+    [ "SDL_ShowAndroidToast", "d5/d75/SDL__core__unsupported_8c.html#af9d6417e74b8cdfe563c8e8c54736adc", null ],
+    [ "SDL_UnregisterApp", "d5/d75/SDL__core__unsupported_8c.html#adfcc31fa82d5f7f09e2b9c1b1d869b60", null ]
+];

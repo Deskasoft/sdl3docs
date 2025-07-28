@@ -1,0 +1,12 @@
+<map id="SDL&#45;main/src/hidapi/windows/hidapi_winapi.h" name="SDL&#45;main/src/hidapi/windows/hidapi_winapi.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,175,48"/>
+<area shape="rect" id="Node000002" href="$d0/d22/windows_2hid_8c.html" title=" " alt="" coords="20,309,160,352"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,62,55,97,45,142,42,179,45,215,55,261,65,286,78,308,73,310,60,288,50,262,40,216,36,179,40,141,50,95,65,60"/>
+<area shape="rect" id="Node000004" href="$d2/d4c/hidapi__descriptor__reconstruct_8h.html" title=" " alt="" coords="65,96,243,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="114,59,137,94,133,97,110,62"/>
+<area shape="rect" id="Node000003" href="$df/d72/SDL__hidapi__windows_8h.html" title=" " alt="" coords="9,400,171,443"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,368,93,400,87,400,87,368"/>
+<area shape="rect" id="Node000005" href="$df/d56/hidapi__descriptor__reconstruct_8c.html" title=" " alt="" coords="65,203,243,261"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="157,170,157,202,151,202,151,170"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="129,276,106,311,101,308,124,273"/>
+</map>

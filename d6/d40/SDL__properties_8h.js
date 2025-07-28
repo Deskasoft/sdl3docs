@@ -1,0 +1,36 @@
+var SDL__properties_8h =
+[
+    [ "SDL_CleanupPropertyCallback", "d6/d40/SDL__properties_8h.html#a0931f49031b359c6f8b4b58a12394c58", null ],
+    [ "SDL_EnumeratePropertiesCallback", "d6/d40/SDL__properties_8h.html#a0d84c17a5cf43ac5d7a92cff9d5eb207", null ],
+    [ "SDL_PropertiesID", "d6/d40/SDL__properties_8h.html#a4e582827c1502da505ab48cc3c1a685e", null ],
+    [ "SDL_PropertyType", "d6/d40/SDL__properties_8h.html#a4dea65a777c3e6d8b7c48357f85a29b5", null ],
+    [ "SDL_PropertyType", "d6/d40/SDL__properties_8h.html#a955fb3e73e64f4590c6175ec779d2189", [
+      [ "SDL_PROPERTY_TYPE_INVALID", "d6/d40/SDL__properties_8h.html#a955fb3e73e64f4590c6175ec779d2189ab9dd3be14d26a9fed6f26b1e684395da", null ],
+      [ "SDL_PROPERTY_TYPE_POINTER", "d6/d40/SDL__properties_8h.html#a955fb3e73e64f4590c6175ec779d2189ac2cd4cddd3201c584776cafdc49583cc", null ],
+      [ "SDL_PROPERTY_TYPE_STRING", "d6/d40/SDL__properties_8h.html#a955fb3e73e64f4590c6175ec779d2189af7941b004c232096d9aec3fab35de17a", null ],
+      [ "SDL_PROPERTY_TYPE_NUMBER", "d6/d40/SDL__properties_8h.html#a955fb3e73e64f4590c6175ec779d2189a171e9f3104d8c6b0ce2d8df4a6dd167e", null ],
+      [ "SDL_PROPERTY_TYPE_FLOAT", "d6/d40/SDL__properties_8h.html#a955fb3e73e64f4590c6175ec779d2189a3d7657c6e4ec5f9dc96e2ca514b1f6e4", null ],
+      [ "SDL_PROPERTY_TYPE_BOOLEAN", "d6/d40/SDL__properties_8h.html#a955fb3e73e64f4590c6175ec779d2189ab08a4656a0406372c1840f486892c213", null ]
+    ] ],
+    [ "SDL_ClearProperty", "d6/d40/SDL__properties_8h.html#a5946f2bcde42cdfe07eeb7de82f3ce35", null ],
+    [ "SDL_CopyProperties", "d6/d40/SDL__properties_8h.html#a736f40d00046db0efb52cf571fb69e98", null ],
+    [ "SDL_CreateProperties", "d6/d40/SDL__properties_8h.html#a3879ae5bd4727e826dadcf289263f929", null ],
+    [ "SDL_DestroyProperties", "d6/d40/SDL__properties_8h.html#aee9791a937bea3bb2dd0222948fb89ed", null ],
+    [ "SDL_EnumerateProperties", "d6/d40/SDL__properties_8h.html#ac8e188d4343d4ee37ed8c173fb4038a7", null ],
+    [ "SDL_GetBooleanProperty", "d6/d40/SDL__properties_8h.html#ab9dbd8739f5934c0c528e1b5597ac9c1", null ],
+    [ "SDL_GetFloatProperty", "d6/d40/SDL__properties_8h.html#a820e4d46f61fad33b6c6fe124e3aa3a8", null ],
+    [ "SDL_GetGlobalProperties", "d6/d40/SDL__properties_8h.html#a15a305ca0429255f28ec6d9a01fc404f", null ],
+    [ "SDL_GetNumberProperty", "d6/d40/SDL__properties_8h.html#ae29997c99c2e219c657cb3ef2401a4bb", null ],
+    [ "SDL_GetPointerProperty", "d6/d40/SDL__properties_8h.html#a3b2bfc09b45742f08615215c5bed29a0", null ],
+    [ "SDL_GetPropertyType", "d6/d40/SDL__properties_8h.html#ad15dad59aa18f777345c0f00ecdbf90a", null ],
+    [ "SDL_GetStringProperty", "d6/d40/SDL__properties_8h.html#a37c2549a2674d61f265bdd6f85d70ab8", null ],
+    [ "SDL_HasProperty", "d6/d40/SDL__properties_8h.html#a22c6a2310bab47ef6a4fae294f73e81b", null ],
+    [ "SDL_LockProperties", "d6/d40/SDL__properties_8h.html#a12a81edc8adb7cd32df5f1bb6f29a7d2", null ],
+    [ "SDL_SetBooleanProperty", "d6/d40/SDL__properties_8h.html#a324e83676c845e4615e5f589051ba30b", null ],
+    [ "SDL_SetFloatProperty", "d6/d40/SDL__properties_8h.html#ad71638d8413f77fc54d3b22c4471d933", null ],
+    [ "SDL_SetNumberProperty", "d6/d40/SDL__properties_8h.html#ae55b71d70616d39d875be661b2e1c098", null ],
+    [ "SDL_SetPointerProperty", "d6/d40/SDL__properties_8h.html#ab68989ded15b5935d5fade2da879332d", null ],
+    [ "SDL_SetPointerPropertyWithCleanup", "d6/d40/SDL__properties_8h.html#a3ee196c75fe993f8c656302218e1452f", null ],
+    [ "SDL_SetStringProperty", "d6/d40/SDL__properties_8h.html#a87cfc50a6c3c364fd9feb93217e81da0", null ],
+    [ "SDL_UnlockProperties", "d6/d40/SDL__properties_8h.html#a2766f52b111119978a162dec6118d7cd", null ]
+];

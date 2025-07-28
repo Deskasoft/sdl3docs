@@ -1,0 +1,12 @@
+<map id="Fcitx_SetCapabilities" name="Fcitx_SetCapabilities">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,151,57"/>
+<area shape="rect" id="Node000002" href="$d2/d23/SDL__string_8c.html#a73c3705dfae793f7c905d130caaf0980" title=" " alt="" coords="199,31,283,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,41,183,41,183,47,151,47"/>
+<area shape="rect" id="Node000003" href="$d2/d23/SDL__string_8c.html#a38e76d86236f4a24cf0cc6863ec3ae9d" title=" " alt="" coords="478,5,564,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="283,38,462,21,462,27,283,43"/>
+<area shape="rect" id="Node000004" href="$d2/d23/SDL__string_8c.html#aa62e80fe07d8d53989239340bef11dd6" title=" " alt="" coords="331,56,422,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="284,49,316,55,315,61,283,54"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="416,53,466,35,468,40,418,58"/>
+<area shape="rect" id="Node000005" href="$d2/d23/SDL__string_8c.html#a48219d4c04e8e26365e9091f3eb9d540" title=" " alt="" coords="470,56,572,83"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="423,67,455,67,455,72,423,72"/>
+</map>

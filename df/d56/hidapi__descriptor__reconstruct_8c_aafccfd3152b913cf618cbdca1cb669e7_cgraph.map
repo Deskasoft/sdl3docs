@@ -1,0 +1,14 @@
+<map id="SDL_hid_winapi_descriptor_reconstruct_pp_data" name="SDL_hid_winapi_descriptor_reconstruct_pp_data">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,52,185,95"/>
+<area shape="rect" id="Node000002" href="$df/d56/hidapi__descriptor__reconstruct_8c.html#a82bd7c7e66bc963faf0fcb0dceda6f7a" title=" " alt="" coords="454,5,637,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,49,182,30,232,16,285,9,338,5,438,6,438,11,338,10,285,14,233,21,184,35,140,54"/>
+<area shape="rect" id="Node000003" href="$df/d56/hidapi__descriptor__reconstruct_8c.html#a63d26425351e12bd36ee7833ef3e408d" title=" " alt="" coords="233,31,406,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,59,217,55,218,60,186,64"/>
+<area shape="rect" id="Node000004" href="$df/d56/hidapi__descriptor__reconstruct_8c.html#a2063e7564e1e76071a558edc1103cebc" title=" " alt="" coords="247,81,392,124"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="186,82,232,89,231,94,185,88"/>
+<area shape="rect" id="Node000005" href="$df/d56/hidapi__descriptor__reconstruct_8c.html#abaecd5fdc9c8e2b90960994e420ca919" title="Writes a short report descriptor item according USB HID spec 1.11 chapter 6.2.2.2." alt="" coords="252,148,387,175"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="141,93,234,134,253,140,251,145,232,138,139,98"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="406,32,438,28,439,33,407,37"/>
+<area shape="rect" id="Node000006" href="$df/d56/hidapi__descriptor__reconstruct_8c.html#a854de0297eedff8539898066055482e1" title="Function that appends a byte to encoded report descriptor buffer." alt="" coords="489,148,602,175"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="387,159,473,159,473,164,387,164"/>
+</map>

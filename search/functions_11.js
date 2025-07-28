@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['qsort_5fnon_5fr_5fbridge_0',['qsort_non_r_bridge',['../dd/d51/SDL__qsort_8c.html#a79bae83c316c5cc4db6c9bb2bb47b09a',1,'SDL_qsort.c']]],
+  ['qsort_5fr_5faligned_1',['qsort_r_aligned',['../dd/d51/SDL__qsort_8c.html#ab304ecf82517ffff70ba15bf01ae8b7b',1,'SDL_qsort.c']]],
+  ['qsort_5fr_5fnonaligned_2',['qsort_r_nonaligned',['../dd/d51/SDL__qsort_8c.html#a1ba3a8acbf618ce379d04757170e062a',1,'SDL_qsort.c']]],
+  ['qsort_5fr_5fwords_3',['qsort_r_words',['../dd/d51/SDL__qsort_8c.html#a2aa1a0843cfd7311252a59e34564aabf',1,'SDL_qsort.c']]],
+  ['queueasynciotask_4',['QueueAsyncIOTask',['../d7/dbe/SDL__asyncio__generic_8c.html#a0a52fa374004b99b6446cd80a843b899',1,'SDL_asyncio_generic.c']]],
+  ['queuecmdclear_5',['QueueCmdClear',['../dd/df3/SDL__render_8c.html#a7ad67bac925239890c30eae0617022b2',1,'SDL_render.c']]],
+  ['queuecmdcopy_6',['QueueCmdCopy',['../dd/df3/SDL__render_8c.html#ae4254b176ff12e6c141fc015ecc378b8',1,'SDL_render.c']]],
+  ['queuecmdcopyex_7',['QueueCmdCopyEx',['../dd/df3/SDL__render_8c.html#a9a761d8da39ae2e34efd360cdfa99c00',1,'SDL_render.c']]],
+  ['queuecmddrawlines_8',['QueueCmdDrawLines',['../dd/df3/SDL__render_8c.html#a1a3f16ae4b57104814f5abc98890ab56',1,'SDL_render.c']]],
+  ['queuecmddrawpoints_9',['QueueCmdDrawPoints',['../dd/df3/SDL__render_8c.html#a590399709302ee5247179bdfaa870fe0',1,'SDL_render.c']]],
+  ['queuecmdfillrects_10',['QueueCmdFillRects',['../dd/df3/SDL__render_8c.html#a991345d9019041e94d4acc8b224cd7f8',1,'SDL_render.c']]],
+  ['queuecmdgeometry_11',['QueueCmdGeometry',['../dd/df3/SDL__render_8c.html#aa8c32c3fac7b83e26aec4b96e9f39a19',1,'SDL_render.c']]],
+  ['queuecmdsetcliprect_12',['QueueCmdSetClipRect',['../dd/df3/SDL__render_8c.html#a5e80727d3b7c1a60eca6704c9f1279df',1,'SDL_render.c']]],
+  ['queuecmdsetdrawcolor_13',['QueueCmdSetDrawColor',['../dd/df3/SDL__render_8c.html#a9c4b111cbfa8fdeb645ceacdcd018022',1,'SDL_render.c']]],
+  ['queuecmdsetviewport_14',['QueueCmdSetViewport',['../dd/df3/SDL__render_8c.html#ac7af30320d5c80e5a22a16e8604984b2',1,'SDL_render.c']]],
+  ['quit_5fgtk_15',['quit_gtk',['../d4/d03/unix_2SDL__tray_8c.html#ad3984ca075f6b5aa313856cb2c6ffc88',1,'SDL_tray.c']]],
+  ['quitrequested_16',['QuitRequested',['../d7/d99/classSDL__BWin.html#ad696bf6d0ba420330d8c98b5bec80890',1,'SDL_BWin']]]
+];

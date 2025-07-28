@@ -1,0 +1,9 @@
+<map id="StdVideoEncodeH264SliceHeader" name="StdVideoEncodeH264SliceHeader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="39,235,259,261"/>
+<area shape="rect" id="Node000002" href="$d2/dc1/structStdVideoEncodeH264SliceHeaderFlags.html" title=" " alt="" coords="5,120,226,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,177,147,233,142,235,124,179"/>
+<area shape="rect" id="Node000003" href="$d8/d35/structStdVideoEncodeH264WeightTable.html" title=" " alt="" coords="250,120,440,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="294,173,174,236,171,232,292,168"/>
+<area shape="rect" id="Node000004" href="$d6/df1/structStdVideoEncodeH264WeightTableFlags.html" title=" " alt="" coords="250,5,440,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="348,64,348,120,342,120,342,64"/>
+</map>

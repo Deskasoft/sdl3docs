@@ -1,0 +1,9 @@
+<map id="SDL_ClearClipboardData" name="SDL_ClearClipboardData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="413,5,581,32"/>
+<area shape="rect" id="Node000002" href="$d6/da1/SDL__clipboard_8c.html#ad3f0bf69fa68149ecc80f81b1b344268" title=" " alt="" coords="208,5,365,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="397,30,365,30,365,25,397,25"/>
+<area shape="rect" id="Node000003" href="$d6/da1/SDL__clipboard_8c.html#ab4ab3c8cbbd94aef84dd792c7518de2f" title=" " alt="" coords="5,31,160,57"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="423,38,365,47,258,52,160,51,160,45,258,47,365,41,422,33"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="381,7,412,7,412,12,381,12"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="193,33,160,37,160,32,192,28"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="hid_internal_detect_bus_type" name="hid_internal_detect_bus_type">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,136,115"/>
+<area shape="rect" id="Node000002" href="$d0/d22/windows_2hid_8c.html#a754d99918d451ca9d37266eadde6a5f3" title=" " alt="" coords="189,5,346,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,69,187,51,189,56,136,74"/>
+<area shape="rect" id="Node000003" href="$d0/d22/windows_2hid_8c.html#a2757b0892d948234003094e334c864af" title=" " alt="" coords="184,72,352,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,91,168,91,168,96,136,96"/>
+<area shape="rect" id="Node000004" href="$d0/d22/windows_2hid_8c.html#af2a6ab531fe41d3526625dc2c3831199" title=" " alt="" coords="194,139,342,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="137,110,207,131,205,136,135,115"/>
+</map>

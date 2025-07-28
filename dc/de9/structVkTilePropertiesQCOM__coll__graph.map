@@ -1,0 +1,9 @@
+<map id="VkTilePropertiesQCOM" name="VkTilePropertiesQCOM">
+<area shape="rect" id="Node000001" title=" " alt="" coords="88,104,247,131"/>
+<area shape="rect" id="Node000002" href="$d0/d02/structVkExtent3D.html" title=" " alt="" coords="5,5,98,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,41,113,78,147,101,144,106,109,82,71,45"/>
+<area shape="rect" id="Node000003" href="$d1/d79/structVkExtent2D.html" title=" " alt="" coords="121,5,214,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,48,170,104,165,104,165,48"/>
+<area shape="rect" id="Node000004" href="$d6/d3e/structVkOffset2D.html" title=" " alt="" coords="238,5,327,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="270,47,241,82,202,106,199,101,238,78,266,44"/>
+</map>

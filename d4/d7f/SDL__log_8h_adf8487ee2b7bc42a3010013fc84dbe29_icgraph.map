@@ -1,0 +1,15 @@
+<map id="SDL_LogWarn" name="SDL_LogWarn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="671,41,777,68"/>
+<area shape="rect" id="Node000002" href="$dc/dd7/SDL__hidapi_8c.html#a896ba9f24859478bb28b1068df782273" title=" " alt="" coords="442,15,623,41"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="656,48,624,43,624,38,657,43"/>
+<area shape="rect" id="Node000005" href="$df/de4/gdk_2SDL__sysfilesystem_8cpp.html#adbdc61007fd1d0ce9ebe164e8d0491b2" title=" " alt="" coords="452,67,613,93"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="656,66,614,72,613,67,656,61"/>
+<area shape="rect" id="Node000003" href="$dc/dd7/SDL__hidapi_8c.html#ab8790faf7e64e0a088a89f6a727cd613" title=" " alt="" coords="219,15,394,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="427,31,394,31,394,25,427,25"/>
+<area shape="rect" id="Node000004" href="$dc/dd7/SDL__hidapi_8c.html#a355a86b0bf1824deb0a9f4299bfa2252" title=" " alt="" coords="5,5,171,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="203,30,171,30,171,25,203,25"/>
+<area shape="rect" id="Node000006" href="$d4/db9/SDL__filesystem_8c.html#ad7e57b7d9eefc17ef78d5d38960ee28b" title=" " alt="" coords="243,68,370,95"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="437,83,370,84,370,78,437,78"/>
+<area shape="rect" id="Node000007" href="$d6/df0/SDL__genericstorage_8c.html#a6fb4f231925c28fb8593e3dd6aa2ebc1" title=" " alt="" coords="6,72,170,99"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="227,85,171,86,170,81,227,80"/>
+</map>

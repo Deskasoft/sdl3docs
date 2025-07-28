@@ -1,0 +1,21 @@
+<map id="SDL_HapticEffect" name="SDL_HapticEffect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="510,143,636,169"/>
+<area shape="rect" id="Node000002" href="$dd/d5c/structSDL__HapticConstant.html" title=" " alt="" coords="256,5,401,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="417,31,453,43,487,60,512,79,534,101,565,140,561,144,530,104,509,83,485,65,451,48,415,36"/>
+<area shape="rect" id="Node000003" href="$d9/d85/structSDL__HapticDirection.html" title=" " alt="" coords="5,115,150,141"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,103,136,80,173,59,215,42,257,30,258,35,216,47,175,64,139,84,108,107"/>
+<area shape="rect" id="Node000004" href="$db/dd8/structSDL__HapticPeriodic.html" title=" " alt="" coords="259,60,398,87"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="142,108,173,100,258,83,259,88,174,105,144,113"/>
+<area shape="rect" id="Node000005" href="$d5/dde/structSDL__HapticCondition.html" title=" " alt="" coords="255,115,402,141"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="165,125,254,125,254,131,165,131"/>
+<area shape="rect" id="Node000006" href="$dd/dd2/structSDL__HapticRamp.html" title=" " alt="" coords="265,169,392,196"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="135,144,174,155,265,172,264,177,173,160,133,149"/>
+<area shape="rect" id="Node000008" href="$df/dce/structSDL__HapticCustom.html" title=" " alt="" coords="259,224,398,251"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="107,149,138,173,175,195,217,211,259,223,258,228,215,216,173,200,135,178,103,154"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="414,87,487,108,550,140,548,144,485,113,413,92"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="418,136,510,146,509,151,417,141"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="407,184,486,179,532,167,534,173,486,184,408,189"/>
+<area shape="rect" id="Node000007" href="$de/d96/structSDL__HapticLeftRight.html" title=" " alt="" coords="256,279,401,305"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="416,282,451,273,485,258,511,238,533,213,562,168,567,171,537,217,514,242,487,262,453,278,417,288"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="413,231,449,224,485,214,524,192,555,168,558,172,527,196,487,218,451,229,414,236"/>
+</map>

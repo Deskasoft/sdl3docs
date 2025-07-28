@@ -1,0 +1,9 @@
+<map id="SDL_MapSurfaceRGBA" name="SDL_MapSurfaceRGBA">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,168,57"/>
+<area shape="rect" id="Node000002" href="$d0/d74/SDL__pixels_8c.html#a6b834e66fc7797f2f5a0694399d65d05" title=" " alt="" coords="221,5,338,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,31,205,26,206,31,168,36"/>
+<area shape="rect" id="Node000004" href="$d4/d8e/SDL__surface_8c.html#a4a47e8e6c37116eac3ae2c575b24dd5c" title=" " alt="" coords="216,56,343,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,52,201,56,200,62,168,57"/>
+<area shape="rect" id="Node000003" href="$d0/d74/SDL__pixels_8c.html#ad0732e2de9b1942c63dce528c3d5fd2e" title=" " alt="" coords="391,5,501,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="339,16,375,16,375,21,339,21"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SDL_GetPathInfo" name="SDL_GetPathInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="441,31,565,57"/>
+<area shape="rect" id="Node000002" href="$d6/df0/SDL__genericstorage_8c.html#ad88f1ec7b83df2d34bff2382a4edf15c" title=" " alt="" coords="188,5,393,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="425,37,393,34,394,28,426,32"/>
+<area shape="rect" id="Node000003" href="$d4/db9/SDL__filesystem_8c.html#ab462b49e9568e89244de5c7d9ac1eadc" title=" " alt="" coords="205,56,376,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="426,56,377,62,376,56,425,51"/>
+<area shape="rect" id="Node000004" href="$d4/db9/SDL__filesystem_8c.html#a0d455f8ab2f61032712ea43081093ae7" title=" " alt="" coords="5,56,140,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="189,72,140,72,140,67,189,67"/>
+</map>

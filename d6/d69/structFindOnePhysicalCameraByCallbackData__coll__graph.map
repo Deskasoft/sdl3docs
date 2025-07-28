@@ -1,0 +1,53 @@
+<map id="FindOnePhysicalCameraByCallbackData" name="FindOnePhysicalCameraByCallbackData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="416,981,677,1008"/>
+<area shape="rect" id="Node000002" href="$d0/d7e/structSDL__Camera.html" title=" " alt="" coords="496,883,597,909"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="549,925,549,981,544,981,544,925"/>
+<area shape="rect" id="Node000003" href="$d0/df2/structSDL__Mutex.html" title=" " alt="" coords="78,5,168,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="64,38,35,58,20,76,12,93,8,137,8,725,12,743,23,759,41,775,64,790,126,816,201,838,282,856,363,870,497,887,496,892,362,875,281,861,200,843,124,821,62,795,38,779,19,763,7,745,3,726,3,137,7,92,16,74,32,54,61,34"/>
+<area shape="rect" id="Node000004" href="$d8/d0b/structSDL__Semaphore.html" title=" " alt="" coords="42,125,163,152"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="66,41,49,57,41,78,49,100,59,113,73,123,70,127,56,117,44,103,36,78,44,55,62,37"/>
+<area shape="rect" id="Node000016" href="$db/ddc/structSDL__RWLock.html" title=" " alt="" coords="432,125,536,152"/>
+<area shape="poly" id="edge22_Node000016_Node000003" title=" " alt="" coords="184,27,324,54,340,65,350,76,359,88,373,99,402,113,432,123,430,128,400,118,371,104,355,92,346,80,336,69,322,58,183,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="117,110,120,101,124,64,122,33,127,32,129,64,125,102,122,112"/>
+<area shape="rect" id="Node000005" href="$d0/d07/structSDL__Condition.html" title=" " alt="" coords="212,5,321,32"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="243,44,167,104,128,127,125,123,164,99,240,40"/>
+<area shape="poly" id="edge23_Node000016_Node000005" title=" " alt="" coords="338,25,375,36,411,54,423,65,429,76,443,100,469,123,466,127,439,103,424,78,418,68,408,58,373,41,336,30"/>
+<area shape="rect" id="Node000006" href="$d1/dbc/structSDL__AtomicInt.html" title=" " alt="" coords="580,5,690,32"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="638,47,640,137,640,725,644,796,639,827,621,860,607,874,590,884,587,880,603,870,617,857,634,825,638,796,635,725,635,137,633,47"/>
+<area shape="poly" id="edge24_Node000016_Node000006" title=" " alt="" coords="568,40,538,58,494,126,489,123,534,54,565,36"/>
+<area shape="rect" id="Node000019" href="$d4/d4a/structSDL__Thread.html" title=" " alt="" coords="674,125,768,152"/>
+<area shape="poly" id="edge30_Node000019_Node000006" title=" " alt="" coords="653,44,692,100,712,123,708,127,688,103,648,47"/>
+<area shape="rect" id="Node000007" href="$d9/d2b/structSDL__CameraSpec.html" title=" " alt="" coords="759,711,889,737"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="817,753,790,808,768,837,741,861,716,872,679,881,598,892,597,887,678,875,714,867,739,856,764,834,785,806,812,751"/>
+<area shape="rect" id="Node000008" href="$d0/de5/structSDL__Surface.html" title=" " alt="" coords="277,603,376,629"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="315,644,306,667,299,693,297,720,304,746,320,772,341,796,392,834,447,862,497,880,495,885,445,866,389,839,337,800,316,775,299,748,292,720,294,692,301,665,310,642"/>
+<area shape="poly" id="edge12_Node000008_Node000008" title=" " alt="" coords="394,607,403,616,395,625,377,628,377,623,392,620,398,616,390,611"/>
+<area shape="rect" id="Node000013" href="$d5/da9/structSDL__BlitMap.html" title=" " alt="" coords="390,495,488,521"/>
+<area shape="poly" id="edge15_Node000013_Node000008" title=" " alt="" coords="365,593,388,577,412,548,430,520,434,523,417,551,391,581,369,597"/>
+<area shape="rect" id="Node000014" href="$d0/d1d/structSDL__BlitInfo.html" title=" " alt="" coords="300,344,396,371"/>
+<area shape="poly" id="edge17_Node000014_Node000008" title=" " alt="" coords="314,589,299,531,296,508,299,485,318,419,339,370,344,372,323,421,304,486,302,508,304,530,319,587"/>
+<area shape="rect" id="Node000018" href="$d2/d22/structSurfaceList.html" title=" " alt="" coords="435,711,522,737"/>
+<area shape="poly" id="edge27_Node000018_Node000008" title=" " alt="" coords="359,636,462,708,459,712,356,641"/>
+<area shape="rect" id="Node000009" href="$d3/d2d/structSDL__PixelFormatDetails.html" title=" " alt="" coords="435,224,600,251"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="525,266,532,318,534,386,527,461,517,497,502,532,479,562,447,585,412,600,378,609,376,604,410,595,444,580,475,558,498,529,512,496,521,460,529,386,527,318,520,267"/>
+<area shape="poly" id="edge18_Node000014_Node000009" title=" " alt="" coords="481,261,461,277,451,288,446,299,440,310,430,322,410,336,388,346,386,341,407,331,426,318,436,307,441,297,447,285,457,273,477,257"/>
+<area shape="rect" id="Node000010" href="$d4/da3/structSDL__Palette.html" title=" " alt="" coords="175,224,270,251"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="227,266,236,353,257,461,276,521,304,577,319,601,315,604,299,580,271,523,252,462,231,354,222,266"/>
+<area shape="poly" id="edge19_Node000014_Node000010" title=" " alt="" coords="243,261,266,290,294,318,328,341,324,346,291,322,262,293,239,265"/>
+<area shape="rect" id="Node000011" href="$d7/d0a/structSDL__Color.html" title=" " alt="" coords="187,125,272,152"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="230,168,226,224,221,224,225,168"/>
+<area shape="rect" id="Node000012" href="$dd/da6/structSDL__Rect.html" title=" " alt="" coords="103,495,185,521"/>
+<area shape="poly" id="edge13_Node000008_Node000012" title=" " alt="" coords="140,537,141,558,149,577,169,589,201,598,277,609,276,614,200,603,166,594,145,580,136,559,135,537"/>
+<area shape="poly" id="edge14_Node000008_Node000013" title=" " alt="" coords="394,531,358,557,342,580,333,603,328,601,338,577,354,553,390,527"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="366,383,433,493,429,495,361,386"/>
+<area shape="rect" id="Node000015" href="$da/d27/structSDL__HashTable.html" title=" " alt="" coords="294,224,410,251"/>
+<area shape="poly" id="edge20_Node000014_Node000015" title=" " alt="" coords="352,267,352,275,351,344,345,344,346,275,347,266"/>
+<area shape="poly" id="edge21_Node000015_Node000016" title=" " alt="" coords="456,164,371,226,368,221,453,159"/>
+<area shape="rect" id="Node000017" href="$d7/dae/structSDL__HashItem.html" title=" " alt="" coords="296,125,408,152"/>
+<area shape="poly" id="edge25_Node000015_Node000017" title=" " alt="" coords="355,168,355,224,349,224,349,168"/>
+<area shape="poly" id="edge26_Node000002_Node000018" title=" " alt="" coords="467,753,458,777,451,804,451,832,461,857,477,873,497,883,495,888,474,877,456,860,446,833,446,804,453,775,462,751"/>
+<area shape="poly" id="edge28_Node000018_Node000018" title=" " alt="" coords="539,713,546,717,549,724,541,734,523,738,522,732,538,730,544,724,542,721,537,718"/>
+<area shape="poly" id="edge29_Node000002_Node000019" title=" " alt="" coords="724,167,724,236,724,725,721,768,710,802,689,831,658,861,629,879,598,889,596,884,627,874,654,857,685,827,705,799,716,767,719,725,719,236,719,167"/>
+<area shape="rect" id="Node000020" href="$dc/dd9/structSDL__error.html" title=" " alt="" coords="714,5,795,32"/>
+<area shape="poly" id="edge31_Node000019_Node000020" title=" " alt="" coords="750,48,727,126,722,124,744,46"/>
+</map>

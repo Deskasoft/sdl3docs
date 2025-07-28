@@ -1,0 +1,28 @@
+var structSDL__AudioStream =
+[
+    [ "bound_device", "dd/dc0/structSDL__AudioStream.html#a870889b4e4c89a3a156ad257d0b7fb0d", null ],
+    [ "dst_chmap", "dd/dc0/structSDL__AudioStream.html#a26b32dd09e096ae9e05f244b6601ac9f", null ],
+    [ "dst_spec", "dd/dc0/structSDL__AudioStream.html#aba80f9b4e13d3f14e08186cc6d22f7f8", null ],
+    [ "freq_ratio", "dd/dc0/structSDL__AudioStream.html#a59c91a576fd992046530be504a64c1b5", null ],
+    [ "gain", "dd/dc0/structSDL__AudioStream.html#aaa98bfd356ece168d8aa2f291a59c20b", null ],
+    [ "get_callback", "dd/dc0/structSDL__AudioStream.html#a98e5c985dce96736059016d8f40caae0", null ],
+    [ "get_callback_userdata", "dd/dc0/structSDL__AudioStream.html#a2f93b144b85ae424ffe9255349c464d0", null ],
+    [ "input_chmap", "dd/dc0/structSDL__AudioStream.html#a54313174ff95ddb85b24014204bed662", null ],
+    [ "input_chmap_storage", "dd/dc0/structSDL__AudioStream.html#a1221a0264ce9fb339a56dd91614d2f0c", null ],
+    [ "input_spec", "dd/dc0/structSDL__AudioStream.html#a534f856c7caf89f7479cf178946873d0", null ],
+    [ "lock", "dd/dc0/structSDL__AudioStream.html#a1085d1c25c6fd9834fdb0b5b4fcc0e4e", null ],
+    [ "next", "dd/dc0/structSDL__AudioStream.html#a5dbea3f8ca130fd9e1a792ede6e9920f", null ],
+    [ "next_binding", "dd/dc0/structSDL__AudioStream.html#a1f728312e7b47d1d12a42dc98d9a77bf", null ],
+    [ "prev", "dd/dc0/structSDL__AudioStream.html#a47f9b036ea3f742fba0fd9983d7f6eb7", null ],
+    [ "prev_binding", "dd/dc0/structSDL__AudioStream.html#ad1be8ab017d909475d452ca48ba03c7f", null ],
+    [ "props", "dd/dc0/structSDL__AudioStream.html#a885d8e0161bbcd0f2d24d54bcf9a3a69", null ],
+    [ "put_callback", "dd/dc0/structSDL__AudioStream.html#ab6c9d3fde15f8f1d4447137b81196cf0", null ],
+    [ "put_callback_userdata", "dd/dc0/structSDL__AudioStream.html#ad69bf2e68a75655926a88a4c972b2fd4", null ],
+    [ "queue", "dd/dc0/structSDL__AudioStream.html#a73ebe9a649722c35a0a5994f694e3a3d", null ],
+    [ "resample_offset", "dd/dc0/structSDL__AudioStream.html#a2baac04661e086489fd1e9e7eb2a0567", null ],
+    [ "simplified", "dd/dc0/structSDL__AudioStream.html#a8db22eb53eb0b9ff4710cf860971cf1b", null ],
+    [ "src_chmap", "dd/dc0/structSDL__AudioStream.html#a67ed4cff417a7577ac52ab7265a9ceb5", null ],
+    [ "src_spec", "dd/dc0/structSDL__AudioStream.html#aa4f538afd7d2a2090f8ee1d32b1ce2f1", null ],
+    [ "work_buffer", "dd/dc0/structSDL__AudioStream.html#af15560b661be902b0b0ec78a493e2683", null ],
+    [ "work_buffer_allocation", "dd/dc0/structSDL__AudioStream.html#ab31b19efb675cc13405a232ffd087d6e", null ]
+];

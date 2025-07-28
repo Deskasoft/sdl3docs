@@ -1,0 +1,15 @@
+<map id="SDL_sinf" name="SDL_sinf">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,81,83"/>
+<area shape="rect" id="Node000002" href="$d3/d02/SDL__stdlib_8c.html#a56fda7c53d64a33b28a76d5a5c14bcb9" title=" " alt="" coords="129,56,200,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,67,113,67,113,72,81,72"/>
+<area shape="rect" id="Node000003" href="$de/d0d/s__sin_8c.html#ab2daeb832f8f35bc2237cfca8f0a187a" title=" " alt="" coords="248,56,360,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="201,67,233,67,233,72,201,72"/>
+<area shape="rect" id="Node000004" href="$d6/d16/e__rem__pio2_8c.html#abb840868a6f0a5a076ee3ac86992db6a" title=" " alt="" coords="408,5,549,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="352,53,415,34,416,39,354,58"/>
+<area shape="rect" id="Node000006" href="$d5/dfd/k__cos_8c.html#a5468a5a3c3d5d5e34e73fac9d6bc0122" title=" " alt="" coords="429,56,528,83"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="361,67,414,67,414,72,361,72"/>
+<area shape="rect" id="Node000007" href="$d0/d13/k__sin_8c.html#adcc3cb89edf47f34f1e8058e198be293" title=" " alt="" coords="431,107,526,133"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="354,81,418,100,416,105,352,86"/>
+<area shape="rect" id="Node000005" href="$d8/d6e/k__rem__pio2_8c.html#a96906e13fc34f043f809bacb48ed7454" title=" " alt="" coords="597,5,727,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="549,16,581,16,581,21,549,21"/>
+</map>

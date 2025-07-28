@@ -1,0 +1,11 @@
+<map id="SDL_itoa" name="SDL_itoa">
+<area shape="rect" id="Node000001" title=" " alt="" coords="589,31,665,57"/>
+<area shape="rect" id="Node000002" href="$d6/d3d/SDL__video_8c.html#af458064fe95ddc644dfb2ac06ce6521d" title=" " alt="" coords="387,31,541,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="574,47,542,47,542,41,574,41"/>
+<area shape="rect" id="Node000003" href="$d6/d3d/SDL__video_8c.html#af1571d88a7fa0bb29feed80392e2ebe8" title=" " alt="" coords="152,5,339,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,36,339,32,340,27,372,31"/>
+<area shape="rect" id="Node000004" href="$db/dff/SDL__qnxvideo_8c.html#a907a906dfb5aeb95fbb775e08410195e" title=" " alt="" coords="210,56,280,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="372,57,281,68,281,63,371,52"/>
+<area shape="rect" id="Node000005" href="$db/dff/SDL__qnxvideo_8c.html#ae6d41c8ecd96e19777886580f3274ce1" title=" " alt="" coords="5,56,104,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="195,72,104,72,104,67,195,67"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="SDL_rand" name="SDL_rand">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,85,57"/>
+<area shape="rect" id="Node000002" href="$d8/dcc/SDL__random_8c.html#a249326d3801aa39159ac962047ad0a61" title=" " alt="" coords="133,5,223,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,34,117,28,118,33,86,39"/>
+<area shape="rect" id="Node000004" href="$d8/dcc/SDL__random_8c.html#a67364819aa32b62555b07bb87604df45" title=" " alt="" coords="135,56,221,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="86,49,120,56,119,61,85,54"/>
+<area shape="rect" id="Node000003" href="$d8/dcc/SDL__random_8c.html#a67788715662e391c972f55b36207d2bb" title=" " alt="" coords="310,5,428,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="223,16,294,16,294,21,223,21"/>
+<area shape="rect" id="Node000005" href="$d9/d1f/SDL__systimer_8cpp.html#a9f6c5acc801d79510f6fb45b8e9e16bd" title=" " alt="" coords="271,56,466,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="221,67,255,67,255,72,221,72"/>
+</map>

@@ -1,0 +1,27 @@
+var SDL__fcitx_8c =
+[
+    [ "FcitxClient", "da/da1/structFcitxClient.html", "da/da1/structFcitxClient" ],
+    [ "DBUS_TIMEOUT", "d8/d3d/SDL__fcitx_8c.html#a28c3172678d0f0e401dc886e8b268deb", null ],
+    [ "FCITX_DBUS_SERVICE", "d8/d3d/SDL__fcitx_8c.html#a5892cefc4a8b2c72bca8170719a64a79", null ],
+    [ "FCITX_IC_DBUS_INTERFACE", "d8/d3d/SDL__fcitx_8c.html#af55e1f926d3b1bc0beb765447e485214", null ],
+    [ "FCITX_IM_DBUS_INTERFACE", "d8/d3d/SDL__fcitx_8c.html#a591b454f87c3745efc9b296e9454aa0d", null ],
+    [ "FCITX_IM_DBUS_PATH", "d8/d3d/SDL__fcitx_8c.html#a770af87f99961a149a735f29a1afe003", null ],
+    [ "FcitxClient", "d8/d3d/SDL__fcitx_8c.html#acdff4ac3fa14cccc175d18a950342700", null ],
+    [ "DBus_MessageFilter", "d8/d3d/SDL__fcitx_8c.html#ae2a17a5e6962c20316702ab6938a04d7", null ],
+    [ "Fcitx_GetPreeditCursorByte", "d8/d3d/SDL__fcitx_8c.html#a977520f5d9a81a90976e5e06a49e555b", null ],
+    [ "Fcitx_GetPreeditString", "d8/d3d/SDL__fcitx_8c.html#a170299343ca7001a6e79ed921d896144", null ],
+    [ "Fcitx_ModState", "d8/d3d/SDL__fcitx_8c.html#a4024fa6ef01d675e2dda3f4c9164af53", null ],
+    [ "Fcitx_SetCapabilities", "d8/d3d/SDL__fcitx_8c.html#ae202965b406bcebfa2d3a4079ece25af", null ],
+    [ "FcitxClientCreateIC", "d8/d3d/SDL__fcitx_8c.html#a66b7c030eae52c5b2def477c77be1630", null ],
+    [ "FcitxClientICCallMethod", "d8/d3d/SDL__fcitx_8c.html#ac5d5068a1bb56117f5c76bf2a41938a1", null ],
+    [ "FcitxCreateInputContext", "d8/d3d/SDL__fcitx_8c.html#a8870103b92c126cd418b22a0e4facf23", null ],
+    [ "GetAppName", "d8/d3d/SDL__fcitx_8c.html#ad69ba1b2a40508dc7748dfa2b697baff", null ],
+    [ "SDL_Fcitx_Init", "d8/d3d/SDL__fcitx_8c.html#a9599338ba69d63761b97538897945a2b", null ],
+    [ "SDL_Fcitx_ProcessKeyEvent", "d8/d3d/SDL__fcitx_8c.html#a207758bbbddba50357f0c7515467e0d2", null ],
+    [ "SDL_Fcitx_PumpEvents", "d8/d3d/SDL__fcitx_8c.html#a029b6005a9a8caa2a10ff2f4aef7dea4", null ],
+    [ "SDL_Fcitx_Quit", "d8/d3d/SDL__fcitx_8c.html#a04cbe2fdb44828e54ad9303c6cd5fdab", null ],
+    [ "SDL_Fcitx_Reset", "d8/d3d/SDL__fcitx_8c.html#a11ce84e93c3190504f91f263e0e0313d", null ],
+    [ "SDL_Fcitx_SetFocus", "d8/d3d/SDL__fcitx_8c.html#a98f655ad64118c365784b17b6297af49", null ],
+    [ "SDL_Fcitx_UpdateTextInputArea", "d8/d3d/SDL__fcitx_8c.html#ae42b39de507c4f398a2a4bbc9a3a85a4", null ],
+    [ "fcitx_client", "d8/d3d/SDL__fcitx_8c.html#a72c2f2ca3a52a2c54595e00c3109981d", null ]
+];

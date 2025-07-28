@@ -1,0 +1,15 @@
+<map id="SDL_cosf" name="SDL_cosf">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,85,83"/>
+<area shape="rect" id="Node000002" href="$d3/d02/SDL__stdlib_8c.html#ab09ee34a528dc03fa0d405ad6e43cbbe" title=" " alt="" coords="133,56,208,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,67,117,67,117,72,85,72"/>
+<area shape="rect" id="Node000003" href="$d0/d31/s__cos_8c.html#ac9dbdaf72120039a80a628bce8c83f15" title=" " alt="" coords="256,56,372,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="208,67,240,67,240,72,208,72"/>
+<area shape="rect" id="Node000004" href="$d6/d16/e__rem__pio2_8c.html#abb840868a6f0a5a076ee3ac86992db6a" title=" " alt="" coords="420,5,561,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="363,53,426,34,427,39,364,58"/>
+<area shape="rect" id="Node000006" href="$d5/dfd/k__cos_8c.html#a5468a5a3c3d5d5e34e73fac9d6bc0122" title=" " alt="" coords="441,56,540,83"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="373,67,426,67,426,72,373,72"/>
+<area shape="rect" id="Node000007" href="$d0/d13/k__sin_8c.html#adcc3cb89edf47f34f1e8058e198be293" title=" " alt="" coords="443,107,538,133"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="364,81,430,100,428,105,363,86"/>
+<area shape="rect" id="Node000005" href="$d8/d6e/k__rem__pio2_8c.html#a96906e13fc34f043f809bacb48ed7454" title=" " alt="" coords="609,5,739,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="561,16,593,16,593,21,561,21"/>
+</map>

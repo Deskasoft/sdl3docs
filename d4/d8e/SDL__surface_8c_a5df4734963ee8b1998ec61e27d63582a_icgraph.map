@@ -1,0 +1,9 @@
+<map id="SDL_PremultiplyAlpha_AXYZ128" name="SDL_PremultiplyAlpha_AXYZ128">
+<area shape="rect" id="Node000001" title=" " alt="" coords="487,23,639,65"/>
+<area shape="rect" id="Node000002" href="$d4/d8e/SDL__surface_8c.html#a2f5bfb7fb7acbf17fe83a0c6ac46635c" title=" " alt="" coords="251,23,439,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="471,47,439,47,439,41,471,41"/>
+<area shape="rect" id="Node000003" href="$d4/d8e/SDL__surface_8c.html#a1ec87bb3c58f8f133dafe81b3d7d2353" title=" " alt="" coords="28,5,180,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,35,180,29,181,24,236,30"/>
+<area shape="rect" id="Node000004" href="$d4/d8e/SDL__surface_8c.html#a239d82369f22c8c22c7994eb90f0fe4a" title=" " alt="" coords="5,56,203,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="235,58,203,62,203,56,235,53"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SDL_GetYCbCRtoRGBConversionMatrix" name="SDL_GetYCbCRtoRGBConversionMatrix">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,48,233,91"/>
+<area shape="rect" id="Node000002" href="$d0/d74/SDL__pixels_8c.html#aa466719a9ee50efffc81e2598769dff6" title=" " alt="" coords="281,5,503,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,46,301,33,302,38,233,51"/>
+<area shape="rect" id="Node000003" href="$d0/d74/SDL__pixels_8c.html#a095faa115b4445905cb7a787d426d191" title=" " alt="" coords="284,56,500,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,67,269,67,269,72,233,72"/>
+<area shape="rect" id="Node000004" href="$d0/d74/SDL__pixels_8c.html#a2073c0250ec55de3cb465e146dee6dc3" title=" " alt="" coords="284,107,500,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="233,88,302,101,301,106,232,93"/>
+</map>

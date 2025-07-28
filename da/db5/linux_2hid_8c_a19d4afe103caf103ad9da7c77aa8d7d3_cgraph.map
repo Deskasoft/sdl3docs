@@ -1,0 +1,10 @@
+<map id="get_next_hid_usage" name="get_next_hid_usage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,24,143,51"/>
+<area shape="rect" id="Node000002" href="$da/db5/linux_2hid_8c.html#a1b0703db2b80f02c7e3b51c77b5604fb" title=" " alt="" coords="414,24,540,51"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,21,190,9,278,3,366,9,412,17,411,22,366,14,278,8,191,14,128,26"/>
+<area shape="rect" id="Node000003" href="$da/db5/linux_2hid_8c.html#a04367defdccee748e0134113c753f5e5" title=" " alt="" coords="207,24,350,51"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,35,191,35,191,40,143,40"/>
+<area shape="rect" id="Node000004" href="$da/db5/linux_2hid_8c.html#a0d0aa83ca2edc3ed60dfd69c216688a5" title=" " alt="" coords="191,75,366,101"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="132,49,208,68,206,73,130,54"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="333,71,407,52,408,57,334,76"/>
+</map>

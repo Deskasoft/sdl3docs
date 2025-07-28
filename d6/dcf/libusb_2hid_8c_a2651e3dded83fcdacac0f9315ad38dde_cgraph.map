@@ -1,0 +1,9 @@
+<map id="new_hid_device" name="new_hid_device">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,120,32"/>
+<area shape="rect" id="Node000002" href="$d0/d23/hidapi__thread__pthread_8h.html#a318f8f85537c944cd6777b90fe94d4fb" title=" " alt="" coords="168,5,326,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,16,152,16,152,21,120,21"/>
+<area shape="rect" id="Node000003" href="$d1/de6/mac_2hid_8c.html#a9a83ea555e8b09d5988a00804ae53e47" title=" " alt="" coords="374,5,505,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="327,16,358,16,358,21,327,21"/>
+<area shape="rect" id="Node000004" href="$d3/dda/eglext_8h.html#a0f7193911e632cd84da4082d5c628fe3" title=" " alt="" coords="553,5,599,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="506,16,538,16,538,21,506,21"/>
+</map>

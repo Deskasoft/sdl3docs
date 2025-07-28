@@ -1,0 +1,12 @@
+<map id="CreatePhysicalAudioDevice" name="CreatePhysicalAudioDevice">
+<area shape="rect" id="Node000001" title=" " alt="" coords="668,31,853,57"/>
+<area shape="rect" id="Node000002" href="$d6/d9b/SDL__audio_8c.html#a0010e54c622d68b0a78b0e5f68d95878" title=" " alt="" coords="430,5,618,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="653,35,618,31,619,26,653,30"/>
+<area shape="rect" id="Node000005" href="$d6/d9b/SDL__audio_8c.html#a15be024c405ea05d648dbdba13944558" title=" " alt="" coords="427,56,620,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="653,58,621,62,621,56,653,53"/>
+<area shape="rect" id="Node000003" href="$d6/d9b/SDL__audio_8c.html#aae09e0ccff5944b2af8d26d8f86058bd" title=" " alt="" coords="228,31,379,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="415,34,380,38,379,33,414,29"/>
+<area shape="rect" id="Node000004" href="$d6/d9b/SDL__audio_8c.html#a63ad09335ca7b4758b9ef2cd398b04d2" title=" " alt="" coords="5,23,180,65"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="212,47,180,47,180,41,212,41"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="411,59,379,55,379,50,412,54"/>
+</map>

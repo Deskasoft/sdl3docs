@@ -1,0 +1,21 @@
+<map id="GetAudioStreamAvailableFrames" name="GetAudioStreamAvailableFrames">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,107,220,133"/>
+<area shape="rect" id="Node000002" href="$dc/d77/SDL__audiocvt_8c.html#a24cc90df57e6ff3051c07285b91236f3" title=" " alt="" coords="285,81,428,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,106,269,101,269,106,221,111"/>
+<area shape="rect" id="Node000010" href="$df/dd6/SDL__audioqueue_8c.html#a5b42661980246916e03455342e7110ef" title=" " alt="" coords="268,132,445,159"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="221,129,252,132,252,137,220,134"/>
+<area shape="rect" id="Node000003" href="$dc/d77/SDL__audiocvt_8c.html#a84a00bb17f8d27b12034ac07059e0523" title=" " alt="" coords="506,5,710,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="390,78,492,41,521,34,523,39,494,47,392,83"/>
+<area shape="rect" id="Node000005" href="$d0/d15/SDL__audioresample_8c.html#a9caea21adc823ed51d56a9da7b146630" title=" " alt="" coords="497,56,718,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="428,85,481,79,482,85,429,90"/>
+<area shape="rect" id="Node000008" href="$d0/d15/SDL__audioresample_8c.html#ae33860764723690918a4bee63ffd9dfa" title=" " alt="" coords="493,107,722,133"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="429,99,478,104,477,110,428,105"/>
+<area shape="rect" id="Node000009" href="$df/dd6/SDL__audioqueue_8c.html#a42b3046318f152b7c36001c7c63ee10a" title=" " alt="" coords="522,157,694,184"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="413,106,446,118,470,131,494,143,517,150,516,155,492,148,468,135,444,122,411,111"/>
+<area shape="rect" id="Node000004" href="$d0/d15/SDL__audioresample_8c.html#a66d2518e4967cc4820b12e1724bbcb43" title=" " alt="" coords="770,5,933,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="710,16,755,16,755,21,710,21"/>
+<area shape="rect" id="Node000006" href="$d0/d15/SDL__audioresample_8c.html#ad38938f08cac8a1b8894bdee7c40ab19" title=" " alt="" coords="798,56,905,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="719,67,782,67,782,72,719,72"/>
+<area shape="rect" id="Node000007" href="$d0/d15/SDL__audioresample_8c.html#a27abfafe93e09240adc373fcdc1b1735" title=" " alt="" coords="799,107,904,133"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="676,81,784,103,783,109,675,86"/>
+</map>

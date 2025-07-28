@@ -1,0 +1,19 @@
+<map id="SDL_DllNotSupported" name="SDL_DllNotSupported">
+<area shape="rect" id="Node000001" title=" " alt="" coords="985,56,1135,83"/>
+<area shape="rect" id="Node000002" href="$d6/d3d/SDL__video_8c.html#a2836853a7134fb3b5667b18ccb637afe" title=" " alt="" coords="780,31,926,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="969,61,926,56,927,50,970,56"/>
+<area shape="rect" id="Node000008" href="$d6/d3d/SDL__video_8c.html#a51f08732f909cf8345b427cb9632fb9c" title=" " alt="" coords="769,81,937,108"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="970,83,938,87,937,82,969,78"/>
+<area shape="rect" id="Node000003" href="$d6/d3d/SDL__video_8c.html#a9f3d88531134e2c3e575a3c2db7f8488" title=" " alt="" coords="495,31,721,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="765,47,722,47,722,41,765,41"/>
+<area shape="rect" id="Node000007" href="$d6/d3d/SDL__video_8c.html#ac71558ab32ba69c961258e4cb6bcaa01" title=" " alt="" coords="531,81,685,108"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="771,64,677,83,676,78,770,58"/>
+<area shape="rect" id="Node000004" href="$d6/d3d/SDL__video_8c.html#acc26de39ce1bd675446e4d6c05ebf4b0" title=" " alt="" coords="270,5,447,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="479,34,447,30,448,25,479,28"/>
+<area shape="rect" id="Node000005" href="$d6/d3d/SDL__video_8c.html#a83103c86f9e5c33ab9e1fb6dfa904b7f" title=" " alt="" coords="288,56,428,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="480,60,429,65,429,60,479,54"/>
+<area shape="rect" id="Node000006" href="$dd/df3/SDL__render_8c.html#a36f859fae15e4277ba052f9ecfb2816d" title=" " alt="" coords="5,56,222,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="272,72,222,72,222,67,272,67"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="770,80,676,61,677,55,771,75"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="754,97,686,97,686,92,754,92"/>
+</map>

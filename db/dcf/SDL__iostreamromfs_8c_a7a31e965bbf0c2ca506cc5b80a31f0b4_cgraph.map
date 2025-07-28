@@ -1,0 +1,10 @@
+<map id="TryOpenFile" name="TryOpenFile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,98,81"/>
+<area shape="rect" id="Node000002" href="$db/dcf/SDL__iostreamromfs_8c.html#a29bf33822b0c3b6ee58dc6fc8071dab4" title=" " alt="" coords="146,55,267,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,65,131,65,131,71,98,71"/>
+<area shape="rect" id="Node000003" href="$d2/d5b/SDL__stdinc_8h.html#a50d27ce9b64eda78b3ece5a6bb7d0a17" title=" " alt="" coords="315,29,412,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="267,56,299,50,300,56,268,61"/>
+<area shape="rect" id="Node000004" href="$d4/d23/SDL__malloc_8c.html#a883d5d0a9ce20246045f385a6b99ebf2" title=" " alt="" coords="326,80,402,107"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="268,75,311,82,310,87,267,80"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="336,30,332,21,335,11,346,5,364,3,383,5,393,12,390,16,381,10,364,8,348,10,339,15,337,20,341,28"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CleanupSurface" name="CleanupSurface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="428,5,542,32"/>
+<area shape="rect" id="Node000002" href="$d3/de7/SDL__properties_8c.html#a136cfbaeb2f7d6f1a6b42ac67e1e1dde" title=" " alt="" coords="212,5,380,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="413,21,380,21,380,16,413,16"/>
+<area shape="rect" id="Node000003" href="$d6/d3d/SDL__video_8c.html#a0cf57d6a9a24c0ad18c970218e11f8a5" title=" " alt="" coords="5,5,164,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="196,21,164,21,164,16,196,16"/>
+</map>

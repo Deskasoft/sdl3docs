@@ -1,0 +1,10 @@
+<map id="SDL_cond_generic" name="SDL_cond_generic">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,245,137,272"/>
+<area shape="rect" id="Node000002" href="$d8/d0b/structSDL__Semaphore.html" title=" " alt="" coords="144,104,264,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,130,107,140,87,156,76,178,70,202,72,245,66,245,65,201,71,176,83,153,104,136,128,125"/>
+<area shape="rect" id="Node000003" href="$d0/df2/structSDL__Mutex.html" title=" " alt="" coords="191,245,282,272"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="200,146,196,182,198,202,203,220,211,233,221,243,217,247,207,236,198,222,193,203,191,182,195,145"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,230,243,193,237,156,219,133,223,130,241,154,249,193,245,230"/>
+<area shape="rect" id="Node000004" href="$d0/d07/structSDL__Condition.html" title=" " alt="" coords="150,5,259,32"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="207,48,207,104,202,104,202,48"/>
+</map>

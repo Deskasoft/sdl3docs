@@ -1,0 +1,10 @@
+<map id="get_usb_string" name="get_usb_string">
+<area shape="rect" id="Node000001" title=" " alt="" coords="425,35,531,62"/>
+<area shape="rect" id="Node000002" href="$d6/dcf/libusb_2hid_8c.html#a9379fed29469f3d002be877d3d35fc94" title=" " alt="" coords="5,27,136,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="429,32,376,18,323,10,280,8,184,18,134,29,133,24,183,13,280,3,323,5,378,13,431,27"/>
+<area shape="rect" id="Node000003" href="$d6/dcf/libusb_2hid_8c.html#a4de3591f7fd5459a1616ba2a9e79792f" title=" " alt="" coords="184,27,377,70"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="409,51,377,51,377,46,409,46"/>
+<area shape="rect" id="Node000004" href="$d6/dcf/libusb_2hid_8c.html#a24290f0bcb561bf958345ca15ac4f54e" title=" " alt="" coords="205,94,356,121"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="424,70,378,84,337,96,336,91,376,79,422,65"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="210,92,183,84,135,71,137,66,184,79,212,87"/>
+</map>

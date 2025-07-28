@@ -1,0 +1,18 @@
+<map id="SDL&#45;main/src/video/khronos" name="SDL&#45;main/src/video/khronos">
+<area shape="rect" id="node2" href="dir_a8a27568e5cf04577c0f50e11ab5ba1e.html" title="EGL" alt="" coords="128,64,176,91"/>
+<area shape="rect" id="node5" href="dir_f7abe68a34d952fc8ffe42e730905d96.html" title="KHR" alt="" coords="207,139,257,165"/>
+<area shape="poly" id="edge1" href="dir_000053_000102.html" alt="" coords="168,89,209,126,205,130,164,93"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000053_000102.html" title="2" alt="" coords="207,112,214,128"/>
+<area shape="rect" id="node3" href="dir_f2de48ad2e58d59724224c89d2939fbe.html" title="GLES2" alt="" coords="200,64,264,91"/>
+<area shape="poly" id="edge2" href="dir_000075_000102.html" alt="" coords="235,91,235,123,229,123,229,91"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000075_000102.html" title="2" alt="" coords="237,112,244,128"/>
+<area shape="rect" id="node4" href="dir_860c9c55543b417dfc46dab1c8b0eb81.html" title="GLES3" alt="" coords="288,64,352,91"/>
+<area shape="poly" id="edge3" href="dir_000076_000102.html" alt="" coords="306,93,261,131,257,127,303,89"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000076_000102.html" title="4" alt="" coords="263,125,270,141"/>
+<area shape="rect" id="node6" href="dir_04b59d45cd69955a90d5a825e410a839.html" title="vk_video" alt="" coords="361,139,434,165"/>
+<area shape="rect" id="node7" href="dir_c520d58958d7d410aa2824562c904dff.html" title="vulkan" alt="" coords="376,64,435,91"/>
+<area shape="poly" id="edge4" href="dir_000234_000231.html" alt="" coords="407,92,403,123,398,123,401,91"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000234_000231.html" title="8" alt="" coords="406,113,413,129"/>
+<area shape="rect" id="clust2" href="dir_e2f1da778e7005a1dd7ca11092cfab76.html" alt="" coords="27,53,445,176"/>
+<area shape="rect" id="clust1" href="dir_b7b7438138b39ba7ca73db38a6ad36be.html" title="video" alt="" coords="16,16,456,187"/>
+</map>

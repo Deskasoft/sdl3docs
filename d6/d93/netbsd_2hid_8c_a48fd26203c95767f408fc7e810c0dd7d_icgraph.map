@@ -1,0 +1,9 @@
+<map id="is_uhid_device" name="is_uhid_device">
+<area shape="rect" id="Node000001" title=" " alt="" coords="469,31,576,57"/>
+<area shape="rect" id="Node000002" href="$d6/d93/netbsd_2hid_8c.html#a2854cca5b54881d5377122bbf3d4ef6f" title=" " alt="" coords="249,5,410,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="454,38,410,32,411,27,454,32"/>
+<area shape="rect" id="Node000004" href="$d6/d93/netbsd_2hid_8c.html#a0e569381b03120d85110c54f4cdff5b5" title=" " alt="" coords="238,56,421,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="454,56,422,60,421,55,453,50"/>
+<area shape="rect" id="Node000003" href="$d6/d93/netbsd_2hid_8c.html#af0dea306823d0667824a60d703dc3583" title=" " alt="" coords="5,5,190,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="233,21,190,21,190,16,233,16"/>
+</map>

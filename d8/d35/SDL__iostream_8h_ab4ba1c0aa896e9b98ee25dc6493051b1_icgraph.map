@@ -1,0 +1,21 @@
+<map id="SDL_TellIO" name="SDL_TellIO">
+<area shape="rect" id="Node000001" title=" " alt="" coords="541,56,630,83"/>
+<area shape="rect" id="Node000002" href="$d8/dc3/SDL__bmp_8c.html#a46ec958b331ad4389a21b6684b366e32" title=" " alt="" coords="360,5,492,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="526,53,470,35,471,30,527,48"/>
+<area shape="rect" id="Node000004" href="$d8/dc3/SDL__bmp_8c.html#af0a2eb4b50ca5db2da58753f5c52708f" title=" " alt="" coords="359,56,493,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="526,72,493,72,493,67,526,67"/>
+<area shape="rect" id="Node000008" href="$d4/dac/SDL__wave_8c.html#a74a2f92d8c663adf2d70ed3fc458c1b5" title=" " alt="" coords="385,107,467,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="527,91,469,109,467,104,526,85"/>
+<area shape="rect" id="Node000003" href="$d8/dc3/SDL__bmp_8c.html#adb17cfdf4bf377079462ffa3701eeb76" title=" " alt="" coords="189,5,300,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="345,21,301,21,301,16,345,16"/>
+<area shape="rect" id="Node000005" href="$d8/dc3/SDL__bmp_8c.html#a2ec09df87ef99ab18dc7ba5e61be57d1" title=" " alt="" coords="188,56,302,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="344,72,302,72,302,67,344,67"/>
+<area shape="rect" id="Node000006" href="$d4/d03/unix_2SDL__tray_8c.html#a206a4c41714798d7da6da4c129f0973b" title=" " alt="" coords="8,5,128,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="181,54,116,35,118,30,182,49"/>
+<area shape="rect" id="Node000007" href="$d4/d03/unix_2SDL__tray_8c.html#a2372c5e3d0c864715dbeb77d23cbca03" title=" " alt="" coords="5,56,131,83"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="173,72,131,72,131,67,173,67"/>
+<area shape="rect" id="Node000009" href="$d4/dac/SDL__wave_8c.html#afeaef077e6cb8f35303b234139713b6d" title=" " alt="" coords="179,107,311,133"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="370,123,311,123,311,117,370,117"/>
+<area shape="rect" id="Node000010" href="$d4/dac/SDL__wave_8c.html#a8f44fee5faff8eeca26f48be1e66141f" title=" " alt="" coords="12,107,124,133"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="163,123,124,123,124,117,163,117"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="TrayWindowProc" name="TrayWindowProc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,131,127,157"/>
+<area shape="rect" id="Node000002" href="$d1/d09/windows_2SDL__tray_8c.html#a84a020530eac7696e6353cf9596b3eee" title=" " alt="" coords="221,29,348,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,128,121,96,174,66,205,54,207,59,176,70,124,101,84,132"/>
+<area shape="rect" id="Node000004" href="$d2/daf/dummy_2SDL__tray_8c.html#aa433994da8bafef8f4d12e4406f5780b" title=" " alt="" coords="192,80,376,107"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="126,127,174,116,208,108,209,113,175,121,127,133"/>
+<area shape="rect" id="Node000005" href="$d2/daf/dummy_2SDL__tray_8c.html#ab390553f61537894348b085dc159325f" title=" " alt="" coords="193,131,376,157"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="127,141,177,141,177,147,127,147"/>
+<area shape="rect" id="Node000006" href="$d2/d23/SDL__string_8c.html#a8cf0e4ab93dec3239f05ffe102afc3ad" title=" " alt="" coords="233,181,336,208"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="127,155,175,167,218,177,217,182,174,172,126,161"/>
+<area shape="rect" id="Node000007" href="$d2/d07/SDL__windowswindow_8h.html#ac82b37640c73f07fc5177b4941af06cb" title=" " alt="" coords="175,232,394,259"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="84,156,124,187,176,218,193,224,191,229,173,222,121,192,81,160"/>
+<area shape="rect" id="Node000003" href="$d1/d09/windows_2SDL__tray_8c.html#a2477fc2494b3300aaeb252fca2f10d65" title=" " alt="" coords="442,29,576,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="348,40,426,40,426,45,348,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="471,30,464,21,469,11,484,5,509,3,536,5,550,12,548,17,534,10,509,8,486,10,473,15,470,20,476,27"/>
+</map>

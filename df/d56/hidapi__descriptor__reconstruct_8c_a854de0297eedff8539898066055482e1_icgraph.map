@@ -1,0 +1,7 @@
+<map id="rd_append_byte" name="rd_append_byte">
+<area shape="rect" id="Node000001" title="Function that appends a byte to encoded report descriptor buffer." alt="" coords="416,13,529,40"/>
+<area shape="rect" id="Node000002" href="$df/d56/hidapi__descriptor__reconstruct_8c.html#abaecd5fdc9c8e2b90960994e420ca919" title="Writes a short report descriptor item according USB HID spec 1.11 chapter 6.2.2.2." alt="" coords="233,13,368,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="401,29,369,29,369,24,401,24"/>
+<area shape="rect" id="Node000003" href="$df/d56/hidapi__descriptor__reconstruct_8c.html#aafccfd3152b913cf618cbdca1cb669e7" title=" " alt="" coords="5,5,185,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="217,29,185,29,185,24,217,24"/>
+</map>

@@ -1,0 +1,27 @@
+var structSDL__Texture =
+[
+    [ "access", "dd/d63/structSDL__Texture.html#a44753cc23c2f694476a82cbd83a763b0", null ],
+    [ "blendMode", "dd/d63/structSDL__Texture.html#a841b0eeacbc270f232828e12c60f4695", null ],
+    [ "color", "dd/d63/structSDL__Texture.html#a46dde21d8c5143b504759d1fec79a987", null ],
+    [ "colorspace", "dd/d63/structSDL__Texture.html#a3f30a757c3119cfd098b4fc97221b0fc", null ],
+    [ "format", "dd/d63/structSDL__Texture.html#abdb0a016beabe999e54dbbe80cc24791", null ],
+    [ "h", "dd/d63/structSDL__Texture.html#ab8f9e95794f8d1c734b1f140ee1ba1b0", null ],
+    [ "HDR_headroom", "dd/d63/structSDL__Texture.html#a611c20ab0ac60c10f70dc8987ef17e0b", null ],
+    [ "internal", "dd/d63/structSDL__Texture.html#a01a5764b3ecd36219b5c70273769e892", null ],
+    [ "last_command_generation", "dd/d63/structSDL__Texture.html#a19fdeaf640bc3d063447c6e2df5ef4d0", null ],
+    [ "locked_rect", "dd/d63/structSDL__Texture.html#a200946a2ca924300966c3d7efbac1266", null ],
+    [ "locked_surface", "dd/d63/structSDL__Texture.html#a454c991fb6955c70504e8ba05042f53b", null ],
+    [ "native", "dd/d63/structSDL__Texture.html#ac11628aa18338535bb6323bb761b1e76", null ],
+    [ "next", "dd/d63/structSDL__Texture.html#a7ac8e4b7bfbfcb326584990a58b01cb4", null ],
+    [ "pitch", "dd/d63/structSDL__Texture.html#acef103b62fd8a105f7b5846fdd7f1baf", null ],
+    [ "pixels", "dd/d63/structSDL__Texture.html#a715738d4fa2959f81fbd273dbe503ad3", null ],
+    [ "prev", "dd/d63/structSDL__Texture.html#a19fa09c10c4817e2807c04e075445570", null ],
+    [ "props", "dd/d63/structSDL__Texture.html#a13a5c382d366459de82e0a770e9e439a", null ],
+    [ "refcount", "dd/d63/structSDL__Texture.html#a678abbf58cabf1196ef4a795b394cbb2", null ],
+    [ "renderer", "dd/d63/structSDL__Texture.html#a0f5f1b43cfbf1c3f930b2fe1ff6e02dd", null ],
+    [ "scaleMode", "dd/d63/structSDL__Texture.html#ad3ee1ee0670dce1d9c5c89b0f72d6e4f", null ],
+    [ "SDR_white_point", "dd/d63/structSDL__Texture.html#a50633f8b092c1bb0c63449fe41284fab", null ],
+    [ "view", "dd/d63/structSDL__Texture.html#a3146896606c1653dad435772cadf9dea", null ],
+    [ "w", "dd/d63/structSDL__Texture.html#ada6314bc19dae2846868291c167dc54a", null ],
+    [ "yuv", "dd/d63/structSDL__Texture.html#a2d1cf50574c19f0d6322ca0aa29e97f6", null ]
+];

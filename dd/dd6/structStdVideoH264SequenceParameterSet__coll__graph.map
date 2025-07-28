@@ -1,0 +1,13 @@
+<map id="StdVideoH264SequenceParameterSet" name="StdVideoH264SequenceParameterSet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="156,219,399,245"/>
+<area shape="rect" id="Node000002" href="$d3/da8/structStdVideoH264SpsFlags.html" title=" " alt="" coords="5,112,166,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,144,256,216,253,220,121,149"/>
+<area shape="rect" id="Node000003" href="$d8/d96/structStdVideoH264ScalingLists.html" title=" " alt="" coords="189,112,366,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="280,154,280,218,275,218,275,154"/>
+<area shape="rect" id="Node000004" href="$d3/d8d/structStdVideoH264SequenceParameterSetVui.html" title=" " alt="" coords="390,104,613,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="452,157,371,197,313,221,311,216,368,192,450,152"/>
+<area shape="rect" id="Node000005" href="$dd/d2f/structStdVideoH264SpsVuiFlags.html" title=" " alt="" coords="307,5,485,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="421,41,483,102,479,105,418,45"/>
+<area shape="rect" id="Node000006" href="$d9/dde/structStdVideoH264HrdParameters.html" title=" " alt="" coords="509,5,702,32"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="584,45,524,105,520,102,581,41"/>
+</map>

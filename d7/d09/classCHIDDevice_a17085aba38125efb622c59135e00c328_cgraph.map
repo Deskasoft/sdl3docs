@@ -1,0 +1,10 @@
+<map id="CHIDDevice::WriteReport" name="CHIDDevice::WriteReport">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,179,107"/>
+<area shape="rect" id="Node000002" href="$d7/d09/classCHIDDevice.html#add40838276f4e7cd0baf44463a857ccf" title=" " alt="" coords="227,29,427,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,77,246,57,247,62,158,82"/>
+<area shape="rect" id="Node000003" href="$d2/d5c/hid_8cpp.html#a372773a730381bce518e206cfb83765a" title=" " alt="" coords="274,80,380,107"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="179,91,258,91,258,96,179,96"/>
+<area shape="rect" id="Node000004" href="$d5/d75/SDL__core__unsupported_8c.html#a6cd0dafa9f187b994afe2fdbce3d4db7" title=" " alt="" coords="245,131,408,157"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="158,105,247,124,246,129,157,110"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="287,31,280,21,285,11,301,5,327,3,355,5,370,12,368,17,354,10,327,8,302,10,289,15,286,20,292,27"/>
+</map>

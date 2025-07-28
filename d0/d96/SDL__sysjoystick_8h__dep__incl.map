@@ -1,0 +1,20 @@
+<map id="SDL&#45;main/src/joystick/SDL_sysjoystick.h" name="SDL&#45;main/src/joystick/SDL_sysjoystick.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="571,5,721,48"/>
+<area shape="rect" id="Node000002" href="$d7/d99/SDL__hidapihaptic__c_8h.html" title=" " alt="" coords="5,96,196,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="556,44,209,99,196,101,195,96,208,93,555,39"/>
+<area shape="rect" id="Node000003" href="$d0/d82/SDL__gamepad_8c.html" title=" " alt="" coords="220,96,370,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="556,53,371,100,370,94,555,48"/>
+<area shape="rect" id="Node000004" href="$d6/df9/SDL__joystick_8c.html" title=" " alt="" coords="395,96,545,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="592,58,512,98,510,93,590,53"/>
+<area shape="rect" id="Node000005" href="$dc/d2f/SDL__mfijoystick_8m.html" title=" " alt="" coords="560,187,732,229"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="625,62,610,97,606,117,610,138,620,163,633,185,628,188,615,165,605,139,601,117,605,95,620,60"/>
+<area shape="rect" id="Node000006" href="$d1/d79/SDL__mfijoystick__c_8h.html" title=" " alt="" coords="619,96,800,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="672,59,697,94,693,97,667,62"/>
+<area shape="rect" id="Node000007" href="$d3/d7b/SDL__dinputjoystick_8c.html" title=" " alt="" coords="825,96,1029,139"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="727,51,862,93,860,98,725,56"/>
+<area shape="rect" id="Node000008" href="$d1/d48/SDL__windowsjoystick__c_8h.html" title=" " alt="" coords="1054,96,1288,139"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="737,41,1054,94,1053,99,736,46"/>
+<area shape="rect" id="Node000009" href="$d3/dfc/SDL__xinputjoystick_8c.html" title=" " alt="" coords="1313,96,1517,139"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="737,33,991,57,1301,93,1313,95,1312,100,1300,99,991,62,737,38"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="688,153,663,188,658,185,684,150"/>
+</map>

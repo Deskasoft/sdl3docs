@@ -1,0 +1,16 @@
+<map id="SDL_GetCPUCacheLineSize" name="SDL_GetCPUCacheLineSize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,107,198,133"/>
+<area shape="rect" id="Node000002" href="$d8/d58/SDL__cpuinfo_8c.html#a59f3e65fddb47fb609a02a2e585180d4" title=" " alt="" coords="246,56,378,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,103,238,84,239,89,161,109"/>
+<area shape="rect" id="Node000006" href="$d3/dda/eglext_8h.html#a0f7193911e632cd84da4082d5c628fe3" title=" " alt="" coords="491,107,536,133"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="198,117,475,117,475,123,198,123"/>
+<area shape="rect" id="Node000007" href="$d2/d23/SDL__string_8c.html#aadec2adb3f8bfe52b3120a16e1d2d66f" title=" " alt="" coords="265,157,359,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="161,131,250,153,249,158,159,137"/>
+<area shape="rect" id="Node000003" href="$d8/d58/SDL__cpuinfo_8c.html#a8cf3da498c43e24a1aa3ee46ae12bdd9" title=" " alt="" coords="426,5,601,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="367,53,442,34,443,39,369,58"/>
+<area shape="rect" id="Node000005" href="$d2/d5b/SDL__stdinc_8h.html#a490388bcb3278665a58918183f35f4b4" title=" " alt="" coords="467,56,560,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="378,67,452,67,452,72,378,72"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="369,81,477,108,475,113,367,86"/>
+<area shape="rect" id="Node000004" href="$d8/d58/SDL__cpuinfo_8c.html#a529ae4d6e2c08233bb75938b7d84d7f5" title=" " alt="" coords="649,5,778,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="601,16,634,16,634,21,601,21"/>
+</map>

@@ -1,0 +1,25 @@
+var SDL__vitavideo_8h =
+[
+    [ "SDL_VideoData", "df/db4/structSDL__VideoData.html", "df/db4/structSDL__VideoData" ],
+    [ "SDL_WindowData", "d4/dd9/structSDL__WindowData.html", "d4/dd9/structSDL__WindowData" ],
+    [ "VITA_CreateWindow", "dd/db2/SDL__vitavideo_8h.html#aa060e8ca58771fe4dc976c95be23f426", null ],
+    [ "VITA_DestroyWindow", "dd/db2/SDL__vitavideo_8h.html#a4f66b1bcf062f52fea7e9439c1a9f439", null ],
+    [ "VITA_HasScreenKeyboardSupport", "dd/db2/SDL__vitavideo_8h.html#ae0610441eeb772d4eb5214272794be3e", null ],
+    [ "VITA_HideScreenKeyboard", "dd/db2/SDL__vitavideo_8h.html#a197a52b9722789e96b40dee35cb58085", null ],
+    [ "VITA_HideWindow", "dd/db2/SDL__vitavideo_8h.html#a9f15d7871942d62135f65090b79af8be", null ],
+    [ "VITA_IsScreenKeyboardShown", "dd/db2/SDL__vitavideo_8h.html#a44ec172eadd334b01b55139c6481e98e", null ],
+    [ "VITA_MaximizeWindow", "dd/db2/SDL__vitavideo_8h.html#a9bee37df966b2ddc56ad3c945844ea4e", null ],
+    [ "VITA_MinimizeWindow", "dd/db2/SDL__vitavideo_8h.html#a64250c3a3ebdbd2949124de84565cc25", null ],
+    [ "VITA_PumpEvents", "dd/db2/SDL__vitavideo_8h.html#aacadbff7768a38fd7624d70b670c1e39", null ],
+    [ "VITA_RaiseWindow", "dd/db2/SDL__vitavideo_8h.html#a32c8e571fcf8d972c64e33e5ed1111e4", null ],
+    [ "VITA_RestoreWindow", "dd/db2/SDL__vitavideo_8h.html#ad43ad5f11637dc0996b9873324712c33", null ],
+    [ "VITA_SetWindowGrab", "dd/db2/SDL__vitavideo_8h.html#a7eaef8ddb3cc23eadb4cc94e9156a710", null ],
+    [ "VITA_SetWindowPosition", "dd/db2/SDL__vitavideo_8h.html#a9059efffff42412b0bba9144e87193ac", null ],
+    [ "VITA_SetWindowSize", "dd/db2/SDL__vitavideo_8h.html#af8ba85ff203e2e64d4f4e822e185b14f", null ],
+    [ "VITA_SetWindowTitle", "dd/db2/SDL__vitavideo_8h.html#a1f311f9276b29057123acec8a2dc79e2", null ],
+    [ "VITA_ShowScreenKeyboard", "dd/db2/SDL__vitavideo_8h.html#ad8afc82fbe7ccfa9f9dfe6d44f25232b", null ],
+    [ "VITA_ShowWindow", "dd/db2/SDL__vitavideo_8h.html#a80c34280aa8da7efdeec8e73942c4b38", null ],
+    [ "VITA_VideoInit", "dd/db2/SDL__vitavideo_8h.html#a2d7cf46c4cd7752e8d9af27b122238d3", null ],
+    [ "VITA_VideoQuit", "dd/db2/SDL__vitavideo_8h.html#a6a35ad5691eb628ba585517fb1a3a7a5", null ],
+    [ "Vita_Window", "dd/db2/SDL__vitavideo_8h.html#ad11cacefb04e354e04485e8e472cf4d7", null ]
+];

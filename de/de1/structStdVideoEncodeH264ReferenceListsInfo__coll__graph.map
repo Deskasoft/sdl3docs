@@ -1,0 +1,9 @@
+<map id="StdVideoEncodeH264ReferenceListsInfo" name="StdVideoEncodeH264ReferenceListsInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="427,81,636,124"/>
+<area shape="rect" id="Node000002" href="$d0/d3c/structStdVideoEncodeH264ReferenceListsInfoFlags.html" title=" " alt="" coords="5,5,215,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,29,316,38,403,53,480,78,479,83,402,59,315,43,230,35"/>
+<area shape="rect" id="Node000003" href="$de/dfd/structStdVideoEncodeH264RefListModEntry.html" title=" " alt="" coords="14,81,206,124"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,100,426,100,426,105,221,105"/>
+<area shape="rect" id="Node000004" href="$d5/d3c/structStdVideoEncodeH264RefPicMarkingEntry.html" title=" " alt="" coords="15,148,205,191"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="220,155,402,129,439,122,440,127,403,135,220,161"/>
+</map>

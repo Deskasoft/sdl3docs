@@ -1,0 +1,32 @@
+<map id="SDL&#45;main/src/thread/SDL_thread_c.h" name="SDL&#45;main/src/thread/SDL_thread_c.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1324,5,1465,48"/>
+<area shape="rect" id="Node000002" href="$df/d78/SDL_8c.html" title=" " alt="" coords="879,104,1021,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1308,46,1033,99,1001,106,1000,101,1032,93,1307,40"/>
+<area shape="rect" id="Node000003" href="$d8/dfa/SDL__systhread_8h.html" title=" " alt="" coords="1045,96,1186,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1315,56,1182,98,1180,93,1313,51"/>
+<area shape="rect" id="Node000009" href="$de/de3/SDL__thread_8c.html" title=" " alt="" coords="1298,195,1440,237"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="1392,64,1374,195,1369,194,1387,63"/>
+<area shape="rect" id="Node000011" href="$d4/d22/pthread_2SDL__systhread_8c.html" title=" " alt="" coords="1464,195,1637,237"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="1410,61,1428,99,1454,137,1485,167,1518,192,1515,196,1481,172,1449,140,1424,102,1405,64"/>
+<area shape="rect" id="Node000012" href="$d3/d6b/pthread_2SDL__systls_8c.html" title=" " alt="" coords="1661,195,1812,237"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="1424,58,1497,137,1536,157,1570,166,1605,173,1650,184,1673,192,1672,197,1648,189,1604,178,1569,172,1534,162,1494,141,1420,62"/>
+<area shape="rect" id="Node000014" href="$d3/d46/generic_2SDL__systls_8c.html" title=" " alt="" coords="1507,96,1657,139"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="1453,53,1539,93,1537,98,1451,57"/>
+<area shape="rect" id="Node000004" href="$d6/d9b/SDL__audio_8c.html" title=" " alt="" coords="965,195,1101,237"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1090,152,1052,196,1048,193,1086,149"/>
+<area shape="rect" id="Node000005" href="$db/d6b/SDL__camera_8c.html" title=" " alt="" coords="1125,195,1274,237"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1145,149,1184,193,1180,196,1141,152"/>
+<area shape="rect" id="Node000006" href="$dd/d4a/SDL__camera__android_8c.html" title=" " alt="" coords="5,187,154,245"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="1030,142,898,156,786,162,595,159,503,157,405,160,294,169,165,189,155,192,154,186,164,184,294,164,404,154,503,152,595,154,786,157,898,151,1029,136"/>
+<area shape="rect" id="Node000007" href="$d5/d4b/SDL__windowsdialog_8c.html" title=" " alt="" coords="178,195,387,237"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="1030,142,934,154,852,161,712,165,574,170,493,177,399,189,360,197,359,191,398,184,492,171,573,164,712,160,852,156,933,149,1029,136"/>
+<area shape="rect" id="Node000008" href="$d6/df7/hidapi__thread__sdl_8h.html" title=" " alt="" coords="410,195,586,237"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="1030,142,908,158,812,164,717,171,597,189,566,197,565,191,596,184,716,166,811,159,907,152,1029,136"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="1185,142,1316,192,1314,197,1183,147"/>
+<area shape="rect" id="Node000010" href="$d2/d66/generic_2SDL__systhread_8c.html" title=" " alt="" coords="609,195,782,237"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="1030,142,911,165,795,189,766,197,765,192,794,184,910,160,1029,137"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="1202,132,1321,155,1452,184,1481,192,1480,197,1451,189,1320,160,1201,137"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="1202,122,1407,143,1529,161,1649,184,1678,191,1676,197,1648,189,1528,166,1406,149,1201,127"/>
+<area shape="rect" id="Node000013" href="$d7/d6c/SDL__timer_8c.html" title=" " alt="" coords="806,195,940,237"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="1050,147,926,197,924,192,1048,142"/>
+</map>

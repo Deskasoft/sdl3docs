@@ -1,0 +1,11 @@
+<map id="SDL_MapSurfaceRGB" name="SDL_MapSurfaceRGB">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,159,57"/>
+<area shape="rect" id="Node000002" href="$d4/d8e/SDL__surface_8c.html#ab5192abd6db85a3c908655eb8d53c8ed" title=" " alt="" coords="207,31,369,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,41,191,41,191,47,159,47"/>
+<area shape="rect" id="Node000003" href="$d0/d74/SDL__pixels_8c.html#a6b834e66fc7797f2f5a0694399d65d05" title=" " alt="" coords="422,5,539,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="369,31,406,26,407,31,370,36"/>
+<area shape="rect" id="Node000005" href="$d4/d8e/SDL__surface_8c.html#a4a47e8e6c37116eac3ae2c575b24dd5c" title=" " alt="" coords="417,56,544,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="370,52,402,56,401,62,369,57"/>
+<area shape="rect" id="Node000004" href="$d0/d74/SDL__pixels_8c.html#ad0732e2de9b1942c63dce528c3d5fd2e" title=" " alt="" coords="592,5,703,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="540,16,577,16,577,21,540,21"/>
+</map>

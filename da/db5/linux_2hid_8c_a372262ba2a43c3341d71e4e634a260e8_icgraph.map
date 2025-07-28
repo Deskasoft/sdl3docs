@@ -1,0 +1,9 @@
+<map id="parse_hid_vid_pid_from_uevent" name="parse_hid_vid_pid_from_uevent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="650,5,809,48"/>
+<area shape="rect" id="Node000002" href="$da/db5/linux_2hid_8c.html#afb91c0fc29b7b9f227ab5f916bb86a74" title=" " alt="" coords="444,5,602,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="635,29,603,29,603,24,635,24"/>
+<area shape="rect" id="Node000003" href="$da/db5/linux_2hid_8c.html#a40a81cafe19292d834fb0960712d3deb" title=" " alt="" coords="238,5,396,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,29,396,29,396,24,429,24"/>
+<area shape="rect" id="Node000004" href="$da/db5/linux_2hid_8c.html#af0dea306823d0667824a60d703dc3583" title=" " alt="" coords="5,13,190,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="222,29,190,29,190,24,222,24"/>
+</map>

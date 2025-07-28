@@ -1,0 +1,19 @@
+<map id="SDL&#45;main/src/render/gpu/shaders/msl.h" name="SDL&#45;main/src/render/gpu/shaders/msl.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="597,5,738,48"/>
+<area shape="rect" id="Node000002" href="$d7/d52/color_8frag_8msl_8h.html" title=" " alt="" coords="5,96,117,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="597,39,392,63,132,98,131,93,392,58,596,33"/>
+<area shape="rect" id="Node000003" href="$d3/d0d/linepoint_8vert_8msl_8h.html" title=" " alt="" coords="141,96,272,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="597,43,288,97,287,91,596,38"/>
+<area shape="rect" id="Node000004" href="$d9/d88/texture__rgb_8frag_8msl_8h.html" title=" " alt="" coords="296,96,444,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="597,50,432,94,431,89,596,45"/>
+<area shape="rect" id="Node000005" href="$d4/d67/texture__rgb__pixelart_8frag_8msl_8h.html" title=" " alt="" coords="469,96,666,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="644,51,597,88,594,84,640,47"/>
+<area shape="rect" id="Node000006" href="$d2/dc6/texture__rgba_8frag_8msl_8h.html" title=" " alt="" coords="690,96,845,123"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="695,47,742,84,738,88,692,51"/>
+<area shape="rect" id="Node000007" href="$dd/d06/texture__rgba__pixelart_8frag_8msl_8h.html" title=" " alt="" coords="870,96,1074,123"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="740,44,910,89,908,94,738,49"/>
+<area shape="rect" id="Node000008" href="$d9/d2c/tri__color_8vert_8msl_8h.html" title=" " alt="" coords="1098,96,1227,123"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="739,37,1083,92,1082,98,738,42"/>
+<area shape="rect" id="Node000009" href="$d8/d6d/tri__texture_8vert_8msl_8h.html" title=" " alt="" coords="1252,96,1393,123"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="739,33,1236,93,1236,98,738,38"/>
+</map>

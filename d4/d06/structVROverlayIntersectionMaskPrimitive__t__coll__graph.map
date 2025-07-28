@@ -1,0 +1,9 @@
+<map id="VROverlayIntersectionMaskPrimitive_t" name="VROverlayIntersectionMaskPrimitive_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="110,219,295,261"/>
+<area shape="rect" id="Node000002" href="$d9/d89/unionVROverlayIntersectionMaskPrimitive__Data__t.html" title=" " alt="" coords="110,104,295,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,162,205,218,200,218,200,162"/>
+<area shape="rect" id="Node000003" href="$db/d33/structIntersectionMaskRectangle__t.html" title=" " alt="" coords="5,5,197,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,41,184,102,180,105,122,45"/>
+<area shape="rect" id="Node000004" href="$de/d4e/structIntersectionMaskCircle__t.html" title=" " alt="" coords="220,5,387,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="284,45,250,82,226,106,222,102,246,78,280,42"/>
+</map>

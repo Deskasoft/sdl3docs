@@ -1,0 +1,11 @@
+<map id="VkDeviceImageSubresourceInfoKHR" name="VkDeviceImageSubresourceInfoKHR">
+<area shape="rect" id="Node000001" title=" " alt="" coords="70,203,257,245"/>
+<area shape="rect" id="Node000002" href="$dd/d05/structVkImageCreateInfo.html" title=" " alt="" coords="5,104,140,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,141,147,200,143,204,91,144"/>
+<area shape="rect" id="Node000003" href="$d0/d02/structVkExtent3D.html" title=" " alt="" coords="26,5,119,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,48,75,104,70,104,70,48"/>
+<area shape="rect" id="Node000004" href="$d7/dd1/structVkImageSubresource2KHR.html" title=" " alt="" coords="164,104,346,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="237,145,206,180,185,204,181,200,203,177,233,141"/>
+<area shape="rect" id="Node000005" href="$d7/d32/structVkImageSubresource.html" title=" " alt="" coords="182,5,328,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="258,48,258,104,252,104,252,48"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="SDL_GPUSelectBackend" name="SDL_GPUSelectBackend">
+<area shape="rect" id="Node000001" title=" " alt="" coords="575,31,746,57"/>
+<area shape="rect" id="Node000002" href="$de/dc9/SDL__gpu_8c.html#a1ed137c70f32104973916ca8e3c2e279" title=" " alt="" coords="278,5,527,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="559,37,527,34,528,28,560,31"/>
+<area shape="rect" id="Node000004" href="$de/dc9/SDL__gpu_8c.html#af89b6eff6feb6db3387b0494d74707d4" title=" " alt="" coords="305,56,500,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="560,57,500,62,500,57,560,51"/>
+<area shape="rect" id="Node000003" href="$de/dc9/SDL__gpu_8c.html#a122c3b8baf4b5e842b552eb88145c4c5" title=" " alt="" coords="36,5,199,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="262,21,199,21,199,16,262,16"/>
+<area shape="rect" id="Node000005" href="$de/dc9/SDL__gpu_8c.html#afb116a8d5b55c56c8bdce3456affcdde" title=" " alt="" coords="5,56,230,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="290,72,230,72,230,67,290,67"/>
+</map>

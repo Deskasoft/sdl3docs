@@ -1,0 +1,28 @@
+var SDL__storage_8c =
+[
+    [ "SDL_Storage", "d3/dd0/structSDL__Storage.html", "d3/dd0/structSDL__Storage" ],
+    [ "CHECK_STORAGE_MAGIC", "d1/deb/SDL__storage_8c.html#a82c87edfd5a2e449ef50414842a25bab", null ],
+    [ "CHECK_STORAGE_MAGIC_RET", "d1/deb/SDL__storage_8c.html#a3e03377d1293c89970d46022a67524ce", null ],
+    [ "GlobStorageDirectoryEnumerator", "d1/deb/SDL__storage_8c.html#af46cf92118a6c45480c447960419441f", null ],
+    [ "GlobStorageDirectoryGetPathInfo", "d1/deb/SDL__storage_8c.html#a724054f8897e804670b9500f8a28b9f5", null ],
+    [ "SDL_CloseStorage", "d1/deb/SDL__storage_8c.html#a2e1434607d648e15218f63de10ade63a", null ],
+    [ "SDL_CopyStorageFile", "d1/deb/SDL__storage_8c.html#a154cb09199db3010f4744d2ac6ff79ca", null ],
+    [ "SDL_CreateStorageDirectory", "d1/deb/SDL__storage_8c.html#a3f60d8849b6e835a19779bcdcf8a913f", null ],
+    [ "SDL_EnumerateStorageDirectory", "d1/deb/SDL__storage_8c.html#af4e7b38a7f7e0cd0ab3e3125f1ec167e", null ],
+    [ "SDL_GetStorageFileSize", "d1/deb/SDL__storage_8c.html#a1403f72fa0b98fe9235fba03a2f86fb8", null ],
+    [ "SDL_GetStoragePathInfo", "d1/deb/SDL__storage_8c.html#aaeea91e0efe156e1e49767aa9cd4d63d", null ],
+    [ "SDL_GetStorageSpaceRemaining", "d1/deb/SDL__storage_8c.html#a85ee54787cc25d737119e6d3017b9d4f", null ],
+    [ "SDL_GlobStorageDirectory", "d1/deb/SDL__storage_8c.html#a119d70dc377e31f7bf1c434a7676e349", null ],
+    [ "SDL_OpenFileStorage", "d1/deb/SDL__storage_8c.html#a98e581d28b30fb54ba1f2aa356b0f8d2", null ],
+    [ "SDL_OpenStorage", "d1/deb/SDL__storage_8c.html#a33a2ee07f3a3d6c59c0b7d663c9f8cc6", null ],
+    [ "SDL_OpenTitleStorage", "d1/deb/SDL__storage_8c.html#a0882509488c0f48cf252698d78fabcd8", null ],
+    [ "SDL_OpenUserStorage", "d1/deb/SDL__storage_8c.html#a1b006e600e7d7e8c1c5dc81c1961f6d6", null ],
+    [ "SDL_ReadStorageFile", "d1/deb/SDL__storage_8c.html#a1a3426f1d6eab22e2174847d0bb31216", null ],
+    [ "SDL_RemoveStoragePath", "d1/deb/SDL__storage_8c.html#adcbbe6553638b4c4695d35230410fc4e", null ],
+    [ "SDL_RenameStoragePath", "d1/deb/SDL__storage_8c.html#abbda869b23c699c03cc03aa61325421d", null ],
+    [ "SDL_StorageReady", "d1/deb/SDL__storage_8c.html#a9e2498026a8cbee2b2b3830ded9aef6e", null ],
+    [ "SDL_WriteStorageFile", "d1/deb/SDL__storage_8c.html#a8d3d1b1a6b39d498ee6f624338bf6806", null ],
+    [ "ValidateStoragePath", "d1/deb/SDL__storage_8c.html#aeaf7b6a04ae0c947b924a15aca3bda13", null ],
+    [ "titlebootstrap", "d1/deb/SDL__storage_8c.html#a761bed8c50a3a6e35994f23b3be172c6", null ],
+    [ "userbootstrap", "d1/deb/SDL__storage_8c.html#a98ce52f0c6bebe189a7c9f9e7de2798a", null ]
+];

@@ -1,0 +1,20 @@
+<map id="SDL_QuitFilesystem" name="SDL_QuitFilesystem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1011,56,1153,83"/>
+<area shape="rect" id="Node000002" href="$df/d78/SDL_8c.html#a652101eb891907f7e2d79adad7e59a6e" title=" " alt="" coords="817,56,963,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="996,72,964,72,964,67,996,67"/>
+<area shape="rect" id="Node000003" href="$df/d78/SDL_8c.html#abf064fcc4a657a30db8eace18633f362" title=" " alt="" coords="690,56,769,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="801,72,769,72,769,67,801,67"/>
+<area shape="rect" id="Node000004" href="$de/daf/classCSDLmain.html#a73bd9c42ac6916974009e508257e44ff" title=" " alt="" coords="498,5,622,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="675,56,606,35,608,30,676,51"/>
+<area shape="rect" id="Node000005" href="$d3/d6c/SDL__assert_8c.html#af146e7f66c4e41a24337c5b6943af0b0" title=" " alt="" coords="490,56,630,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="675,72,631,72,631,67,675,67"/>
+<area shape="rect" id="Node000007" href="$d9/d78/SDL__main__callbacks_8c.html#a2e8bd250bb597fdf72c9da9d001181e7" title=" " alt="" coords="478,107,642,133"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="676,88,608,109,606,104,675,83"/>
+<area shape="rect" id="Node000006" href="$d3/d6c/SDL__assert_8c.html#a0c9a208493d6e9212cff2ab400242102" title=" " alt="" coords="265,56,413,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="475,72,413,72,413,67,475,67"/>
+<area shape="rect" id="Node000008" href="$d0/d72/emscripten_2SDL__sysmain__callbacks_8c.html#ad2e127e4f44ae815197361e79da5bf88" title=" " alt="" coords="248,107,430,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="462,123,430,123,430,117,462,117"/>
+<area shape="rect" id="Node000009" href="$dd/db5/generic_2SDL__sysmain__callbacks_8c.html#aa50e1897a91f2547b5f31125020220e2" title=" " alt="" coords="5,132,200,159"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="486,140,430,148,311,154,200,153,200,148,310,149,430,143,486,134"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="232,134,200,138,200,132,232,129"/>
+</map>

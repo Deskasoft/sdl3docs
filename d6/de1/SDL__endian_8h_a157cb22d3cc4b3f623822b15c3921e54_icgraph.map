@@ -1,0 +1,9 @@
+<map id="SDL_Swap16" name="SDL_Swap16">
+<area shape="rect" id="Node000001" title=" " alt="" coords="367,43,468,69"/>
+<area shape="rect" id="Node000002" href="$d1/dff/SDL__audiotypecvt_8c.html#adfecb7472db4a4fd5120fef40944b84f" title=" " alt="" coords="165,5,319,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="351,48,319,42,320,37,352,42"/>
+<area shape="rect" id="Node000003" href="$d8/dc3/SDL__bmp_8c.html#a46ec958b331ad4389a21b6684b366e32" title=" " alt="" coords="176,72,308,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="352,70,309,77,308,72,351,64"/>
+<area shape="rect" id="Node000004" href="$d8/dc3/SDL__bmp_8c.html#adb17cfdf4bf377079462ffa3701eeb76" title=" " alt="" coords="5,72,117,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="160,88,117,88,117,83,160,83"/>
+</map>

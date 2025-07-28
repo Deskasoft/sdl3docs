@@ -1,0 +1,9 @@
+<map id="VkShaderCreateInfoEXT" name="VkShaderCreateInfoEXT">
+<area shape="rect" id="Node000001" title=" " alt="" coords="88,203,254,229"/>
+<area shape="rect" id="Node000002" href="$d7/d26/structVkPushConstantRange.html" title=" " alt="" coords="5,104,164,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,146,82,162,88,177,100,190,117,200,114,204,97,195,83,180,77,163,76,146"/>
+<area shape="rect" id="Node000003" href="$d8/d64/structVkSpecializationInfo.html" title=" " alt="" coords="188,104,328,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,146,230,180,199,204,196,200,227,177,246,143"/>
+<area shape="rect" id="Node000004" href="$d3/d79/structVkSpecializationMapEntry.html" title=" " alt="" coords="171,5,345,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="260,48,260,104,255,104,255,48"/>
+</map>

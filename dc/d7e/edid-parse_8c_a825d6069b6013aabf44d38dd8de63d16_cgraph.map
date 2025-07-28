@@ -1,0 +1,13 @@
+<map id="decode_color_characteristics" name="decode_color_characteristics">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,196,83"/>
+<area shape="rect" id="Node000002" href="$dc/d7e/edid-parse_8c.html#a9b1e121f9c3ed2dee3a8ad8c45746399" title=" " alt="" coords="244,31,357,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,55,228,50,229,56,196,60"/>
+<area shape="rect" id="Node000006" href="$dc/d7e/edid-parse_8c.html#a30913672f08c653375e7de4be5f66d83" title=" " alt="" coords="267,81,334,108"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="196,79,252,86,251,91,195,84"/>
+<area shape="rect" id="Node000003" href="$dc/d7e/edid-parse_8c.html#ae0e1f12b3c9d0161c85e5078e2b55fd0" title=" " alt="" coords="414,5,474,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="357,31,398,24,399,29,358,37"/>
+<area shape="rect" id="Node000004" href="$d3/d02/SDL__stdlib_8c.html#a5ad148d1a87a4eda6008114e627f61da" title=" " alt="" coords="405,56,483,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="358,51,390,57,389,62,357,57"/>
+<area shape="rect" id="Node000005" href="$de/d5e/e__pow_8c.html#a59c4e50110dd57aa627494f79c8f37d5" title=" " alt="" coords="531,56,651,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="484,67,516,67,516,72,484,72"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SDL&#45;main/src/core/haiku/SDL_BApp.h" name="SDL&#45;main/src/core/haiku/SDL_BApp.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="94,5,259,48"/>
+<area shape="rect" id="Node000002" href="$d4/d2f/SDL__BWin_8h.html" title=" " alt="" coords="25,96,162,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,61,115,98,111,94,145,58"/>
+<area shape="rect" id="Node000004" href="$d0/d0c/SDL__bvideo_8cc.html" title=" " alt="" coords="186,96,335,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,58,243,94,239,98,204,61"/>
+<area shape="rect" id="Node000003" href="$d3/d70/SDL__haikudialog_8cc.html" title=" " alt="" coords="5,187,182,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,154,96,186,91,186,91,154"/>
+</map>

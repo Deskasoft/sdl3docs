@@ -1,0 +1,9 @@
+<map id="SDL_sRGBfromLinear" name="SDL_sRGBfromLinear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,157,32"/>
+<area shape="rect" id="Node000002" href="$d3/d02/SDL__stdlib_8c.html#ae19105f921d6c5e69d8ca7c9e7f88866" title=" " alt="" coords="205,5,287,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,16,189,16,189,21,157,21"/>
+<area shape="rect" id="Node000003" href="$d3/d02/SDL__stdlib_8c.html#a5ad148d1a87a4eda6008114e627f61da" title=" " alt="" coords="335,5,413,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="288,16,319,16,319,21,288,21"/>
+<area shape="rect" id="Node000004" href="$de/d5e/e__pow_8c.html#a59c4e50110dd57aa627494f79c8f37d5" title=" " alt="" coords="461,5,581,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="414,16,446,16,446,21,414,21"/>
+</map>

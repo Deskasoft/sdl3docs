@@ -1,0 +1,13 @@
+<map id="SDL_EventLoggingChanged" name="SDL_EventLoggingChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,191,40"/>
+<area shape="rect" id="Node000002" href="$d2/d23/SDL__string_8c.html#aeb781495f4470bec33217910d5353ac8" title=" " alt="" coords="239,13,314,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,24,223,24,223,29,191,29"/>
+<area shape="rect" id="Node000003" href="$d2/d23/SDL__string_8c.html#a8291f282f96ea4c1948eb5a87696b873" title=" " alt="" coords="362,13,445,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="314,24,346,24,346,29,314,29"/>
+<area shape="rect" id="Node000004" href="$d2/d23/SDL__string_8c.html#a1bed6e3ed5cfd4a6a39e5735a22168d1" title=" " alt="" coords="493,13,606,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="446,24,478,24,478,29,446,29"/>
+<area shape="rect" id="Node000005" href="$d2/d23/SDL__string_8c.html#a7973bb641d19e0ed46f90e07e09b07ed" title=" " alt="" coords="654,5,849,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="606,24,638,24,638,29,606,29"/>
+<area shape="rect" id="Node000006" href="$d3/d02/SDL__stdlib_8c.html#a0f97bab0613d4633dfc9a13c1d8bd9f7" title=" " alt="" coords="897,13,996,40"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="850,24,881,24,881,29,850,29"/>
+</map>

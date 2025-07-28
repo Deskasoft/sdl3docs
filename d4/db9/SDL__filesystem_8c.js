@@ -1,0 +1,28 @@
+var SDL__filesystem_8c =
+[
+    [ "GlobDirCallbackData", "d6/de4/structGlobDirCallbackData.html", "d6/de4/structGlobDirCallbackData" ],
+    [ "GlobDirCallbackData", "d4/db9/SDL__filesystem_8c.html#a915e8f7dca050616a0252d779c4bcf1a", null ],
+    [ "CaseFoldUtf8String", "d4/db9/SDL__filesystem_8c.html#a208a847a08af320d761619da1b306444", null ],
+    [ "EncodeCodepointToUtf8", "d4/db9/SDL__filesystem_8c.html#a2781fabf8b804f82eb2ded6163ba46b9", null ],
+    [ "EverythingMatch", "d4/db9/SDL__filesystem_8c.html#a00c45bdb09194c9d4ca8a3f5c950328c", null ],
+    [ "GlobDirectoryCallback", "d4/db9/SDL__filesystem_8c.html#ab586008bc76ba761099b05daab1c4a50", null ],
+    [ "GlobDirectoryEnumerator", "d4/db9/SDL__filesystem_8c.html#a51cd4e31ea574c2981714e403c7de62e", null ],
+    [ "GlobDirectoryGetPathInfo", "d4/db9/SDL__filesystem_8c.html#ab462b49e9568e89244de5c7d9ac1eadc", null ],
+    [ "SDL_CopyFile", "d4/db9/SDL__filesystem_8c.html#a8361e74acdb49b619dc9ce4526ac31b5", null ],
+    [ "SDL_CreateDirectory", "d4/db9/SDL__filesystem_8c.html#a237106d4fe5f04dcc7104d7ad76df06b", null ],
+    [ "SDL_EnumerateDirectory", "d4/db9/SDL__filesystem_8c.html#a4a5be67b0825c0f2801b4b09b9da7cf5", null ],
+    [ "SDL_GetBasePath", "d4/db9/SDL__filesystem_8c.html#ae37588c74cd8e1ec4fcee68f5cedbee4", null ],
+    [ "SDL_GetCurrentDirectory", "d4/db9/SDL__filesystem_8c.html#a23105ed8dff6d35a8cca8a3aba6fa5db", null ],
+    [ "SDL_GetPathInfo", "d4/db9/SDL__filesystem_8c.html#af877747dac7d08c543fa381d92cc7803", null ],
+    [ "SDL_GetPrefPath", "d4/db9/SDL__filesystem_8c.html#ad7e57b7d9eefc17ef78d5d38960ee28b", null ],
+    [ "SDL_GetUserFolder", "d4/db9/SDL__filesystem_8c.html#a3a0bb0e2c47ea1005c50fff4005af109", null ],
+    [ "SDL_GlobDirectory", "d4/db9/SDL__filesystem_8c.html#a0d455f8ab2f61032712ea43081093ae7", null ],
+    [ "SDL_InitFilesystem", "d4/db9/SDL__filesystem_8c.html#a8e00e9e232f9a9c4587a8ae0ea911bd9", null ],
+    [ "SDL_InternalGlobDirectory", "d4/db9/SDL__filesystem_8c.html#a8827e4b44e92aea5f7bc09f81e69138f", null ],
+    [ "SDL_QuitFilesystem", "d4/db9/SDL__filesystem_8c.html#a6085cafe784f1193ac6e761d6d8cadec", null ],
+    [ "SDL_RemovePath", "d4/db9/SDL__filesystem_8c.html#a48bfc15c82a2cf6f5b874bee1ef346ba", null ],
+    [ "SDL_RenamePath", "d4/db9/SDL__filesystem_8c.html#a6fdea2679d15afc64a320b97ae2b3da2", null ],
+    [ "WildcardMatch", "d4/db9/SDL__filesystem_8c.html#a9fd2d47e9c25b48b3e188fbbd8776237", null ],
+    [ "CachedBasePath", "d4/db9/SDL__filesystem_8c.html#a82cdee13f806242ea53a04b9360093ae", null ],
+    [ "CachedUserFolders", "d4/db9/SDL__filesystem_8c.html#a6e5a94f026ed86db4a0a270d04e9dfe7", null ]
+];

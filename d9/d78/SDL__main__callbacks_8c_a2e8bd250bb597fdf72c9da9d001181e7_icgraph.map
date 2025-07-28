@@ -1,0 +1,8 @@
+<map id="SDL_QuitMainCallbacks" name="SDL_QuitMainCallbacks">
+<area shape="rect" id="Node000001" title=" " alt="" coords="478,31,642,57"/>
+<area shape="rect" id="Node000002" href="$d0/d72/emscripten_2SDL__sysmain__callbacks_8c.html#ad2e127e4f44ae815197361e79da5bf88" title=" " alt="" coords="248,5,430,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="462,35,430,32,431,26,463,30"/>
+<area shape="rect" id="Node000003" href="$dd/db5/generic_2SDL__sysmain__callbacks_8c.html#aa50e1897a91f2547b5f31125020220e2" title=" " alt="" coords="5,31,200,57"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="462,47,200,47,200,41,462,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="232,33,200,36,200,31,232,27"/>
+</map>

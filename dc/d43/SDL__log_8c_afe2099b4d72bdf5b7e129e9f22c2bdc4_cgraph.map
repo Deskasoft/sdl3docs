@@ -1,0 +1,16 @@
+<map id="SDL_GetDefaultLogOutputFunction" name="SDL_GetDefaultLogOutputFunction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,131,233,157"/>
+<area shape="rect" id="Node000002" href="$dc/d43/SDL__log_8c.html#a02d4411425cca5acb6f505ac04ca5819" title=" " alt="" coords="281,131,395,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,141,265,141,265,147,233,147"/>
+<area shape="rect" id="Node000003" href="$dc/d43/SDL__log_8c.html#a77ad4b53ecec85523037583ed95582b6" title=" " alt="" coords="443,5,581,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="348,128,387,86,413,63,442,42,450,37,453,41,444,46,416,67,391,90,352,132"/>
+<area shape="rect" id="Node000004" href="$d4/d23/SDL__malloc_8c.html#a883d5d0a9ce20246045f385a6b99ebf2" title=" " alt="" coords="474,56,550,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="366,128,442,92,459,85,461,90,444,97,368,133"/>
+<area shape="rect" id="Node000005" href="$d2/d5b/SDL__stdinc_8h.html#a5056fbcb8d3d77a21e67c9687f889b40" title=" " alt="" coords="464,131,561,157"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="395,141,448,141,448,147,395,147"/>
+<area shape="rect" id="Node000006" href="$d2/d23/SDL__string_8c.html#a38e76d86236f4a24cf0cc6863ec3ae9d" title=" " alt="" coords="469,181,555,208"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="387,155,455,175,453,181,386,161"/>
+<area shape="rect" id="Node000007" href="$d3/dda/eglext_8h.html#a0f7193911e632cd84da4082d5c628fe3" title=" " alt="" coords="490,232,535,259"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="357,156,395,186,444,218,476,232,474,237,442,222,392,191,353,160"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="482,132,477,122,481,112,493,106,512,104,533,107,544,113,542,118,531,112,512,109,494,111,484,116,482,121,487,129"/>
+</map>

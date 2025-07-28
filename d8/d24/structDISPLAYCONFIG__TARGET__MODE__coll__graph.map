@@ -1,0 +1,9 @@
+<map id="DISPLAYCONFIG_TARGET_MODE" name="DISPLAYCONFIG_TARGET_MODE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="102,240,338,267"/>
+<area shape="rect" id="Node000002" href="$df/d67/structDISPLAYCONFIG__VIDEO__SIGNAL__INFO.html" title=" " alt="" coords="131,125,309,168"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,184,222,239,217,239,217,184"/>
+<area shape="rect" id="Node000003" href="$de/df3/structDISPLAYCONFIG__RATIONAL.html" title=" " alt="" coords="5,5,208,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,42,204,123,200,127,126,45"/>
+<area shape="rect" id="Node000004" href="$de/d4a/structDISPLAYCONFIG__2DREGION.html" title=" " alt="" coords="231,5,438,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="315,45,240,127,236,123,311,42"/>
+</map>

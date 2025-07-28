@@ -1,0 +1,19 @@
+<map id="SDL&#45;main/src/misc" name="SDL&#45;main/src/misc">
+<area shape="rect" id="node1" href="dir_9737c3e3605f759e2a67737bf2c1e907.html" title="core" alt="" coords="484,139,530,165"/>
+<area shape="rect" id="node3" href="dir_5cee1bdd2af25c86111de3e36feeb6bf.html" title="android" alt="" coords="111,64,174,91"/>
+<area shape="poly" id="edge1" href="dir_000010_000023.html" alt="" coords="165,89,188,99,264,119,342,133,468,146,468,151,341,138,263,124,186,104,162,94"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000010_000023.html" title="1" alt="" coords="462,132,469,148"/>
+<area shape="rect" id="node4" href="dir_c0d2c77449fd46dae5b0032acd259f57.html" title="dummy" alt="" coords="198,64,263,91"/>
+<area shape="rect" id="node5" href="dir_b3f28f08ba34e26523aa37fa60bfcec5.html" title="emscripten" alt="" coords="287,64,372,91"/>
+<area shape="rect" id="node6" href="dir_0307b605c04d49181dc4936399311ee0.html" title="haiku" alt="" coords="396,64,449,91"/>
+<area shape="rect" id="node7" href="dir_e0d480d7a29941ca4f0267b5a46591ca.html" title="ios" alt="" coords="473,64,511,91"/>
+<area shape="rect" id="node8" href="dir_27da668f9de4ca21b139986a37035193.html" title="macos" alt="" coords="535,64,596,91"/>
+<area shape="rect" id="node9" href="dir_eb6af61f212bc3b73b92da5c491c69d0.html" title="riscos" alt="" coords="620,64,676,91"/>
+<area shape="rect" id="node10" href="dir_175b36ae3227f37539ef0eefee9329fb.html" title="unix" alt="" coords="700,64,745,91"/>
+<area shape="rect" id="node11" href="dir_5f7f3384c7dfa19d6dcdc1af023a66f2.html" title="vita" alt="" coords="770,64,812,91"/>
+<area shape="rect" id="node12" href="dir_f7148333d4fd440f2a7b3f5fe375d6f3.html" title="windows" alt="" coords="836,64,908,91"/>
+<area shape="poly" id="edge2" href="dir_000247_000023.html" alt="" coords="850,94,825,104,748,123,671,137,546,151,545,146,670,132,747,118,823,99,848,89"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000247_000023.html" title="1" alt="" coords="545,148,552,164"/>
+<area shape="rect" id="clust2" href="dir_e8194ba5ec76812ccc76f429a9c5d1aa.html" alt="" coords="27,53,919,101"/>
+<area shape="rect" id="clust1" href="dir_93dff7e69d031a1b18a384e0d03ab66f.html" title="src" alt="" coords="16,16,929,176"/>
+</map>

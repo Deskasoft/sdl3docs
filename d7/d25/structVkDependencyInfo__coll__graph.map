@@ -1,0 +1,11 @@
+<map id="VkDependencyInfo" name="VkDependencyInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="174,203,307,229"/>
+<area shape="rect" id="Node000002" href="$d2/d0d/structVkMemoryBarrier2.html" title=" " alt="" coords="5,104,135,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,141,108,160,130,176,156,190,184,200,182,205,154,195,127,181,105,164,87,145"/>
+<area shape="rect" id="Node000003" href="$d5/dcb/structVkBufferMemoryBarrier2.html" title=" " alt="" coords="159,104,322,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,146,243,202,238,202,238,146"/>
+<area shape="rect" id="Node000004" href="$db/d82/structVkImageMemoryBarrier2.html" title=" " alt="" coords="346,104,511,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="418,146,406,165,389,181,349,200,308,211,307,206,348,195,386,176,402,161,414,143"/>
+<area shape="rect" id="Node000005" href="$d6/d8a/structVkImageSubresourceRange.html" title=" " alt="" coords="336,5,521,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="431,48,431,104,426,104,426,48"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="SDL_GetPropertyType" name="SDL_GetPropertyType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="509,31,661,57"/>
+<area shape="rect" id="Node000002" href="$d3/de7/SDL__properties_8c.html#a84ba9db5b22378870a3bf960828dee60" title=" " alt="" coords="262,5,461,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="493,36,461,33,462,27,493,31"/>
+<area shape="rect" id="Node000004" href="$d3/de7/SDL__properties_8c.html#a939c741ab9292bc33b51dc6c7e007e2d" title=" " alt="" coords="298,56,425,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="494,57,426,65,425,60,493,52"/>
+<area shape="rect" id="Node000003" href="$d3/de7/SDL__properties_8c.html#a068a8fb5a569c398957096d9988fa967" title=" " alt="" coords="35,5,184,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="246,21,184,21,184,16,246,16"/>
+<area shape="rect" id="Node000005" href="$d6/d3d/SDL__video_8c.html#a7d0a6b02bb26ea413a0dbd05ebc86aec" title=" " alt="" coords="5,56,214,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="282,72,214,72,214,67,282,67"/>
+<area shape="rect" id="Node000006" href="$d6/d3d/SDL__video_8c.html#aa30743ecc3b53d77f431cc39b9de3b52" title=" " alt="" coords="21,107,198,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="283,88,180,109,179,103,282,83"/>
+</map>

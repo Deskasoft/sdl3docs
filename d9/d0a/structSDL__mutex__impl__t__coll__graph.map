@@ -1,0 +1,10 @@
+<map id="SDL_mutex_impl_t" name="SDL_mutex_impl_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,189,138,216"/>
+<area shape="rect" id="Node000002" href="$d0/df2/structSDL__Mutex.html" title=" " alt="" coords="112,5,202,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,37,85,46,75,57,61,91,59,128,64,162,70,188,65,189,58,163,54,128,56,90,70,55,82,42,96,33"/>
+<area shape="rect" id="Node000003" href="$d8/d0b/structSDL__Semaphore.html" title=" " alt="" coords="198,189,318,216"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="150,47,143,74,140,105,142,136,155,164,174,181,199,192,196,197,171,186,150,167,137,137,134,105,138,73,145,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="251,175,239,104,227,57,213,45,196,35,199,30,216,40,231,55,244,103,257,174"/>
+<area shape="rect" id="Node000004" href="$d0/d07/structSDL__Condition.html" title=" " alt="" coords="268,5,377,32"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="324,48,316,104,308,136,295,167,276,190,272,187,291,164,303,134,311,103,319,47"/>
+</map>

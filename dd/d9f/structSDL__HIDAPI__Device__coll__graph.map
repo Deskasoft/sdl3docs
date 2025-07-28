@@ -1,0 +1,27 @@
+<map id="SDL_HIDAPI_Device" name="SDL_HIDAPI_Device">
+<area shape="rect" id="Node000001" title=" " alt="" coords="309,321,457,348"/>
+<area shape="poly" id="edge14_Node000001_Node000001" title=" " alt="" coords="474,323,481,328,484,335,476,345,458,350,457,344,473,341,478,334,477,331,471,328"/>
+<area shape="rect" id="Node000002" href="$dd/d35/structSDL__GUID.html" title=" " alt="" coords="5,203,94,229"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,232,347,318,346,323,99,238"/>
+<area shape="rect" id="Node000003" href="$dd/ddb/structSDL__HIDAPI__DeviceDriver.html" title=" " alt="" coords="118,203,301,229"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,236,365,318,362,323,239,241"/>
+<area shape="rect" id="Node000004" href="$d0/df2/structSDL__Mutex.html" title=" " alt="" coords="656,203,747,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="662,239,628,256,581,280,508,305,439,323,438,318,506,300,579,275,626,251,660,234"/>
+<area shape="rect" id="Node000005" href="$d8/d0b/structSDL__Semaphore.html" title=" " alt="" coords="743,321,863,348"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="696,244,695,261,700,276,711,290,725,302,757,318,755,323,722,306,707,294,695,279,690,262,690,244"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="796,307,787,280,771,255,756,242,738,232,741,228,759,238,776,252,792,278,801,305"/>
+<area shape="rect" id="Node000006" href="$d0/d07/structSDL__Condition.html" title=" " alt="" coords="812,203,922,229"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="857,245,840,279,813,322,809,320,835,276,852,242"/>
+<area shape="rect" id="Node000007" href="$d5/db5/structSDL__hid__device.html" title=" " alt="" coords="325,203,441,229"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="386,245,386,321,380,321,380,245"/>
+<area shape="rect" id="Node000008" href="$d2/df8/structhidapi__backend.html" title=" " alt="" coords="243,104,354,131"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="319,142,348,177,371,200,367,204,344,180,315,145"/>
+<area shape="rect" id="Node000009" href="$d9/d11/structhid__device__info.html" title=" " alt="" coords="243,5,354,32"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="302,48,302,104,296,104,296,48"/>
+<area shape="poly" id="edge10_Node000009_Node000009" title=" " alt="" coords="372,10,381,19,373,27,355,30,355,25,371,23,376,19,368,14"/>
+<area shape="rect" id="Node000010" href="$d5/dc9/structSDL__hid__device__info.html" title=" " alt="" coords="379,104,523,131"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="435,145,394,204,389,201,431,142"/>
+<area shape="poly" id="edge12_Node000010_Node000010" title=" " alt="" coords="540,109,550,117,542,126,524,129,523,124,539,121,544,117,537,113"/>
+<area shape="rect" id="Node000011" href="$d1/dbc/structSDL__AtomicInt.html" title=" " alt="" coords="465,203,575,229"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="496,242,399,323,396,319,492,237"/>
+</map>

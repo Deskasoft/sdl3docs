@@ -1,0 +1,28 @@
+var SDL__stretch_8c =
+[
+    [ "color_t", "d8/dcc/structcolor__t.html", "d8/dcc/structcolor__t" ],
+    [ "BILINEAR___HEIGHT", "d8/df3/SDL__stretch_8c.html#a29efac3778416b4b183b4819b14ae718", null ],
+    [ "BILINEAR___START", "d8/df3/SDL__stretch_8c.html#a1e84bcc629a14d34d5fc56dddef67814", null ],
+    [ "FIXED_POINT", "d8/df3/SDL__stretch_8c.html#af95cf8f5bf371ca012b0a4071cc296f4", null ],
+    [ "FP_ONE", "d8/df3/SDL__stretch_8c.html#a50caf2faddc91048cbfcf22b8f073cc2", null ],
+    [ "FRAC", "d8/df3/SDL__stretch_8c.html#a721846a53a4544cfd3bf52509a415c02", null ],
+    [ "FRAC_ONE", "d8/df3/SDL__stretch_8c.html#a58bf38924819d3cb38facc24eb4bf799", null ],
+    [ "FRAC_ZERO", "d8/df3/SDL__stretch_8c.html#a2b894b5f8a16af23ce1e9b1794219ee8", null ],
+    [ "INTEGER", "d8/df3/SDL__stretch_8c.html#a231c9a9fc9b04aaf9641a1ce54811c00", null ],
+    [ "PRECISION", "d8/df3/SDL__stretch_8c.html#a9c7b069fee3c8184e14a7de8e5da2dc6", null ],
+    [ "SDL_SCALE_NEAREST__HEIGHT", "d8/df3/SDL__stretch_8c.html#a8ad78ed6d6b6e8add80b1ff871b37bc2", null ],
+    [ "SDL_SCALE_NEAREST__START", "d8/df3/SDL__stretch_8c.html#a5a5a3feec9e56954d8679f97f54d6cfd", null ],
+    [ "SRC_INDEX", "d8/df3/SDL__stretch_8c.html#a8156fe013ab97c3f0c2adbff9173e17d", null ],
+    [ "color_t", "d8/df3/SDL__stretch_8c.html#aa94d32c0c0cb6cc4c9ab9d2fda4a57f4", null ],
+    [ "get_scaler_datas", "d8/df3/SDL__stretch_8c.html#a8c64aa48b9b77003c2060c3cc57a02bb", null ],
+    [ "INTERPOL", "d8/df3/SDL__stretch_8c.html#ac2d6eeb7da9020eb85a77ecb39b8cbd8", null ],
+    [ "INTERPOL_BILINEAR", "d8/df3/SDL__stretch_8c.html#a6c6b91e4a6671a290ccad5276f831201", null ],
+    [ "scale_mat", "d8/df3/SDL__stretch_8c.html#a05f74125c67e5f79cd0a094d0622cf44", null ],
+    [ "scale_mat_nearest_1", "d8/df3/SDL__stretch_8c.html#a7baf7ebcccfcf78770d535365c6a75eb", null ],
+    [ "scale_mat_nearest_2", "d8/df3/SDL__stretch_8c.html#a159694b5095230592750d7c6cee9be6b", null ],
+    [ "scale_mat_nearest_3", "d8/df3/SDL__stretch_8c.html#aa64f1e598ef1ce7bfd041ecf27e05ee4", null ],
+    [ "scale_mat_nearest_4", "d8/df3/SDL__stretch_8c.html#add28bb4627a174f90d08026f9e9b6d99", null ],
+    [ "SDL_StretchSurface", "d8/df3/SDL__stretch_8c.html#aeec58d3c570af646ad324984ed303e8a", null ],
+    [ "SDL_StretchSurfaceUncheckedLinear", "d8/df3/SDL__stretch_8c.html#aef65594e954263ffaa02503e67115bdb", null ],
+    [ "SDL_StretchSurfaceUncheckedNearest", "d8/df3/SDL__stretch_8c.html#a288a43d1463bddaee18d179e4bb0b8dc", null ]
+];

@@ -1,0 +1,10 @@
+<map id="SDL_AudioQueue" name="SDL_AudioQueue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="106,224,231,251"/>
+<area shape="rect" id="Node000002" href="$de/d80/structSDL__AudioTrack.html" title=" " alt="" coords="5,104,126,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,141,159,222,155,225,85,145"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="143,108,152,117,144,126,126,129,126,124,142,121,147,117,139,113"/>
+<area shape="rect" id="Node000003" href="$dc/da1/structSDL__AudioSpec.html" title=" " alt="" coords="7,5,124,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="68,48,68,104,63,104,63,48"/>
+<area shape="rect" id="Node000004" href="$db/db6/structSDL__MemoryPool.html" title=" " alt="" coords="207,104,334,131"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="252,145,181,225,177,222,248,141"/>
+</map>

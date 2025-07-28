@@ -1,0 +1,11 @@
+<map id="_SDL_ThreadBarrier" name="_SDL_ThreadBarrier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,104,152,131"/>
+<area shape="rect" id="Node000002" href="$d0/df2/structSDL__Mutex.html" title=" " alt="" coords="247,5,337,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,43,189,82,126,106,124,101,187,78,259,38"/>
+<area shape="rect" id="Node000003" href="$d8/d0b/structSDL__Semaphore.html" title=" " alt="" coords="232,104,352,131"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="291,48,290,56,290,80,293,103,287,104,285,80,285,56,286,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="347,94,362,79,366,68,362,57,350,44,335,35,337,30,353,40,366,55,371,68,366,81,351,98"/>
+<area shape="rect" id="Node000004" href="$d0/d07/structSDL__Condition.html" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="37,45,30,57,27,68,30,79,41,92,55,102,52,106,37,95,26,81,22,68,26,55,32,43"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="70,46,78,63,91,78,115,89,150,97,232,109,231,114,149,102,113,94,88,82,74,66,65,48"/>
+</map>

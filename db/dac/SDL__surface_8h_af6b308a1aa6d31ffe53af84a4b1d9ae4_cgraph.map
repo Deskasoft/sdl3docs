@@ -1,0 +1,7 @@
+<map id="SDL_SetSurfaceClipRect" name="SDL_SetSurfaceClipRect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,176,57"/>
+<area shape="rect" id="Node000002" href="$d0/d18/SDL__rect_8h.html#a1e18d4c432a6cce44b94b9a046006aea" title=" " alt="" coords="224,5,395,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,31,208,28,209,33,176,37"/>
+<area shape="rect" id="Node000003" href="$d4/d8e/SDL__surface_8c.html#a4a47e8e6c37116eac3ae2c575b24dd5c" title=" " alt="" coords="246,56,373,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,51,230,58,230,63,176,57"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SDL_IsMainThread" name="SDL_IsMainThread">
+<area shape="rect" id="Node000001" title=" " alt="" coords="217,56,350,83"/>
+<area shape="rect" id="Node000002" href="$d4/d03/unix_2SDL__tray_8c.html#a206a4c41714798d7da6da4c129f0973b" title=" " alt="" coords="27,5,147,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,54,141,35,142,30,214,49"/>
+<area shape="rect" id="Node000003" href="$d4/d03/unix_2SDL__tray_8c.html#ab39b7372ba954fb61f08416d6f4eb044" title=" " alt="" coords="12,56,162,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,72,163,72,163,67,201,67"/>
+<area shape="rect" id="Node000004" href="$d4/d07/SDL__events_8c.html#a3cf75517a3eb74927e383fa971f155d3" title=" " alt="" coords="5,107,169,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="214,90,142,109,141,103,213,85"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SDL_Cursor" name="SDL_Cursor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="19,104,113,131"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="129,108,139,117,131,126,113,129,112,124,129,122,134,117,126,112"/>
+<area shape="rect" id="Node000002" href="$d8/de8/structSDL__CursorData.html" title=" " alt="" coords="5,5,127,32"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="69,48,69,104,63,104,63,48"/>
+</map>

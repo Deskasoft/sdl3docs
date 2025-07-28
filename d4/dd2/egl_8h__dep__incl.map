@@ -1,0 +1,36 @@
+<map id="SDL&#45;main/src/video/khronos/EGL/egl.h" name="SDL&#45;main/src/video/khronos/EGL/egl.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="481,5,617,48"/>
+<area shape="rect" id="Node000002" href="$d0/de1/SDL__egl_8h.html" title=" " alt="" coords="107,96,268,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="466,51,270,99,268,94,465,46"/>
+<area shape="rect" id="Node000005" href="$de/db4/SDL__vivantevideo_8h.html" title=" " alt="" coords="212,187,401,229"/>
+<area shape="poly" id="edge11_Node000001_Node000005" title=" " alt="" coords="466,37,431,45,395,57,362,74,334,98,320,118,313,142,308,187,303,186,307,141,316,116,330,94,359,70,393,52,429,39,465,32"/>
+<area shape="rect" id="Node000006" href="$dc/d6e/SDL__kmsdrmvideo_8h.html" title=" " alt="" coords="343,96,542,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="515,60,469,97,466,93,511,56"/>
+<area shape="rect" id="Node000007" href="$df/de1/SDL__openvrvideo_8h.html" title=" " alt="" coords="566,96,748,139"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="588,56,634,93,630,97,584,60"/>
+<area shape="rect" id="Node000008" href="$da/d42/SDL__qnx_8h.html" title=" " alt="" coords="773,96,909,139"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="633,50,773,93,772,98,632,56"/>
+<area shape="rect" id="Node000012" href="$df/deb/SDL__waylandvideo_8h.html" title=" " alt="" coords="1116,96,1316,139"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="633,36,1116,100,1115,105,632,42"/>
+<area shape="rect" id="Node000003" href="$df/da8/SDL__rpivideo_8h.html" title=" " alt="" coords="16,187,189,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="159,152,124,188,120,185,155,148"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="229,146,280,184,277,188,226,150"/>
+<area shape="rect" id="Node000004" href="$d6/deb/SDL__rpievents__c_8h.html" title=" " alt="" coords="5,277,200,320"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,245,105,277,100,277,100,245"/>
+<area shape="rect" id="Node000009" href="$d8/dd8/SDL__qnxgl_8c.html" title=" " alt="" coords="685,187,821,229"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="812,152,775,188,772,184,808,148"/>
+<area shape="rect" id="Node000010" href="$da/de6/SDL__qnxkeyboard_8c.html" title=" " alt="" coords="845,187,1013,229"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="874,148,911,184,907,188,870,152"/>
+<area shape="rect" id="Node000011" href="$db/dff/SDL__qnxvideo_8c.html" title=" " alt="" coords="515,187,661,229"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="768,147,648,189,646,183,767,142"/>
+<area shape="rect" id="Node000013" href="$d5/d59/SDL__waylanddatamanager_8h.html" title=" " alt="" coords="1111,277,1355,320"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="1246,150,1265,186,1268,211,1265,236,1248,278,1243,276,1260,234,1263,211,1260,187,1241,152"/>
+<area shape="rect" id="Node000014" href="$d5/d6e/SDL__waylandevents__c_8h.html" title=" " alt="" coords="1122,368,1344,411"/>
+<area shape="poly" id="edge16_Node000012_Node000014" title=" " alt="" coords="1260,146,1290,170,1321,201,1349,236,1370,276,1377,299,1370,321,1343,350,1309,370,1307,365,1340,346,1366,319,1372,299,1365,278,1345,239,1317,204,1286,174,1257,150"/>
+<area shape="rect" id="Node000015" href="$d2/d55/SDL__waylandwindow_8h.html" title=" " alt="" coords="1038,187,1250,229"/>
+<area shape="poly" id="edge17_Node000012_Node000015" title=" " alt="" coords="1192,153,1163,188,1158,185,1187,149"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="1227,335,1228,368,1223,368,1222,336"/>
+<area shape="poly" id="edge15_Node000014_Node000013" title=" " alt="" coords="1239,353,1238,321,1244,320,1245,352"/>
+<area shape="poly" id="edge18_Node000015_Node000013" title=" " alt="" coords="1177,238,1214,275,1211,279,1173,242"/>
+<area shape="poly" id="edge19_Node000015_Node000014" title=" " alt="" coords="1117,243,1106,261,1097,281,1095,300,1101,319,1126,346,1160,365,1157,370,1123,350,1096,321,1090,301,1092,279,1101,259,1113,240"/>
+</map>

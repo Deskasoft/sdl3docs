@@ -1,0 +1,17 @@
+<map id="NextAudioStreamIter" name="NextAudioStreamIter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,149,108"/>
+<area shape="rect" id="Node000002" href="$dc/d77/SDL__audiocvt_8c.html#a84a00bb17f8d27b12034ac07059e0523" title=" " alt="" coords="209,5,414,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,78,196,41,223,34,224,39,198,47,107,83"/>
+<area shape="rect" id="Node000004" href="$d0/d15/SDL__audioresample_8c.html#a9caea21adc823ed51d56a9da7b146630" title=" " alt="" coords="201,56,422,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,84,185,80,186,86,149,90"/>
+<area shape="rect" id="Node000007" href="$d0/d15/SDL__audioresample_8c.html#ae33860764723690918a4bee63ffd9dfa" title=" " alt="" coords="197,107,426,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="149,100,181,103,181,109,149,105"/>
+<area shape="rect" id="Node000008" href="$df/dd6/SDL__audioqueue_8c.html#a42b3046318f152b7c36001c7c63ee10a" title=" " alt="" coords="225,157,398,184"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="107,106,198,143,224,151,223,156,196,148,105,111"/>
+<area shape="rect" id="Node000003" href="$d0/d15/SDL__audioresample_8c.html#a66d2518e4967cc4820b12e1724bbcb43" title=" " alt="" coords="474,5,636,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,16,458,16,458,21,414,21"/>
+<area shape="rect" id="Node000005" href="$d0/d15/SDL__audioresample_8c.html#ad38938f08cac8a1b8894bdee7c40ab19" title=" " alt="" coords="502,56,609,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="423,67,486,67,486,72,423,72"/>
+<area shape="rect" id="Node000006" href="$d0/d15/SDL__audioresample_8c.html#a27abfafe93e09240adc373fcdc1b1735" title=" " alt="" coords="502,107,608,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="380,81,488,103,487,109,379,86"/>
+</map>

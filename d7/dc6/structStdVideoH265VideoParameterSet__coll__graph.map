@@ -1,0 +1,17 @@
+<map id="StdVideoH265VideoParameterSet" name="StdVideoH265VideoParameterSet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="828,88,1046,115"/>
+<area shape="rect" id="Node000002" href="$de/ddc/structStdVideoH265VpsFlags.html" title=" " alt="" coords="497,5,658,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="673,26,738,37,805,51,858,67,904,85,902,90,856,72,803,56,737,42,672,32"/>
+<area shape="rect" id="Node000003" href="$d7/d93/structStdVideoH265DecPicBufMgr.html" title=" " alt="" coords="482,60,672,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="688,79,828,90,828,96,688,85"/>
+<area shape="rect" id="Node000004" href="$d5/df7/structStdVideoH265HrdParameters.html" title=" " alt="" coords="481,113,674,140"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="689,128,804,124,876,113,877,118,804,129,689,134"/>
+<area shape="rect" id="Node000005" href="$de/d1f/structStdVideoH265HrdFlags.html" title=" " alt="" coords="50,37,209,64"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="224,43,278,44,338,49,398,60,457,78,470,87,481,96,516,110,514,115,478,101,466,91,454,82,397,65,337,54,278,49,224,48"/>
+<area shape="rect" id="Node000006" href="$d6/d8a/structStdVideoH265SubLayerHrdParameters.html" title=" " alt="" coords="5,113,254,140"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="270,124,480,124,480,129,270,129"/>
+<area shape="rect" id="Node000007" href="$d3/d04/structStdVideoH265ProfileTierLevel.html" title=" " alt="" coords="480,171,675,197"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="690,176,747,169,803,157,861,136,910,113,912,118,863,141,805,163,748,175,691,182"/>
+<area shape="rect" id="Node000008" href="$d8/dd5/structStdVideoH265ProfileTierLevelFlags.html" title=" " alt="" coords="32,164,227,207"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="243,182,479,182,479,187,243,188"/>
+</map>

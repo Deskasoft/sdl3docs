@@ -1,0 +1,9 @@
+<map id="SDL_AddTrackToAudioQueue" name="SDL_AddTrackToAudioQueue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,201,57"/>
+<area shape="rect" id="Node000002" href="$df/dd6/SDL__audioqueue_8c.html#ad8cd3ff8848c071e2be40ff83c17216d" title=" " alt="" coords="268,5,387,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,30,252,24,253,30,201,36"/>
+<area shape="rect" id="Node000003" href="$d6/d9b/SDL__audio_8c.html#ad9975f57d98afef9d31de615d666c546" title=" " alt="" coords="249,56,406,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,52,233,56,232,61,201,58"/>
+<area shape="rect" id="Node000004" href="$d2/d23/SDL__string_8c.html#a9b19109866d9b66767846cffb5fa2852" title=" " alt="" coords="454,56,562,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="406,67,438,67,438,72,406,72"/>
+</map>

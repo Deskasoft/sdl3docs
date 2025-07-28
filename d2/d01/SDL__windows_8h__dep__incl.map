@@ -1,0 +1,58 @@
+<map id="SDL&#45;main/src/core/windows/SDL_windows.h" name="SDL&#45;main/src/core/windows/SDL_windows.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1623,5,1808,48"/>
+<area shape="rect" id="Node000002" href="$d2/d67/SDL__gdk_8cpp.html" title=" " alt="" coords="180,104,335,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1608,33,1328,40,966,53,612,72,465,84,354,99,321,106,320,101,353,93,464,79,611,67,966,47,1328,35,1608,27"/>
+<area shape="rect" id="Node000003" href="$db/ddf/SDL__directx_8h.html" title=" " alt="" coords="410,104,595,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1608,30,1418,33,1169,42,888,63,746,79,607,99,572,106,571,101,606,93,745,73,888,58,1168,37,1418,27,1608,25"/>
+<area shape="rect" id="Node000007" href="$d1/d48/SDL__windowsjoystick__c_8h.html" title=" " alt="" coords="5,211,240,253"/>
+<area shape="poly" id="edge16_Node000001_Node000007" title=" " alt="" coords="1608,31,1309,36,932,46,749,55,590,66,468,81,426,89,398,98,382,111,373,125,364,141,348,157,285,190,219,213,218,208,283,185,345,153,360,138,369,122,378,107,396,94,425,84,467,76,590,61,749,50,932,41,1309,30,1608,26"/>
+<area shape="rect" id="Node000008" href="$d3/d13/SDL__hid_8h.html" title=" " alt="" coords="828,104,1014,147"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1608,36,1342,56,1184,74,1027,99,993,106,992,101,1026,93,1184,69,1342,51,1607,31"/>
+<area shape="rect" id="Node000010" href="$d1/d88/SDL__xinput_8h.html" title=" " alt="" coords="619,104,804,147"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1608,32,1453,38,1255,49,1036,68,816,99,782,106,781,101,815,93,1035,63,1255,44,1453,32,1608,27"/>
+<area shape="rect" id="Node000013" href="$d5/d4b/SDL__windowsdialog_8c.html" title=" " alt="" coords="1038,104,1247,147"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="1608,44,1444,67,1260,99,1226,106,1224,101,1259,93,1443,62,1607,39"/>
+<area shape="rect" id="Node000014" href="$df/de4/gdk_2SDL__sysfilesystem_8cpp.html" title=" " alt="" coords="1272,104,1461,147"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="1627,55,1442,106,1441,101,1626,50"/>
+<area shape="rect" id="Node000015" href="$d1/d76/SDL__rawinputjoystick__c_8h.html" title=" " alt="" coords="1485,104,1717,147"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="1682,60,1628,105,1624,101,1678,56"/>
+<area shape="rect" id="Node000016" href="$d8/d34/windows_2SDL__syslocale_8c.html" title=" " alt="" coords="1741,104,1920,147"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="1753,56,1808,101,1804,105,1750,60"/>
+<area shape="rect" id="Node000017" href="$d0/d25/SDL__sysmain__runapp_8cpp.html" title=" " alt="" coords="1944,104,2122,147"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="1799,50,1966,101,1964,106,1797,55"/>
+<area shape="rect" id="Node000018" href="$d2/de4/windows_2SDL__sysurl_8c.html" title=" " alt="" coords="2147,104,2335,147"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="1824,40,1972,63,2135,93,2167,101,2166,106,2134,99,1971,68,1823,45"/>
+<area shape="rect" id="Node000019" href="$dd/d03/windows_2SDL__sysmutex__c_8h.html" title=" " alt="" coords="2360,104,2555,147"/>
+<area shape="poly" id="edge20_Node000001_Node000019" title=" " alt="" coords="1824,32,2065,54,2207,71,2348,93,2383,101,2382,106,2347,99,2206,76,2065,59,1824,38"/>
+<area shape="rect" id="Node000022" href="$d1/df6/windows_2SDL__systhread__c_8h.html" title=" " alt="" coords="2580,104,2775,147"/>
+<area shape="poly" id="edge23_Node000001_Node000022" title=" " alt="" coords="1824,28,1972,35,2157,46,2362,66,2567,93,2604,101,2603,106,2566,99,2361,71,2157,52,1971,40,1824,34"/>
+<area shape="rect" id="Node000023" href="$d1/d09/windows_2SDL__tray_8c.html" title=" " alt="" coords="2682,211,2864,253"/>
+<area shape="poly" id="edge24_Node000001_Node000023" title=" " alt="" coords="1824,28,2082,37,2393,51,2660,70,2747,81,2774,87,2788,94,2798,107,2803,122,2804,154,2796,185,2786,211,2781,209,2791,184,2798,153,2798,123,2793,110,2785,98,2772,92,2746,86,2659,75,2392,56,2082,42,1824,34"/>
+<area shape="rect" id="Node000024" href="$d5/dbb/SDL__surface__utils_8h.html" title=" " alt="" coords="2850,96,3006,155"/>
+<area shape="poly" id="edge25_Node000001_Node000024" title=" " alt="" coords="1824,24,2015,26,2266,35,2548,56,2691,72,2831,93,2850,97,2848,102,2830,99,2690,78,2547,61,2265,40,2015,31,1824,29"/>
+<area shape="rect" id="Node000026" href="$d0/d41/SDL__windowsvideo_8h.html" title=" " alt="" coords="3079,104,3286,147"/>
+<area shape="poly" id="edge28_Node000001_Node000026" title=" " alt="" coords="1824,27,2043,32,2340,43,2677,63,3019,93,3079,102,3079,107,3018,99,2677,68,2340,48,2043,37,1824,32"/>
+<area shape="rect" id="Node000004" href="$d0/da7/SDL__directsound_8h.html" title=" " alt="" coords="264,211,472,253"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="466,158,396,212,393,208,462,154"/>
+<area shape="rect" id="Node000005" href="$d0/daa/SDL__windowshaptic__c_8h.html" title=" " alt="" coords="496,211,720,253"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="536,156,589,208,585,212,532,160"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="414,154,198,213,197,208,412,149"/>
+<area shape="rect" id="Node000006" href="$d8/d30/SDL__dinputhaptic__c_8h.html" title=" " alt="" coords="504,309,712,352"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="610,269,610,309,605,309,605,269"/>
+<area shape="rect" id="Node000009" href="$d3/d13/SDL__hid_8c.html" title=" " alt="" coords="1195,211,1380,253"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1009,149,1216,208,1215,213,1007,154"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="683,160,630,212,626,208,679,156"/>
+<area shape="rect" id="Node000011" href="$d0/d0f/SDL__xinput_8c.html" title=" " alt="" coords="744,211,930,253"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="750,155,814,208,811,212,746,159"/>
+<area shape="rect" id="Node000012" href="$df/d45/SDL__xinputjoystick__c_8h.html" title=" " alt="" coords="953,211,1172,253"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="796,149,994,208,993,213,795,154"/>
+<area shape="rect" id="Node000020" href="$d8/dce/SDL__syscond__cv_8c.html" title=" " alt="" coords="2412,211,2606,253"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="2477,159,2501,209,2497,211,2472,162"/>
+<area shape="rect" id="Node000021" href="$d3/da4/SDL__sysrwlock__srw_8c.html" title=" " alt="" coords="2179,211,2389,253"/>
+<area shape="poly" id="edge22_Node000019_Node000021" title=" " alt="" coords="2412,157,2319,212,2317,208,2409,153"/>
+<area shape="poly" id="edge26_Node000024_Node000023" title=" " alt="" coords="2874,166,2805,212,2802,208,2871,161"/>
+<area shape="rect" id="Node000025" href="$d7/dcf/SDL__surface__utils_8c.html" title=" " alt="" coords="2888,203,3045,261"/>
+<area shape="poly" id="edge27_Node000024_Node000025" title=" " alt="" coords="2946,168,2958,201,2953,203,2941,170"/>
+<area shape="rect" id="Node000027" href="$d6/d1b/SDL__windowsgameinput_8cpp.html" title=" " alt="" coords="3068,211,3318,253"/>
+<area shape="poly" id="edge29_Node000026_Node000027" title=" " alt="" coords="3189,162,3194,210,3188,210,3183,162"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="SDL&#45;main/src/joystick/SDL_joystick_c.h" name="SDL&#45;main/src/joystick/SDL_joystick_c.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="665,5,816,48"/>
+<area shape="rect" id="Node000002" href="$df/d78/SDL_8c.html" title=" " alt="" coords="5,104,148,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="650,38,426,60,293,78,160,99,125,106,124,101,159,93,292,72,426,55,649,33"/>
+<area shape="rect" id="Node000003" href="$d5/d57/SDL__utils_8c.html" title=" " alt="" coords="171,104,344,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="650,46,357,99,319,106,318,101,356,93,649,41"/>
+<area shape="rect" id="Node000004" href="$d4/d07/SDL__events_8c.html" title=" " alt="" coords="368,96,513,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="656,55,512,98,510,93,655,50"/>
+<area shape="rect" id="Node000005" href="$dd/dd3/SDL__haptic_8c.html" title=" " alt="" coords="537,96,677,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="698,59,640,98,637,93,695,55"/>
+<area shape="rect" id="Node000006" href="$d7/d99/SDL__hidapihaptic__c_8h.html" title=" " alt="" coords="671,187,861,229"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="748,63,766,186,760,187,743,64"/>
+<area shape="rect" id="Node000007" href="$d0/d82/SDL__gamepad_8c.html" title=" " alt="" coords="885,187,1036,229"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="779,56,937,184,934,188,776,60"/>
+<area shape="rect" id="Node000008" href="$d6/df9/SDL__joystick_8c.html" title=" " alt="" coords="1060,187,1210,229"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="800,52,1091,184,1089,189,798,57"/>
+<area shape="rect" id="Node000009" href="$d9/d1a/SDL__steam__virtual__gamepad_8c.html" title=" " alt="" coords="1361,96,1568,139"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="831,34,1066,58,1349,93,1361,95,1360,100,1348,99,1065,63,831,39"/>
+<area shape="rect" id="Node000010" href="$d9/d37/SDL__sysjoystick_8h.html" title=" " alt="" coords="1187,96,1337,139"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="832,41,1187,101,1186,106,831,46"/>
+<area shape="rect" id="Node000011" href="$dc/d2f/SDL__mfijoystick_8m.html" title=" " alt="" coords="1879,277,2050,320"/>
+<area shape="poly" id="edge19_Node000001_Node000011" title=" " alt="" coords="729,64,692,140,675,163,668,173,662,188,655,210,655,219,661,227,677,235,712,242,828,255,1178,275,1574,287,1879,293,1878,299,1574,293,1178,280,827,260,712,247,676,240,657,231,650,220,650,209,657,186,663,171,670,160,688,137,724,61"/>
+<area shape="poly" id="edge10_Node000010_Node000006" title=" " alt="" coords="1172,137,874,189,862,192,861,186,873,184,1171,132"/>
+<area shape="poly" id="edge11_Node000010_Node000007" title=" " alt="" coords="1177,146,1032,189,1030,183,1176,141"/>
+<area shape="poly" id="edge12_Node000010_Node000008" title=" " alt="" coords="1221,150,1166,188,1163,184,1218,146"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="1352,136,1484,142,1669,148,1843,161,1906,171,1941,185,1957,205,1965,230,1969,277,1964,277,1960,231,1952,208,1938,189,1904,176,1843,166,1669,154,1483,147,1352,141"/>
+<area shape="rect" id="Node000012" href="$d1/d79/SDL__mfijoystick__c_8h.html" title=" " alt="" coords="2002,187,2183,229"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="1353,136,1530,156,1669,162,1808,167,1983,184,2002,187,2001,192,1983,189,1807,173,1669,168,1529,162,1352,142"/>
+<area shape="rect" id="Node000013" href="$d3/d7b/SDL__dinputjoystick_8c.html" title=" " alt="" coords="1234,187,1439,229"/>
+<area shape="poly" id="edge16_Node000010_Node000013" title=" " alt="" coords="1291,149,1321,185,1317,188,1287,152"/>
+<area shape="rect" id="Node000014" href="$d1/d48/SDL__windowsjoystick__c_8h.html" title=" " alt="" coords="1463,187,1698,229"/>
+<area shape="poly" id="edge17_Node000010_Node000014" title=" " alt="" coords="1352,141,1506,183,1505,189,1351,146"/>
+<area shape="rect" id="Node000015" href="$d3/dfc/SDL__xinputjoystick_8c.html" title=" " alt="" coords="1722,187,1927,229"/>
+<area shape="poly" id="edge18_Node000010_Node000015" title=" " alt="" coords="1352,137,1453,152,1532,162,1710,184,1722,186,1722,191,1709,189,1532,167,1453,158,1352,142"/>
+<area shape="poly" id="edge15_Node000012_Node000011" title=" " alt="" coords="2052,240,1996,279,1993,275,2049,236"/>
+</map>

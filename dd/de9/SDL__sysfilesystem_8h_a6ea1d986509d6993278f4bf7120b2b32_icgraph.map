@@ -1,0 +1,11 @@
+<map id="SDL_SYS_EnumerateDirectory" name="SDL_SYS_EnumerateDirectory">
+<area shape="rect" id="Node000001" title=" " alt="" coords="652,43,857,69"/>
+<area shape="rect" id="Node000002" href="$d4/db9/SDL__filesystem_8c.html#a4a5be67b0825c0f2801b4b09b9da7cf5" title=" " alt="" coords="434,43,604,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="637,59,605,59,605,53,637,53"/>
+<area shape="rect" id="Node000003" href="$d6/df0/SDL__genericstorage_8c.html#acd7ec0ca9cf16e4c5be640cb391592bf" title=" " alt="" coords="188,5,386,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,46,386,42,387,37,419,41"/>
+<area shape="rect" id="Node000004" href="$d4/db9/SDL__filesystem_8c.html#a51cd4e31ea574c2981714e403c7de62e" title=" " alt="" coords="203,72,371,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="419,71,372,77,371,72,418,66"/>
+<area shape="rect" id="Node000005" href="$d4/db9/SDL__filesystem_8c.html#a0d455f8ab2f61032712ea43081093ae7" title=" " alt="" coords="5,72,140,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="187,88,140,88,140,83,187,83"/>
+</map>

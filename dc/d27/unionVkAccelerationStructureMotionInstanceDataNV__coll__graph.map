@@ -1,0 +1,14 @@
+<map id="VkAccelerationStructureMotionInstanceDataNV" name="VkAccelerationStructureMotionInstanceDataNV">
+<area shape="rect" id="Node000001" title=" " alt="" coords="715,64,916,107"/>
+<area shape="rect" id="Node000002" href="$db/d25/structVkAccelerationStructureInstanceKHR.html" title=" " alt="" coords="293,5,534,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="538,32,691,56,716,61,715,66,691,61,537,37"/>
+<area shape="rect" id="Node000003" href="$dc/d41/structVkTransformMatrixKHR.html" title=" " alt="" coords="5,35,167,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="182,37,292,27,293,32,182,42"/>
+<area shape="rect" id="Node000004" href="$dd/da6/structVkAccelerationStructureMatrixMotionInstanceNV.html" title=" " alt="" coords="314,64,512,107"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="128,66,159,78,191,87,253,93,314,93,314,98,252,99,190,92,157,83,127,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="528,83,714,83,714,88,528,88"/>
+<area shape="rect" id="Node000005" href="$d5/df3/structVkAccelerationStructureSRTMotionInstanceNV.html" title=" " alt="" coords="300,135,527,177"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="542,137,691,112,725,105,726,110,691,117,543,142"/>
+<area shape="rect" id="Node000006" href="$db/de6/structVkSRTDataNV.html" title=" " alt="" coords="31,148,141,175"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="157,158,269,157,299,157,299,162,269,163,157,164"/>
+</map>

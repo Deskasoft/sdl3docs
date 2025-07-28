@@ -1,0 +1,11 @@
+<map id="walk_device_tree" name="walk_device_tree">
+<area shape="rect" id="Node000001" title=" " alt="" coords="469,56,591,83"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="564,43,553,37,530,35,509,37,498,41,495,47,500,54,496,57,490,47,494,38,508,31,530,29,554,32,567,38"/>
+<area shape="rect" id="Node000002" href="$d6/d93/netbsd_2hid_8c.html#a2854cca5b54881d5377122bbf3d4ef6f" title=" " alt="" coords="249,5,410,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="459,54,385,35,386,30,460,49"/>
+<area shape="rect" id="Node000003" href="$d6/d93/netbsd_2hid_8c.html#af0dea306823d0667824a60d703dc3583" title=" " alt="" coords="5,31,190,57"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="453,68,190,52,190,47,454,62"/>
+<area shape="rect" id="Node000004" href="$d6/d93/netbsd_2hid_8c.html#a0e569381b03120d85110c54f4cdff5b5" title=" " alt="" coords="238,107,421,133"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="460,90,386,109,385,103,459,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="234,32,190,37,190,31,233,26"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="dlmalloc_trim" name="dlmalloc_trim">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,107,104,133"/>
+<area shape="rect" id="Node000002" href="$d4/d23/SDL__malloc_8c.html#a3de256edbbbbd4018cd3563f55ee50ab" title=" " alt="" coords="152,107,223,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,117,136,117,136,123,104,123"/>
+<area shape="rect" id="Node000003" href="$d4/d23/SDL__malloc_8c.html#ab22b9d57eca306724cb8c4f928d0e824" title=" " alt="" coords="296,5,422,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="198,104,228,73,270,42,281,36,284,41,272,46,232,77,202,108"/>
+<area shape="rect" id="Node000004" href="$d4/d23/SDL__malloc_8c.html#a09ce4644252dfd54eb489e77d0adfd20" title=" " alt="" coords="328,56,391,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="223,107,270,92,312,80,313,85,272,97,224,112"/>
+<area shape="rect" id="Node000005" href="$d4/d23/SDL__malloc_8c.html#a949111e5f127c26e3b9f11bf26c8038a" title=" " alt="" coords="271,107,447,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="223,117,255,117,255,123,223,123"/>
+<area shape="rect" id="Node000006" href="$d4/d23/SDL__malloc_8c.html#adc1656892fa59cbd2e3b60a2608dfefc" title=" " alt="" coords="300,157,419,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="224,128,272,143,296,150,294,155,270,148,223,133"/>
+<area shape="rect" id="Node000007" href="$d3/dda/eglext_8h.html#a0f7193911e632cd84da4082d5c628fe3" title=" " alt="" coords="336,208,382,235"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="202,132,232,163,272,194,297,205,322,212,320,217,295,210,270,198,228,167,198,136"/>
+</map>

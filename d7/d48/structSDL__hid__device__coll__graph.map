@@ -1,0 +1,11 @@
+<map id="SDL_hid_device" name="SDL_hid_device">
+<area shape="rect" id="Node000001" title=" " alt="" coords="79,203,195,229"/>
+<area shape="rect" id="Node000002" href="$d2/df8/structhidapi__backend.html" title=" " alt="" coords="5,104,117,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,141,129,201,125,204,78,145"/>
+<area shape="rect" id="Node000003" href="$d9/d11/structhid__device__info.html" title=" " alt="" coords="5,5,117,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="64,48,64,104,58,104,58,48"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="134,10,143,19,135,27,118,30,117,25,133,23,138,19,131,14"/>
+<area shape="rect" id="Node000004" href="$d5/dc9/structSDL__hid__device__info.html" title=" " alt="" coords="141,104,285,131"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="197,145,170,180,150,204,146,200,166,177,193,142"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="302,109,312,117,304,126,286,129,285,124,301,121,307,117,299,113"/>
+</map>

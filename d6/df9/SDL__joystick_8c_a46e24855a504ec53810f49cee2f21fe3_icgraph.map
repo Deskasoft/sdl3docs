@@ -1,0 +1,16 @@
+<map id="SDL_GetJoystickIDForPlayerIndex" name="SDL_GetJoystickIDForPlayerIndex">
+<area shape="rect" id="Node000001" title=" " alt="" coords="740,51,935,93"/>
+<area shape="rect" id="Node000002" href="$d6/df9/SDL__joystick_8c.html#af86a69830940d9f0d54db689cd9147c3" title=" " alt="" coords="500,5,691,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="724,54,691,47,692,42,725,48"/>
+<area shape="rect" id="Node000004" href="$d6/df9/SDL__joystick_8c.html#a6df4f4bb2cf140cc18c8589443db19c4" title=" " alt="" coords="499,96,692,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="726,96,693,102,692,97,725,90"/>
+<area shape="rect" id="Node000003" href="$d0/d82/SDL__gamepad_8c.html#aa2c25e42f06d21fdd78129981d9790a2" title=" " alt="" coords="253,5,451,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="484,29,452,29,452,24,484,24"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="635,83,620,77,596,75,573,77,559,81,553,87,555,95,550,96,548,86,556,77,572,71,596,69,621,72,637,78"/>
+<area shape="rect" id="Node000005" href="$d6/df9/SDL__joystick_8c.html#a8c30092465eb1a9f7599f24f98eacd03" title=" " alt="" coords="261,88,442,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="483,113,443,110,443,105,484,107"/>
+<area shape="rect" id="Node000006" href="$d6/df9/SDL__joystick_8c.html#af777ece54e67a769f62701c36663d71a" title=" " alt="" coords="256,139,448,165"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="484,136,449,141,448,136,483,131"/>
+<area shape="rect" id="Node000007" href="$d0/d82/SDL__gamepad_8c.html#a8eb99447f0000c1455dc02b499e9e869" title=" " alt="" coords="5,139,205,165"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="240,155,205,155,205,149,240,149"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="SDL_SYS_GetPreferredLocales" name="SDL_SYS_GetPreferredLocales">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,213,32"/>
+<area shape="rect" id="Node000002" href="$d2/d23/SDL__string_8c.html#a38e76d86236f4a24cf0cc6863ec3ae9d" title=" " alt="" coords="400,5,486,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,16,384,16,384,21,213,21"/>
+<area shape="rect" id="Node000003" href="$d2/d23/SDL__string_8c.html#a4788f77d6cf400558195b31bf5ce78bd" title=" " alt="" coords="261,31,352,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,29,246,34,245,39,212,35"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="352,33,384,27,385,32,353,38"/>
+</map>

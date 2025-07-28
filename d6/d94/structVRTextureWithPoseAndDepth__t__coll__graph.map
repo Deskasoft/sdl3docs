@@ -1,0 +1,11 @@
+<map id="VRTextureWithPoseAndDepth_t" name="VRTextureWithPoseAndDepth_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="59,203,267,229"/>
+<area shape="rect" id="Node000002" href="$d9/de4/structHmdMatrix34__t.html" title=" " alt="" coords="5,104,116,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,146,58,162,64,177,77,190,94,200,91,204,74,195,59,180,53,163,52,146"/>
+<area shape="rect" id="Node000003" href="$db/dfd/structVRTextureDepthInfo__t.html" title=" " alt="" coords="191,104,341,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="260,146,251,164,238,181,221,194,202,204,199,200,218,190,235,177,246,161,255,144"/>
+<area shape="rect" id="Node000004" href="$de/d7c/structHmdMatrix44__t.html" title=" " alt="" coords="144,5,254,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="201,47,204,64,211,79,223,91,237,101,234,106,219,95,207,81,199,65,196,48"/>
+<area shape="rect" id="Node000005" href="$d4/d3d/structHmdVector2__t.html" title=" " alt="" coords="279,5,383,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="316,46,276,105,272,102,312,43"/>
+</map>

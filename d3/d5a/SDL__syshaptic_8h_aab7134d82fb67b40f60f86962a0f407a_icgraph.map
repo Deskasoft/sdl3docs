@@ -1,0 +1,13 @@
+<map id="SDL_SYS_HapticInstanceID" name="SDL_SYS_HapticInstanceID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="668,56,859,83"/>
+<area shape="rect" id="Node000002" href="$dd/dd3/SDL__haptic_8c.html#afafea0c541982f51ba00d92d083e4e64" title=" " alt="" coords="475,31,620,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="653,59,621,55,621,50,653,54"/>
+<area shape="rect" id="Node000006" href="$dd/dd3/SDL__haptic_8c.html#ad7957c85b93dbdf44bf949ba22291b27" title=" " alt="" coords="488,81,608,108"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="654,85,609,90,608,85,653,80"/>
+<area shape="rect" id="Node000003" href="$dd/dd3/SDL__haptic_8c.html#a7f5a8dd95800294dbf11ed89fc7351b2" title=" " alt="" coords="246,5,427,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="459,36,427,32,428,27,460,31"/>
+<area shape="rect" id="Node000004" href="$dd/dd3/SDL__haptic_8c.html#a2f0b7a12595c1bdc70182634c4613d45" title=" " alt="" coords="275,56,398,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="460,57,399,65,398,59,459,52"/>
+<area shape="rect" id="Node000005" href="$dd/dd3/SDL__haptic_8c.html#aece41e8202f932570e7e515c7714d473" title=" " alt="" coords="5,56,198,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="259,72,198,72,198,67,259,67"/>
+</map>

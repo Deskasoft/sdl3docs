@@ -1,0 +1,11 @@
+<map id="SDL_HasKeyboard" name="SDL_HasKeyboard">
+<area shape="rect" id="Node000001" title=" " alt="" coords="702,31,836,57"/>
+<area shape="rect" id="Node000002" href="$d6/d3d/SDL__video_8c.html#afeb7a04f87f5fc9e325a985504177c71" title=" " alt="" coords="460,31,654,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="687,47,655,47,655,41,687,41"/>
+<area shape="rect" id="Node000003" href="$d6/d3d/SDL__video_8c.html#a6d66084902d5966608bb71c0c79b12e5" title=" " alt="" coords="190,5,412,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="444,36,412,32,413,27,445,30"/>
+<area shape="rect" id="Node000005" href="$d6/d3d/SDL__video_8c.html#a3cf97812dda7482ddc080a05b1479317" title=" " alt="" coords="233,56,368,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="445,58,369,65,369,60,444,52"/>
+<area shape="rect" id="Node000004" href="$d6/d3d/SDL__video_8c.html#a64698ed85233d0024ec29aba465000dc" title=" " alt="" coords="5,5,142,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="174,21,142,21,142,16,174,16"/>
+</map>

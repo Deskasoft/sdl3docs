@@ -1,0 +1,9 @@
+<map id="VkMicromapBuildInfoEXT" name="VkMicromapBuildInfoEXT">
+<area shape="rect" id="Node000001" title=" " alt="" coords="219,125,390,152"/>
+<area shape="rect" id="Node000002" href="$dd/df6/structVkMicromapUsageEXT.html" title=" " alt="" coords="5,5,164,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,40,152,70,198,99,258,122,256,127,196,104,149,75,109,44"/>
+<area shape="rect" id="Node000003" href="$d9/d13/unionVkDeviceOrHostAddressConstKHR.html" title=" " alt="" coords="188,5,421,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="307,48,307,125,302,125,302,48"/>
+<area shape="rect" id="Node000004" href="$df/d1b/unionVkDeviceOrHostAddressKHR.html" title=" " alt="" coords="444,5,642,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="509,42,392,104,338,127,336,122,390,99,507,38"/>
+</map>

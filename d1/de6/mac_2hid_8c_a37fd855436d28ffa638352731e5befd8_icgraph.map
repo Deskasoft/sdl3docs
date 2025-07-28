@@ -1,0 +1,17 @@
+<map id="try_get_ioregistry_int_property" name="try_get_ioregistry_int_property">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1075,48,1196,91"/>
+<area shape="rect" id="Node000002" href="$d1/de6/mac_2hid_8c.html#af2efa963a7563067b7c5d263385e0b1e" title=" " alt="" coords="857,48,1027,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1059,72,1027,72,1027,67,1059,67"/>
+<area shape="rect" id="Node000003" href="$d1/de6/mac_2hid_8c.html#ad5fe9b15b69dc5f6d8f34091c0b95fac" title=" " alt="" coords="678,48,809,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="841,72,809,72,809,67,841,67"/>
+<area shape="rect" id="Node000004" href="$d1/de6/mac_2hid_8c.html#a1132c2be289aeb99e5ec27e6dd0cfb0b" title=" " alt="" coords="500,56,630,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="662,72,631,72,631,67,662,67"/>
+<area shape="rect" id="Node000005" href="$d6/d93/netbsd_2hid_8c.html#a2854cca5b54881d5377122bbf3d4ef6f" title=" " alt="" coords="264,5,426,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="488,55,405,35,407,30,490,49"/>
+<area shape="rect" id="Node000007" href="$d1/de6/mac_2hid_8c.html#af0dea306823d0667824a60d703dc3583" title=" " alt="" coords="253,56,437,83"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="485,72,438,72,438,67,485,67"/>
+<area shape="rect" id="Node000008" href="$d1/de6/mac_2hid_8c.html#a0fb3a037bb3d94c05c7f670e66a14ed8" title=" " alt="" coords="238,107,452,133"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="490,89,407,109,405,103,488,84"/>
+<area shape="rect" id="Node000006" href="$d6/d93/netbsd_2hid_8c.html#af0dea306823d0667824a60d703dc3583" title=" " alt="" coords="5,5,190,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="249,21,190,21,190,16,249,16"/>
+</map>

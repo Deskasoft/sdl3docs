@@ -1,0 +1,12 @@
+<map id="ZombieReleaseFrame" name="ZombieReleaseFrame">
+<area shape="rect" id="Node000001" title=" " alt="" coords="794,5,943,32"/>
+<area shape="rect" id="Node000002" href="$db/d6b/SDL__camera_8c.html#acd24207c14e2b43ccdf28e8107f3f2a5" title=" " alt="" coords="565,5,746,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="778,21,746,21,746,16,778,16"/>
+<area shape="rect" id="Node000003" href="$db/d6b/SDL__camera_8c.html#a03e068ea12aee6918e95902871cb3523" title=" " alt="" coords="185,5,292,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="550,21,292,21,292,16,550,16"/>
+<area shape="rect" id="Node000005" href="$db/d6b/SDL__camera_8c.html#aada59aeebd93ce01f07435a3741fc972" title=" " alt="" coords="340,31,517,57"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="550,33,518,37,518,31,550,28"/>
+<area shape="rect" id="Node000004" href="$db/d6b/SDL__camera_8c.html#a52469fec975f103f2456d9e03a868fba" title=" " alt="" coords="5,5,137,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="169,21,137,21,137,16,169,16"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="324,33,292,28,293,23,325,27"/>
+</map>

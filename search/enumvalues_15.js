@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['wayland_5fshell_5fsurface_5fstatus_5fhidden_0',['WAYLAND_SHELL_SURFACE_STATUS_HIDDEN',['../d4/dd9/structSDL__WindowData.html#adbe97b3bceabafb2385920aae01648fea97ef0a36123e2c1393e17900152eb848',1,'SDL_WindowData']]],
+  ['wayland_5fshell_5fsurface_5fstatus_5fshow_5fpending_1',['WAYLAND_SHELL_SURFACE_STATUS_SHOW_PENDING',['../d4/dd9/structSDL__WindowData.html#adbe97b3bceabafb2385920aae01648fea51c887d2d2bba74381d7245072314acd',1,'SDL_WindowData']]],
+  ['wayland_5fshell_5fsurface_5fstatus_5fshown_2',['WAYLAND_SHELL_SURFACE_STATUS_SHOWN',['../d4/dd9/structSDL__WindowData.html#adbe97b3bceabafb2385920aae01648fea45f29da159b9f68b60f3ef924979816f',1,'SDL_WindowData']]],
+  ['wayland_5fshell_5fsurface_5fstatus_5fwaiting_5ffor_5fconfigure_3',['WAYLAND_SHELL_SURFACE_STATUS_WAITING_FOR_CONFIGURE',['../d4/dd9/structSDL__WindowData.html#adbe97b3bceabafb2385920aae01648fea64cec01c416d6ddd6b7c8257f3ef525a',1,'SDL_WindowData']]],
+  ['wayland_5fshell_5fsurface_5fstatus_5fwaiting_5ffor_5fframe_4',['WAYLAND_SHELL_SURFACE_STATUS_WAITING_FOR_FRAME',['../d4/dd9/structSDL__WindowData.html#adbe97b3bceabafb2385920aae01648feae28c397d2b50d07b09e7c6b570258d09',1,'SDL_WindowData']]],
+  ['wayland_5fshell_5fsurface_5ftype_5fcustom_5',['WAYLAND_SHELL_SURFACE_TYPE_CUSTOM',['../d4/dd9/structSDL__WindowData.html#a97d98add818758db577a2728b06b751da47356109c4e7a4f8eaa5c04b57b836c5',1,'SDL_WindowData']]],
+  ['wayland_5fshell_5fsurface_5ftype_5flibdecor_6',['WAYLAND_SHELL_SURFACE_TYPE_LIBDECOR',['../d4/dd9/structSDL__WindowData.html#a97d98add818758db577a2728b06b751da1e0667c880a834fe75656c54ee56326f',1,'SDL_WindowData']]],
+  ['wayland_5fshell_5fsurface_5ftype_5funknown_7',['WAYLAND_SHELL_SURFACE_TYPE_UNKNOWN',['../d4/dd9/structSDL__WindowData.html#a97d98add818758db577a2728b06b751da832c1d89f5fd77bc4f71037b3b6fa700',1,'SDL_WindowData']]],
+  ['wayland_5fshell_5fsurface_5ftype_5fxdg_5fpopup_8',['WAYLAND_SHELL_SURFACE_TYPE_XDG_POPUP',['../d4/dd9/structSDL__WindowData.html#a97d98add818758db577a2728b06b751daf2c053db5da2b2a41adca94aef0530c1',1,'SDL_WindowData']]],
+  ['wayland_5fshell_5fsurface_5ftype_5fxdg_5ftoplevel_9',['WAYLAND_SHELL_SURFACE_TYPE_XDG_TOPLEVEL',['../d4/dd9/structSDL__WindowData.html#a97d98add818758db577a2728b06b751daa705d50a35d81a34d42368d20b7e3465',1,'SDL_WindowData']]],
+  ['wayland_5ftoplevel_5fconstrained_5fbottom_10',['WAYLAND_TOPLEVEL_CONSTRAINED_BOTTOM',['../d4/dd9/structSDL__WindowData.html#a331a8d996e6cfc423951023ec70bf6f1af0b91d57c658bc904e72b90eedd76d86',1,'SDL_WindowData']]],
+  ['wayland_5ftoplevel_5fconstrained_5fleft_11',['WAYLAND_TOPLEVEL_CONSTRAINED_LEFT',['../d4/dd9/structSDL__WindowData.html#a331a8d996e6cfc423951023ec70bf6f1ac8fd06db9092251d5df54fcaf37208c6',1,'SDL_WindowData']]],
+  ['wayland_5ftoplevel_5fconstrained_5fright_12',['WAYLAND_TOPLEVEL_CONSTRAINED_RIGHT',['../d4/dd9/structSDL__WindowData.html#a331a8d996e6cfc423951023ec70bf6f1a241a8fec4fb30553714713b890fcccd9',1,'SDL_WindowData']]],
+  ['wayland_5ftoplevel_5fconstrained_5ftop_13',['WAYLAND_TOPLEVEL_CONSTRAINED_TOP',['../d4/dd9/structSDL__WindowData.html#a331a8d996e6cfc423951023ec70bf6f1aa082f0bc78e042f05d5ac18994f497cb',1,'SDL_WindowData']]],
+  ['wayland_5fwm_5fcaps_5fall_14',['WAYLAND_WM_CAPS_ALL',['../d4/dd9/structSDL__WindowData.html#a07e3839dc4eb7bdece90ae770d09dec3a8b90c6a39ebe120aa77765235e451141',1,'SDL_WindowData']]],
+  ['wayland_5fwm_5fcaps_5ffullscreen_15',['WAYLAND_WM_CAPS_FULLSCREEN',['../d4/dd9/structSDL__WindowData.html#a07e3839dc4eb7bdece90ae770d09dec3af854a3e488bba1bc84011fec68bd7e14',1,'SDL_WindowData']]],
+  ['wayland_5fwm_5fcaps_5fmaximize_16',['WAYLAND_WM_CAPS_MAXIMIZE',['../d4/dd9/structSDL__WindowData.html#a07e3839dc4eb7bdece90ae770d09dec3aa599376229b82499e91448b89fc8e466',1,'SDL_WindowData']]],
+  ['wayland_5fwm_5fcaps_5fminimize_17',['WAYLAND_WM_CAPS_MINIMIZE',['../d4/dd9/structSDL__WindowData.html#a07e3839dc4eb7bdece90ae770d09dec3a719467982aeecbdbe6b41bd3a5551428',1,'SDL_WindowData']]],
+  ['wayland_5fwm_5fcaps_5fwindow_5fmenu_18',['WAYLAND_WM_CAPS_WINDOW_MENU',['../d4/dd9/structSDL__WindowData.html#a07e3839dc4eb7bdece90ae770d09dec3a0446c550a2f6511fd28990da1f15c60a',1,'SDL_WindowData']]],
+  ['wireless_5fevent_5fconnect_19',['WIRELESS_EVENT_CONNECT',['../de/de8/controller__constants_8h.html#aafd0ef9a06bfd6d718e762d596cb7d4daf22eb2635ea35f5e16f7b3d6b5f10e17',1,'controller_constants.h']]],
+  ['wireless_5fevent_5fdisconnect_20',['WIRELESS_EVENT_DISCONNECT',['../de/de8/controller__constants_8h.html#aafd0ef9a06bfd6d718e762d596cb7d4dab2fd004d37e48cdcba0af3585f050732',1,'controller_constants.h']]],
+  ['wireless_5fevent_5fpair_21',['WIRELESS_EVENT_PAIR',['../de/de8/controller__constants_8h.html#aafd0ef9a06bfd6d718e762d596cb7d4da9eda04d49e98c5112f1ea2126d3a33da',1,'controller_constants.h']]]
+];

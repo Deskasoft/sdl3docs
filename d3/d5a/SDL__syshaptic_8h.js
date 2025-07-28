@@ -1,0 +1,27 @@
+var SDL__syshaptic_8h =
+[
+    [ "haptic_effect", "d7/d87/structhaptic__effect.html", "d7/d87/structhaptic__effect" ],
+    [ "SDL_Haptic", "da/db6/structSDL__Haptic.html", "da/db6/structSDL__Haptic" ],
+    [ "SDL_SYS_HapticClose", "d3/d5a/SDL__syshaptic_8h.html#a113a9ab1bc9853a19ef2a43be385dfca", null ],
+    [ "SDL_SYS_HapticDestroyEffect", "d3/d5a/SDL__syshaptic_8h.html#ab5a173cf5e7c30b9b5315e701740e8e8", null ],
+    [ "SDL_SYS_HapticGetEffectStatus", "d3/d5a/SDL__syshaptic_8h.html#aec4f467dbf9420d4cf6ee35ed70d4b42", null ],
+    [ "SDL_SYS_HapticInit", "d3/d5a/SDL__syshaptic_8h.html#af9b6330b6fbe9ecd00376b9118cd38f7", null ],
+    [ "SDL_SYS_HapticInstanceID", "d3/d5a/SDL__syshaptic_8h.html#aab7134d82fb67b40f60f86962a0f407a", null ],
+    [ "SDL_SYS_HapticMouse", "d3/d5a/SDL__syshaptic_8h.html#a4e980c44b5ba48f0e8b8eeb91eeeb77a", null ],
+    [ "SDL_SYS_HapticName", "d3/d5a/SDL__syshaptic_8h.html#aaa031bea1e2d0c982b25201bdbec5d63", null ],
+    [ "SDL_SYS_HapticNewEffect", "d3/d5a/SDL__syshaptic_8h.html#a58015915a3873d70a1d1126c43981fa8", null ],
+    [ "SDL_SYS_HapticOpen", "d3/d5a/SDL__syshaptic_8h.html#ae87d6e34e8fc193c004dc994b4ffa2ed", null ],
+    [ "SDL_SYS_HapticOpenFromJoystick", "d3/d5a/SDL__syshaptic_8h.html#a3bcd0c4cd7ccace0c651cc3b3a177fb5", null ],
+    [ "SDL_SYS_HapticPause", "d3/d5a/SDL__syshaptic_8h.html#a466957a816be0b02cc9c46395659d056", null ],
+    [ "SDL_SYS_HapticQuit", "d3/d5a/SDL__syshaptic_8h.html#a3cfed33844bd52c5affe8b358e9ff773", null ],
+    [ "SDL_SYS_HapticResume", "d3/d5a/SDL__syshaptic_8h.html#a63a4aa0b086a089e31eecef46f66ac95", null ],
+    [ "SDL_SYS_HapticRunEffect", "d3/d5a/SDL__syshaptic_8h.html#a8584b7ca747f29461ce93eeca3e80c93", null ],
+    [ "SDL_SYS_HapticSetAutocenter", "d3/d5a/SDL__syshaptic_8h.html#aa2c4c6164ebf1996316137a7f45d1ba1", null ],
+    [ "SDL_SYS_HapticSetGain", "d3/d5a/SDL__syshaptic_8h.html#ae8a6d4621a7fe8a836fb1a41906acd30", null ],
+    [ "SDL_SYS_HapticStopAll", "d3/d5a/SDL__syshaptic_8h.html#a4c5c06e24ebcb596f4aacffe12f65927", null ],
+    [ "SDL_SYS_HapticStopEffect", "d3/d5a/SDL__syshaptic_8h.html#ab026604c62275908bee142f688f3c55f", null ],
+    [ "SDL_SYS_HapticUpdateEffect", "d3/d5a/SDL__syshaptic_8h.html#a45a91ab1bb18e33c43cc05a261c4d7e9", null ],
+    [ "SDL_SYS_JoystickIsHaptic", "d3/d5a/SDL__syshaptic_8h.html#aa18937eafe3101ea3ba84c19ee154a3b", null ],
+    [ "SDL_SYS_JoystickSameHaptic", "d3/d5a/SDL__syshaptic_8h.html#ae1d5cc07d8c56a9f765c7e5e5f88f3a8", null ],
+    [ "SDL_SYS_NumHaptics", "d3/d5a/SDL__syshaptic_8h.html#aa7af43f04b9ad40770fcacb96e9c8d21", null ]
+];

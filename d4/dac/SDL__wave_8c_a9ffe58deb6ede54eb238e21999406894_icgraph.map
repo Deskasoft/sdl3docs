@@ -1,0 +1,19 @@
+<map id="WaveFreeChunkData" name="WaveFreeChunkData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="911,36,1057,62"/>
+<area shape="rect" id="Node000002" href="$d4/dac/SDL__wave_8c.html#afeaef077e6cb8f35303b234139713b6d" title=" " alt="" coords="165,10,297,37"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="922,34,863,22,704,10,546,9,405,14,298,21,297,15,405,8,546,3,704,5,863,17,923,29"/>
+<area shape="rect" id="Node000004" href="$d4/dac/SDL__wave_8c.html#a74a2f92d8c663adf2d70ed3fc458c1b5" title=" " alt="" coords="345,61,427,88"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="895,46,863,45,668,36,584,39,476,52,428,63,427,58,475,46,583,33,668,31,863,40,895,41"/>
+<area shape="rect" id="Node000005" href="$d4/dac/SDL__wave_8c.html#a7ef1a477aa6ccd8189d0185626978535" title=" " alt="" coords="491,61,611,88"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="896,57,612,73,612,68,895,51"/>
+<area shape="rect" id="Node000006" href="$d4/dac/SDL__wave_8c.html#ac89e76af4a69b7011354078ab804ae5b" title=" " alt="" coords="675,112,863,138"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="933,71,864,96,812,114,810,109,862,90,931,66"/>
+<area shape="rect" id="Node000003" href="$d4/dac/SDL__wave_8c.html#a8f44fee5faff8eeca26f48be1e66141f" title=" " alt="" coords="5,10,117,37"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="149,26,117,26,117,21,149,21"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="330,59,273,40,275,35,331,54"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="475,77,428,77,428,72,475,72"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="659,123,569,116,475,102,427,90,428,85,476,97,569,110,659,118"/>
+<area shape="rect" id="Node000007" href="$d4/dac/SDL__wave_8c.html#ab3836c42ce28e16317272b590c79190c" title=" " alt="" coords="475,162,627,189"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="694,145,612,164,611,159,693,140"/>
+<area shape="poly" id="edge10_Node000007_Node000004" title=" " alt="" coords="497,158,474,146,433,117,400,90,404,86,436,113,477,141,499,153"/>
+</map>

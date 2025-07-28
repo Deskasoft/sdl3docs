@@ -1,0 +1,9 @@
+<map id="WaveFile" name="WaveFile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="131,104,206,131"/>
+<area shape="rect" id="Node000002" href="$d3/d76/structWaveChunk.html" title=" " alt="" coords="5,5,98,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,40,122,78,153,102,150,106,119,82,75,44"/>
+<area shape="rect" id="Node000003" href="$de/dd8/structWaveFormat.html" title=" " alt="" coords="121,5,216,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,48,172,104,166,104,166,48"/>
+<area shape="rect" id="Node000004" href="$d8/df1/structWaveFact.html" title=" " alt="" coords="241,5,321,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="260,45,221,82,190,105,187,101,218,78,257,42"/>
+</map>

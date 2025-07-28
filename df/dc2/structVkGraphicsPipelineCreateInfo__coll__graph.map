@@ -1,0 +1,43 @@
+<map id="VkGraphicsPipelineCreateInfo" name="VkGraphicsPipelineCreateInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1157,303,1354,330"/>
+<area shape="rect" id="Node000002" href="$da/d11/structVkPipelineShaderStageCreateInfo.html" title=" " alt="" coords="753,23,972,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="988,26,1026,29,1064,37,1101,50,1135,69,1164,95,1188,125,1207,158,1223,192,1245,257,1255,303,1249,304,1239,258,1218,194,1203,161,1183,128,1160,98,1132,73,1099,55,1063,42,1025,35,988,31"/>
+<area shape="rect" id="Node000003" href="$d8/d64/structVkSpecializationInfo.html" title=" " alt="" coords="348,23,488,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="503,34,753,34,753,39,503,39"/>
+<area shape="rect" id="Node000004" href="$d3/d79/structVkSpecializationMapEntry.html" title=" " alt="" coords="5,23,180,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="195,34,347,34,347,39,195,39"/>
+<area shape="rect" id="Node000005" href="$d2/daa/structVkPipelineVertexInputStateCreateInfo.html" title=" " alt="" coords="772,74,953,117"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="969,94,1010,99,1053,109,1095,123,1135,144,1178,181,1211,225,1236,269,1251,302,1246,304,1231,271,1207,228,1174,184,1132,148,1093,128,1052,114,1009,105,968,99"/>
+<area shape="rect" id="Node000006" href="$d8/ddd/structVkVertexInputBindingDescription.html" title=" " alt="" coords="312,79,524,106"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="539,91,772,92,772,97,539,96"/>
+<area shape="rect" id="Node000007" href="$da/d84/structVkVertexInputAttributeDescription.html" title=" " alt="" coords="309,134,527,161"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="542,138,725,121,772,113,773,118,725,126,543,144"/>
+<area shape="rect" id="Node000008" href="$df/d0c/structVkPipelineInputAssemblyStateCreateInfo.html" title=" " alt="" coords="762,141,963,183"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="979,168,1057,184,1097,196,1135,212,1169,232,1199,256,1244,301,1240,305,1196,260,1166,236,1132,216,1095,201,1056,189,978,174"/>
+<area shape="rect" id="Node000009" href="$d3/dc8/structVkPipelineTessellationStateCreateInfo.html" title=" " alt="" coords="771,207,954,250"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="970,236,1051,248,1134,266,1183,282,1226,300,1224,305,1181,287,1133,271,1050,253,970,241"/>
+<area shape="rect" id="Node000010" href="$db/d5b/structVkPipelineViewportStateCreateInfo.html" title=" " alt="" coords="750,274,976,301"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="992,294,1157,307,1157,312,991,300"/>
+<area shape="rect" id="Node000011" href="$d6/dee/structVkViewport.html" title=" " alt="" coords="374,246,462,273"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="478,260,749,278,749,283,477,266"/>
+<area shape="rect" id="Node000012" href="$d7/d2d/structVkRect2D.html" title=" " alt="" coords="377,301,459,327"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="474,314,590,316,725,310,799,299,800,304,725,315,590,321,474,319"/>
+<area shape="rect" id="Node000013" href="$d6/d3e/structVkOffset2D.html" title=" " alt="" coords="48,273,137,299"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="153,288,377,308,376,313,153,294"/>
+<area shape="rect" id="Node000014" href="$d1/d79/structVkExtent2D.html" title=" " alt="" coords="46,327,139,354"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="154,340,217,340,284,337,376,321,377,326,285,342,217,346,154,346"/>
+<area shape="rect" id="Node000015" href="$d1/d88/structVkPipelineRasterizationStateCreateInfo.html" title=" " alt="" coords="767,325,958,367"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="974,343,1133,334,1179,328,1179,333,1134,339,974,348"/>
+<area shape="rect" id="Node000016" href="$dd/d0e/structVkPipelineMultisampleStateCreateInfo.html" title=" " alt="" coords="770,391,955,434"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="970,402,1051,391,1133,371,1185,351,1229,328,1232,333,1187,356,1134,377,1052,396,971,407"/>
+<area shape="rect" id="Node000017" href="$db/d3b/structVkPipelineDepthStencilStateCreateInfo.html" title=" " alt="" coords="768,458,957,501"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="972,471,1053,456,1094,444,1132,428,1167,405,1198,378,1242,329,1246,332,1202,382,1170,410,1135,432,1095,449,1054,461,973,476"/>
+<area shape="rect" id="Node000018" href="$d6/d83/structVkStencilOpState.html" title=" " alt="" coords="355,466,480,493"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="496,477,767,477,767,482,496,482"/>
+<area shape="rect" id="Node000019" href="$d0/d65/structVkPipelineColorBlendStateCreateInfo.html" title=" " alt="" coords="774,525,952,567"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="967,544,1009,539,1051,530,1093,516,1132,496,1155,478,1175,457,1209,410,1233,364,1247,329,1252,331,1237,366,1213,413,1179,460,1158,482,1135,500,1095,521,1053,535,1009,544,968,549"/>
+<area shape="rect" id="Node000020" href="$d9/d79/structVkPipelineColorBlendAttachmentState.html" title=" " alt="" coords="311,525,525,567"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="541,543,773,543,773,549,541,549"/>
+<area shape="rect" id="Node000021" href="$d9/d08/structVkPipelineDynamicStateCreateInfo.html" title=" " alt="" coords="749,591,976,618"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="991,612,1028,609,1065,601,1100,589,1132,570,1161,545,1185,513,1204,479,1220,444,1240,377,1250,330,1255,331,1246,378,1225,446,1209,482,1189,516,1165,548,1135,575,1102,594,1066,606,1029,614,992,617"/>
+</map>

@@ -1,0 +1,27 @@
+var SDL__render__vita__gxm__types_8h =
+[
+    [ "blend_fragment_programs", "dd/dfd/structblend__fragment__programs.html", "dd/dfd/structblend__fragment__programs" ],
+    [ "clear_vertex", "de/d32/structclear__vertex.html", "de/d32/structclear__vertex" ],
+    [ "color_vertex", "df/d8a/structcolor__vertex.html", "df/d8a/structcolor__vertex" ],
+    [ "fragment_programs", "da/d9c/structfragment__programs.html", "da/d9c/structfragment__programs" ],
+    [ "gxm_drawstate_cache", "df/d64/structgxm__drawstate__cache.html", "df/d64/structgxm__drawstate__cache" ],
+    [ "gxm_texture", "d6/d7d/structgxm__texture.html", "d6/d7d/structgxm__texture" ],
+    [ "texture_vertex", "d0/d95/structtexture__vertex.html", "d0/d95/structtexture__vertex" ],
+    [ "VITA_GXM_DisplayData", "da/df8/structVITA__GXM__DisplayData.html", "da/df8/structVITA__GXM__DisplayData" ],
+    [ "VITA_GXM_RenderData", "da/d82/structVITA__GXM__RenderData.html", "da/d82/structVITA__GXM__RenderData" ],
+    [ "VITA_GXM_TextureData", "dc/d65/structVITA__GXM__TextureData.html", "dc/d65/structVITA__GXM__TextureData" ],
+    [ "VITA_GXM_BUFFERS", "d4/ded/SDL__render__vita__gxm__types_8h.html#ab8ad9b3e6075d990a41b90c6068778fb", null ],
+    [ "VITA_GXM_COLOR_FORMAT", "d4/ded/SDL__render__vita__gxm__types_8h.html#a2a7f8c68f144bf1501437b4fff1410b1", null ],
+    [ "VITA_GXM_PENDING_SWAPS", "d4/ded/SDL__render__vita__gxm__types_8h.html#a622250478a04a40d32d1ccb36592face", null ],
+    [ "VITA_GXM_PIXEL_FORMAT", "d4/ded/SDL__render__vita__gxm__types_8h.html#a061961f4b2217db367516e50d91e240b", null ],
+    [ "VITA_GXM_POOL_SIZE", "d4/ded/SDL__render__vita__gxm__types_8h.html#a15b8bf4c82e3c09537f2bc218e052dae", null ],
+    [ "VITA_GXM_SCREEN_HEIGHT", "d4/ded/SDL__render__vita__gxm__types_8h.html#ad76b47f627fe9ba98b9b7a4b60687dee", null ],
+    [ "VITA_GXM_SCREEN_STRIDE", "d4/ded/SDL__render__vita__gxm__types_8h.html#a16c8a41fb64ddf561b2b6daede6e482a", null ],
+    [ "VITA_GXM_SCREEN_WIDTH", "d4/ded/SDL__render__vita__gxm__types_8h.html#a08b670ad6d79f3576aab881448a3fb14", null ],
+    [ "blend_fragment_programs", "d4/ded/SDL__render__vita__gxm__types_8h.html#a418d758fb1553addb7649c43e85e6fe6", null ],
+    [ "clear_vertex", "d4/ded/SDL__render__vita__gxm__types_8h.html#a44fd398574567c4115cdb06b6d972721", null ],
+    [ "color_vertex", "d4/ded/SDL__render__vita__gxm__types_8h.html#ad86f8fc97e2f852343ecc53bf2aef51d", null ],
+    [ "fragment_programs", "d4/ded/SDL__render__vita__gxm__types_8h.html#a2956368844dc12c4c4ac321a99fb2903", null ],
+    [ "gxm_texture", "d4/ded/SDL__render__vita__gxm__types_8h.html#a8c44830bb154956d76017ed1a269360f", null ],
+    [ "texture_vertex", "d4/ded/SDL__render__vita__gxm__types_8h.html#a0c6fb54f5c85c6f3217aa87d9289c63f", null ]
+];

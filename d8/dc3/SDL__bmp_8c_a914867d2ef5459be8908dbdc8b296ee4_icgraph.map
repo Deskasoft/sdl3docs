@@ -1,0 +1,7 @@
+<map id="CorrectAlphaChannel" name="CorrectAlphaChannel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="345,5,490,32"/>
+<area shape="rect" id="Node000002" href="$d8/dc3/SDL__bmp_8c.html#a46ec958b331ad4389a21b6684b366e32" title=" " alt="" coords="165,5,297,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="329,21,297,21,297,16,329,16"/>
+<area shape="rect" id="Node000003" href="$d8/dc3/SDL__bmp_8c.html#adb17cfdf4bf377079462ffa3701eeb76" title=" " alt="" coords="5,5,117,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="149,21,117,21,117,16,149,16"/>
+</map>

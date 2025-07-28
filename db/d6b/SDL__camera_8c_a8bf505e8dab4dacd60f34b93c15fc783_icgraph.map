@@ -1,0 +1,35 @@
+<map id="ObtainPhysicalCameraObj" name="ObtainPhysicalCameraObj">
+<area shape="rect" id="Node000001" title=" " alt="" coords="883,309,1058,336"/>
+<area shape="rect" id="Node000002" href="$db/d6b/SDL__camera_8c.html#ad3a8df31f50f2edcc09c5d7acbae12f0" title=" " alt="" coords="648,107,803,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="954,297,935,262,908,222,874,181,833,148,803,134,805,129,836,143,877,177,912,218,939,260,959,294"/>
+<area shape="rect" id="Node000007" href="$db/d6b/SDL__camera_8c.html#adb656bd4baa9b1811c13486a98370d16" title=" " alt="" coords="635,157,816,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="947,299,899,247,868,221,833,198,806,187,809,182,836,194,871,216,903,243,951,295"/>
+<area shape="rect" id="Node000008" href="$db/d6b/SDL__camera_8c.html#acd24207c14e2b43ccdf28e8107f3f2a5" title=" " alt="" coords="635,208,816,235"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="935,303,888,275,834,249,798,238,800,233,836,244,891,270,938,298"/>
+<area shape="rect" id="Node000011" href="$db/d6b/SDL__camera_8c.html#aaf114744da523edc8f10da088e887bc8" title=" " alt="" coords="616,259,835,285"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="887,308,793,289,794,283,888,303"/>
+<area shape="rect" id="Node000012" href="$db/d6b/SDL__camera_8c.html#ad07f724e49b2712b4393d71a88f9c9da" title=" " alt="" coords="644,309,807,336"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="867,325,807,325,807,320,867,320"/>
+<area shape="rect" id="Node000013" href="$db/d6b/SDL__camera_8c.html#aabba86e97fffff0d55fae7efe2ecff94" title=" " alt="" coords="658,360,793,387"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="888,342,794,362,793,357,887,337"/>
+<area shape="rect" id="Node000014" href="$db/d6b/SDL__camera_8c.html#ac15e9525ddbbd34f7b1335bcfb678751" title=" " alt="" coords="617,411,834,437"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="938,347,891,375,836,401,800,413,798,407,834,396,888,370,935,342"/>
+<area shape="rect" id="Node000015" href="$db/d6b/SDL__camera_8c.html#aac8ec527b1a4e4c41b376f7fff527b72" title=" " alt="" coords="635,461,816,488"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="951,350,903,402,871,429,836,452,809,463,806,458,833,447,868,425,899,398,947,346"/>
+<area shape="rect" id="Node000016" href="$db/d6b/SDL__camera_8c.html#a8fc1cdd8252e34f341fab7774213065d" title=" " alt="" coords="633,512,818,539"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="959,351,939,386,912,427,877,468,836,502,813,514,810,509,833,498,874,464,908,424,935,383,954,348"/>
+<area shape="rect" id="Node000003" href="$db/d6b/SDL__camera_8c.html#a52e6a78e489760b12c2652f6fbb3e70e" title=" " alt="" coords="376,5,532,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="686,101,631,73,567,47,528,35,530,30,569,41,633,68,688,96"/>
+<area shape="rect" id="Node000004" href="$db/d6b/SDL__camera_8c.html#a5af1812f716601276da09d886ac6af8b" title=" " alt="" coords="370,56,538,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="635,106,529,86,530,81,636,101"/>
+<area shape="rect" id="Node000005" href="$db/d6b/SDL__camera_8c.html#ac0d4f13cf5999309fef70689c342fdfa" title=" " alt="" coords="340,107,568,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="632,123,569,123,569,117,632,117"/>
+<area shape="rect" id="Node000006" href="$db/d6b/SDL__camera_8c.html#a52469fec975f103f2456d9e03a868fba" title=" " alt="" coords="5,183,137,209"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="633,138,569,148,331,175,137,193,137,188,330,170,568,143,632,133"/>
+<area shape="rect" id="Node000009" href="$db/d6b/SDL__camera_8c.html#a03e068ea12aee6918e95902871cb3523" title=" " alt="" coords="185,208,292,235"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="620,224,293,224,293,219,620,219"/>
+<area shape="rect" id="Node000010" href="$db/d6b/SDL__camera_8c.html#aada59aeebd93ce01f07435a3741fc972" title=" " alt="" coords="366,259,543,285"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="636,241,530,261,529,255,635,236"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="169,214,137,209,137,203,170,208"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="379,257,292,236,293,231,380,252"/>
+</map>

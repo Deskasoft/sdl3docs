@@ -1,0 +1,49 @@
+<map id="register_device_error" name="register_device_error">
+<area shape="rect" id="Node000001" title=" " alt="" coords="540,500,682,527"/>
+<area shape="rect" id="Node000002" href="$da/db5/linux_2hid_8c.html#ae0f14fec0426b39ac8838c5f225b9ecc" title=" " alt="" coords="315,5,445,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="603,485,589,390,564,263,531,141,511,94,490,62,469,46,444,37,446,32,472,42,494,58,516,91,536,139,570,262,594,389,609,484"/>
+<area shape="rect" id="Node000004" href="$d1/de6/mac_2hid_8c.html#a6192ab1b153e18e1081bcb2728abf974" title=" " alt="" coords="340,72,420,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="608,485,605,410,590,309,575,255,554,203,526,155,490,113,475,102,457,94,420,87,421,82,458,89,477,97,494,109,531,152,559,201,580,254,595,308,610,409,613,484"/>
+<area shape="rect" id="Node000007" href="$d6/d93/netbsd_2hid_8c.html#a02f8c3d95947a2c27c118d0130a98c9f" title=" " alt="" coords="340,123,420,149"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="607,484,600,418,583,331,568,285,548,240,522,199,490,163,475,152,457,145,419,138,420,133,458,140,477,148,494,159,527,196,553,238,573,283,588,329,606,417,612,484"/>
+<area shape="rect" id="Node000008" href="$dc/d19/group__API.html#ga107c938f448ffb1a1f866790f43947a9" title="Get the location ID for a HID device." alt="" coords="291,173,468,200"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="605,485,596,427,576,353,561,315,542,278,519,244,490,214,467,200,470,196,494,210,523,240,547,275,566,313,581,352,601,426,610,484"/>
+<area shape="rect" id="Node000009" href="$da/db5/linux_2hid_8c.html#a9593b490d488dcb8017ceabebccc77bf" title=" " alt="" coords="303,224,457,251"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="602,486,590,437,569,377,536,316,515,289,490,265,456,248,459,243,494,260,519,285,541,313,574,375,595,436,608,485"/>
+<area shape="rect" id="Node000010" href="$d1/de6/mac_2hid_8c.html#a0fb3a037bb3d94c05c7f670e66a14ed8" title=" " alt="" coords="273,275,487,301"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="599,486,584,447,561,401,530,354,490,315,470,304,473,300,494,311,534,351,566,398,589,445,604,484"/>
+<area shape="rect" id="Node000011" href="$da/db5/linux_2hid_8c.html#a214edbfd9fd6edc9a231ce03eab641e4" title=" " alt="" coords="286,325,474,368"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="591,488,549,434,522,406,491,382,469,371,472,366,493,378,525,402,553,431,595,485"/>
+<area shape="rect" id="Node000012" href="$da/db5/linux_2hid_8c.html#a4de3591f7fd5459a1616ba2a9e79792f" title=" " alt="" coords="283,392,476,435"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="575,494,535,471,491,449,461,438,463,433,493,444,538,466,578,489"/>
+<area shape="rect" id="Node000013" href="$da/db5/linux_2hid_8c.html#a2dd51137c32af401819bf95876b2474f" title=" " alt="" coords="292,459,468,501"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="524,504,468,495,469,490,525,498"/>
+<area shape="rect" id="Node000014" href="$da/db5/linux_2hid_8c.html#a988ef58416e1e07bb69bbbe541491750" title=" " alt="" coords="268,525,492,568"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="525,528,493,533,492,528,524,523"/>
+<area shape="rect" id="Node000015" href="$da/db5/linux_2hid_8c.html#a2c3436d240bac486305eeefdfcdbe9ec" title=" " alt="" coords="284,592,476,635"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="578,537,538,560,493,582,463,594,461,589,491,578,535,556,575,533"/>
+<area shape="rect" id="Node000016" href="$d1/de6/mac_2hid_8c.html#a72e30a957ccb852083bf163f3b08631e" title=" " alt="" coords="289,659,470,701"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="595,542,553,596,525,624,493,649,472,660,469,656,491,644,522,620,549,592,591,538"/>
+<area shape="rect" id="Node000017" href="$da/db5/linux_2hid_8c.html#a232ba88adb5becca6382af2db253d444" title=" " alt="" coords="290,725,470,768"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="603,542,588,581,565,628,533,675,494,715,471,729,469,724,490,711,529,672,560,625,583,579,598,540"/>
+<area shape="rect" id="Node000018" href="$da/db5/linux_2hid_8c.html#a2a73a1b3bac9b258d879868e8e71abfa" title=" " alt="" coords="281,792,479,819"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="608,543,597,594,576,659,543,726,520,756,494,782,475,794,472,789,490,778,516,752,538,723,571,657,592,593,603,542"/>
+<area shape="rect" id="Node000019" href="$da/db5/linux_2hid_8c.html#abc78b1d9628df5f9a17136cae60f37a6" title=" " alt="" coords="281,843,479,885"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="610,543,601,603,582,681,567,722,547,762,523,800,494,833,478,844,475,840,490,829,519,796,543,759,562,720,577,679,596,602,605,542"/>
+<area shape="rect" id="Node000020" href="$da/db5/linux_2hid_8c.html#a65448f0b1dfdbaac7e9262bb784ca6b8" title=" " alt="" coords="304,909,456,936"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="613,542,609,615,592,711,577,762,557,812,529,859,494,899,476,911,457,919,455,914,474,907,490,895,525,856,552,810,572,760,587,710,603,614,607,542"/>
+<area shape="rect" id="Node000021" href="$d6/d93/netbsd_2hid_8c.html#a2d2d769e83948e4de1ac82f9a0c6b09b" title=" " alt="" coords="340,960,420,987"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="608,543,594,635,569,757,536,874,516,919,494,950,477,962,458,970,420,977,419,971,457,965,475,957,490,946,511,916,531,872,564,756,589,634,603,542"/>
+<area shape="rect" id="Node000022" href="$d1/de6/mac_2hid_8c.html#af6183327f4a71e0c4783424a8cd8297c" title=" " alt="" coords="340,1011,420,1037"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="609,542,596,644,573,782,557,851,539,914,518,965,494,1001,477,1013,459,1021,420,1028,419,1022,457,1016,475,1008,490,997,513,963,534,912,552,850,568,781,591,644,604,542"/>
+<area shape="rect" id="Node000003" href="$da/db5/linux_2hid_8c.html#a0fb3a037bb3d94c05c7f670e66a14ed8" title=" " alt="" coords="5,13,220,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="299,29,220,29,220,24,299,24"/>
+<area shape="rect" id="Node000005" href="$d1/de6/mac_2hid_8c.html#a214edbfd9fd6edc9a231ce03eab641e4" title=" " alt="" coords="18,64,207,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="325,88,207,88,207,83,325,83"/>
+<area shape="rect" id="Node000006" href="$d1/de6/mac_2hid_8c.html#a2dd51137c32af401819bf95876b2474f" title=" " alt="" coords="24,131,201,173"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="326,100,268,113,194,133,192,127,267,108,325,94"/>
+<area shape="rect" id="Node000023" href="$d1/de6/mac_2hid_8c.html#abc78b1d9628df5f9a17136cae60f37a6" title=" " alt="" coords="13,973,212,1016"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="325,1021,212,1008,212,1003,325,1015"/>
+<area shape="rect" id="Node000024" href="$d1/de6/mac_2hid_8c.html#a65448f0b1dfdbaac7e9262bb784ca6b8" title=" " alt="" coords="37,1040,188,1067"/>
+<area shape="poly" id="edge23_Node000022_Node000024" title=" " alt="" coords="326,1033,189,1048,188,1042,325,1027"/>
+</map>

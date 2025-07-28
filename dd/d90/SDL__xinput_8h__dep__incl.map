@@ -1,0 +1,11 @@
+<map id="SDL&#45;main/src/core/windows/SDL_xinput.h" name="SDL&#45;main/src/core/windows/SDL_xinput.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="235,5,420,48"/>
+<area shape="rect" id="Node000002" href="$d0/d0f/SDL__xinput_8c.html" title=" " alt="" coords="5,96,191,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,57,153,98,151,93,258,52"/>
+<area shape="rect" id="Node000003" href="$d0/daa/SDL__windowshaptic__c_8h.html" title=" " alt="" coords="215,96,440,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="330,64,330,96,325,96,325,64"/>
+<area shape="rect" id="Node000005" href="$df/d45/SDL__xinputjoystick__c_8h.html" title=" " alt="" coords="464,96,682,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="400,51,516,93,514,98,398,56"/>
+<area shape="rect" id="Node000004" href="$d8/d30/SDL__dinputhaptic__c_8h.html" title=" " alt="" coords="223,187,432,229"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="330,154,330,186,325,186,325,154"/>
+</map>

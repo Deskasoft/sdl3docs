@@ -1,0 +1,8 @@
+<map id="CHIDDevice::Close" name="CHIDDevice::Close">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,144,81"/>
+<area shape="rect" id="Node000002" href="$d7/d09/classCHIDDevice.html#add40838276f4e7cd0baf44463a857ccf" title=" " alt="" coords="192,29,392,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,57,176,54,176,59,144,63"/>
+<area shape="rect" id="Node000003" href="$d5/d75/SDL__core__unsupported_8c.html#a6cd0dafa9f187b994afe2fdbce3d4db7" title=" " alt="" coords="210,80,374,107"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="144,73,195,79,195,85,143,79"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="255,30,249,21,253,11,268,5,292,3,318,5,331,12,329,16,316,10,292,8,269,10,257,15,254,20,259,27"/>
+</map>

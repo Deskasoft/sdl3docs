@@ -1,0 +1,9 @@
+<map id="add_segment" name="add_segment">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,105,83"/>
+<area shape="rect" id="Node000002" href="$d4/d23/SDL__malloc_8c.html#a09ce4644252dfd54eb489e77d0adfd20" title=" " alt="" coords="181,5,244,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,53,165,31,167,36,100,58"/>
+<area shape="rect" id="Node000003" href="$d4/d23/SDL__malloc_8c.html#adc1656892fa59cbd2e3b60a2608dfefc" title=" " alt="" coords="153,56,272,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="105,67,137,67,137,72,105,72"/>
+<area shape="rect" id="Node000004" href="$d3/dda/eglext_8h.html#a0f7193911e632cd84da4082d5c628fe3" title=" " alt="" coords="190,107,235,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="100,81,176,106,174,111,98,86"/>
+</map>

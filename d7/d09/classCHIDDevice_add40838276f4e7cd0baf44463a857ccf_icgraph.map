@@ -1,0 +1,16 @@
+<map id="CHIDDevice::ExceptionCheck" name="CHIDDevice::ExceptionCheck">
+<area shape="rect" id="Node000001" title=" " alt="" coords="645,81,846,108"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="786,69,773,62,745,60,721,62,707,67,704,72,710,79,706,83,699,73,704,63,720,57,746,55,774,57,789,64"/>
+<area shape="rect" id="Node000002" href="$d7/d09/classCHIDDevice.html#a839d47080e6d467a2d1b7268014ccb3e" title=" " alt="" coords="438,5,582,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="691,78,597,47,559,35,561,30,598,41,692,73"/>
+<area shape="rect" id="Node000005" href="$d7/d09/classCHIDDevice.html#aa6d33370121c3f073d51653b29f55ba7" title=" " alt="" coords="441,56,579,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="630,85,580,79,580,74,630,80"/>
+<area shape="rect" id="Node000006" href="$d7/d09/classCHIDDevice.html#a84679949d93e3307a6fe15abd93b574e" title=" " alt="" coords="423,107,597,133"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="630,110,598,113,597,108,629,104"/>
+<area shape="rect" id="Node000007" href="$d7/d09/classCHIDDevice.html#a17085aba38125efb622c59135e00c328" title=" " alt="" coords="424,157,597,184"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="692,116,598,148,561,159,559,154,597,143,691,111"/>
+<area shape="rect" id="Node000003" href="$d2/d5c/hid_8cpp.html#a0e569381b03120d85110c54f4cdff5b5" title=" " alt="" coords="192,5,375,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="423,21,375,21,375,16,423,16"/>
+<area shape="rect" id="Node000004" href="$dc/dd7/SDL__hidapi_8c.html#a89071dc2a232f38999a1ad08c3f06cd4" title=" " alt="" coords="5,5,144,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="176,21,144,21,144,16,176,16"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="GenericAsyncIOData" name="GenericAsyncIOData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="307,203,453,229"/>
+<area shape="rect" id="Node000002" href="$d0/df2/structSDL__Mutex.html" title=" " alt="" coords="203,104,293,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="286,136,311,153,369,200,365,204,308,157,283,141"/>
+<area shape="rect" id="Node000003" href="$d8/d0b/structSDL__Semaphore.html" title=" " alt="" coords="124,203,244,229"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="240,146,221,180,200,204,196,200,216,177,235,144"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="177,187,177,170,183,153,196,139,211,129,214,133,199,143,188,156,183,171,182,187"/>
+<area shape="rect" id="Node000004" href="$d0/d07/structSDL__Condition.html" title=" " alt="" coords="5,104,115,131"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="66,145,72,162,82,177,102,191,124,201,122,206,99,196,78,181,67,164,61,147"/>
+<area shape="rect" id="Node000005" href="$d4/d99/structSDL__IOStream.html" title=" " alt="" coords="357,104,467,131"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="406,146,387,203,382,202,401,144"/>
+<area shape="rect" id="Node000006" href="$d9/ddf/structSDL__IOStreamInterface.html" title=" " alt="" coords="331,5,493,32"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="415,48,415,104,409,104,409,48"/>
+</map>

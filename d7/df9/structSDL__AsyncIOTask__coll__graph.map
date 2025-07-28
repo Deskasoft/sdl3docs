@@ -1,0 +1,23 @@
+<map id="SDL_AsyncIOTask" name="SDL_AsyncIOTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="104,57,237,84"/>
+<area shape="poly" id="edge12_Node000001_Node000001" title=" " alt="" coords="207,49,227,47,245,49,259,57,264,71,257,86,239,93,216,94,192,87,193,82,217,88,238,88,253,82,259,71,255,61,243,54,227,52,207,55"/>
+<area shape="rect" id="Node000002" href="$da/d74/structSDL__AsyncIO.html" title=" " alt="" coords="380,229,486,256"/>
+<area shape="poly" id="edge7_Node000002_Node000001" title=" " alt="" coords="221,88,284,117,348,158,368,180,386,203,415,227,412,231,382,207,364,184,345,162,281,122,219,93"/>
+<area shape="rect" id="Node000008" href="$d3/d75/structSDL__AsyncIOQueueInterface.html" title=" " alt="" coords="5,229,200,256"/>
+<area shape="poly" id="edge10_Node000008_Node000001" title=" " alt="" coords="163,99,110,230,105,228,158,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="365,236,327,226,292,208,280,197,274,186,260,162,220,119,183,86,187,82,223,115,265,158,279,183,285,193,295,203,329,221,366,231"/>
+<area shape="rect" id="Node000003" href="$d8/db4/structSDL__AsyncIOInterface.html" title=" " alt="" coords="378,57,534,84"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,99,437,229,432,228,450,99"/>
+<area shape="rect" id="Node000004" href="$d0/df2/structSDL__Mutex.html" title=" " alt="" coords="559,57,649,84"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="587,98,543,150,487,207,455,231,452,227,483,203,539,147,583,95"/>
+<area shape="rect" id="Node000005" href="$d8/d0b/structSDL__Semaphore.html" title=" " alt="" coords="546,229,667,256"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="595,99,581,149,579,177,583,204,597,228,593,230,578,206,574,177,575,148,589,98"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="644,218,655,204,660,183,655,161,635,119,612,86,617,83,640,116,660,159,665,183,660,207,648,221"/>
+<area shape="rect" id="Node000006" href="$d0/d07/structSDL__Condition.html" title=" " alt="" coords="696,57,805,84"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="750,100,736,154,722,182,703,207,685,221,664,231,662,226,682,217,699,203,717,179,731,152,745,99"/>
+<area shape="rect" id="Node000007" href="$d0/d61/structSDL__AsyncIOQueue.html" title=" " alt="" coords="176,328,320,355"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="243,313,234,243,215,161,196,119,177,86,181,83,201,117,220,159,240,242,249,312"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="135,263,195,302,230,325,227,330,192,306,132,267"/>
+<area shape="rect" id="Node000009" href="$d1/dbc/structSDL__AtomicInt.html" title=" " alt="" coords="691,229,802,256"/>
+<area shape="poly" id="edge11_Node000007_Node000009" title=" " alt="" coords="676,260,314,330,313,325,675,255"/>
+</map>

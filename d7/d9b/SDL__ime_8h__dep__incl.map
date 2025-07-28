@@ -1,0 +1,24 @@
+<map id="SDL&#45;main/src/core/linux/SDL_ime.h" name="SDL&#45;main/src/core/linux/SDL_ime.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="211,5,372,48"/>
+<area shape="rect" id="Node000002" href="$d6/dca/SDL__ime_8c.html" title=" " alt="" coords="5,96,167,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,57,135,98,133,93,228,52"/>
+<area shape="rect" id="Node000003" href="$df/deb/SDL__waylandvideo_8h.html" title=" " alt="" coords="191,96,392,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="294,64,294,96,289,96,289,64"/>
+<area shape="rect" id="Node000007" href="$d9/d89/SDL__x11video_8h.html" title=" " alt="" coords="415,96,560,139"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="352,52,442,93,440,98,350,57"/>
+<area shape="rect" id="Node000004" href="$d5/d59/SDL__waylanddatamanager_8h.html" title=" " alt="" coords="80,277,324,320"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="291,155,283,192,268,231,250,257,229,279,225,275,246,254,264,228,278,191,285,154"/>
+<area shape="rect" id="Node000005" href="$d5/d6e/SDL__waylandevents__c_8h.html" title=" " alt="" coords="91,368,313,411"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="315,151,334,188,349,232,353,278,348,300,339,321,312,350,278,370,276,365,309,346,334,319,343,299,347,277,343,233,329,190,311,153"/>
+<area shape="rect" id="Node000006" href="$d2/d55/SDL__waylandwindow_8h.html" title=" " alt="" coords="41,187,254,229"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="246,150,182,188,179,184,243,145"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="196,335,197,368,192,368,190,336"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="208,353,207,321,212,320,214,352"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="170,241,192,276,187,278,166,244"/>
+<area shape="poly" id="edge9_Node000006_Node000005" title=" " alt="" coords="101,241,83,258,70,278,63,299,70,319,95,346,128,365,126,370,92,350,65,321,58,299,65,276,79,255,97,237"/>
+<area shape="rect" id="Node000008" href="$dc/dd9/SDL__x11pen_8c.html" title=" " alt="" coords="462,277,598,320"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="531,147,547,165,559,186,564,210,561,235,545,278,540,276,556,234,559,210,554,188,543,168,527,151"/>
+<area shape="rect" id="Node000009" href="$de/d80/SDL__x11pen_8h.html" title=" " alt="" coords="408,187,545,229"/>
+<area shape="poly" id="edge12_Node000007_Node000009" title=" " alt="" coords="486,155,482,187,476,186,480,154"/>
+<area shape="poly" id="edge13_Node000009_Node000008" title=" " alt="" coords="499,241,520,276,515,278,495,244"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="SDL_TimerThread" name="SDL_TimerThread">
+<area shape="rect" id="Node000001" title=" " alt="" coords="716,31,843,57"/>
+<area shape="rect" id="Node000002" href="$d7/d6c/SDL__timer_8c.html#a1fa564f8f53956683659fc79e0d03e22" title=" " alt="" coords="555,31,668,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="700,47,668,47,668,41,700,41"/>
+<area shape="rect" id="Node000003" href="$d7/d6c/SDL__timer_8c.html#a15fc4e05c135f7df5bf3578f9bef04f6" title=" " alt="" coords="357,31,507,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="540,47,508,47,508,41,540,41"/>
+<area shape="rect" id="Node000004" href="$d7/d6c/SDL__timer_8c.html#a6fc565810341c701296a428dd94163f6" title=" " alt="" coords="183,31,309,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="341,47,309,47,309,41,341,41"/>
+<area shape="rect" id="Node000005" href="$d7/d6c/SDL__timer_8c.html#a78f99eebc89b56ee71175b6d538f99b5" title=" " alt="" coords="15,5,125,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="167,35,125,29,126,24,168,30"/>
+<area shape="rect" id="Node000006" href="$d7/d6c/SDL__timer_8c.html#ac059d3ffea13029340b702f91960e447" title=" " alt="" coords="5,56,135,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="168,58,136,63,135,57,167,53"/>
+</map>

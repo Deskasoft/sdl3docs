@@ -1,0 +1,9 @@
+<map id="SDL_CivilToDays" name="SDL_CivilToDays">
+<area shape="rect" id="Node000001" title=" " alt="" coords="208,56,333,83"/>
+<area shape="rect" id="Node000002" href="$d2/dfb/SDL__time_8c.html#ae053d2238d7218da8178a46643485311" title=" " alt="" coords="5,5,160,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,54,134,35,135,30,204,49"/>
+<area shape="rect" id="Node000003" href="$d2/dfb/SDL__time_8c.html#a08ca2b3064073cc8c7d22dbe0bbbd8da" title=" " alt="" coords="9,56,156,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,72,156,72,156,67,192,67"/>
+<area shape="rect" id="Node000004" href="$d2/dfb/SDL__time_8c.html#a422f5253cb3c9a86555fc68fda277e74" title=" " alt="" coords="13,107,152,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="204,90,135,109,134,103,203,85"/>
+</map>

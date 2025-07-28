@@ -1,0 +1,12 @@
+<map id="malloc_state" name="malloc_state">
+<area shape="rect" id="Node000001" title=" " alt="" coords="194,208,289,235"/>
+<area shape="rect" id="Node000002" href="$da/d15/structmalloc__chunk.html" title=" " alt="" coords="5,36,107,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,74,118,127,175,182,213,205,211,210,171,186,114,130,71,77"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="92,29,120,31,130,38,133,49,128,63,114,70,96,71,77,66,78,61,96,65,113,65,124,59,128,49,125,41,118,36,92,34"/>
+<area shape="rect" id="Node000003" href="$dc/d7c/structmalloc__tree__chunk.html" title=" " alt="" coords="176,36,306,63"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="244,78,244,207,239,207,239,78"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="282,29,316,30,328,37,333,49,327,63,310,70,289,71,266,66,267,61,289,65,309,65,323,59,328,49,324,41,315,35,282,34"/>
+<area shape="rect" id="Node000004" href="$d4/dfd/structmalloc__segment.html" title=" " alt="" coords="399,36,516,63"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="435,75,376,128,303,186,266,210,263,205,300,182,373,124,431,71"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="495,29,527,30,538,38,542,49,536,63,521,70,501,71,480,66,481,61,502,65,520,65,532,59,537,49,534,41,525,36,495,34"/>
+</map>

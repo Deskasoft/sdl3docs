@@ -1,0 +1,7 @@
+<map id="StdVideoH265HrdParameters" name="StdVideoH265HrdParameters">
+<area shape="rect" id="Node000001" title=" " alt="" coords="101,125,294,152"/>
+<area shape="rect" id="Node000002" href="$de/d1f/structStdVideoH265HrdFlags.html" title=" " alt="" coords="5,5,164,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,42,188,123,184,127,105,45"/>
+<area shape="rect" id="Node000003" href="$d6/d8a/structStdVideoH265SubLayerHrdParameters.html" title=" " alt="" coords="188,5,437,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="292,45,212,127,208,123,288,42"/>
+</map>

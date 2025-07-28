@@ -1,0 +1,28 @@
+var structVkPhysicalDeviceDescriptorIndexingProperties =
+[
+    [ "maxDescriptorSetUpdateAfterBindInputAttachments", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#a15ee280cbe2a4395dd323178628f8faf", null ],
+    [ "maxDescriptorSetUpdateAfterBindSampledImages", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#abbc4fb952995812723c5d808561fa83d", null ],
+    [ "maxDescriptorSetUpdateAfterBindSamplers", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#ade9382d7e9e1c7184b7d1c6481eee006", null ],
+    [ "maxDescriptorSetUpdateAfterBindStorageBuffers", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#aee5f622e8924901c04322f9aa7afdcbc", null ],
+    [ "maxDescriptorSetUpdateAfterBindStorageBuffersDynamic", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#aa2da285cca2bcf18a948b6e25e24c256", null ],
+    [ "maxDescriptorSetUpdateAfterBindStorageImages", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#a7451754b9af54dda6bc4166638b8be97", null ],
+    [ "maxDescriptorSetUpdateAfterBindUniformBuffers", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#aa108654246168e39745bed4d71703ec4", null ],
+    [ "maxDescriptorSetUpdateAfterBindUniformBuffersDynamic", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#a3f8a4e94d7fc7d6df1d4a4280a8ba142", null ],
+    [ "maxPerStageDescriptorUpdateAfterBindInputAttachments", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#a77b84f02a19911063099f1639955d4f3", null ],
+    [ "maxPerStageDescriptorUpdateAfterBindSampledImages", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#a393438aac7f588577a32fada6345272b", null ],
+    [ "maxPerStageDescriptorUpdateAfterBindSamplers", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#acdd6db25715152acf29660017175d64e", null ],
+    [ "maxPerStageDescriptorUpdateAfterBindStorageBuffers", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#a404a99205809e766291ba0634c33c133", null ],
+    [ "maxPerStageDescriptorUpdateAfterBindStorageImages", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#a4c86b2e6de0b237a3af866b43cdda0aa", null ],
+    [ "maxPerStageDescriptorUpdateAfterBindUniformBuffers", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#a19d409ea0d693e93e2e342f1f5581e81", null ],
+    [ "maxPerStageUpdateAfterBindResources", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#a83278b640a5abf8ff5264b523ee62cf1", null ],
+    [ "maxUpdateAfterBindDescriptorsInAllPools", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#a824066a2ec0a6322e6ca5f09ed8534e1", null ],
+    [ "pNext", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#a0cfadd3cbd0e3a1a06214614f4151016", null ],
+    [ "quadDivergentImplicitLod", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#a6258b3b7c5ca743128f8afa6ee6d6bb2", null ],
+    [ "robustBufferAccessUpdateAfterBind", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#a44e7681b8b23d9e9e74b78fc71604a1f", null ],
+    [ "shaderInputAttachmentArrayNonUniformIndexingNative", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#a6d9feeff184c9c9593c944f4f55dc481", null ],
+    [ "shaderSampledImageArrayNonUniformIndexingNative", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#a039a40af0b3008099c553c4ca01dceb3", null ],
+    [ "shaderStorageBufferArrayNonUniformIndexingNative", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#a5c3e43c0ea478480e2084f115de33f0a", null ],
+    [ "shaderStorageImageArrayNonUniformIndexingNative", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#aedda11a3f68339be66597eebb8552f06", null ],
+    [ "shaderUniformBufferArrayNonUniformIndexingNative", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#a5c98bc93c55b9457aa40a428a5e626cf", null ],
+    [ "sType", "d0/dad/structVkPhysicalDeviceDescriptorIndexingProperties.html#ab580fad61e8c44bf69969ae7b09b633c", null ]
+];

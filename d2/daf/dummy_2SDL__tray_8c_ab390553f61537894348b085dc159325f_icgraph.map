@@ -1,0 +1,9 @@
+<map id="SDL_SetTrayEntryChecked" name="SDL_SetTrayEntryChecked">
+<area shape="rect" id="Node000001" title=" " alt="" coords="362,31,545,57"/>
+<area shape="rect" id="Node000002" href="$d4/d03/unix_2SDL__tray_8c.html#ae02e52f40bcbe39c0030a9855edf151e" title=" " alt="" coords="173,5,314,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="346,34,314,30,315,25,347,28"/>
+<area shape="rect" id="Node000003" href="$d1/d09/windows_2SDL__tray_8c.html#a600fd270703b77bf2cfc52af32b42943" title=" " alt="" coords="183,56,304,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="347,60,305,65,304,59,346,54"/>
+<area shape="rect" id="Node000004" href="$d1/d09/windows_2SDL__tray_8c.html#a206a4c41714798d7da6da4c129f0973b" title=" " alt="" coords="5,56,125,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="167,72,125,72,125,67,167,67"/>
+</map>

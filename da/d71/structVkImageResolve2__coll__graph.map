@@ -1,0 +1,9 @@
+<map id="VkImageResolve2" name="VkImageResolve2">
+<area shape="rect" id="Node000001" title=" " alt="" coords="195,125,324,152"/>
+<area shape="rect" id="Node000002" href="$d6/db6/structVkImageSubresourceLayers.html" title=" " alt="" coords="5,5,191,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,44,131,73,157,99,179,113,204,122,202,127,177,117,153,103,127,76,108,47"/>
+<area shape="rect" id="Node000003" href="$d7/d88/structVkOffset3D.html" title=" " alt="" coords="215,5,304,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,48,262,125,257,125,257,48"/>
+<area shape="rect" id="Node000004" href="$d0/d02/structVkExtent3D.html" title=" " alt="" coords="328,5,420,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="365,47,350,76,328,103,292,127,289,122,324,99,345,73,361,45"/>
+</map>

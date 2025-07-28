@@ -1,0 +1,11 @@
+<map id="SDL_AddKeyboard" name="SDL_AddKeyboard">
+<area shape="rect" id="Node000001" title=" " alt="" coords="444,31,576,57"/>
+<area shape="rect" id="Node000002" href="$d7/da0/SDL__wscons__kbd_8c.html#a7547c3be23bda9d42f7b1743c1fd19c4" title=" " alt="" coords="194,5,396,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="428,37,396,33,397,28,429,32"/>
+<area shape="rect" id="Node000004" href="$db/dff/SDL__qnxvideo_8c.html#a907a906dfb5aeb95fbb775e08410195e" title=" " alt="" coords="260,56,330,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="429,56,331,68,330,63,429,51"/>
+<area shape="rect" id="Node000003" href="$d7/da0/SDL__wscons__kbd_8c.html#add438507e5e81220cafc78f9dbfac651" title=" " alt="" coords="5,5,146,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="178,21,146,21,146,16,178,16"/>
+<area shape="rect" id="Node000005" href="$db/dff/SDL__qnxvideo_8c.html#ae6d41c8ecd96e19777886580f3274ce1" title=" " alt="" coords="26,56,125,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="244,72,125,72,125,67,244,67"/>
+</map>

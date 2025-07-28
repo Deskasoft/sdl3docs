@@ -1,0 +1,9 @@
+<map id="FreeHIDDeviceInfo" name="FreeHIDDeviceInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="464,31,598,57"/>
+<area shape="rect" id="Node000002" href="$d2/d5c/hid_8cpp.html#ae1817c7e7a8159bee41cf3f67bfa4140" title=" " alt="" coords="193,5,416,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="448,37,416,34,417,29,449,32"/>
+<area shape="rect" id="Node000004" href="$d7/d09/classCHIDDevice.html#aeac0fe3263ffbdea6bd46de18a668470" title=" " alt="" coords="211,56,398,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="449,56,399,61,398,56,448,51"/>
+<area shape="rect" id="Node000003" href="$dc/dd7/SDL__hidapi_8c.html#a0c156594c503a61b72d58bd1e15adfa8" title=" " alt="" coords="5,5,145,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="177,21,145,21,145,16,177,16"/>
+</map>

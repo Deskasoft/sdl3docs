@@ -1,0 +1,25 @@
+var structValveControllerDebugPacket__t =
+[
+    [ "sLeftPadMouseDX", "d0/dd9/structValveControllerDebugPacket__t.html#aeae080e0a4af14eb7219db3b0a3dcc83", null ],
+    [ "sLeftPadMouseDY", "d0/dd9/structValveControllerDebugPacket__t.html#aa1c763140c00bd4612ce7336c3151e67", null ],
+    [ "sLeftPadMouseFilteredDX", "d0/dd9/structValveControllerDebugPacket__t.html#a7ac7ff5cc3d14198ace096958805578f", null ],
+    [ "sLeftPadMouseFilteredDY", "d0/dd9/structValveControllerDebugPacket__t.html#ade7d2efb2a9b6caec333ed42350c1368", null ],
+    [ "sLeftPadX", "d0/dd9/structValveControllerDebugPacket__t.html#ab006ad8aff2564e699d965b61fa2ca77", null ],
+    [ "sLeftPadY", "d0/dd9/structValveControllerDebugPacket__t.html#a48c60e1cb803e1d86442cffff76258c5", null ],
+    [ "sRightPadMouseDX", "d0/dd9/structValveControllerDebugPacket__t.html#a346389980d750791a2d8685b724c94e2", null ],
+    [ "sRightPadMouseDY", "d0/dd9/structValveControllerDebugPacket__t.html#a4786cf39bef5087a589b0232acb8ad3d", null ],
+    [ "sRightPadMouseFilteredDX", "d0/dd9/structValveControllerDebugPacket__t.html#a652887185528e2479f94b34d469e3595", null ],
+    [ "sRightPadMouseFilteredDY", "d0/dd9/structValveControllerDebugPacket__t.html#a5d26ef156aba3c89b82b085936e60ffc", null ],
+    [ "sRightPadX", "d0/dd9/structValveControllerDebugPacket__t.html#aef2d2dce2747f1697baf4f3b96da69c3", null ],
+    [ "sRightPadY", "d0/dd9/structValveControllerDebugPacket__t.html#af62c9e177fafcb69b8dec954977d69e3", null ],
+    [ "ucLeftFingerPresent", "d0/dd9/structValveControllerDebugPacket__t.html#af73c6124b19545502ffe206dc9498f9e", null ],
+    [ "ucLeftTapState", "d0/dd9/structValveControllerDebugPacket__t.html#a3a95dad8f35f6a6c1d3ee0267cd4b648", null ],
+    [ "ucLeftTimestamp", "d0/dd9/structValveControllerDebugPacket__t.html#a47d1cc2696da58b9c96ce3ab95e0dd27", null ],
+    [ "ucLeftZ", "d0/dd9/structValveControllerDebugPacket__t.html#afc96f121dbbf7c298d1cf5797e71c0ae", null ],
+    [ "ucRightFingerPresent", "d0/dd9/structValveControllerDebugPacket__t.html#ad84a20ccc4f266cb69cca3a150446bc7", null ],
+    [ "ucRightTapState", "d0/dd9/structValveControllerDebugPacket__t.html#a5641e35036bcf3eb0a65ecdbde2f4a96", null ],
+    [ "ucRightTimestamp", "d0/dd9/structValveControllerDebugPacket__t.html#a64be01262bdac43932e1d9d9d6980e72", null ],
+    [ "ucRightZ", "d0/dd9/structValveControllerDebugPacket__t.html#a2885bf8d2238b9d34a8c84b6f01caddf", null ],
+    [ "unDigitalIOStates0", "d0/dd9/structValveControllerDebugPacket__t.html#ac793d52c6cd25aad95931bcc82314f6a", null ],
+    [ "unDigitalIOStates1", "d0/dd9/structValveControllerDebugPacket__t.html#a372e8525f4763633221c278701d02489", null ]
+];

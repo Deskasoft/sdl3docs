@@ -1,0 +1,17 @@
+<map id="VkRayTracingPipelineCreateInfoKHR" name="VkRayTracingPipelineCreateInfoKHR">
+<area shape="rect" id="Node000001" title=" " alt="" coords="995,125,1185,168"/>
+<area shape="rect" id="Node000002" href="$da/d11/structVkPipelineShaderStageCreateInfo.html" title=" " alt="" coords="619,16,838,43"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="854,40,914,53,972,71,1021,95,1062,122,1059,127,1018,100,970,76,912,58,853,45"/>
+<area shape="rect" id="Node000003" href="$d8/d64/structVkSpecializationInfo.html" title=" " alt="" coords="309,16,449,43"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="465,27,618,27,618,32,465,32"/>
+<area shape="rect" id="Node000004" href="$d3/d79/structVkSpecializationMapEntry.html" title=" " alt="" coords="5,16,180,43"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="195,27,308,27,308,32,195,32"/>
+<area shape="rect" id="Node000005" href="$d6/df3/structVkRayTracingShaderGroupCreateInfoKHR.html" title=" " alt="" coords="619,67,838,109"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="854,97,972,115,1007,122,1006,127,971,120,853,103"/>
+<area shape="rect" id="Node000006" href="$d6/ddb/structVkPipelineLibraryCreateInfoKHR.html" title=" " alt="" coords="622,133,835,160"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="850,144,995,144,995,149,850,149"/>
+<area shape="rect" id="Node000007" href="$dc/d2b/structVkRayTracingPipelineInterfaceCreateInfoKHR.html" title=" " alt="" coords="628,184,829,227"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="844,192,971,173,1006,166,1007,171,972,179,845,197"/>
+<area shape="rect" id="Node000008" href="$d9/d08/structVkPipelineDynamicStateCreateInfo.html" title=" " alt="" coords="615,251,842,277"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="857,247,914,235,970,218,1018,193,1059,166,1062,171,1021,198,972,222,916,240,858,253"/>
+</map>

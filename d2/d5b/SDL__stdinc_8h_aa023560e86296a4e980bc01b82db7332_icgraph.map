@@ -1,0 +1,21 @@
+<map id="SDL_CreateEnvironment" name="SDL_CreateEnvironment">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1225,89,1392,116"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="1343,76,1331,70,1308,68,1287,70,1276,75,1273,80,1278,87,1274,90,1268,81,1272,71,1286,65,1309,63,1333,65,1346,72"/>
+<area shape="rect" id="Node000002" href="$d1/dc1/SDL__zenitydialog_8c.html#a927bce72379567d80dea0d994264bb5f" title=" " alt="" coords="1064,64,1145,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1210,93,1145,85,1146,80,1211,88"/>
+<area shape="rect" id="Node000009" href="$d1/def/unix_2SDL__sysurl_8c.html#ae62f93b5e31af1f224e3d591000f5078" title=" " alt="" coords="1031,115,1177,141"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="1210,118,1178,122,1177,116,1210,112"/>
+<area shape="rect" id="Node000003" href="$d1/dc1/SDL__zenitydialog_8c.html#aa53ebe0861f0f67603e759f7d1b694b1" title=" " alt="" coords="859,64,983,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1048,80,983,80,983,75,1048,75"/>
+<area shape="rect" id="Node000004" href="$d1/dc1/SDL__zenitydialog_8c.html#adec0ab89b8e1608f083d6bde91db76f8" title=" " alt="" coords="622,56,811,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="843,80,811,80,811,75,843,75"/>
+<area shape="rect" id="Node000005" href="$d4/d8b/SDL__unixdialog_8c.html#ab2f9e0de0e94da023d667425d1320a1d" title=" " alt="" coords="402,64,574,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="607,80,575,80,575,75,607,75"/>
+<area shape="rect" id="Node000006" href="$d4/d8b/SDL__unixdialog_8c.html#a925198d8e6633242b15a3b0e250a60c8" title=" " alt="" coords="202,5,300,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="416,62,353,47,299,33,300,28,355,41,418,57"/>
+<area shape="rect" id="Node000008" href="$d4/d8b/SDL__unixdialog_8c.html#ac5e36f40c4a1019ab9545659a3637e8d" title=" " alt="" coords="148,56,354,99"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="386,80,355,80,355,75,386,75"/>
+<area shape="rect" id="Node000007" href="$d4/d8b/SDL__unixdialog_8c.html#a01eadec5086a813f0c8c2bc6baa38150" title=" " alt="" coords="5,64,100,91"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="187,36,148,47,91,66,90,61,147,41,186,31"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="99,94,148,108,205,116,251,118,354,108,400,100,442,89,444,94,401,105,354,113,251,123,205,121,147,113,98,99"/>
+</map>

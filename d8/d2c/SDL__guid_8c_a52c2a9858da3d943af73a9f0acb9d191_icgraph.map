@@ -1,0 +1,13 @@
+<map id="SDL_GUIDToString" name="SDL_GUIDToString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="548,81,684,108"/>
+<area shape="rect" id="Node000002" href="$d0/d82/SDL__gamepad_8c.html#a0f52a31fcb42bfeb2c7443af03469241" title=" " alt="" coords="322,56,465,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="532,88,465,80,466,75,533,83"/>
+<area shape="rect" id="Node000006" href="$d0/d82/SDL__gamepad_8c.html#a3e990a65736f0995dd6feb792ac5a963" title=" " alt="" coords="287,107,500,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="533,107,501,110,500,105,532,101"/>
+<area shape="rect" id="Node000003" href="$d0/d82/SDL__gamepad_8c.html#a4d16bfc36921fbbd729294b5691173c9" title=" " alt="" coords="32,5,212,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="306,56,197,35,198,30,307,51"/>
+<area shape="rect" id="Node000004" href="$d0/d82/SDL__gamepad_8c.html#a04fdb549e3d410cf819b1ceb78c7cae8" title=" " alt="" coords="5,56,239,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="306,72,239,72,239,67,306,67"/>
+<area shape="rect" id="Node000005" href="$d0/d82/SDL__gamepad_8c.html#a26bfbc1dd35cdbd779357d14e5f11a31" title=" " alt="" coords="28,107,216,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="307,88,198,109,197,103,306,83"/>
+</map>

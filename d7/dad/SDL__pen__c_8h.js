@@ -1,0 +1,36 @@
+var SDL__pen__c_8h =
+[
+    [ "SDL_PenInfo", "d3/d87/structSDL__PenInfo.html", "d3/d87/structSDL__PenInfo" ],
+    [ "SDL_PEN_CAPABILITY_DISTANCE", "d7/dad/SDL__pen__c_8h.html#a89a78dfcf987a425506b9ad2f408c9b9", null ],
+    [ "SDL_PEN_CAPABILITY_ERASER", "d7/dad/SDL__pen__c_8h.html#a3b5b2ef67ba6b35cf5b3eb7d37029283", null ],
+    [ "SDL_PEN_CAPABILITY_PRESSURE", "d7/dad/SDL__pen__c_8h.html#a42a4419e20b01c1d1a5a23b28f098db6", null ],
+    [ "SDL_PEN_CAPABILITY_ROTATION", "d7/dad/SDL__pen__c_8h.html#a21051dcf57af10208368882f6c18c6ac", null ],
+    [ "SDL_PEN_CAPABILITY_SLIDER", "d7/dad/SDL__pen__c_8h.html#aa5eb26f9079470582659d05f48b52b04", null ],
+    [ "SDL_PEN_CAPABILITY_TANGENTIAL_PRESSURE", "d7/dad/SDL__pen__c_8h.html#a8d54b7c4010084b41130b1a1b4fc4912", null ],
+    [ "SDL_PEN_CAPABILITY_XTILT", "d7/dad/SDL__pen__c_8h.html#a490778c9fca19481a2b815a4242a6d72", null ],
+    [ "SDL_PEN_CAPABILITY_YTILT", "d7/dad/SDL__pen__c_8h.html#a5db845f90c231b6b1165d8cc27ec54a4", null ],
+    [ "SDL_PenCapabilityFlags", "d7/dad/SDL__pen__c_8h.html#a5178b2ebcf0e062ab4cf6a1986b30fec", null ],
+    [ "SDL_PenInfo", "d7/dad/SDL__pen__c_8h.html#af4bc69a5799ad3fde18622a798441813", null ],
+    [ "SDL_PenSubtype", "d7/dad/SDL__pen__c_8h.html#a5b5252916b2ac195357abc298e6b5bc7", null ],
+    [ "SDL_PenSubtype", "d7/dad/SDL__pen__c_8h.html#ac8e2a76e0a55427a9307f95ca885910f", [
+      [ "SDL_PEN_TYPE_UNKNOWN", "d7/dad/SDL__pen__c_8h.html#ac8e2a76e0a55427a9307f95ca885910fa8e57280d4de03249a42ec5b571f13afa", null ],
+      [ "SDL_PEN_TYPE_ERASER", "d7/dad/SDL__pen__c_8h.html#ac8e2a76e0a55427a9307f95ca885910fa950aedc2742e6fe6f2c07335c6268091", null ],
+      [ "SDL_PEN_TYPE_PEN", "d7/dad/SDL__pen__c_8h.html#ac8e2a76e0a55427a9307f95ca885910fa91e0d26c07cb29a017c2f81abe4a47b2", null ],
+      [ "SDL_PEN_TYPE_PENCIL", "d7/dad/SDL__pen__c_8h.html#ac8e2a76e0a55427a9307f95ca885910fac3669ae64aef485af1f9cc20b71a3e85", null ],
+      [ "SDL_PEN_TYPE_BRUSH", "d7/dad/SDL__pen__c_8h.html#ac8e2a76e0a55427a9307f95ca885910fa512fcd92166e4fe8b865ce8dc1ad5ec2", null ],
+      [ "SDL_PEN_TYPE_AIRBRUSH", "d7/dad/SDL__pen__c_8h.html#ac8e2a76e0a55427a9307f95ca885910fad40192f8b56d99a0a0c8e8c45b9f2f78", null ]
+    ] ],
+    [ "SDL_AddPenDevice", "d7/dad/SDL__pen__c_8h.html#acae946cd0513870b5d418441a18dfc7c", null ],
+    [ "SDL_FindPenByCallback", "d7/dad/SDL__pen__c_8h.html#ad97bf48c833b4f38f9acac1ca545c26e", null ],
+    [ "SDL_FindPenByHandle", "d7/dad/SDL__pen__c_8h.html#a21f1478e5ee252dcc56afa461778274b", null ],
+    [ "SDL_GetPenCapabilityFromAxis", "d7/dad/SDL__pen__c_8h.html#a54f3dc868f6afbb530723564c12e55c9", null ],
+    [ "SDL_GetPenStatus", "d7/dad/SDL__pen__c_8h.html#a339feb5ee8938bc385802e368f2c9368", null ],
+    [ "SDL_InitPen", "d7/dad/SDL__pen__c_8h.html#aa6ef337c1cf01803040a16841e954ef8", null ],
+    [ "SDL_QuitPen", "d7/dad/SDL__pen__c_8h.html#aac744231a3008ee8f0cce8dade91186e", null ],
+    [ "SDL_RemoveAllPenDevices", "d7/dad/SDL__pen__c_8h.html#aa1c0b23f4403e1c9ada46256d08e370a", null ],
+    [ "SDL_RemovePenDevice", "d7/dad/SDL__pen__c_8h.html#a107e30a79508779c0d9e2e89eccae996", null ],
+    [ "SDL_SendPenAxis", "d7/dad/SDL__pen__c_8h.html#a0f254013a92ef70abead676d5c8c7985", null ],
+    [ "SDL_SendPenButton", "d7/dad/SDL__pen__c_8h.html#ac948d1adb7baa78aeac1cc8a5de228d7", null ],
+    [ "SDL_SendPenMotion", "d7/dad/SDL__pen__c_8h.html#a41edd6602d203cb2b14b63b41c054afd", null ],
+    [ "SDL_SendPenTouch", "d7/dad/SDL__pen__c_8h.html#a7596bb1174624150e8412ea712c04586", null ]
+];

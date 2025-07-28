@@ -1,0 +1,9 @@
+<map id="DISPLAYCONFIG_PATH_INFO" name="DISPLAYCONFIG_PATH_INFO">
+<area shape="rect" id="Node000001" title=" " alt="" coords="35,219,244,245"/>
+<area shape="rect" id="Node000002" href="$d7/d7e/structDISPLAYCONFIG__PATH__SOURCE__INFO.html" title=" " alt="" coords="5,104,176,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,159,136,217,131,219,104,162"/>
+<area shape="rect" id="Node000003" href="$d7/da8/structDISPLAYCONFIG__PATH__TARGET__INFO.html" title=" " alt="" coords="200,104,370,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,159,199,197,162,220,159,216,196,192,247,154"/>
+<area shape="rect" id="Node000004" href="$de/df3/structDISPLAYCONFIG__RATIONAL.html" title=" " alt="" coords="184,5,386,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="288,47,288,103,282,103,282,47"/>
+</map>

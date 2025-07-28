@@ -1,0 +1,9 @@
+<map id="SDL_SetWindowSize" name="SDL_SetWindowSize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="258,56,405,83"/>
+<area shape="rect" id="Node000002" href="$d6/d3d/SDL__video_8c.html#aa1d1796089b2f9528fc8c57890ec48aa" title=" " alt="" coords="11,5,204,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,55,169,35,170,30,255,49"/>
+<area shape="rect" id="Node000003" href="$d6/d3d/SDL__video_8c.html#a6e3eb200453d769463477d9e5bfe8538" title=" " alt="" coords="5,56,210,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,72,210,72,210,67,242,67"/>
+<area shape="rect" id="Node000004" href="$d6/d3d/SDL__video_8c.html#a4abc9bef2890278ae704d077ad118bed" title=" " alt="" coords="7,107,208,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="255,89,170,109,169,103,253,84"/>
+</map>

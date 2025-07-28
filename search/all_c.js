@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['jack_5fbootstrap_0',['JACK_bootstrap',['../db/d41/SDL__sysaudio_8h.html#a1d7d4b581f382250a05f146279376697',1,'SDL_sysaudio.h']]],
+  ['java_5forg_5flibsdl_5fapp_5fhiddevicemanager_5fhiddeviceconnected_1',['Java_org_libsdl_app_HIDDeviceManager_HIDDeviceConnected',['../d2/d5c/hid_8cpp.html#ac8ef6403c46a1dbd81a461156842f079',1,'hid.cpp']]],
+  ['java_5forg_5flibsdl_5fapp_5fhiddevicemanager_5fhiddevicedisconnected_2',['Java_org_libsdl_app_HIDDeviceManager_HIDDeviceDisconnected',['../d2/d5c/hid_8cpp.html#a23c1fa07d6cbd9940ea7df6d8ac35a13',1,'hid.cpp']]],
+  ['java_5forg_5flibsdl_5fapp_5fhiddevicemanager_5fhiddeviceinputreport_3',['Java_org_libsdl_app_HIDDeviceManager_HIDDeviceInputReport',['../d2/d5c/hid_8cpp.html#a0775afda9dc9fd01cdaa81ef8e2906ab',1,'hid.cpp']]],
+  ['java_5forg_5flibsdl_5fapp_5fhiddevicemanager_5fhiddeviceopenpending_4',['Java_org_libsdl_app_HIDDeviceManager_HIDDeviceOpenPending',['../d2/d5c/hid_8cpp.html#aa32a8c18efb31e56034a5ff0b37843d7',1,'hid.cpp']]],
+  ['java_5forg_5flibsdl_5fapp_5fhiddevicemanager_5fhiddeviceopenresult_5',['Java_org_libsdl_app_HIDDeviceManager_HIDDeviceOpenResult',['../d2/d5c/hid_8cpp.html#a1a7f69aad4ab3b1d4f5a49823d053e13',1,'hid.cpp']]],
+  ['java_5forg_5flibsdl_5fapp_5fhiddevicemanager_5fhiddeviceregistercallback_6',['Java_org_libsdl_app_HIDDeviceManager_HIDDeviceRegisterCallback',['../d2/d5c/hid_8cpp.html#ac9e35c256988f99892e03f6de88d29dc',1,'hid.cpp']]],
+  ['java_5forg_5flibsdl_5fapp_5fhiddevicemanager_5fhiddevicereleasecallback_7',['Java_org_libsdl_app_HIDDeviceManager_HIDDeviceReleaseCallback',['../d2/d5c/hid_8cpp.html#a1dc808116296d70d1264e0feb0ee6eff',1,'hid.cpp']]],
+  ['java_5forg_5flibsdl_5fapp_5fhiddevicemanager_5fhiddevicereportresponse_8',['Java_org_libsdl_app_HIDDeviceManager_HIDDeviceReportResponse',['../d2/d5c/hid_8cpp.html#ab6bb786ac65923ceb014003e663767a6',1,'hid.cpp']]],
+  ['jaxis_9',['jaxis',['../d5/db2/unionSDL__Event.html#ac4611acd0e9c675e67dc20919f0accb4',1,'SDL_Event']]],
+  ['jball_10',['jball',['../d5/db2/unionSDL__Event.html#ae433f511e3383d17f8fe02df745ee8f8',1,'SDL_Event']]],
+  ['jbattery_11',['jbattery',['../d5/db2/unionSDL__Event.html#ae774914091336743c6c9154a13a8bd27',1,'SDL_Event']]],
+  ['jbutton_12',['jbutton',['../d5/db2/unionSDL__Event.html#a591104d64903ae1cf70874fb5d3124ff',1,'SDL_Event']]],
+  ['jdevice_13',['jdevice',['../d5/db2/unionSDL__Event.html#a17514dc19a846ea1b5fbe44123700c4c',1,'SDL_Event']]],
+  ['jhat_14',['jhat',['../d5/db2/unionSDL__Event.html#a421b40e0f8e01f181c8d5548cff1dd1d',1,'SDL_Event']]],
+  ['jni_5fonload_15',['JNI_OnLoad',['../d5/d75/SDL__core__unsupported_8c.html#ada087ddbcfd23532c425de0bde424a71',1,'SDL_core_unsupported.c']]],
+  ['joystick_16',['joystick',['../d0/d9c/structSDL__HIDAPI__HapticDevice.html#af97f9a1f839cbe745399dc7041c9c14b',1,'SDL_HIDAPI_HapticDevice::joystick'],['../d8/d5d/structjoystick__hwdata.html#acf54dae95ebc10074810d3b61d7876ae',1,'joystick_hwdata::joystick']]],
+  ['joystick_5fdevicedata_17',['JoyStick_DeviceData',['../d7/d7e/structJoyStick__DeviceData.html',1,'JoyStick_DeviceData'],['../d3/d7b/SDL__dinputjoystick_8c.html#ac667893b8838434f8f9e096b54694b61',1,'JoyStick_DeviceData:&#160;SDL_dinputjoystick.c'],['../d1/d48/SDL__windowsjoystick__c_8h.html#ac667893b8838434f8f9e096b54694b61',1,'JoyStick_DeviceData:&#160;SDL_windowsjoystick_c.h']]],
+  ['joystick_5fhwdata_18',['joystick_hwdata',['../d8/d5d/structjoystick__hwdata.html',1,'joystick_hwdata'],['../d1/d79/SDL__mfijoystick__c_8h.html#ace5ef1297dd76aa9d9d94910524b8235',1,'joystick_hwdata:&#160;SDL_mfijoystick_c.h']]],
+  ['joystick_5ftype_19',['joystick_type',['../d2/d0d/structSDL__HIDAPI__Device.html#aadad766863f77502b6408442306cd315',1,'SDL_HIDAPI_Device']]],
+  ['joystickname_20',['joystickname',['../d7/d7e/structJoyStick__DeviceData.html#a275815631edcf3fd91fcb57c4dd1ad0d',1,'JoyStick_DeviceData']]],
+  ['joysticks_21',['joysticks',['../d2/d0d/structSDL__HIDAPI__Device.html#ae7bb9e56531d5c0ab81a276d0c8f3c6c',1,'SDL_HIDAPI_Device']]],
+  ['joysticksupported_22',['JoystickSupported',['../d6/d40/structSDL__HIDAPI__HapticDriver.html#af4e0d4e75dbe414e78f9a169a1924470',1,'SDL_HIDAPI_HapticDriver']]],
+  ['junk_23',['JUNK',['../d1/d3b/SDL__wave_8h.html#afc5bb7d4f889aa4c7e2f20e2597c560e',1,'SDL_wave.h']]],
+  ['jupiter_5fpid_24',['JUPITER_PID',['../de/de8/controller__constants_8h.html#a3d840b66b9e8259ea0818c1cca48ebd4a365ac14111816463fa50a7bb2202d252',1,'controller_constants.h']]]
+];

@@ -1,0 +1,25 @@
+var SDL__ime_8c =
+[
+    [ "SDL_IME_Init_t", "d6/dca/SDL__ime_8c.html#a23b53b695fbfa47837f33a8dc8fc51d9", null ],
+    [ "SDL_IME_ProcessKeyEvent_t", "d6/dca/SDL__ime_8c.html#a6c5a06c2bb0dd282d975c710529d8a19", null ],
+    [ "SDL_IME_PumpEvents_t", "d6/dca/SDL__ime_8c.html#aa3d794ae89d506a131513aa00990b081", null ],
+    [ "SDL_IME_Quit_t", "d6/dca/SDL__ime_8c.html#af867e7a7e8d694209c9118b1ee546a47", null ],
+    [ "SDL_IME_Reset_t", "d6/dca/SDL__ime_8c.html#a4432581c585a72514b3b9165e32bcb1e", null ],
+    [ "SDL_IME_SetFocus_t", "d6/dca/SDL__ime_8c.html#a18914f3cfa8c8a316118cfd2772cb747", null ],
+    [ "SDL_IME_UpdateTextInputArea_t", "d6/dca/SDL__ime_8c.html#ab12160d6872f56eecddb6e813654a109", null ],
+    [ "InitIME", "d6/dca/SDL__ime_8c.html#a43c3ce1b3fb7c51d28e85239d2df465f", null ],
+    [ "SDL_IME_Init", "d6/dca/SDL__ime_8c.html#aad8672e65d5ef336bee91410b6d6cebf", null ],
+    [ "SDL_IME_ProcessKeyEvent", "d6/dca/SDL__ime_8c.html#a6203491080d145bb4fbdc8d13972c887", null ],
+    [ "SDL_IME_PumpEvents", "d6/dca/SDL__ime_8c.html#a3e365f557486c28b009e33f093cf05f2", null ],
+    [ "SDL_IME_Quit", "d6/dca/SDL__ime_8c.html#add633e5f106c1f12e15969c4c06ab247", null ],
+    [ "SDL_IME_Reset", "d6/dca/SDL__ime_8c.html#a4b019c93caf046be988c4cf594cc12ca", null ],
+    [ "SDL_IME_SetFocus", "d6/dca/SDL__ime_8c.html#a5cdb8ad1f47a60b24f3f599ce7484a2c", null ],
+    [ "SDL_IME_UpdateTextInputArea", "d6/dca/SDL__ime_8c.html#a5b40b0a3c04a5b1b6fbc4d89658f4911", null ],
+    [ "SDL_IME_Init_Real", "d6/dca/SDL__ime_8c.html#a353e39f37daf958ce912291d8c6614db", null ],
+    [ "SDL_IME_ProcessKeyEvent_Real", "d6/dca/SDL__ime_8c.html#a80e42864aad846b98490698cfe6f83a8", null ],
+    [ "SDL_IME_PumpEvents_Real", "d6/dca/SDL__ime_8c.html#aae87b86bc837d5b3bf0f65fd795730cf", null ],
+    [ "SDL_IME_Quit_Real", "d6/dca/SDL__ime_8c.html#aed17f47e3c2a6d0150543dcef486661f", null ],
+    [ "SDL_IME_Reset_Real", "d6/dca/SDL__ime_8c.html#a5993b625a8505524c6c7b321d2a25279", null ],
+    [ "SDL_IME_SetFocus_Real", "d6/dca/SDL__ime_8c.html#a72c5b34fe4cda450b00ad8a04b7373df", null ],
+    [ "SDL_IME_UpdateTextInputArea_Real", "d6/dca/SDL__ime_8c.html#a0b03de191288bd8152f1d5f6759bfb49", null ]
+];

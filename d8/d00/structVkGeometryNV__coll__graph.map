@@ -1,0 +1,9 @@
+<map id="VkGeometryNV" name="VkGeometryNV">
+<area shape="rect" id="Node000001" title=" " alt="" coords="122,203,236,229"/>
+<area shape="rect" id="Node000002" href="$dc/dd4/structVkGeometryDataNV.html" title=" " alt="" coords="108,104,250,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,146,182,202,176,202,176,146"/>
+<area shape="rect" id="Node000003" href="$d4/dc4/structVkGeometryTrianglesNV.html" title=" " alt="" coords="5,5,172,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,42,170,102,166,106,109,45"/>
+<area shape="rect" id="Node000004" href="$d8/ddc/structVkGeometryAABBNV.html" title=" " alt="" coords="195,5,344,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="250,45,193,106,189,102,246,42"/>
+</map>

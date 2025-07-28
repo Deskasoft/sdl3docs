@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['native_0',['NATIVE',['../d6/d9b/SDL__audio_8c.html#a8b9290f2e19ec35f8f523380f38884b4',1,'SDL_audio.c']]],
+  ['new_5fhid_5fdevice_1',['new_hid_device',['../dc/dd7/SDL__hidapi_8c.html#ae43865f9b492ded156fc402a9d773428',1,'SDL_hidapi.c']]],
+  ['next_5fchunk_2',['next_chunk',['../d4/d23/SDL__malloc_8c.html#a891ae6952dcc03f81e75b91666400f51',1,'SDL_malloc.c']]],
+  ['next_5fpinuse_3',['next_pinuse',['../d4/d23/SDL__malloc_8c.html#a62c85451d286c94329b31175ff6aa991',1,'SDL_malloc.c']]],
+  ['ngage_5fscreen_5fheight_4',['NGAGE_SCREEN_HEIGHT',['../d4/df9/SDL__render__ngage__c_8h.html#adc3e68f9363ab3b1ad96755f9f438d0c',1,'SDL_render_ngage_c.h']]],
+  ['ngage_5fscreen_5fwidth_5',['NGAGE_SCREEN_WIDTH',['../d4/df9/SDL__render__ngage__c_8h.html#af5ffe2e856f8566f290afb6cf4b6ddb8',1,'SDL_render_ngage_c.h']]],
+  ['nif_5fshowtip_6',['NIF_SHOWTIP',['../d1/d09/windows_2SDL__tray_8c.html#aa77672572d6e27a18b48ae3c4253d917',1,'SDL_tray.c']]],
+  ['no_5fmallinfo_7',['NO_MALLINFO',['../d4/d23/SDL__malloc_8c.html#abdaef093c0ac7f4ffca5df2d2b2f0560',1,'SDL_malloc.c']]],
+  ['no_5fmalloc_5fstats_8',['NO_MALLOC_STATS',['../d4/d23/SDL__malloc_8c.html#aa5a986d0460a969befdb7efd79ef049c',1,'SDL_malloc.c']]],
+  ['no_5fsegment_5ftraversal_9',['NO_SEGMENT_TRAVERSAL',['../d4/d23/SDL__malloc_8c.html#a6413d234d61f597fccc2aac39e33941c',1,'SDL_malloc.c']]],
+  ['noinline_10',['NOINLINE',['../d4/d23/SDL__malloc_8c.html#a1b173d22e57d9395897acbd8de62d505',1,'SDL_malloc.c']]],
+  ['not_5fa_5fvulkan_5fwindow_11',['NOT_A_VULKAN_WINDOW',['../d6/d3d/SDL__video_8c.html#a14f29f2ded682cc5ead5f8873e477742',1,'SDL_video.c']]],
+  ['not_5fan_5fopengl_5fwindow_12',['NOT_AN_OPENGL_WINDOW',['../d6/d3d/SDL__video_8c.html#ae97287cf8363fb07040b7e95f347982b',1,'SDL_video.c']]],
+  ['notifyicon_5fversion_5f4_13',['NOTIFYICON_VERSION_4',['../d1/d09/windows_2SDL__tray_8c.html#ac9496f0a2dd2533ee400a45a6787b82f',1,'SDL_tray.c']]],
+  ['nseventmaskany_14',['NSEventMaskAny',['../d1/d59/mac__support__cocoa_8m.html#ad90ba4b31a272cdeb62ac764ab428593',1,'mac_support_cocoa.m']]],
+  ['nsmallbins_15',['NSMALLBINS',['../d4/d23/SDL__malloc_8c.html#afe898942dfe9b3557981d0dc935fddde',1,'SDL_malloc.c']]],
+  ['ntreebins_16',['NTREEBINS',['../d4/d23/SDL__malloc_8c.html#a187fe34f71c63b486f6d79ac51117061',1,'SDL_malloc.c']]],
+  ['null_17',['NULL',['../d8/d5f/SDL__begin__code_8h.html#a070d2ce7b6bb7e5c05602aa8c308d0c4',1,'SDL_begin_code.h']]],
+  ['num_5fbuffers_18',['NUM_BUFFERS',['../d6/d58/SDL__n3dsaudio_8h.html#aac028f4c15ac7f78a44be5db76cfbec7',1,'NUM_BUFFERS:&#160;SDL_n3dsaudio.h'],['../d4/db5/SDL__ps2audio_8h.html#aac028f4c15ac7f78a44be5db76cfbec7',1,'NUM_BUFFERS:&#160;SDL_ps2audio.h'],['../d5/d18/SDL__pspaudio_8h.html#aac028f4c15ac7f78a44be5db76cfbec7',1,'NUM_BUFFERS:&#160;SDL_pspaudio.h'],['../d6/dd3/SDL__vitaaudio_8h.html#aac028f4c15ac7f78a44be5db76cfbec7',1,'NUM_BUFFERS:&#160;SDL_vitaaudio.h']]],
+  ['num_5fformats_19',['NUM_FORMATS',['../d6/d9b/SDL__audio_8c.html#a493d6edd971bb2146d7e5bd7f873d8d1',1,'SDL_audio.c']]],
+  ['num_5fof_5fhidp_5freport_5ftypes_20',['NUM_OF_HIDP_REPORT_TYPES',['../d2/d4c/hidapi__descriptor__reconstruct_8h.html#a1a2b94a5638962afa448f31c534845fb',1,'hidapi_descriptor_reconstruct.h']]],
+  ['num_5fwindow_5fevent_5fwatch_5fpriorities_21',['NUM_WINDOW_EVENT_WATCH_PRIORITIES',['../d8/dfb/SDL__windowevents_8c.html#aea26137af36ddd368cdf1a6ee5d5e85d',1,'SDL_windowevents.c']]]
+];

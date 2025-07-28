@@ -1,0 +1,23 @@
+<map id="dispose_chunk" name="dispose_chunk">
+<area shape="rect" id="Node000001" title=" " alt="" coords="473,81,582,108"/>
+<area shape="rect" id="Node000002" href="$d4/d23/SDL__malloc_8c.html#aa2888b3de06df35c3b18b31b1e15fe8c" title=" " alt="" coords="300,19,424,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="475,78,399,48,400,43,477,73"/>
+<area shape="rect" id="Node000004" href="$d4/d23/SDL__malloc_8c.html#a77bcf00a7c234d2b45926ac02550d634" title=" " alt="" coords="299,81,425,108"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="458,97,426,97,426,92,458,92"/>
+<area shape="rect" id="Node000009" href="$d4/d23/SDL__malloc_8c.html#af8adec320537d6e63bc68e76633a1f0e" title=" " alt="" coords="300,157,424,184"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="484,117,394,159,392,154,482,113"/>
+<area shape="rect" id="Node000003" href="$d4/d23/SDL__malloc_8c.html#a8e02204694aaa24ccc23b1cd2c403b7e" title=" " alt="" coords="146,5,230,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="284,29,231,25,231,19,285,23"/>
+<area shape="rect" id="Node000005" href="$d4/d23/SDL__malloc_8c.html#a789f1726140c8d0ef5b54d893d806262" title=" " alt="" coords="145,56,232,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="283,86,232,78,233,73,284,81"/>
+<area shape="rect" id="Node000008" href="$d4/d23/SDL__malloc_8c.html#a61f04155b5dceea889ba3cef64968684" title=" " alt="" coords="126,107,251,133"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="284,109,252,113,251,108,283,103"/>
+<area shape="rect" id="Node000006" href="$d4/d23/SDL__malloc_8c.html#ade3c6d7e2b557fe3af01a7f6979e9396" title=" " alt="" coords="5,31,78,57"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="129,62,78,53,78,48,130,57"/>
+<area shape="rect" id="Node000007" href="$d4/d23/SDL__malloc_8c.html#ab3764c29825f2f5caf6bb138e6f2dc12" title=" " alt="" coords="9,81,74,108"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="130,82,75,92,74,86,129,77"/>
+<area shape="rect" id="Node000010" href="$d4/d23/SDL__malloc_8c.html#a79e7e77bbc6d5208678b007bf89aab61" title=" " alt="" coords="154,157,223,184"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="285,173,223,173,223,168,285,168"/>
+<area shape="rect" id="Node000011" href="$d4/d23/SDL__malloc_8c.html#afc9bc229eecc960b0c2bfd9033b6e2e0" title=" " alt="" coords="126,208,250,235"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="300,192,237,210,236,205,298,186"/>
+</map>

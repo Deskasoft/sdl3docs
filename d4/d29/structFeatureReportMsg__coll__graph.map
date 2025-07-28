@@ -1,0 +1,25 @@
+<map id="FeatureReportMsg" name="FeatureReportMsg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="572,307,701,333"/>
+<area shape="rect" id="Node000002" href="$d5/d30/structFeatureReportHeader.html" title=" " alt="" coords="248,24,394,51"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="410,26,446,28,483,34,518,46,550,66,576,93,596,124,611,159,622,194,634,260,638,306,633,307,629,260,617,195,606,161,591,127,572,96,546,70,516,51,481,39,445,33,410,31"/>
+<area shape="rect" id="Node000003" href="$d8/dc7/structMsgSetSettingsValues.html" title=" " alt="" coords="245,143,398,169"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="414,158,493,168,526,175,549,185,581,212,605,246,622,279,633,305,628,307,618,281,601,248,577,216,547,189,524,180,492,173,413,164"/>
+<area shape="rect" id="Node000004" href="$d2/de6/structControllerSetting.html" title=" " alt="" coords="9,143,128,169"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="143,153,244,153,244,159,143,159"/>
+<area shape="rect" id="Node000005" href="$d5/d12/structMsgGetAttributes.html" title=" " alt="" coords="260,197,383,224"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="399,210,473,221,512,230,549,244,593,273,625,304,621,308,590,278,547,249,510,236,472,226,398,215"/>
+<area shape="rect" id="Node000006" href="$d0/dea/structControllerAttribute.html" title=" " alt="" coords="5,197,132,224"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="147,208,259,208,259,213,147,213"/>
+<area shape="rect" id="Node000007" href="$d7/d06/structMsgSetControllerMode.html" title=" " alt="" coords="244,252,398,279"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="414,271,549,292,593,304,591,309,547,297,413,277"/>
+<area shape="rect" id="Node000008" href="$dd/d1a/structMsgFireHapticPulse.html" title=" " alt="" coords="252,307,391,333"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="407,317,572,317,572,323,407,323"/>
+<area shape="rect" id="Node000009" href="$db/d07/structMsgGetStringAttribute.html" title=" " alt="" coords="246,361,396,388"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="412,367,479,359,547,347,599,331,600,337,549,352,479,364,412,372"/>
+<area shape="rect" id="Node000010" href="$d9/d67/structMsgHapticSetMode.html" title=" " alt="" coords="253,416,390,443"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="405,426,476,417,512,408,547,395,570,382,591,365,623,332,626,336,595,369,573,386,549,400,514,413,477,423,406,432"/>
+<area shape="rect" id="Node000011" href="$d5/d9a/structMsgTriggerHaptic.html" title=" " alt="" coords="259,471,384,497"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="399,488,435,486,474,481,512,471,547,454,577,427,601,393,618,360,629,333,633,335,623,362,606,396,581,430,549,458,514,476,475,486,436,492,399,493"/>
+<area shape="rect" id="Node000012" href="$da/d9e/structMsgSimpleRumbleCmd.html" title=" " alt="" coords="242,525,401,552"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="417,549,450,548,484,543,517,533,546,517,568,497,585,474,611,422,625,371,631,333,637,334,630,372,616,424,590,477,572,501,550,521,519,538,485,548,451,553,417,554"/>
+</map>

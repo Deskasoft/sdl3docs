@@ -1,0 +1,11 @@
+<map id="CommandBufferCommonHeader" name="CommandBufferCommonHeader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="153,104,363,131"/>
+<area shape="rect" id="Node000002" href="$d1/d5c/structSDL__GPUDevice.html" title=" " alt="" coords="5,5,130,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,40,151,78,210,101,208,106,148,82,92,44"/>
+<area shape="rect" id="Node000003" href="$de/dfc/structRenderPass.html" title=" " alt="" coords="154,5,248,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,47,205,64,211,79,221,91,235,101,231,106,218,95,206,81,200,65,197,48"/>
+<area shape="rect" id="Node000004" href="$d5/dd7/structComputePass.html" title=" " alt="" coords="271,5,376,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="312,47,290,82,271,105,267,102,285,78,307,44"/>
+<area shape="rect" id="Node000005" href="$d9/d43/structPass.html" title=" " alt="" coords="415,5,466,32"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="431,48,419,66,402,82,378,96,351,106,349,101,375,91,399,78,415,63,427,45"/>
+</map>

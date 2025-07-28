@@ -1,0 +1,10 @@
+<map id="ApplyTonemap" name="ApplyTonemap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,113,83"/>
+<area shape="rect" id="Node000002" href="$d0/d74/SDL__pixels_8c.html#a4f1d517df7ab06a64b4c30571022de8c" title=" " alt="" coords="161,5,347,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,53,184,34,186,39,114,58"/>
+<area shape="rect" id="Node000003" href="$d7/d52/SDL__blit__slow_8c.html#a053495dc1e4f53da3e87fef7a9bd8da3" title=" " alt="" coords="194,56,314,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="113,67,178,67,178,72,113,72"/>
+<area shape="rect" id="Node000004" href="$d7/d52/SDL__blit__slow_8c.html#a81bc55db7f027fe352148b2ad28c86f7" title=" " alt="" coords="395,81,504,108"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="106,81,161,92,276,99,380,97,380,102,276,104,160,97,105,86"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="315,74,380,83,379,88,314,80"/>
+</map>

@@ -1,0 +1,77 @@
+<map id="SDL_Event" name="SDL_Event">
+<area shape="rect" id="Node000001" title=" " alt="" coords="353,1011,441,1038"/>
+<area shape="rect" id="Node000002" href="$dc/d1f/structSDL__CommonEvent.html" title=" " alt="" coords="35,27,176,54"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,26,228,26,266,32,301,46,331,68,343,90,354,126,370,231,382,370,390,525,397,827,398,1011,393,1011,392,827,385,525,377,370,365,232,348,127,338,92,327,72,298,50,264,37,228,32,192,31"/>
+<area shape="rect" id="Node000003" href="$df/ddf/structSDL__DisplayEvent.html" title=" " alt="" coords="39,82,172,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,93,272,101,307,109,331,123,342,144,352,177,369,276,380,406,389,553,397,836,398,1011,393,1011,391,837,383,553,375,406,363,277,347,178,337,146,327,127,305,114,271,106,187,98"/>
+<area shape="rect" id="Node000004" href="$df/d27/structSDL__WindowEvent.html" title=" " alt="" coords="38,137,173,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="189,148,273,156,308,164,331,178,342,197,351,228,367,321,379,442,387,579,396,846,398,1011,393,1011,390,846,382,580,373,443,362,321,346,230,337,199,327,181,306,169,272,161,188,153"/>
+<area shape="rect" id="Node000005" href="$d8/de8/structSDL__KeyboardDeviceEvent.html" title=" " alt="" coords="13,191,198,218"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="214,204,284,212,312,221,331,232,341,250,350,279,365,366,377,479,385,606,395,855,398,1011,393,1011,390,855,380,607,371,479,360,366,345,281,336,252,327,236,310,225,283,218,213,209"/>
+<area shape="rect" id="Node000006" href="$da/de2/structSDL__KeyboardEvent.html" title=" " alt="" coords="34,246,177,273"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="193,257,274,265,308,274,331,287,340,304,349,331,363,411,375,516,383,634,394,865,398,1011,393,1011,389,866,378,635,370,516,358,411,344,332,336,306,327,291,306,279,273,271,192,263"/>
+<area shape="rect" id="Node000007" href="$d6/df9/structSDL__TextEditingEvent.html" title=" " alt="" coords="29,297,182,323"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="198,310,277,320,309,329,331,342,340,357,348,382,362,456,382,661,393,875,398,1011,392,1011,388,875,376,662,356,456,343,383,335,359,327,345,307,334,276,325,197,315"/>
+<area shape="rect" id="Node000008" href="$d0/de5/structSDL__TextEditingCandidatesEvent.html" title=" " alt="" coords="13,347,198,390"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="214,369,284,378,312,386,331,398,339,412,347,434,360,501,380,689,392,885,398,1011,392,1011,387,885,375,690,355,502,341,436,334,414,327,401,310,391,283,383,213,374"/>
+<area shape="rect" id="Node000009" href="$dd/df8/structSDL__TextInputEvent.html" title=" " alt="" coords="34,414,177,441"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="193,424,274,430,308,438,331,451,346,484,358,545,378,716,391,895,398,1011,392,1011,386,895,373,716,353,546,341,486,327,455,306,443,273,436,192,429"/>
+<area shape="rect" id="Node000010" href="$db/d15/structSDL__MouseDeviceEvent.html" title=" " alt="" coords="21,465,190,491"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="205,477,280,486,310,495,330,507,344,524,355,547,373,607,385,680,393,760,399,912,399,1011,393,1011,394,912,388,760,380,681,368,608,350,549,339,527,327,511,308,500,279,492,204,483"/>
+<area shape="rect" id="Node000011" href="$de/d9a/structSDL__MouseMotionEvent.html" title=" " alt="" coords="22,519,189,546"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="204,532,279,541,310,550,330,561,342,577,353,597,369,650,381,715,389,785,397,920,398,1011,393,1011,392,921,384,785,376,715,364,651,348,599,338,580,327,565,308,554,278,546,204,538"/>
+<area shape="rect" id="Node000012" href="$d3/d2c/structSDL__MouseButtonEvent.html" title=" " alt="" coords="23,574,188,601"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="204,587,279,596,310,604,331,616,350,647,366,693,377,749,386,811,395,930,398,1011,393,1011,390,930,381,811,372,750,361,695,346,650,327,620,308,609,278,601,203,592"/>
+<area shape="rect" id="Node000013" href="$d5/d99/structSDL__MouseWheelEvent.html" title=" " alt="" coords="23,629,188,655"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="204,642,279,652,310,660,330,672,348,699,362,738,382,838,393,940,398,1011,392,1011,388,940,377,838,357,739,343,701,327,676,308,665,278,657,203,648"/>
+<area shape="rect" id="Node000014" href="$dd/d51/structSDL__JoyDeviceEvent.html" title=" " alt="" coords="30,683,181,710"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="197,697,276,706,308,715,330,727,346,749,359,781,378,864,391,949,397,1011,392,1011,386,950,373,865,354,783,341,751,327,731,306,720,275,711,196,702"/>
+<area shape="rect" id="Node000015" href="$d9/dc8/structSDL__JoyAxisEvent.html" title=" " alt="" coords="38,738,173,765"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="189,752,272,762,307,770,330,783,354,809,371,839,383,871,392,905,399,967,399,1011,394,1011,394,967,386,906,378,873,366,841,349,812,327,787,305,775,271,767,188,757"/>
+<area shape="rect" id="Node000016" href="$d9/de8/structSDL__JoyBallEvent.html" title=" " alt="" coords="40,793,171,819"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="187,807,271,817,306,825,330,837,349,856,364,879,384,928,394,975,398,1011,392,1011,389,976,379,929,359,881,345,860,327,842,304,830,270,822,186,812"/>
+<area shape="rect" id="Node000017" href="$dd/dbc/structSDL__JoyHatEvent.html" title=" " alt="" coords="40,847,171,874"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="187,862,270,871,305,880,330,891,357,918,376,951,389,984,395,1010,390,1011,383,986,371,954,353,921,327,895,304,885,269,877,186,867"/>
+<area shape="rect" id="Node000018" href="$d9/dda/structSDL__JoyButtonEvent.html" title=" " alt="" coords="32,902,179,929"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="195,914,263,926,297,936,330,950,349,963,365,979,389,1009,385,1013,361,983,345,967,327,955,296,941,262,931,194,920"/>
+<area shape="rect" id="Node000019" href="$d5/dfe/structSDL__JoyBatteryEvent.html" title=" " alt="" coords="30,957,181,983"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="197,975,262,983,329,997,364,1008,363,1013,328,1002,262,989,196,980"/>
+<area shape="rect" id="Node000020" href="$d4/db1/structSDL__GamepadDeviceEvent.html" title=" " alt="" coords="13,1011,198,1038"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="214,1022,352,1022,352,1027,214,1027"/>
+<area shape="rect" id="Node000021" href="$d8/d4d/structSDL__GamepadAxisEvent.html" title=" " alt="" coords="20,1066,191,1093"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="206,1072,267,1064,328,1051,368,1036,370,1041,329,1057,268,1070,207,1077"/>
+<area shape="rect" id="Node000022" href="$de/d93/structSDL__GamepadButtonEvent.html" title=" " alt="" coords="14,1121,197,1147"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="212,1131,271,1120,327,1098,346,1085,362,1069,385,1037,390,1040,366,1073,349,1089,330,1103,272,1125,213,1136"/>
+<area shape="rect" id="Node000023" href="$df/d4e/structSDL__GamepadTouchpadEvent.html" title=" " alt="" coords="5,1175,206,1202"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="221,1192,277,1182,303,1173,327,1159,354,1131,372,1098,384,1065,391,1038,396,1039,389,1066,377,1100,358,1135,330,1163,305,1177,278,1188,222,1198"/>
+<area shape="rect" id="Node000024" href="$da/d93/structSDL__GamepadSensorEvent.html" title=" " alt="" coords="13,1230,198,1257"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="213,1254,243,1252,273,1247,302,1237,327,1221,346,1202,362,1179,382,1127,391,1076,393,1038,398,1039,396,1077,387,1128,366,1181,351,1205,330,1225,304,1242,275,1252,244,1258,214,1260"/>
+<area shape="rect" id="Node000025" href="$d6/dc5/structSDL__AudioDeviceEvent.html" title=" " alt="" coords="24,1285,187,1311"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="182,1311,219,1314,257,1311,294,1302,327,1283,340,1266,352,1239,371,1167,384,1093,391,1038,397,1039,390,1093,377,1168,357,1240,345,1268,330,1287,296,1307,258,1317,219,1319,181,1317"/>
+<area shape="rect" id="Node000026" href="$d6/de0/structSDL__CameraDeviceEvent.html" title=" " alt="" coords="18,1339,193,1366"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="169,1367,209,1373,251,1373,291,1364,327,1344,343,1322,356,1288,376,1198,387,1104,392,1038,397,1039,393,1105,381,1199,362,1290,348,1325,330,1348,293,1369,251,1378,208,1378,169,1372"/>
+<area shape="rect" id="Node000027" href="$d3/d72/structSDL__SensorEvent.html" title=" " alt="" coords="41,1394,170,1421"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="163,1423,203,1430,247,1432,290,1424,309,1416,327,1404,346,1378,361,1336,372,1284,381,1227,390,1115,393,1038,398,1039,395,1115,386,1228,377,1285,366,1338,350,1380,331,1408,312,1421,291,1429,247,1437,203,1435,162,1428"/>
+<area shape="rect" id="Node000028" href="$d4/ddd/structSDL__QuitEvent.html" title=" " alt="" coords="49,1449,162,1475"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="177,1469,266,1475,303,1471,327,1461,338,1448,348,1431,365,1382,376,1322,385,1255,392,1126,393,1039,398,1039,397,1126,390,1256,382,1322,370,1383,353,1433,343,1452,330,1466,304,1476,266,1480,177,1475"/>
+<area shape="rect" id="Node000029" href="$d1/dc2/structSDL__UserEvent.html" title=" " alt="" coords="47,1503,164,1530"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="172,1531,211,1536,253,1535,293,1525,311,1516,327,1504,339,1489,350,1469,367,1415,379,1348,387,1275,393,1133,393,1038,398,1038,399,1133,392,1275,384,1349,372,1416,354,1471,343,1492,331,1508,313,1521,294,1530,253,1540,211,1541,171,1536"/>
+<area shape="rect" id="Node000030" href="$d3/dd5/structSDL__TouchFingerEvent.html" title=" " alt="" coords="26,1558,185,1585"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="164,1586,205,1593,248,1595,291,1587,310,1578,327,1566,341,1537,353,1480,373,1320,386,1150,392,1039,398,1039,391,1151,378,1320,358,1481,346,1538,331,1569,312,1582,292,1592,249,1600,204,1599,163,1592"/>
+<area shape="rect" id="Node000031" href="$d0/d65/structSDL__PenProximityEvent.html" title=" " alt="" coords="22,1613,189,1639"/>
+<area shape="poly" id="edge30_Node000001_Node000031" title=" " alt="" coords="204,1636,278,1638,308,1634,327,1625,334,1614,342,1593,355,1530,375,1350,387,1161,392,1038,398,1039,392,1161,380,1350,360,1531,347,1595,339,1616,330,1629,309,1639,279,1644,204,1642"/>
+<area shape="rect" id="Node000032" href="$d6/dd3/structSDL__PenTouchEvent.html" title=" " alt="" coords="32,1667,179,1694"/>
+<area shape="poly" id="edge31_Node000001_Node000032" title=" " alt="" coords="169,1695,209,1701,251,1700,292,1691,310,1682,327,1670,335,1657,343,1634,356,1566,376,1371,388,1168,392,1038,398,1038,393,1169,382,1372,362,1566,348,1636,340,1659,331,1673,313,1686,294,1696,252,1706,209,1706,168,1700"/>
+<area shape="rect" id="Node000033" href="$dc/d63/structSDL__PenMotionEvent.html" title=" " alt="" coords="30,1722,181,1749"/>
+<area shape="poly" id="edge32_Node000001_Node000033" title=" " alt="" coords="162,1751,203,1759,247,1761,290,1753,309,1745,327,1732,336,1718,344,1693,359,1618,370,1517,379,1403,389,1180,393,1038,398,1039,394,1180,384,1404,375,1518,364,1618,349,1695,341,1720,331,1736,312,1749,292,1759,247,1766,202,1764,161,1756"/>
+<area shape="rect" id="Node000034" href="$df/dc6/structSDL__PenButtonEvent.html" title=" " alt="" coords="31,1777,180,1803"/>
+<area shape="poly" id="edge33_Node000001_Node000034" title=" " alt="" coords="196,1800,275,1804,307,1800,327,1791,337,1775,346,1748,361,1666,372,1556,381,1432,390,1190,393,1038,398,1038,395,1190,386,1433,378,1557,366,1667,351,1750,341,1778,330,1795,308,1805,275,1809,196,1806"/>
+<area shape="rect" id="Node000035" href="$dc/df4/structSDL__PenAxisEvent.html" title=" " alt="" coords="37,1831,174,1858"/>
+<area shape="poly" id="edge34_Node000001_Node000035" title=" " alt="" coords="167,1859,208,1865,251,1866,292,1857,310,1848,327,1835,337,1818,346,1789,362,1702,373,1586,382,1454,391,1198,393,1038,398,1038,396,1198,387,1454,379,1586,367,1702,351,1791,342,1821,331,1839,313,1852,294,1862,251,1871,207,1871,167,1865"/>
+<area shape="rect" id="Node000036" href="$de/da6/structSDL__RenderEvent.html" title=" " alt="" coords="40,1886,171,1913"/>
+<area shape="poly" id="edge35_Node000001_Node000036" title=" " alt="" coords="162,1915,203,1923,247,1925,290,1918,309,1909,327,1896,338,1878,348,1847,364,1752,376,1627,384,1484,392,1208,393,1038,398,1038,397,1208,390,1485,381,1627,370,1753,353,1848,343,1881,331,1900,312,1914,292,1923,247,1931,202,1928,161,1920"/>
+<area shape="rect" id="Node000037" href="$dd/dcc/structSDL__DropEvent.html" title=" " alt="" coords="47,1941,164,1967"/>
+<area shape="poly" id="edge36_Node000001_Node000037" title=" " alt="" coords="180,1963,267,1969,304,1966,327,1956,339,1937,349,1904,366,1802,378,1668,386,1515,393,1220,393,1039,398,1039,398,1220,391,1516,384,1668,372,1803,354,1905,343,1939,330,1960,305,1971,267,1975,179,1968"/>
+<area shape="rect" id="Node000038" href="$de/d43/structSDL__ClipboardEvent.html" title=" " alt="" coords="34,1995,177,2022"/>
+<area shape="poly" id="edge37_Node000001_Node000038" title=" " alt="" coords="167,2023,207,2030,250,2030,292,2021,310,2012,327,1999,339,1979,350,1943,367,1836,379,1695,387,1536,393,1227,393,1039,398,1039,398,1227,392,1536,385,1696,372,1837,355,1945,344,1981,331,2002,313,2016,294,2026,251,2035,207,2035,166,2029"/>
+</map>

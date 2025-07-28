@@ -1,0 +1,14 @@
+<map id="WIN_SetErrorFromHRESULT" name="WIN_SetErrorFromHRESULT">
+<area shape="rect" id="Node000001" title=" " alt="" coords="823,56,1018,83"/>
+<area shape="rect" id="Node000002" href="$d2/d67/SDL__gdk_8cpp.html#a2fa7bba9da5d660b025d75cbe7d051ed" title=" " alt="" coords="600,5,775,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="840,55,752,35,753,30,841,50"/>
+<area shape="rect" id="Node000003" href="$df/de4/gdk_2SDL__sysfilesystem_8cpp.html#adbdc61007fd1d0ce9ebe164e8d0491b2" title=" " alt="" coords="392,31,552,57"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="807,66,553,51,553,46,807,60"/>
+<area shape="rect" id="Node000006" href="$d2/de4/windows_2SDL__sysurl_8c.html#ae62f93b5e31af1f224e3d591000f5078" title=" " alt="" coords="614,107,761,133"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="841,89,753,109,752,103,840,84"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="585,33,553,37,552,32,584,28"/>
+<area shape="rect" id="Node000004" href="$d4/db9/SDL__filesystem_8c.html#ad7e57b7d9eefc17ef78d5d38960ee28b" title=" " alt="" coords="218,31,344,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="376,47,344,47,344,41,376,41"/>
+<area shape="rect" id="Node000005" href="$d6/df0/SDL__genericstorage_8c.html#a6fb4f231925c28fb8593e3dd6aa2ebc1" title=" " alt="" coords="5,31,170,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="202,47,170,47,170,41,202,41"/>
+</map>

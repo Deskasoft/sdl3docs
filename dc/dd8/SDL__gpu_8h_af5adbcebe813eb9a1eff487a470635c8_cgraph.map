@@ -1,0 +1,9 @@
+<map id="SDL_CreateGPUTexture" name="SDL_CreateGPUTexture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,171,83"/>
+<area shape="rect" id="Node000002" href="$d2/daa/SDL__sysgpu_8h.html#afa08d56cb89a48f3ac6321c4cc5296b3" title=" " alt="" coords="274,5,382,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,53,258,31,259,36,155,58"/>
+<area shape="rect" id="Node000003" href="$d2/daa/SDL__sysgpu_8h.html#a5b846db6b6b9689fc2c5ef0700b6666c" title=" " alt="" coords="272,56,385,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,67,256,67,256,72,171,72"/>
+<area shape="rect" id="Node000004" href="$de/dc9/SDL__gpu_8c.html#a230594cb8d937fa47911afd4d891bda5" title=" " alt="" coords="219,107,438,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="155,81,247,100,246,106,154,86"/>
+</map>

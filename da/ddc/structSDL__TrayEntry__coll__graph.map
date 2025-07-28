@@ -1,0 +1,10 @@
+<map id="SDL_TrayEntry" name="SDL_TrayEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="16,5,127,32"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="144,8,151,12,154,19,146,29,128,32,127,27,143,24,148,18,147,16,141,13"/>
+<area shape="rect" id="Node000002" href="$d7/df7/structSDL__TrayMenu.html" title=" " alt="" coords="15,125,128,152"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="28,43,15,57,8,79,15,100,26,113,40,123,37,127,22,117,10,103,3,79,10,55,24,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,112,96,100,100,79,96,57,81,34,86,31,101,55,105,79,101,102,95,114"/>
+<area shape="rect" id="Node000003" href="$d7/ded/structSDL__Tray.html" title=" " alt="" coords="31,224,112,251"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="43,164,35,177,32,188,35,199,43,211,54,222,50,226,39,215,30,201,27,188,30,175,39,162"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="74,208,75,200,75,176,72,153,77,152,81,176,81,200,80,209"/>
+</map>

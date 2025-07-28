@@ -1,0 +1,17 @@
+<map id="GetDeviceForIndex" name="GetDeviceForIndex">
+<area shape="rect" id="Node000001" title=" " alt="" coords="280,165,414,192"/>
+<area shape="rect" id="Node000002" href="$dc/d2f/SDL__mfijoystick_8m.html#aaffe4166f247f3645821322a33683361" title=" " alt="" coords="20,5,217,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="328,154,288,98,261,70,230,46,206,35,209,30,233,42,265,66,293,95,333,150"/>
+<area shape="rect" id="Node000003" href="$dc/d2f/SDL__mfijoystick_8m.html#af7ab64f96d5c350fc9b2a83e099d6da1" title=" " alt="" coords="5,56,232,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="318,157,279,126,231,97,199,86,201,81,233,92,282,121,322,153"/>
+<area shape="rect" id="Node000004" href="$dc/d2f/SDL__mfijoystick_8m.html#a777d42063bc8664772f78420ff5c48b1" title=" " alt="" coords="20,107,217,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="285,163,231,148,184,137,185,131,232,143,287,158"/>
+<area shape="rect" id="Node000005" href="$dc/d2f/SDL__mfijoystick_8m.html#a005aa411550ea2bc24b26f7c2cf35ce0" title=" " alt="" coords="19,157,218,200"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="264,181,218,181,218,176,264,176"/>
+<area shape="rect" id="Node000006" href="$dc/d2f/SDL__mfijoystick_8m.html#af89c76a3bca87594df16de39c399e024" title=" " alt="" coords="5,224,232,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="287,199,232,215,185,226,184,221,231,209,285,194"/>
+<area shape="rect" id="Node000007" href="$dc/d2f/SDL__mfijoystick_8m.html#a2497c2fb94c187afac93836c0749cf0f" title=" " alt="" coords="53,275,184,301"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="322,204,282,236,233,265,185,281,184,276,231,260,279,232,318,200"/>
+<area shape="rect" id="Node000008" href="$dc/d2f/SDL__mfijoystick_8m.html#a39275917fb2afac067ec0e3bf9741fa0" title=" " alt="" coords="19,325,218,368"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="332,207,292,262,264,291,233,316,212,327,209,322,230,311,261,287,288,258,328,204"/>
+</map>

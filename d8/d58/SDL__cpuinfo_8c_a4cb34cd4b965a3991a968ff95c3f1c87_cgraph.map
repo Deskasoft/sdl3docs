@@ -1,0 +1,12 @@
+<map id="SDL_GetSystemRAM" name="SDL_GetSystemRAM">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,156,57"/>
+<area shape="rect" id="Node000002" href="$d3/d02/SDL__stdlib_8c.html#a6aa2d7674e36a88baf05ed1fae599bdb" title=" " alt="" coords="204,31,290,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,41,188,41,188,47,156,47"/>
+<area shape="rect" id="Node000003" href="$d3/d02/SDL__stdlib_8c.html#a697b0197d0b0798c81ee242f114aace8" title=" " alt="" coords="338,5,412,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="290,33,322,26,323,32,291,38"/>
+<area shape="rect" id="Node000004" href="$d3/d02/SDL__stdlib_8c.html#a8c898f41276f7bc9cbd3e89c726c2d0a" title=" " alt="" coords="460,31,540,57"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="291,41,445,41,445,47,291,47"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="413,24,446,30,445,36,412,29"/>
+<area shape="rect" id="Node000005" href="$d3/dcc/s__floor_8c.html#a70f5eb094fdaee73475597eee76f67f1" title=" " alt="" coords="588,31,708,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="540,41,572,41,572,47,540,47"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="ValidateStoragePath" name="ValidateStoragePath">
+<area shape="rect" id="Node000001" title=" " alt="" coords="760,208,900,235"/>
+<area shape="rect" id="Node000002" href="$d1/deb/SDL__storage_8c.html#a154cb09199db3010f4744d2ac6ff79ca" title=" " alt="" coords="529,5,680,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="816,195,800,160,777,120,748,80,711,46,679,31,682,26,714,42,751,76,782,117,805,158,821,193"/>
+<area shape="rect" id="Node000003" href="$d1/deb/SDL__storage_8c.html#a3f60d8849b6e835a19779bcdcf8a913f" title=" " alt="" coords="509,56,700,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="810,197,769,145,741,119,711,97,686,86,688,81,714,92,745,115,773,142,814,193"/>
+<area shape="rect" id="Node000004" href="$d1/deb/SDL__storage_8c.html#af4e7b38a7f7e0cd0ab3e3125f1ec167e" title=" " alt="" coords="497,107,712,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="795,202,756,177,711,154,661,136,662,131,713,150,758,173,798,197"/>
+<area shape="rect" id="Node000006" href="$d1/deb/SDL__storage_8c.html#a119d70dc377e31f7bf1c434a7676e349" title=" " alt="" coords="5,157,185,184"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="759,207,712,199,568,184,424,176,185,172,185,167,424,171,568,179,713,193,759,201"/>
+<area shape="rect" id="Node000007" href="$d1/deb/SDL__storage_8c.html#aaeea91e0efe156e1e49767aa9cd4d63d" title=" " alt="" coords="520,208,689,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="745,224,690,224,690,219,745,219"/>
+<area shape="rect" id="Node000010" href="$d1/deb/SDL__storage_8c.html#a1a3426f1d6eab22e2174847d0bb31216" title=" " alt="" coords="529,259,680,285"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="753,241,668,261,667,255,752,236"/>
+<area shape="rect" id="Node000011" href="$d1/deb/SDL__storage_8c.html#adcbbe6553638b4c4695d35230410fc4e" title=" " alt="" coords="517,309,692,336"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="801,247,761,274,713,300,680,311,678,306,711,295,758,270,798,242"/>
+<area shape="rect" id="Node000012" href="$d1/deb/SDL__storage_8c.html#abbda869b23c699c03cc03aa61325421d" title=" " alt="" coords="517,360,692,387"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="814,249,773,301,745,328,714,350,688,362,686,357,711,346,741,324,769,298,810,246"/>
+<area shape="rect" id="Node000013" href="$d1/deb/SDL__storage_8c.html#a8d3d1b1a6b39d498ee6f624338bf6806" title=" " alt="" coords="530,411,680,437"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="821,250,805,285,782,326,751,367,714,401,681,416,679,412,711,396,748,363,777,323,800,282,816,248"/>
+<area shape="rect" id="Node000005" href="$d1/deb/SDL__storage_8c.html#af46cf92118a6c45480c447960419441f" title=" " alt="" coords="234,107,448,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="481,123,448,123,448,117,481,117"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="258,140,164,159,163,154,257,134"/>
+<area shape="rect" id="Node000008" href="$d1/deb/SDL__storage_8c.html#a724054f8897e804670b9500f8a28b9f5" title=" " alt="" coords="233,208,449,235"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="505,224,449,224,449,219,505,219"/>
+<area shape="rect" id="Node000009" href="$d1/deb/SDL__storage_8c.html#a1403f72fa0b98fe9235fba03a2f86fb8" title=" " alt="" coords="257,259,424,285"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="517,241,414,261,413,255,516,236"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="257,207,163,187,164,182,258,202"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="SDL&#45;main/src/render/gpu/shaders/spir&#45;v.h" name="SDL&#45;main/src/render/gpu/shaders/spir&#45;v.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="592,5,734,48"/>
+<area shape="rect" id="Node000002" href="$de/d63/color_8frag_8spv_8h.html" title=" " alt="" coords="5,96,116,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="592,39,389,63,132,98,131,93,388,57,591,33"/>
+<area shape="rect" id="Node000003" href="$d2/d8e/linepoint_8vert_8spv_8h.html" title=" " alt="" coords="139,96,270,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="592,43,286,97,285,91,591,38"/>
+<area shape="rect" id="Node000004" href="$d8/d4b/texture__rgb_8frag_8spv_8h.html" title=" " alt="" coords="294,96,441,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="592,50,429,94,428,89,591,45"/>
+<area shape="rect" id="Node000005" href="$d0/d7a/texture__rgb__pixelart_8frag_8spv_8h.html" title=" " alt="" coords="465,96,661,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="639,51,592,88,589,84,636,47"/>
+<area shape="rect" id="Node000006" href="$dd/d54/texture__rgba_8frag_8spv_8h.html" title=" " alt="" coords="686,96,840,123"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="691,47,737,84,734,88,687,51"/>
+<area shape="rect" id="Node000007" href="$de/dc1/texture__rgba__pixelart_8frag_8spv_8h.html" title=" " alt="" coords="864,96,1068,123"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="736,44,904,89,903,94,734,50"/>
+<area shape="rect" id="Node000008" href="$d1/dc1/tri__color_8vert_8spv_8h.html" title=" " alt="" coords="1091,96,1219,123"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="735,37,1076,92,1076,98,734,42"/>
+<area shape="rect" id="Node000009" href="$d7/d37/tri__texture_8vert_8spv_8h.html" title=" " alt="" coords="1244,96,1384,123"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="735,33,1228,93,1228,98,735,39"/>
+</map>

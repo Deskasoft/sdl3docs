@@ -1,0 +1,9 @@
+<map id="SDL_FlipSurface" name="SDL_FlipSurface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,126,83"/>
+<area shape="rect" id="Node000002" href="$d4/d8e/SDL__surface_8c.html#a9094f12205aca76dda30a539d0a789ef" title=" " alt="" coords="174,5,353,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,53,193,34,194,39,121,58"/>
+<area shape="rect" id="Node000003" href="$d4/d8e/SDL__surface_8c.html#a0a47e0c3bda913666c22344d2e22e341" title=" " alt="" coords="182,56,345,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,67,166,67,166,72,126,72"/>
+<area shape="rect" id="Node000004" href="$d4/d8e/SDL__surface_8c.html#a4a47e8e6c37116eac3ae2c575b24dd5c" title=" " alt="" coords="200,107,327,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="121,81,194,100,193,105,120,86"/>
+</map>

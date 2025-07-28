@@ -1,0 +1,32 @@
+<map id="SDL_PrivateMatchGamepadMappingForGUID" name="SDL_PrivateMatchGamepadMappingForGUID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,149,242,192"/>
+<area shape="rect" id="Node000002" href="$d6/df9/SDL__joystick_8c.html#a3444cbed488af750d2a3512e3da2f2e6" title=" " alt="" coords="295,5,485,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,147,207,94,246,66,288,42,304,35,306,40,291,46,249,70,210,98,149,151"/>
+<area shape="rect" id="Node000004" href="$d6/df9/SDL__joystick_8c.html#ad1b9852c59e356a3bb6e361b56478944" title=" " alt="" coords="300,56,480,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,146,223,119,289,92,311,85,313,90,291,97,225,124,168,151"/>
+<area shape="rect" id="Node000005" href="$d2/d23/SDL__string_8c.html#a9b19109866d9b66767846cffb5fa2852" title=" " alt="" coords="336,107,444,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="238,146,320,131,321,136,239,151"/>
+<area shape="rect" id="Node000006" href="$d6/df9/SDL__joystick_8c.html#a1596d1bc4f473ee40e86525df9cf1a1c" title=" " alt="" coords="296,157,484,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="242,168,281,168,281,173,242,173"/>
+<area shape="rect" id="Node000007" href="$d6/df9/SDL__joystick_8c.html#a0d2c37657b128e3cca0b89feaf43318a" title=" " alt="" coords="290,208,490,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="239,190,301,202,300,207,238,195"/>
+<area shape="rect" id="Node000008" href="$d2/d23/SDL__string_8c.html#a73c3705dfae793f7c905d130caaf0980" title=" " alt="" coords="348,259,432,285"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="168,190,225,218,291,244,333,257,332,262,289,249,223,222,165,195"/>
+<area shape="rect" id="Node000012" href="$d2/d23/SDL__string_8c.html#a8291f282f96ea4c1948eb5a87696b873" title=" " alt="" coords="348,311,432,337"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="149,190,210,243,249,271,291,295,334,311,332,316,289,300,246,275,207,247,145,194"/>
+<area shape="rect" id="Node000003" href="$d6/df9/SDL__joystick_8c.html#aafbb2f9f58c8c2ac2dfe1bf8eb5723a7" title=" " alt="" coords="538,5,690,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="485,16,522,16,522,21,485,21"/>
+<area shape="rect" id="Node000009" href="$d2/d23/SDL__string_8c.html#a38e76d86236f4a24cf0cc6863ec3ae9d" title=" " alt="" coords="793,208,879,235"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="432,261,538,244,666,231,777,222,777,227,666,236,538,249,433,267"/>
+<area shape="rect" id="Node000010" href="$d2/d23/SDL__string_8c.html#aa62e80fe07d8d53989239340bef11dd6" title=" " alt="" coords="568,259,660,285"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="432,269,553,269,553,275,432,275"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="660,259,777,232,779,237,661,264"/>
+<area shape="rect" id="Node000011" href="$d2/d23/SDL__string_8c.html#a48219d4c04e8e26365e9091f3eb9d540" title=" " alt="" coords="785,259,887,285"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="660,269,770,269,770,275,660,275"/>
+<area shape="rect" id="Node000013" href="$d2/d23/SDL__string_8c.html#a1bed6e3ed5cfd4a6a39e5735a22168d1" title=" " alt="" coords="558,315,670,341"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="432,322,542,324,542,329,432,327"/>
+<area shape="rect" id="Node000014" href="$d2/d23/SDL__string_8c.html#a7973bb641d19e0ed46f90e07e09b07ed" title=" " alt="" coords="738,309,934,352"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="671,326,723,327,723,332,671,331"/>
+<area shape="rect" id="Node000015" href="$d3/d02/SDL__stdlib_8c.html#a0f97bab0613d4633dfc9a13c1d8bd9f7" title=" " alt="" coords="982,317,1081,344"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="934,328,966,328,966,333,934,333"/>
+</map>

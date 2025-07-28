@@ -1,0 +1,27 @@
+var dummy_2SDL__tray_8c =
+[
+    [ "SDL_ClickTrayEntry", "d2/daf/dummy_2SDL__tray_8c.html#ae02e52f40bcbe39c0030a9855edf151e", null ],
+    [ "SDL_CreateTray", "d2/daf/dummy_2SDL__tray_8c.html#a206a4c41714798d7da6da4c129f0973b", null ],
+    [ "SDL_CreateTrayMenu", "d2/daf/dummy_2SDL__tray_8c.html#add8af036edece29603173ab8da69088b", null ],
+    [ "SDL_CreateTraySubmenu", "d2/daf/dummy_2SDL__tray_8c.html#a316d5cdd6e4b360455a30c01b3bd1d2a", null ],
+    [ "SDL_DestroyTray", "d2/daf/dummy_2SDL__tray_8c.html#abaf074894e07db3897a43bd81c63dad7", null ],
+    [ "SDL_GetTrayEntries", "d2/daf/dummy_2SDL__tray_8c.html#ac61bd8109b9fd8b72f44ceb236596e3a", null ],
+    [ "SDL_GetTrayEntryChecked", "d2/daf/dummy_2SDL__tray_8c.html#aa433994da8bafef8f4d12e4406f5780b", null ],
+    [ "SDL_GetTrayEntryEnabled", "d2/daf/dummy_2SDL__tray_8c.html#a20ac166c8ca6c0eb637f98fe2a399686", null ],
+    [ "SDL_GetTrayEntryLabel", "d2/daf/dummy_2SDL__tray_8c.html#a93daa0e55977f255d65ab13d334cd8e3", null ],
+    [ "SDL_GetTrayEntryParent", "d2/daf/dummy_2SDL__tray_8c.html#a972064e00f40810bde4a8c1cc8ffb82d", null ],
+    [ "SDL_GetTrayMenu", "d2/daf/dummy_2SDL__tray_8c.html#a1dd38001ec18929d32eeec2a27f03cef", null ],
+    [ "SDL_GetTrayMenuParentEntry", "d2/daf/dummy_2SDL__tray_8c.html#a64d2a208b5c868741fd52c2764cb2d5a", null ],
+    [ "SDL_GetTrayMenuParentTray", "d2/daf/dummy_2SDL__tray_8c.html#ab1cfbaf81e62dcbad596e00593051d36", null ],
+    [ "SDL_GetTraySubmenu", "d2/daf/dummy_2SDL__tray_8c.html#aad3abe6253945bb29ccdb370310390b5", null ],
+    [ "SDL_InsertTrayEntryAt", "d2/daf/dummy_2SDL__tray_8c.html#a80abfe78658699ed093c45fdcda94853", null ],
+    [ "SDL_IsTraySupported", "d2/daf/dummy_2SDL__tray_8c.html#ab39b7372ba954fb61f08416d6f4eb044", null ],
+    [ "SDL_RemoveTrayEntry", "d2/daf/dummy_2SDL__tray_8c.html#ae3900e1e0d85325ca4fc535440f0d675", null ],
+    [ "SDL_SetTrayEntryCallback", "d2/daf/dummy_2SDL__tray_8c.html#a658018f013b889cde9617c2ff99bda97", null ],
+    [ "SDL_SetTrayEntryChecked", "d2/daf/dummy_2SDL__tray_8c.html#ab390553f61537894348b085dc159325f", null ],
+    [ "SDL_SetTrayEntryEnabled", "d2/daf/dummy_2SDL__tray_8c.html#a550310fda2bfe55d01fd1b74199d7b04", null ],
+    [ "SDL_SetTrayEntryLabel", "d2/daf/dummy_2SDL__tray_8c.html#addc17b65523dea71500c88b602eb1c74", null ],
+    [ "SDL_SetTrayIcon", "d2/daf/dummy_2SDL__tray_8c.html#a2372c5e3d0c864715dbeb77d23cbca03", null ],
+    [ "SDL_SetTrayTooltip", "d2/daf/dummy_2SDL__tray_8c.html#a29dc95df8c88c45cbee1596d30368053", null ],
+    [ "SDL_UpdateTrays", "d2/daf/dummy_2SDL__tray_8c.html#a5866935eadaf98c2370d27fcb2019ea3", null ]
+];

@@ -1,0 +1,9 @@
+<map id="FlushRenderCommandsIfGPURenderStateNeeded" name="FlushRenderCommandsIfGPURenderStateNeeded">
+<area shape="rect" id="Node000001" title=" " alt="" coords="528,27,769,69"/>
+<area shape="rect" id="Node000002" href="$dd/df3/SDL__render_8c.html#af5cb656b0ce58ba5962c60c03b63667a" title=" " alt="" coords="263,5,466,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="512,37,466,32,466,26,513,31"/>
+<area shape="rect" id="Node000004" href="$dd/df3/SDL__render_8c.html#a36be8f10ea038a8d6ed0c0f6b4bd9c48" title=" " alt="" coords="249,56,480,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="513,65,481,68,480,63,512,59"/>
+<area shape="rect" id="Node000003" href="$dd/df3/SDL__render_8c.html#a3d80195b506f1b9289a194cfda1d0736" title=" " alt="" coords="5,5,201,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="247,21,201,21,201,16,247,16"/>
+</map>

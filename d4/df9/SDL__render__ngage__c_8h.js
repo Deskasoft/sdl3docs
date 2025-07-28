@@ -1,0 +1,28 @@
+var SDL__render__ngage__c_8h =
+[
+    [ "NGAGE_CopyExData", "d7/d77/structNGAGE__CopyExData.html", "d7/d77/structNGAGE__CopyExData" ],
+    [ "NGAGE_RendererData", "d5/dd7/structNGAGE__RendererData.html", "d5/dd7/structNGAGE__RendererData" ],
+    [ "NGAGE_TextureData", "d8/d11/structNGAGE__TextureData.html", "d8/d11/structNGAGE__TextureData" ],
+    [ "NGAGE_Vertex", "de/ddd/structNGAGE__Vertex.html", "de/ddd/structNGAGE__Vertex" ],
+    [ "NGAGE_SCREEN_HEIGHT", "d4/df9/SDL__render__ngage__c_8h.html#adc3e68f9363ab3b1ad96755f9f438d0c", null ],
+    [ "NGAGE_SCREEN_WIDTH", "d4/df9/SDL__render__ngage__c_8h.html#af5ffe2e856f8566f290afb6cf4b6ddb8", null ],
+    [ "CFbsBitmap", "d4/df9/SDL__render__ngage__c_8h.html#a8aa05e5725847312b1adf50222859f44", null ],
+    [ "NGAGE_CopyExData", "d4/df9/SDL__render__ngage__c_8h.html#ac9f750b11cc41fb0c15d7df48e122761", null ],
+    [ "NGAGE_RendererData", "d4/df9/SDL__render__ngage__c_8h.html#a9b646f7a2448e366425600c404826dcb", null ],
+    [ "NGAGE_TextureData", "d4/df9/SDL__render__ngage__c_8h.html#a53c5f887882ab6d7b97ba7ca98198227", null ],
+    [ "NGAGE_Vertex", "d4/df9/SDL__render__ngage__c_8h.html#a2b184c4e12197c8867e7d16bb6ae798c", null ],
+    [ "NGAGE_Clear", "d4/df9/SDL__render__ngage__c_8h.html#ababf7a4ea85fbe1cadefecdeef4280c2", null ],
+    [ "NGAGE_ConvertColor", "d4/df9/SDL__render__ngage__c_8h.html#a4acc19c8256173df5314c9c4a4a3d945", null ],
+    [ "NGAGE_Copy", "d4/df9/SDL__render__ngage__c_8h.html#a3062c560b913105bee7c7b215b0571c3", null ],
+    [ "NGAGE_CopyEx", "d4/df9/SDL__render__ngage__c_8h.html#af38d3406572b99e5ea1105f3df6dd565", null ],
+    [ "NGAGE_CreateTextureData", "d4/df9/SDL__render__ngage__c_8h.html#ac205f7979c6aa6bd137a0db02774ef18", null ],
+    [ "NGAGE_DestroyTextureData", "d4/df9/SDL__render__ngage__c_8h.html#a0f4dd4a13c05737b0487a8995c031f92", null ],
+    [ "NGAGE_DrawLines", "d4/df9/SDL__render__ngage__c_8h.html#ad3a61ebc9b6a5cebed35b583e86bc92e", null ],
+    [ "NGAGE_DrawPoints", "d4/df9/SDL__render__ngage__c_8h.html#a2fc562b379209bf0099e6e7aeba31421", null ],
+    [ "NGAGE_FillRects", "d4/df9/SDL__render__ngage__c_8h.html#af3a92986c682b1c4df024956b124eb1a", null ],
+    [ "NGAGE_Flip", "d4/df9/SDL__render__ngage__c_8h.html#a18e5e2ad86f12161daeb63a60e9af2ca", null ],
+    [ "NGAGE_PumpEventsInternal", "d4/df9/SDL__render__ngage__c_8h.html#a0c6f48199447d4062555b16f71fc6ef7", null ],
+    [ "NGAGE_SetClipRect", "d4/df9/SDL__render__ngage__c_8h.html#a181bab7843cc775dbe9a02fa9932b846", null ],
+    [ "NGAGE_SetDrawColor", "d4/df9/SDL__render__ngage__c_8h.html#a08f93755431ff7601790ee82da4b627a", null ],
+    [ "NGAGE_SuspendScreenSaverInternal", "d4/df9/SDL__render__ngage__c_8h.html#a00fa019aef6d1c35c8995425a400ac22", null ]
+];

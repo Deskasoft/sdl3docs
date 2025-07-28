@@ -1,0 +1,13 @@
+<map id="SDL_asin" name="SDL_asin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,84,57"/>
+<area shape="rect" id="Node000002" href="$d3/d02/SDL__stdlib_8c.html#a8c9c050ae2636209aaa2bd1bb3ed3a14" title=" " alt="" coords="132,31,214,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,41,116,41,116,47,84,47"/>
+<area shape="rect" id="Node000003" href="$d3/d02/SDL__stdlib_8c.html#a788072ac8949a31b064fe7ae7058cebf" title=" " alt="" coords="262,5,341,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="214,33,246,27,247,32,215,39"/>
+<area shape="rect" id="Node000005" href="$d3/d02/SDL__stdlib_8c.html#a02d47ef45f0d5825cb809b30897ab34f" title=" " alt="" coords="264,56,340,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="215,49,249,56,248,61,214,55"/>
+<area shape="rect" id="Node000004" href="$dc/de5/s__atan_8c.html#aaf5f9baeb585f408278fd1453bb07854" title=" " alt="" coords="389,5,510,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="342,16,374,16,374,21,342,21"/>
+<area shape="rect" id="Node000006" href="$df/dbb/e__sqrt_8c.html#ac9b2af84b69e7f80a48f5eec3abf1ae2" title=" " alt="" coords="391,56,508,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="340,67,375,67,375,72,340,72"/>
+</map>

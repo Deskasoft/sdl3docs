@@ -1,0 +1,30 @@
+<map id="SDL_BLooper::GetSDLWindow" name="SDL_BLooper::GetSDLWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="549,272,752,299"/>
+<area shape="rect" id="Node000002" href="$df/d50/classSDL__BLooper.html#a4c6f53b8a18f2188c7c26c4eca3de429" title=" " alt="" coords="291,5,482,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="636,259,616,215,587,162,548,108,525,84,499,62,480,51,483,46,503,58,528,80,552,105,591,159,621,213,641,257"/>
+<area shape="rect" id="Node000004" href="$df/d50/classSDL__BLooper.html#a4727f4c6df40146478843a1d3a2c04e7" title=" " alt="" coords="280,72,493,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="630,261,576,195,540,159,500,129,477,118,480,113,502,124,544,155,580,191,634,257"/>
+<area shape="rect" id="Node000005" href="$df/d50/classSDL__BLooper.html#a096a1af887516c8fd205c006abb73c4c" title=" " alt="" coords="288,139,485,181"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="617,265,564,230,500,196,471,184,473,179,502,191,566,225,620,260"/>
+<area shape="rect" id="Node000006" href="$df/d50/classSDL__BLooper.html#ab8590778a021f7a841113fdb93149c87" title=" " alt="" coords="288,205,485,248"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="572,271,485,251,486,246,573,266"/>
+<area shape="rect" id="Node000007" href="$df/d50/classSDL__BLooper.html#a50d39349c5cccaf37b039106eef808bc" title=" " alt="" coords="272,272,501,299"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="533,288,501,288,501,283,533,283"/>
+<area shape="rect" id="Node000008" href="$df/d50/classSDL__BLooper.html#a9fad3593d742f332b361e09992753051" title=" " alt="" coords="288,323,485,365"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="573,305,486,325,485,319,572,300"/>
+<area shape="rect" id="Node000009" href="$df/d50/classSDL__BLooper.html#adf56a94cce75c02de1723483155108a0" title=" " alt="" coords="284,389,489,432"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="620,310,566,345,502,380,473,391,471,386,500,375,564,341,617,306"/>
+<area shape="rect" id="Node000010" href="$df/d50/classSDL__BLooper.html#a0d19cad2002b443c686773204566e1fb" title=" " alt="" coords="284,456,489,499"/>
+<area shape="poly" id="edge15_Node000001_Node000010" title=" " alt="" coords="634,313,580,380,544,416,502,446,480,458,477,453,500,442,540,411,576,376,630,310"/>
+<area shape="rect" id="Node000011" href="$df/d50/classSDL__BLooper.html#aa6611d162d43fdcdfb9447ac4d84312c" title=" " alt="" coords="314,523,459,549"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="642,314,622,358,593,412,553,467,529,492,502,513,482,524,460,531,459,526,480,519,500,508,525,488,549,464,588,409,618,356,637,312"/>
+<area shape="rect" id="Node000003" href="$df/d50/classSDL__BLooper.html#a5af46ad176704d2ad29595213710d8af" title=" " alt="" coords="5,243,224,269"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="281,58,273,62,222,106,179,158,146,207,125,244,121,241,141,204,174,155,218,103,270,58,278,53"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="284,124,273,129,229,157,189,189,130,244,127,240,185,185,226,152,270,124,282,119"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="293,189,273,196,149,245,147,240,271,191,291,184"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="272,242,224,247,224,242,272,236"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="256,274,224,270,224,265,256,269"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="293,320,271,313,153,272,154,267,273,308,295,315"/>
+<area shape="poly" id="edge14_Node000009_Node000003" title=" " alt="" coords="283,386,270,380,227,354,187,324,128,272,131,268,190,320,230,349,273,375,285,381"/>
+<area shape="poly" id="edge16_Node000010_Node000003" title=" " alt="" coords="278,451,270,446,219,403,175,354,142,306,121,271,126,268,147,303,180,350,222,400,273,442,281,447"/>
+</map>

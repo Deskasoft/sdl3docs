@@ -1,0 +1,11 @@
+<map id="VR_IVRSystem_FnTable" name="VR_IVRSystem_FnTable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="130,309,298,336"/>
+<area shape="rect" id="Node000002" href="$de/d7c/structHmdMatrix44__t.html" title=" " alt="" coords="5,104,116,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,146,57,178,59,214,68,251,88,284,107,299,130,310,128,315,104,304,83,287,64,253,54,215,52,178,54,146"/>
+<area shape="rect" id="Node000003" href="$d9/de4/structHmdMatrix34__t.html" title=" " alt="" coords="159,104,269,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,146,216,309,211,309,211,146"/>
+<area shape="rect" id="Node000004" href="$d4/d97/structHiddenAreaMesh__t.html" title=" " alt="" coords="421,104,553,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="494,146,495,179,492,217,482,255,460,287,433,302,393,312,299,322,298,316,392,306,431,297,456,283,477,252,487,216,490,178,489,146"/>
+<area shape="rect" id="Node000005" href="$d4/d3d/structHmdVector2__t.html" title=" " alt="" coords="435,5,539,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="490,48,490,104,484,104,484,48"/>
+</map>

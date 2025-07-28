@@ -1,0 +1,17 @@
+<map id="SDL&#45;main/include/SDL3/SDL_opengles2.h" name="SDL&#45;main/include/SDL3/SDL_opengles2.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="202,5,364,48"/>
+<area shape="rect" id="Node000002" href="$d3/d8b/SDL__platform__defines_8h.html" title=" " alt="" coords="5,96,204,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,51,147,92,145,87,236,46"/>
+<area shape="rect" id="Node000003" href="$df/d39/gl2platform_8h.html" title=" " alt="" coords="169,171,312,197"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="280,49,251,156,245,155,275,48"/>
+<area shape="rect" id="Node000006" href="$de/dc1/gl2_8h.html" title=" " alt="" coords="278,96,374,123"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="297,47,314,81,310,83,292,50"/>
+<area shape="rect" id="Node000007" href="$d0/d62/gl2ext_8h.html" title=" " alt="" coords="397,96,510,123"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="328,46,414,87,412,91,326,51"/>
+<area shape="rect" id="Node000004" href="$d7/d3a/khrplatform_8h.html" title=" " alt="" coords="229,245,359,272"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="252,196,278,231,273,234,248,199"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="262,320,326,347"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="296,273,296,304,291,304,291,273"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="313,125,268,163,265,159,309,121"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="330,123,331,157,326,198,312,233,307,231,321,197,325,157,324,123"/>
+</map>

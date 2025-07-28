@@ -1,0 +1,10 @@
+<map id="SDL_CocoaVideoData" name="SDL_CocoaVideoData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,159,131"/>
+<area shape="rect" id="Node000002" href="$d0/df2/structSDL__Mutex.html" title=" " alt="" coords="130,5,220,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,34,99,44,85,58,80,68,79,80,81,103,76,104,73,80,75,67,81,54,96,40,114,29"/>
+<area shape="rect" id="Node000003" href="$d8/d0b/structSDL__Semaphore.html" title=" " alt="" coords="216,104,337,131"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="169,47,168,64,173,79,192,96,217,106,215,111,190,100,169,81,163,64,164,47"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="266,91,257,73,245,58,229,45,210,35,213,30,232,40,249,54,262,71,270,88"/>
+<area shape="rect" id="Node000004" href="$d0/d07/structSDL__Condition.html" title=" " alt="" coords="286,5,395,32"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="332,48,314,82,293,105,289,102,309,78,328,45"/>
+</map>

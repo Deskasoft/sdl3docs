@@ -1,0 +1,7 @@
+<map id="VkAccelerationStructureTrianglesOpacityMicromapEXT" name="VkAccelerationStructureTrianglesOpacityMicromapEXT">
+<area shape="rect" id="Node000001" title=" " alt="" coords="123,125,338,168"/>
+<area shape="rect" id="Node000002" href="$d9/d13/unionVkDeviceOrHostAddressConstKHR.html" title=" " alt="" coords="5,5,238,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,42,215,123,211,127,140,45"/>
+<area shape="rect" id="Node000003" href="$dd/df6/structVkMicromapUsageEXT.html" title=" " alt="" coords="262,5,421,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="323,45,273,103,252,127,248,123,269,100,319,42"/>
+</map>

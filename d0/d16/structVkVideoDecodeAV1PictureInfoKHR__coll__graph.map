@@ -1,0 +1,31 @@
+<map id="VkVideoDecodeAV1PictureInfoKHR" name="VkVideoDecodeAV1PictureInfoKHR">
+<area shape="rect" id="Node000001" title=" " alt="" coords="996,238,1228,264"/>
+<area shape="rect" id="Node000002" href="$df/d8a/structStdVideoDecodeAV1PictureInfo.html" title=" " alt="" coords="644,238,850,264"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="866,248,996,248,996,254,866,254"/>
+<area shape="rect" id="Node000003" href="$d9/de6/structStdVideoDecodeAV1PictureInfoFlags.html" title=" " alt="" coords="297,7,482,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="497,25,561,36,592,47,621,62,646,81,668,103,703,153,729,201,744,236,739,239,724,203,699,155,664,107,642,85,619,67,590,52,560,41,497,30"/>
+<area shape="rect" id="Node000004" href="$dc/d2b/structStdVideoAV1TileInfo.html" title=" " alt="" coords="319,74,460,100"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="476,87,548,99,586,110,621,125,659,150,693,181,738,236,734,239,689,184,656,154,619,129,584,115,547,104,475,92"/>
+<area shape="rect" id="Node000005" href="$d3/d20/structStdVideoAV1TileInfoFlags.html" title=" " alt="" coords="20,74,194,100"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="209,84,318,84,318,90,209,90"/>
+<area shape="rect" id="Node000006" href="$d6/d90/structStdVideoAV1Quantization.html" title=" " alt="" coords="304,128,475,155"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="490,149,555,161,621,179,680,207,727,235,725,240,678,211,619,184,554,166,489,154"/>
+<area shape="rect" id="Node000007" href="$d5/d96/structStdVideoAV1QuantizationFlags.html" title=" " alt="" coords="5,128,209,155"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="224,139,303,139,303,144,224,144"/>
+<area shape="rect" id="Node000008" href="$dd/de1/structStdVideoAV1Segmentation.html" title=" " alt="" coords="300,183,478,210"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="494,205,620,223,682,235,681,240,620,228,494,211"/>
+<area shape="rect" id="Node000009" href="$d7/d46/structStdVideoAV1LoopFilter.html" title=" " alt="" coords="312,238,467,264"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="482,248,644,248,644,254,482,254"/>
+<area shape="rect" id="Node000010" href="$d5/de2/structStdVideoAV1LoopFilterFlags.html" title=" " alt="" coords="13,238,201,264"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="216,248,311,248,311,254,216,254"/>
+<area shape="rect" id="Node000011" href="$d5/d0f/structStdVideoAV1CDEF.html" title=" " alt="" coords="322,292,457,319"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="472,297,620,278,692,263,693,268,620,283,473,302"/>
+<area shape="rect" id="Node000012" href="$da/d97/structStdVideoAV1LoopRestoration.html" title=" " alt="" coords="293,347,486,374"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="501,349,560,338,619,322,679,293,726,263,729,267,681,298,621,327,562,344,502,354"/>
+<area shape="rect" id="Node000013" href="$df/d06/structStdVideoAV1GlobalMotion.html" title=" " alt="" coords="302,402,476,428"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="491,410,556,399,588,390,619,377,657,351,690,320,735,263,739,266,694,323,660,355,621,381,590,395,557,405,492,416"/>
+<area shape="rect" id="Node000014" href="$da/d96/structStdVideoAV1FilmGrain.html" title=" " alt="" coords="312,456,466,483"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="481,473,552,464,586,454,619,438,643,420,664,398,699,349,724,301,739,264,744,266,729,303,704,352,668,402,646,424,621,443,588,459,553,469,482,478"/>
+<area shape="rect" id="Node000015" href="$df/def/structStdVideoAV1FilmGrainFlags.html" title=" " alt="" coords="14,456,200,483"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="216,467,312,467,312,472,216,472"/>
+</map>

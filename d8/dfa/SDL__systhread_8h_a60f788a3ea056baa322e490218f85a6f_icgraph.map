@@ -1,0 +1,13 @@
+<map id="SDL_SYS_SetThreadPriority" name="SDL_SYS_SetThreadPriority">
+<area shape="rect" id="Node000001" title=" " alt="" coords="809,43,998,69"/>
+<area shape="rect" id="Node000002" href="$de/de3/SDL__thread_8c.html#a5c0d5e58fc45266445156fcec7d65c51" title=" " alt="" coords="562,43,761,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="793,59,761,59,761,53,793,53"/>
+<area shape="rect" id="Node000003" href="$d6/d9b/SDL__audio_8c.html#a9b5b624ab35fc35a03ab4cf05d65016c" title=" " alt="" coords="354,5,500,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="546,44,500,38,501,33,547,39"/>
+<area shape="rect" id="Node000004" href="$db/d6b/SDL__camera_8c.html#a5fabfda78c2d93fd14ce4f46af5e7b51" title=" " alt="" coords="340,72,514,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="547,73,515,77,514,72,546,68"/>
+<area shape="rect" id="Node000005" href="$db/d6b/SDL__camera_8c.html#a03e068ea12aee6918e95902871cb3523" title=" " alt="" coords="185,72,292,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="325,88,292,88,292,83,325,83"/>
+<area shape="rect" id="Node000006" href="$db/d6b/SDL__camera_8c.html#a52469fec975f103f2456d9e03a868fba" title=" " alt="" coords="5,72,137,99"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="169,88,137,88,137,83,169,83"/>
+</map>

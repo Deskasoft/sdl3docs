@@ -1,0 +1,11 @@
+<map id="VkPipelineViewportStateCreateInfo" name="VkPipelineViewportStateCreateInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,232,229"/>
+<area shape="rect" id="Node000002" href="$d6/dee/structVkViewport.html" title=" " alt="" coords="22,104,111,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,146,68,162,73,177,83,190,96,200,92,204,79,194,68,180,63,163,61,146"/>
+<area shape="rect" id="Node000003" href="$d7/d2d/structVkRect2D.html" title=" " alt="" coords="135,104,217,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,146,146,180,130,204,126,201,142,177,160,144"/>
+<area shape="rect" id="Node000004" href="$d6/d3e/structVkOffset2D.html" title=" " alt="" coords="74,5,163,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="136,44,171,102,166,105,131,47"/>
+<area shape="rect" id="Node000005" href="$d1/d79/structVkExtent2D.html" title=" " alt="" coords="187,5,279,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="222,47,202,81,187,105,182,102,198,79,217,44"/>
+</map>

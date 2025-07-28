@@ -1,0 +1,9 @@
+<map id="FcitxClientCreateIC" name="FcitxClientCreateIC">
+<area shape="rect" id="Node000001" title=" " alt="" coords="424,5,562,32"/>
+<area shape="rect" id="Node000002" href="$d8/d3d/SDL__fcitx_8c.html#a9599338ba69d63761b97538897945a2b" title=" " alt="" coords="268,5,376,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="409,21,377,21,377,16,409,16"/>
+<area shape="rect" id="Node000003" href="$d6/dca/SDL__ime_8c.html#a43c3ce1b3fb7c51d28e85239d2df465f" title=" " alt="" coords="157,5,220,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,21,220,21,220,16,252,16"/>
+<area shape="rect" id="Node000004" href="$d6/dca/SDL__ime_8c.html#aad8672e65d5ef336bee91410b6d6cebf" title=" " alt="" coords="5,5,109,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="141,21,109,21,109,16,141,16"/>
+</map>

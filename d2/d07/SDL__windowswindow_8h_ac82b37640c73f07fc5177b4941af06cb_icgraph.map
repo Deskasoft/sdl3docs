@@ -1,0 +1,8 @@
+<map id="WIN_UpdateDarkModeForHWND" name="WIN_UpdateDarkModeForHWND">
+<area shape="rect" id="Node000001" title=" " alt="" coords="342,5,561,32"/>
+<area shape="rect" id="Node000002" href="$d1/d09/windows_2SDL__tray_8c.html#a206a4c41714798d7da6da4c129f0973b" title=" " alt="" coords="5,5,125,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="327,21,125,21,125,16,327,16"/>
+<area shape="rect" id="Node000003" href="$d1/d09/windows_2SDL__tray_8c.html#a600fd270703b77bf2cfc52af32b42943" title=" " alt="" coords="173,31,294,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="327,36,295,40,294,34,327,31"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="157,35,125,30,125,25,158,30"/>
+</map>

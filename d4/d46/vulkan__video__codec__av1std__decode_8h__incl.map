@@ -1,0 +1,9 @@
+<map id="SDL&#45;main/src/video/khronos/vk_video/vulkan_video_codec_av1std_decode.h" name="SDL&#45;main/src/video/khronos/vk_video/vulkan_video_codec_av1std_decode.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,213,64"/>
+<area shape="rect" id="Node000002" href="$d1/d1f/vulkan__video__codec__av1std_8h.html" title=" " alt="" coords="39,112,179,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,64,112,97,106,97,106,64"/>
+<area shape="rect" id="Node000003" href="$dc/d02/vulkan__video__codecs__common_8h.html" title=" " alt="" coords="36,203,182,245"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,155,112,187,106,187,106,155"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="77,293,141,320"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="112,246,112,277,106,277,106,246"/>
+</map>

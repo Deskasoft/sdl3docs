@@ -1,0 +1,25 @@
+var SDL__touch_8c =
+[
+    [ "SDL_AddFinger", "db/ddf/SDL__touch_8c.html#ae80fb89808daedce3312e98f1af65582", null ],
+    [ "SDL_AddTouch", "db/ddf/SDL__touch_8c.html#adf587fd8688befaa659594fcba22c70f", null ],
+    [ "SDL_DelFinger", "db/ddf/SDL__touch_8c.html#ab07f172da1bd83a27e6a0ff80dbacb23", null ],
+    [ "SDL_DelTouch", "db/ddf/SDL__touch_8c.html#a45a999c2ff37cdf29ad9f1b0114669cb", null ],
+    [ "SDL_GetFinger", "db/ddf/SDL__touch_8c.html#a2a9789c858b692abb359d541cb85ee13", null ],
+    [ "SDL_GetFingerIndex", "db/ddf/SDL__touch_8c.html#a879e1c189380f3cf3c17b80f77617c66", null ],
+    [ "SDL_GetTouch", "db/ddf/SDL__touch_8c.html#ad559031233a9b425d83d116a2bcfe293", null ],
+    [ "SDL_GetTouchDeviceName", "db/ddf/SDL__touch_8c.html#a6c54ff980038c5502e1c61244667e839", null ],
+    [ "SDL_GetTouchDevices", "db/ddf/SDL__touch_8c.html#a3b24c7af8cb6303e2102e9e04b99b6f6", null ],
+    [ "SDL_GetTouchDeviceType", "db/ddf/SDL__touch_8c.html#a15c4c5afed2f9166cf8fbdca22927d19", null ],
+    [ "SDL_GetTouchFingers", "db/ddf/SDL__touch_8c.html#a0dfb432b45bfbf78d3f4d50218bd7d40", null ],
+    [ "SDL_GetTouchIndex", "db/ddf/SDL__touch_8c.html#a6ef570605fc2bf4dbecce9d0e1a62389", null ],
+    [ "SDL_InitTouch", "db/ddf/SDL__touch_8c.html#ab3d0827bc9d0218a750e7b6e88a473b8", null ],
+    [ "SDL_QuitTouch", "db/ddf/SDL__touch_8c.html#aa898a0c75823dbdd67d5f8b6be23858e", null ],
+    [ "SDL_SendTouch", "db/ddf/SDL__touch_8c.html#abe3b6bb0f66ae1c4dc2a88dcd25a69d5", null ],
+    [ "SDL_SendTouchMotion", "db/ddf/SDL__touch_8c.html#a0c3ac29b6048a319c04c7724febc39b1", null ],
+    [ "SDL_TouchDevicesAvailable", "db/ddf/SDL__touch_8c.html#a51cb6aabb7c022f4d4c8c7451d12418a", null ],
+    [ "finger_touching", "db/ddf/SDL__touch_8c.html#a992bf955423cd635ef6164112965676c", null ],
+    [ "SDL_num_touch", "db/ddf/SDL__touch_8c.html#a77478a42264794bd667ecbe571667b61", null ],
+    [ "SDL_touchDevices", "db/ddf/SDL__touch_8c.html#a6a2c87d9fe64380a529cc15e1eb69f6f", null ],
+    [ "track_fingerid", "db/ddf/SDL__touch_8c.html#aa2ee686ae292f9092476fc217aa5d26f", null ],
+    [ "track_touchid", "db/ddf/SDL__touch_8c.html#a481f7d25fbd8a0bab74163f8c37ac1a2", null ]
+];

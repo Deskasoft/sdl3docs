@@ -1,0 +1,16 @@
+<map id="SDL_HIDAPI_ShouldIgnoreDevice" name="SDL_HIDAPI_ShouldIgnoreDevice">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,230,81"/>
+<area shape="rect" id="Node000002" href="$d2/d5b/SDL__stdinc_8h.html#a5056fbcb8d3d77a21e67c9687f889b40" title=" " alt="" coords="285,29,382,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,52,269,47,270,53,230,57"/>
+<area shape="rect" id="Node000003" href="$d2/d23/SDL__string_8c.html#a59102137fc77f76b1c749e7816347611" title=" " alt="" coords="278,80,390,107"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="230,79,262,82,262,88,230,84"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="305,30,300,21,303,11,315,5,334,3,354,5,365,12,362,16,352,10,334,8,316,10,307,15,305,20,309,28"/>
+<area shape="rect" id="Node000004" href="$d2/d23/SDL__string_8c.html#a2bdfca477ac9576eed2460f5d824c640" title=" " alt="" coords="446,29,560,56"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="380,77,440,59,442,64,382,82"/>
+<area shape="rect" id="Node000006" href="$d2/d23/SDL__string_8c.html#a38e76d86236f4a24cf0cc6863ec3ae9d" title=" " alt="" coords="460,80,546,107"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="390,91,444,91,444,96,390,96"/>
+<area shape="rect" id="Node000007" href="$d2/d23/SDL__string_8c.html#aea0d26139be20c512bd5192017c827e6" title=" " alt="" coords="438,131,567,157"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="382,105,442,123,440,128,380,110"/>
+<area shape="rect" id="Node000005" href="$d2/d23/SDL__string_8c.html#a8d9b30860de906e69dd80fe1f4a318b5" title=" " alt="" coords="615,29,697,56"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="560,40,600,40,600,45,560,45"/>
+</map>

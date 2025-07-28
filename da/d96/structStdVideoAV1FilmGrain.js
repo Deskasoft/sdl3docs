@@ -1,0 +1,28 @@
+var structStdVideoAV1FilmGrain =
+[
+    [ "ar_coeff_lag", "da/d96/structStdVideoAV1FilmGrain.html#a6f7b5882c2d48232b72f4b967d980987", null ],
+    [ "ar_coeff_shift_minus_6", "da/d96/structStdVideoAV1FilmGrain.html#aa9cc3747cbd2f37ad0d34ade7c3f2ab9", null ],
+    [ "ar_coeffs_cb_plus_128", "da/d96/structStdVideoAV1FilmGrain.html#a7790664370ad4597bf569e660dc6102b", null ],
+    [ "ar_coeffs_cr_plus_128", "da/d96/structStdVideoAV1FilmGrain.html#a7ac1cc39b5ee41ce93e121a3f571927b", null ],
+    [ "ar_coeffs_y_plus_128", "da/d96/structStdVideoAV1FilmGrain.html#af50ba1f40135151b7da274935d038746", null ],
+    [ "cb_luma_mult", "da/d96/structStdVideoAV1FilmGrain.html#a318d3759e0f6feb4916f87cf5d8b4806", null ],
+    [ "cb_mult", "da/d96/structStdVideoAV1FilmGrain.html#a5315076072275fa1fe3d9ea1005a96e8", null ],
+    [ "cb_offset", "da/d96/structStdVideoAV1FilmGrain.html#a9a18e9458391c581c34512f43aed0020", null ],
+    [ "cr_luma_mult", "da/d96/structStdVideoAV1FilmGrain.html#aec755e46581cb0e99645bab5f3dc41ff", null ],
+    [ "cr_mult", "da/d96/structStdVideoAV1FilmGrain.html#aa5879777a1ee1758912604f490c0a5b6", null ],
+    [ "cr_offset", "da/d96/structStdVideoAV1FilmGrain.html#aa8da00fd177053c5828d2310b1c59f42", null ],
+    [ "film_grain_params_ref_idx", "da/d96/structStdVideoAV1FilmGrain.html#a2eb48dd693af22e8b23055c03f0b5c4e", null ],
+    [ "flags", "da/d96/structStdVideoAV1FilmGrain.html#a418a71cfd50ded363cc3f803e0ec981d", null ],
+    [ "grain_scale_shift", "da/d96/structStdVideoAV1FilmGrain.html#ab508cead7d740a76500b60d94c04ec58", null ],
+    [ "grain_scaling_minus_8", "da/d96/structStdVideoAV1FilmGrain.html#ad25363e532c4efd253fbecc9a2b83569", null ],
+    [ "grain_seed", "da/d96/structStdVideoAV1FilmGrain.html#ad9f5af07cb993448f8e543144de0b059", null ],
+    [ "num_cb_points", "da/d96/structStdVideoAV1FilmGrain.html#a6a0589aed6707896112a353c18d8082a", null ],
+    [ "num_cr_points", "da/d96/structStdVideoAV1FilmGrain.html#af40e14686a6de3983f0811b890daa2b8", null ],
+    [ "num_y_points", "da/d96/structStdVideoAV1FilmGrain.html#aeff2efe6d69a7020aa6c371749eb3ac0", null ],
+    [ "point_cb_scaling", "da/d96/structStdVideoAV1FilmGrain.html#a46b2cfb79061f00a00bc205dd3e4d1df", null ],
+    [ "point_cb_value", "da/d96/structStdVideoAV1FilmGrain.html#a0e589ea7b004f04b0972a6a3f407e176", null ],
+    [ "point_cr_scaling", "da/d96/structStdVideoAV1FilmGrain.html#acc7ed247695c09e83d770f0d8bd6100e", null ],
+    [ "point_cr_value", "da/d96/structStdVideoAV1FilmGrain.html#ab2a31d9fb1f767d32cdf31a14730f54c", null ],
+    [ "point_y_scaling", "da/d96/structStdVideoAV1FilmGrain.html#a997f307a37e11c44d41123dbde94a8a6", null ],
+    [ "point_y_value", "da/d96/structStdVideoAV1FilmGrain.html#a852b480104e66a675bdd0b9b69c3b326", null ]
+];

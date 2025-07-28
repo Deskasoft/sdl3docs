@@ -1,0 +1,21 @@
+<map id="SDL&#45;main/include/SDL3/SDL_error.h" name="SDL&#45;main/include/SDL3/SDL_error.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="592,5,754,48"/>
+<area shape="rect" id="Node000002" href="$d2/d5b/SDL__stdinc_8h.html" title=" " alt="" coords="318,96,455,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="600,51,447,94,445,89,598,46"/>
+<area shape="rect" id="Node000008" href="$d8/d5f/SDL__begin__code_8h.html" title=" " alt="" coords="589,171,757,197"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="676,48,676,155,670,155,670,48"/>
+<area shape="rect" id="Node000009" href="$d9/d73/SDL__close__code_8h.html" title=" " alt="" coords="781,171,949,197"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="700,46,839,159,836,163,697,51"/>
+<area shape="rect" id="Node000003" href="$d3/d8b/SDL__platform__defines_8h.html" title=" " alt="" coords="366,171,564,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="402,121,442,158,438,162,398,125"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,171,74,197"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="318,126,90,173,89,168,317,121"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="98,171,162,197"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="342,126,178,172,176,167,341,121"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="186,171,250,197"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="358,126,263,167,260,162,356,121"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="274,171,341,197"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="374,125,334,162,330,158,371,121"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="437,121,608,164,607,169,435,126"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="456,118,766,165,765,170,455,124"/>
+</map>

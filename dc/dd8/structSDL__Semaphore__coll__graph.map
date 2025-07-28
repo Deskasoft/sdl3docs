@@ -1,0 +1,8 @@
+<map id="SDL_Semaphore" name="SDL_Semaphore">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,126,131"/>
+<area shape="rect" id="Node000002" href="$d0/df2/structSDL__Mutex.html" title=" " alt="" coords="20,203,111,229"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="40,143,32,156,29,167,32,178,40,190,50,200,46,204,36,193,27,180,24,167,27,154,36,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,187,66,179,66,155,64,131,69,131,71,155,71,179,70,187"/>
+<area shape="rect" id="Node000003" href="$d0/d07/structSDL__Condition.html" title=" " alt="" coords="11,5,120,32"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="68,48,68,104,63,104,63,48"/>
+</map>

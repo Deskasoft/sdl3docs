@@ -1,0 +1,17 @@
+<map id="SDL&#45;main/src/video/khronos/vk_video/vulkan_video_codec_h265std.h" name="SDL&#45;main/src/video/khronos/vk_video/vulkan_video_codec_h265std.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="172,5,341,64"/>
+<area shape="rect" id="Node000002" href="$df/d60/vulkan__video__codec__h265std__decode_8h.html" title=" " alt="" coords="5,112,220,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,75,153,114,150,109,203,71"/>
+<area shape="rect" id="Node000003" href="$de/d3d/vulkan__core_8h.html" title=" " alt="" coords="179,219,334,277"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="259,79,259,218,254,218,254,79"/>
+<area shape="rect" id="Node000007" href="$d2/df4/vulkan__video__codec__h265std__encode_8h.html" title=" " alt="" coords="293,112,508,171"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="310,71,363,109,360,114,307,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="166,178,219,216,216,220,163,182"/>
+<area shape="rect" id="Node000004" href="$d6/d8f/vk__layer_8h.html" title=" " alt="" coords="70,325,248,368"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="219,290,181,327,178,323,215,286"/>
+<area shape="rect" id="Node000005" href="$d8/d55/vulkan_8h.html" title=" " alt="" coords="272,325,438,368"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="298,286,336,323,333,327,294,290"/>
+<area shape="rect" id="Node000006" href="$dc/d5e/vk__icd_8h.html" title=" " alt="" coords="272,416,438,459"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="358,384,358,416,352,416,352,384"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="350,182,297,220,294,216,347,178"/>
+</map>

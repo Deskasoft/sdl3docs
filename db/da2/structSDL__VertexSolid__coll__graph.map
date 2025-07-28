@@ -1,0 +1,7 @@
+<map id="SDL_VertexSolid" name="SDL_VertexSolid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="50,104,170,131"/>
+<area shape="rect" id="Node000002" href="$d6/d4d/structSDL__FPoint.html" title=" " alt="" coords="5,5,98,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,44,89,79,104,102,99,105,84,81,64,47"/>
+<area shape="rect" id="Node000003" href="$d2/dd3/structSDL__FColor.html" title=" " alt="" coords="122,5,216,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,47,142,81,123,105,119,102,137,79,155,45"/>
+</map>

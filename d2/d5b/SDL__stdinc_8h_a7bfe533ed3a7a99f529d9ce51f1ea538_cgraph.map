@@ -1,0 +1,7 @@
+<map id="SDL_scalbnf" name="SDL_scalbnf">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,102,32"/>
+<area shape="rect" id="Node000002" href="$d3/d02/SDL__stdlib_8c.html#a7cccd56c0fe176ed80d7eabf6572eead" title=" " alt="" coords="150,5,242,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,16,134,16,134,21,102,21"/>
+<area shape="rect" id="Node000003" href="$dd/d39/s__scalbn_8c.html#a90b7157fb3c5720dcaf368aa6d3b7595" title=" " alt="" coords="290,5,423,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,16,274,16,274,21,242,21"/>
+</map>

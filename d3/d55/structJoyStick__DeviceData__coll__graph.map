@@ -1,0 +1,8 @@
+<map id="JoyStick_DeviceData" name="JoyStick_DeviceData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="47,104,196,131"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="213,109,222,117,214,126,196,129,196,123,212,121,217,117,209,113"/>
+<area shape="rect" id="Node000002" href="$dd/d35/structSDL__GUID.html" title=" " alt="" coords="5,5,94,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,43,114,102,110,105,66,46"/>
+<area shape="rect" id="Node000003" href="$d2/d28/structDIDEVICEINSTANCE.html" title=" " alt="" coords="118,5,272,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,46,133,105,129,102,174,43"/>
+</map>

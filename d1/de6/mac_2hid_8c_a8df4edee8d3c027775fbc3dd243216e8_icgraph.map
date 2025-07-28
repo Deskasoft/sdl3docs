@@ -1,0 +1,19 @@
+<map id="pthread_barrier_wait" name="pthread_barrier_wait">
+<area shape="rect" id="Node000001" title=" " alt="" coords="670,144,809,171"/>
+<area shape="rect" id="Node000002" href="$d0/d23/hidapi__thread__pthread_8h.html#a3364a18abb284086f4641b3af713a71f" title=" " alt="" coords="444,68,617,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="695,140,621,109,586,98,587,93,623,104,697,135"/>
+<area shape="rect" id="Node000007" href="$d1/de6/mac_2hid_8c.html#a9593b490d488dcb8017ceabebccc77bf" title=" " alt="" coords="454,119,608,145"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="655,150,608,144,609,139,655,144"/>
+<area shape="rect" id="Node000008" href="$d1/de6/mac_2hid_8c.html#a0e569381b03120d85110c54f4cdff5b5" title=" " alt="" coords="439,169,622,196"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="655,170,623,174,622,169,655,165"/>
+<area shape="rect" id="Node000009" href="$d1/de6/mac_2hid_8c.html#a6017e697733bf1fba149c4302a72e218" title=" " alt="" coords="486,220,575,247"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="697,180,623,211,576,225,575,220,621,205,695,175"/>
+<area shape="rect" id="Node000003" href="$d6/dcf/libusb_2hid_8c.html#a0ffec47d88af6f2b51bb2d175a014c5a" title=" " alt="" coords="237,43,391,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,72,391,68,392,62,429,67"/>
+<area shape="rect" id="Node000006" href="$d6/dcf/libusb_2hid_8c.html#a6017e697733bf1fba149c4302a72e218" title=" " alt="" coords="269,93,358,120"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="429,96,359,104,359,99,429,91"/>
+<area shape="rect" id="Node000004" href="$dc/d19/group__API.html#ga79ee22c410d586c3d75f360eb8752595" title="Open a HID device using libusb_wrap_sys_device. See https://libusb.sourceforge.io/api&#45;1...." alt="" coords="26,5,168,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="221,46,168,39,169,34,222,41"/>
+<area shape="rect" id="Node000005" href="$d6/dcf/libusb_2hid_8c.html#a0e569381b03120d85110c54f4cdff5b5" title=" " alt="" coords="5,72,189,99"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="222,71,190,76,189,70,221,66"/>
+</map>

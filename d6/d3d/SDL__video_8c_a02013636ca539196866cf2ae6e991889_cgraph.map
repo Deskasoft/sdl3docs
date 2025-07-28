@@ -1,0 +1,18 @@
+<map id="SDL_SetWindowSize" name="SDL_SetWindowSize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,153,83"/>
+<area shape="rect" id="Node000002" href="$d3/d02/SDL__stdlib_8c.html#a1254f3a8fee9c352daa9bcffedd1abfc" title=" " alt="" coords="228,31,318,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,57,212,49,212,55,154,62"/>
+<area shape="rect" id="Node000007" href="$d6/d3d/SDL__video_8c.html#a9502e75835ea8d15ed28063f0d071207" title=" " alt="" coords="201,81,345,108"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="154,76,186,81,185,86,153,82"/>
+<area shape="rect" id="Node000003" href="$d3/d02/SDL__stdlib_8c.html#a6aa2d7674e36a88baf05ed1fae599bdb" title=" " alt="" coords="416,31,502,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="319,41,400,41,400,47,319,47"/>
+<area shape="rect" id="Node000004" href="$d3/d02/SDL__stdlib_8c.html#a697b0197d0b0798c81ee242f114aace8" title=" " alt="" coords="572,5,647,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="502,34,556,25,557,30,503,39"/>
+<area shape="rect" id="Node000005" href="$d3/d02/SDL__stdlib_8c.html#a8c898f41276f7bc9cbd3e89c726c2d0a" title=" " alt="" coords="695,31,774,57"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="502,41,679,41,679,47,502,47"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="647,24,680,30,679,36,646,29"/>
+<area shape="rect" id="Node000006" href="$d3/dcc/s__floor_8c.html#a70f5eb094fdaee73475597eee76f67f1" title=" " alt="" coords="822,31,942,57"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="775,41,807,41,807,47,775,47"/>
+<area shape="rect" id="Node000008" href="$d6/d3d/SDL__video_8c.html#a9841972a80aaa76befaedf533146a195" title=" " alt="" coords="393,81,524,108"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="346,92,377,92,377,97,346,97"/>
+</map>

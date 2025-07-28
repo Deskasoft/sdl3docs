@@ -1,0 +1,9 @@
+<map id="SDL_CancelClipboardData" name="SDL_CancelClipboardData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,184,57"/>
+<area shape="rect" id="Node000002" href="$d6/da1/SDL__clipboard_8c.html#ac2e048c8f15962fcec1c419d0f410249" title=" " alt="" coords="232,5,434,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,32,216,28,216,34,185,37"/>
+<area shape="rect" id="Node000004" href="$d6/d3d/SDL__video_8c.html#ad9be3fa602088aae0851f439f46c1a78" title=" " alt="" coords="258,56,408,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,51,243,57,242,62,184,56"/>
+<area shape="rect" id="Node000003" href="$d4/d23/SDL__malloc_8c.html#a883d5d0a9ce20246045f385a6b99ebf2" title=" " alt="" coords="482,5,558,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,16,466,16,466,21,435,21"/>
+</map>

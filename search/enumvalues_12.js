@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['trackpad_5fabsolute_5fdpad_0',['TRACKPAD_ABSOLUTE_DPAD',['../de/de8/controller__constants_8h.html#aac71f742b1412f8155d64f49bffd01a9afc08928739a51aa9a662bbcd1b3f5ab5',1,'controller_constants.h']]],
+  ['trackpad_5fabsolute_5fmouse_1',['TRACKPAD_ABSOLUTE_MOUSE',['../de/de8/controller__constants_8h.html#aac71f742b1412f8155d64f49bffd01a9a9764d758cf1cbf31c5a0cf652adbaf36',1,'controller_constants.h']]],
+  ['trackpad_5fdpad_5feight_5fway_2',['TRACKPAD_DPAD_EIGHT_WAY',['../de/de8/controller__constants_8h.html#aac71f742b1412f8155d64f49bffd01a9a6bb2a259c9c9410c1540bb47de533589',1,'controller_constants.h']]],
+  ['trackpad_5fdpad_5ffour_5fway_5fdiscrete_3',['TRACKPAD_DPAD_FOUR_WAY_DISCRETE',['../de/de8/controller__constants_8h.html#aac71f742b1412f8155d64f49bffd01a9a6be0e615084e4d1e4fd3625b56cc6b10',1,'controller_constants.h']]],
+  ['trackpad_5fdpad_5ffour_5fway_5foverlap_4',['TRACKPAD_DPAD_FOUR_WAY_OVERLAP',['../de/de8/controller__constants_8h.html#aac71f742b1412f8155d64f49bffd01a9a2c3864b99c41621d1882813bdf5cd559',1,'controller_constants.h']]],
+  ['trackpad_5fgesture_5fkeyboard_5',['TRACKPAD_GESTURE_KEYBOARD',['../de/de8/controller__constants_8h.html#aac71f742b1412f8155d64f49bffd01a9a53041ee0c3c33bbd4b8b5546023e809c',1,'controller_constants.h']]],
+  ['trackpad_5fnone_6',['TRACKPAD_NONE',['../de/de8/controller__constants_8h.html#aac71f742b1412f8155d64f49bffd01a9af2c445da297c0cd69ff410dea20c540e',1,'controller_constants.h']]],
+  ['trackpad_5fnum_5fmodes_7',['TRACKPAD_NUM_MODES',['../de/de8/controller__constants_8h.html#aac71f742b1412f8155d64f49bffd01a9accd39eb38fcc1f89ba861b5719d422fa',1,'controller_constants.h']]],
+  ['trackpad_5fradial_5fmode_8',['TRACKPAD_RADIAL_MODE',['../de/de8/controller__constants_8h.html#aac71f742b1412f8155d64f49bffd01a9a938c1070829911cf661bdc2f8c37450c',1,'controller_constants.h']]],
+  ['trackpad_5frelative_5fmouse_9',['TRACKPAD_RELATIVE_MOUSE',['../de/de8/controller__constants_8h.html#aac71f742b1412f8155d64f49bffd01a9ac885f94b96e007374f1efb7bb9134f1d',1,'controller_constants.h']]],
+  ['truncdropblock_10',['TruncDropBlock',['../d1/d3b/SDL__wave_8h.html#a758ef98874f9d210f3d14132088f725ca050aad7a0076a6748aabc96c308a8c04',1,'SDL_wave.h']]],
+  ['truncdropframe_11',['TruncDropFrame',['../d1/d3b/SDL__wave_8h.html#a758ef98874f9d210f3d14132088f725caeb957cfe8a1718121200c9138298f6e2',1,'SDL_wave.h']]],
+  ['truncnohint_12',['TruncNoHint',['../d1/d3b/SDL__wave_8h.html#a758ef98874f9d210f3d14132088f725ca1b8894ebe9807493b507025fdc6de0e1',1,'SDL_wave.h']]],
+  ['truncstrict_13',['TruncStrict',['../d1/d3b/SDL__wave_8h.html#a758ef98874f9d210f3d14132088f725cae0a4bbaf8eab869ada91d152aab9e29a',1,'SDL_wave.h']]],
+  ['truncverystrict_14',['TruncVeryStrict',['../d1/d3b/SDL__wave_8h.html#a758ef98874f9d210f3d14132088f725ca93ff40d16c8ca28f5386f3d35fd81c15',1,'SDL_wave.h']]],
+  ['two_5fway_5fleft_5fon_5feven_15',['TWO_WAY_LEFT_ON_EVEN',['../d1/d67/edid_8h.html#adacd321a7d4855441de8125d3ae39c7ea4f702bfc6ffd48476ddea6c67383a64d',1,'edid.h']]],
+  ['two_5fway_5fright_5fon_5feven_16',['TWO_WAY_RIGHT_ON_EVEN',['../d1/d67/edid_8h.html#adacd321a7d4855441de8125d3ae39c7ead33516f108689e28c7bfa7ea055b370a',1,'edid.h']]]
+];

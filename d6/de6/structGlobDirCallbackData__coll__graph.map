@@ -1,0 +1,9 @@
+<map id="GlobDirCallbackData" name="GlobDirCallbackData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="42,203,186,229"/>
+<area shape="rect" id="Node000002" href="$da/d8e/structSDL__PathInfo.html" title=" " alt="" coords="5,104,109,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,145,74,177,96,200,93,204,69,180,57,147"/>
+<area shape="rect" id="Node000003" href="$d4/d99/structSDL__IOStream.html" title=" " alt="" coords="132,104,243,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,145,146,180,127,204,123,200,142,177,168,142"/>
+<area shape="rect" id="Node000004" href="$d9/ddf/structSDL__IOStreamInterface.html" title=" " alt="" coords="107,5,268,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="190,48,190,104,185,104,185,48"/>
+</map>

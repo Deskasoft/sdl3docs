@@ -1,0 +1,11 @@
+<map id="generic_asyncio_destroy" name="generic_asyncio_destroy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="875,13,1040,40"/>
+<area shape="rect" id="Node000002" href="$d7/dbe/SDL__asyncio__generic_8c.html#a41faeffd8a29f7267b598152744241c0" title=" " alt="" coords="636,5,827,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="859,29,827,29,827,24,859,24"/>
+<area shape="rect" id="Node000003" href="$d7/dbe/SDL__asyncio__generic_8c.html#ac8fbedefc1ac37b54a5eca1bb4b27440" title=" " alt="" coords="398,13,588,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="621,29,589,29,589,24,621,24"/>
+<area shape="rect" id="Node000004" href="$d7/d30/SDL__asyncio_8c.html#a6e41d5e1d667caa69f53c74f2c69b777" title=" " alt="" coords="194,13,350,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="383,29,351,29,351,24,383,24"/>
+<area shape="rect" id="Node000005" href="$d7/d30/SDL__asyncio_8c.html#a50a8195e1a954b27f3bacbe37e66f8e3" title=" " alt="" coords="5,13,146,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="178,29,146,29,146,24,178,24"/>
+</map>

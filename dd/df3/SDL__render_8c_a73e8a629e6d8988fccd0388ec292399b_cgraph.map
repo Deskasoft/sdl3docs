@@ -1,0 +1,16 @@
+<map id="SDL_GetTextureColorMod" name="SDL_GetTextureColorMod">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,180,57"/>
+<area shape="rect" id="Node000002" href="$dd/df3/SDL__render_8c.html#af2aa7a18a7157f9648b7680909671294" title=" " alt="" coords="228,5,431,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,32,212,29,212,34,180,37"/>
+<area shape="rect" id="Node000003" href="$d3/d02/SDL__stdlib_8c.html#a1254f3a8fee9c352daa9bcffedd1abfc" title=" " alt="" coords="284,56,374,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,51,269,60,268,66,179,56"/>
+<area shape="rect" id="Node000004" href="$d3/d02/SDL__stdlib_8c.html#a6aa2d7674e36a88baf05ed1fae599bdb" title=" " alt="" coords="479,56,565,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="375,67,464,67,464,72,375,72"/>
+<area shape="rect" id="Node000005" href="$d3/d02/SDL__stdlib_8c.html#a697b0197d0b0798c81ee242f114aace8" title=" " alt="" coords="613,31,688,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="565,58,597,52,599,57,566,63"/>
+<area shape="rect" id="Node000006" href="$d3/d02/SDL__stdlib_8c.html#a8c898f41276f7bc9cbd3e89c726c2d0a" title=" " alt="" coords="736,56,815,83"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="566,67,720,67,720,72,566,72"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="688,49,721,56,720,61,687,54"/>
+<area shape="rect" id="Node000007" href="$d3/dcc/s__floor_8c.html#a70f5eb094fdaee73475597eee76f67f1" title=" " alt="" coords="863,56,983,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="816,67,848,67,848,72,816,72"/>
+</map>

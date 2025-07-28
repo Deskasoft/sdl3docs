@@ -1,0 +1,9 @@
+<map id="SDL_strtoll" name="SDL_strtoll">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,92,40"/>
+<area shape="rect" id="Node000002" href="$d2/d23/SDL__string_8c.html#adc02341a0ab32e7a2d916c8bd3a7311b" title=" " alt="" coords="140,13,280,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,24,124,24,124,29,92,29"/>
+<area shape="rect" id="Node000003" href="$d2/d23/SDL__string_8c.html#a7973bb641d19e0ed46f90e07e09b07ed" title=" " alt="" coords="328,5,523,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="280,24,312,24,312,29,280,29"/>
+<area shape="rect" id="Node000004" href="$d3/d02/SDL__stdlib_8c.html#a0f97bab0613d4633dfc9a13c1d8bd9f7" title=" " alt="" coords="571,13,671,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="524,24,556,24,556,29,524,29"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="82,56,151,83"/>
+<area shape="rect" id="Node000001" href="$df/d67/classCAudio.html" title=" " alt="" coords="286,5,350,32"/>
+<area shape="poly" id="edge17_Node000000_Node000001" title=" " alt="" coords="165,56,227,41,285,25,286,31,228,47,166,61"/>
+<area shape="rect" id="Node000003" href="$de/daf/classCSDLmain.html" title=" " alt="" coords="276,56,361,83"/>
+<area shape="poly" id="edge18_Node000000_Node000003" title=" " alt="" coords="166,67,275,67,275,72,166,72"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,228,32"/>
+<area shape="poly" id="edge19_Node000002_Node000001" title=" " alt="" coords="243,16,286,16,286,21,243,21"/>
+</map>

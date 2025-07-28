@@ -1,0 +1,9 @@
+<map id="MainWindow::onSendFeatureReport" name="MainWindow::onSendFeatureReport">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,198,115"/>
+<area shape="rect" id="Node000002" href="$d6/d1a/classMainWindow.html#a82c45aa4782b2f60fd49d1fc2b8768c4" title=" " alt="" coords="246,5,451,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,69,251,50,253,55,184,74"/>
+<area shape="rect" id="Node000003" href="$d6/d1a/classMainWindow.html#a4ebfa46956a6bb12515fd7e51151a100" title=" " alt="" coords="253,72,444,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,91,237,91,237,96,198,96"/>
+<area shape="rect" id="Node000004" href="$d6/d8c/SDL__memset_8c.html#aa470f523bb3aef22ee14757d45ab934f" title=" " alt="" coords="314,139,382,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,113,300,138,299,143,193,118"/>
+</map>

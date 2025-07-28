@@ -1,0 +1,13 @@
+<map id="SDL_OpenStorage" name="SDL_OpenStorage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="440,81,570,108"/>
+<area shape="rect" id="Node000002" href="$d6/df0/SDL__genericstorage_8c.html#a4c9f1a72ada6343611b7f0c76c6426dc" title=" " alt="" coords="205,5,392,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="462,77,391,47,355,35,357,30,393,41,464,72"/>
+<area shape="rect" id="Node000004" href="$d6/df0/SDL__genericstorage_8c.html#a59558918f5f17a0376a4b8eae485ac39" title=" " alt="" coords="218,56,379,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="424,87,379,82,380,77,425,82"/>
+<area shape="rect" id="Node000005" href="$d6/df0/SDL__genericstorage_8c.html#a6fb4f231925c28fb8593e3dd6aa2ebc1" title=" " alt="" coords="216,107,380,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="425,107,381,113,381,107,424,102"/>
+<area shape="rect" id="Node000006" href="$d0/da3/SDL__steamstorage_8c.html#a4d5291b8a252aacb85d3f9e7840df8e9" title=" " alt="" coords="224,157,372,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="464,118,393,148,357,159,355,154,391,143,462,113"/>
+<area shape="rect" id="Node000003" href="$d1/deb/SDL__storage_8c.html#a98e581d28b30fb54ba1f2aa356b0f8d2" title=" " alt="" coords="5,5,157,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="189,21,157,21,157,16,189,16"/>
+</map>

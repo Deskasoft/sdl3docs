@@ -1,0 +1,10 @@
+<map id="SDL_SetJoystickIDForPlayerIndex" name="SDL_SetJoystickIDForPlayerIndex">
+<area shape="rect" id="Node000001" title=" " alt="" coords="493,29,686,72"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="629,16,614,10,590,8,567,10,553,15,547,21,549,28,544,29,542,19,550,10,566,5,590,3,615,5,631,11"/>
+<area shape="rect" id="Node000002" href="$d6/df9/SDL__joystick_8c.html#a8c30092465eb1a9f7599f24f98eacd03" title=" " alt="" coords="258,12,440,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="477,42,440,38,440,32,478,36"/>
+<area shape="rect" id="Node000003" href="$d6/df9/SDL__joystick_8c.html#af777ece54e67a769f62701c36663d71a" title=" " alt="" coords="253,63,445,89"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="478,65,446,69,445,63,477,60"/>
+<area shape="rect" id="Node000004" href="$d0/d82/SDL__gamepad_8c.html#a8eb99447f0000c1455dc02b499e9e869" title=" " alt="" coords="5,63,205,89"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="237,79,205,79,205,73,237,73"/>
+</map>

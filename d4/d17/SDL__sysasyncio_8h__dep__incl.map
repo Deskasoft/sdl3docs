@@ -1,0 +1,9 @@
+<map id="SDL&#45;main/src/io/SDL_sysasyncio.h" name="SDL&#45;main/src/io/SDL_sysasyncio.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="184,5,329,48"/>
+<area shape="rect" id="Node000002" href="$d7/d30/SDL__asyncio_8c.html" title=" " alt="" coords="5,96,151,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,58,121,98,118,93,200,53"/>
+<area shape="rect" id="Node000003" href="$d7/dbe/SDL__asyncio__generic_8c.html" title=" " alt="" coords="175,96,338,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,64,259,96,254,96,254,64"/>
+<area shape="rect" id="Node000004" href="$d8/d7c/SDL__asyncio__windows__ioring_8c.html" title=" " alt="" coords="362,96,572,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="321,52,419,93,417,98,319,57"/>
+</map>

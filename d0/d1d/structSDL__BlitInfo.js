@@ -1,0 +1,27 @@
+var structSDL__BlitInfo =
+[
+    [ "a", "d0/d1d/structSDL__BlitInfo.html#a7f961be5d382e779804a8edb252a67d5", null ],
+    [ "b", "d0/d1d/structSDL__BlitInfo.html#afeaf74657dd60953f3deaa5f2f64b786", null ],
+    [ "colorkey", "d0/d1d/structSDL__BlitInfo.html#adedeab744dc6818f2ff84eaeaadb37bd", null ],
+    [ "dst", "d0/d1d/structSDL__BlitInfo.html#afce285fe99627105df242c08616a82c6", null ],
+    [ "dst_fmt", "d0/d1d/structSDL__BlitInfo.html#a505e3274f720cea5eb909a393af38f4a", null ],
+    [ "dst_h", "d0/d1d/structSDL__BlitInfo.html#ab9e1a49610341bbdfa459621979df583", null ],
+    [ "dst_pal", "d0/d1d/structSDL__BlitInfo.html#a3e471ab9641c035611a2aa659c73f8ef", null ],
+    [ "dst_pitch", "d0/d1d/structSDL__BlitInfo.html#a7ab3af5451d2e05e89b3a3ce6abbca67", null ],
+    [ "dst_skip", "d0/d1d/structSDL__BlitInfo.html#a38bdcf9abe2959d071923e6ef2ed1373", null ],
+    [ "dst_surface", "d0/d1d/structSDL__BlitInfo.html#ab6be91ddf44c26eb20a334f94b4f3995", null ],
+    [ "dst_w", "d0/d1d/structSDL__BlitInfo.html#a1a7062f5fd57b96aae12e897e12a245e", null ],
+    [ "flags", "d0/d1d/structSDL__BlitInfo.html#a6b1d88a318fa8b2010a4da0704ae4165", null ],
+    [ "g", "d0/d1d/structSDL__BlitInfo.html#af0f7dba00747bb01f1c5ef94bde7131e", null ],
+    [ "palette_map", "d0/d1d/structSDL__BlitInfo.html#a357efcb9c1aed02434be7ab19616a359", null ],
+    [ "r", "d0/d1d/structSDL__BlitInfo.html#a1131dfbda9c0e5e06063fa91d201f470", null ],
+    [ "src", "d0/d1d/structSDL__BlitInfo.html#accb8ad140e25e8bf256085bbad8b89cc", null ],
+    [ "src_fmt", "d0/d1d/structSDL__BlitInfo.html#a7b98ac733bd100866ca3a7ebf5ac54e7", null ],
+    [ "src_h", "d0/d1d/structSDL__BlitInfo.html#a189ef68bf06754943f361dda7c48060a", null ],
+    [ "src_pal", "d0/d1d/structSDL__BlitInfo.html#a7a87066126a2df7f82f194d4dce6ea42", null ],
+    [ "src_pitch", "d0/d1d/structSDL__BlitInfo.html#a6a93627bfc3e9b7944694d044a0f043f", null ],
+    [ "src_skip", "d0/d1d/structSDL__BlitInfo.html#a7eb9cdff7714e22db5b867a6f8b65b10", null ],
+    [ "src_surface", "d0/d1d/structSDL__BlitInfo.html#a575b3f640c4ce7724c33e430c350817e", null ],
+    [ "src_w", "d0/d1d/structSDL__BlitInfo.html#a4515307456021f7fab6ee02602a79e84", null ],
+    [ "table", "d0/d1d/structSDL__BlitInfo.html#a1c58f2df11b7d2cd7904adfc7a926103", null ]
+];

@@ -1,0 +1,29 @@
+<map id="SynchronousIO" name="SynchronousIO">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1657,127,1768,153"/>
+<area shape="rect" id="Node000002" href="$d7/dbe/SDL__asyncio__generic_8c.html#a31e202b5acf9126ecdc5d7558c73f993" title=" " alt="" coords="1431,101,1609,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1641,133,1609,129,1610,124,1642,128"/>
+<area shape="rect" id="Node000013" href="$d7/dbe/SDL__asyncio__generic_8c.html#a15c4ac3f25da65fc137ad742b8f3eaab" title=" " alt="" coords="784,123,935,165"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="1642,143,935,146,935,141,1641,138"/>
+<area shape="rect" id="Node000003" href="$d7/dbe/SDL__asyncio__generic_8c.html#a38a5ea4294f012d170d51e6367bafad4" title=" " alt="" coords="1189,101,1383,128"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1416,117,1384,117,1384,112,1416,112"/>
+<area shape="rect" id="Node000004" href="$d7/dbe/SDL__asyncio__generic_8c.html#a7fa9c36c1ac7b44e3558ff6f1a2baefe" title=" " alt="" coords="1007,51,1137,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1211,100,1131,81,1132,75,1212,95"/>
+<area shape="rect" id="Node000012" href="$d7/dbe/SDL__asyncio__generic_8c.html#a0a52fa374004b99b6446cd80a843b899" title=" " alt="" coords="1003,101,1141,128"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="1174,117,1142,117,1142,112,1174,112"/>
+<area shape="rect" id="Node000005" href="$d7/dbe/SDL__asyncio__generic_8c.html#a41faeffd8a29f7267b598152744241c0" title=" " alt="" coords="764,5,955,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="991,53,955,46,955,41,992,47"/>
+<area shape="rect" id="Node000009" href="$d7/dbe/SDL__asyncio__generic_8c.html#a79b7dd64efd3a70bd351a6d3a28968d2" title=" " alt="" coords="500,93,716,136"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="992,75,717,106,717,100,991,70"/>
+<area shape="rect" id="Node000006" href="$d7/dbe/SDL__asyncio__generic_8c.html#ac8fbedefc1ac37b54a5eca1bb4b27440" title=" " alt="" coords="513,13,703,40"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="749,29,704,29,704,24,749,24"/>
+<area shape="rect" id="Node000007" href="$d7/d30/SDL__asyncio_8c.html#a6e41d5e1d667caa69f53c74f2c69b777" title=" " alt="" coords="266,13,422,40"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="497,29,422,29,422,24,497,24"/>
+<area shape="rect" id="Node000008" href="$d7/d30/SDL__asyncio_8c.html#a50a8195e1a954b27f3bacbe37e66f8e3" title=" " alt="" coords="26,13,167,40"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="250,29,167,29,167,24,250,24"/>
+<area shape="rect" id="Node000010" href="$d7/dbe/SDL__asyncio__generic_8c.html#a3a4e61992b30e8853f3125c5100c7ec1" title=" " alt="" coords="236,101,452,128"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="485,117,453,117,453,112,485,112"/>
+<area shape="rect" id="Node000011" href="$d7/d30/SDL__asyncio_8c.html#aa5f7fcba04fea67973b183ac2e3b38a4" title=" " alt="" coords="5,101,188,128"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="220,117,188,117,188,112,220,112"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="988,129,935,136,935,131,987,124"/>
+<area shape="poly" id="edge13_Node000013_Node000009" title=" " alt="" coords="768,136,717,130,717,125,769,131"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="SDL_RenderLogicalBorders" name="SDL_RenderLogicalBorders">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1160,5,1342,32"/>
+<area shape="rect" id="Node000002" href="$dd/df3/SDL__render_8c.html#aae751603e2b23ed76f13305bdc535cfc" title=" " alt="" coords="902,5,1112,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1144,21,1113,21,1113,16,1144,16"/>
+<area shape="rect" id="Node000003" href="$dd/df3/SDL__render_8c.html#a0e1304d4ab1c78d549d9018cda3a85d4" title=" " alt="" coords="712,5,854,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="886,21,854,21,854,16,886,16"/>
+<area shape="rect" id="Node000004" href="$d6/d3d/SDL__video_8c.html#af9c2e408ee20cc71dbff39d4fb0f7594" title=" " alt="" coords="478,5,664,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="697,21,665,21,665,16,697,16"/>
+<area shape="rect" id="Node000005" href="$d6/d3d/SDL__video_8c.html#ae6c55eb5cc6ca81ba6faa17eab3af85b" title=" " alt="" coords="221,5,430,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="463,21,430,21,430,16,463,16"/>
+<area shape="rect" id="Node000006" href="$d6/d3d/SDL__video_8c.html#a155d3f01bb23f59e2c724973e020ebe6" title=" " alt="" coords="5,5,173,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="205,21,173,21,173,16,205,16"/>
+</map>

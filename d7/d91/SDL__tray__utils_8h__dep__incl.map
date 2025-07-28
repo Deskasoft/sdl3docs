@@ -1,0 +1,15 @@
+<map id="SDL&#45;main/src/tray/SDL_tray_utils.h" name="SDL&#45;main/src/tray/SDL_tray_utils.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="443,5,600,48"/>
+<area shape="rect" id="Node000002" href="$df/d78/SDL_8c.html" title=" " alt="" coords="5,104,148,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="428,47,161,99,129,106,127,101,160,93,427,42"/>
+<area shape="rect" id="Node000003" href="$d8/dfb/SDL__windowevents_8c.html" title=" " alt="" coords="172,96,325,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="444,56,313,98,312,93,443,51"/>
+<area shape="rect" id="Node000004" href="$d3/dfa/SDL__tray__utils_8c.html" title=" " alt="" coords="348,96,506,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="491,61,451,98,447,94,487,57"/>
+<area shape="rect" id="Node000005" href="$d2/daf/dummy_2SDL__tray_8c.html" title=" " alt="" coords="529,96,704,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="557,57,596,94,593,98,553,61"/>
+<area shape="rect" id="Node000006" href="$d4/d03/unix_2SDL__tray_8c.html" title=" " alt="" coords="728,96,884,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="603,51,740,93,738,98,602,56"/>
+<area shape="rect" id="Node000007" href="$d1/d09/windows_2SDL__tray_8c.html" title=" " alt="" coords="908,96,1090,139"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="616,42,896,93,908,96,907,101,895,99,615,47"/>
+</map>

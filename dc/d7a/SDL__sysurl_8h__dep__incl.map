@@ -1,0 +1,21 @@
+<map id="SDL&#45;main/src/misc/SDL_sysurl.h" name="SDL&#45;main/src/misc/SDL_sysurl.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="829,5,993,48"/>
+<area shape="rect" id="Node000002" href="$d5/dd8/SDL__url_8c.html" title=" " alt="" coords="5,96,169,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="814,36,530,58,356,76,182,99,169,101,169,95,181,93,355,70,529,53,814,31"/>
+<area shape="rect" id="Node000003" href="$d5/d1d/android_2SDL__sysurl_8c.html" title=" " alt="" coords="193,96,373,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="814,41,616,65,385,99,373,101,373,95,384,93,615,60,814,36"/>
+<area shape="rect" id="Node000004" href="$d7/d64/dummy_2SDL__sysurl_8c.html" title=" " alt="" coords="397,96,577,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="815,51,578,100,577,95,813,46"/>
+<area shape="rect" id="Node000005" href="$d9/d1f/emscripten_2SDL__sysurl_8c.html" title=" " alt="" coords="601,96,802,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="849,57,752,98,750,93,847,52"/>
+<area shape="rect" id="Node000006" href="$df/d4d/SDL__sysurl_8cc.html" title=" " alt="" coords="827,96,995,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="914,64,914,96,908,96,908,64"/>
+<area shape="rect" id="Node000007" href="$d6/da7/riscos_2SDL__sysurl_8c.html" title=" " alt="" coords="1020,96,1192,139"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="971,52,1061,93,1059,98,969,57"/>
+<area shape="rect" id="Node000008" href="$d1/def/unix_2SDL__sysurl_8c.html" title=" " alt="" coords="1216,96,1377,139"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1008,48,1216,95,1215,100,1007,53"/>
+<area shape="rect" id="Node000009" href="$d9/d9b/vita_2SDL__sysurl_8c.html" title=" " alt="" coords="1401,96,1560,139"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1008,37,1186,61,1390,93,1401,95,1400,101,1389,99,1186,66,1008,42"/>
+<area shape="rect" id="Node000010" href="$d2/de4/windows_2SDL__sysurl_8c.html" title=" " alt="" coords="1584,96,1772,139"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1009,33,1264,56,1571,93,1583,95,1583,100,1571,99,1263,62,1008,38"/>
+</map>

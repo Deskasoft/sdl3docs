@@ -1,0 +1,15 @@
+<map id="FcitxClientICCallMethod" name="FcitxClientICCallMethod">
+<area shape="rect" id="Node000001" title=" " alt="" coords="462,56,627,83"/>
+<area shape="rect" id="Node000002" href="$d8/d3d/SDL__fcitx_8c.html#a04cbe2fdb44828e54ad9303c6cd5fdab" title=" " alt="" coords="284,5,398,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="473,54,397,35,398,30,474,49"/>
+<area shape="rect" id="Node000005" href="$d8/d3d/SDL__fcitx_8c.html#a11ce84e93c3190504f91f263e0e0313d" title=" " alt="" coords="278,56,404,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="447,72,404,72,404,67,447,67"/>
+<area shape="rect" id="Node000006" href="$d8/d3d/SDL__fcitx_8c.html#a98f655ad64118c365784b17b6297af49" title=" " alt="" coords="268,107,414,133"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="474,90,398,109,397,103,473,84"/>
+<area shape="rect" id="Node000003" href="$d6/dca/SDL__ime_8c.html#a43c3ce1b3fb7c51d28e85239d2df465f" title=" " alt="" coords="157,56,220,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="285,40,221,61,220,56,283,35"/>
+<area shape="rect" id="Node000004" href="$d6/dca/SDL__ime_8c.html#aad8672e65d5ef336bee91410b6d6cebf" title=" " alt="" coords="5,56,109,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="141,72,109,72,109,67,141,67"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="263,72,220,72,220,67,263,67"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="283,104,220,82,221,77,285,99"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rd_write_short_item" name="rd_write_short_item">
+<area shape="rect" id="Node000001" title="Writes a short report descriptor item according USB HID spec 1.11 chapter 6.2.2.2." alt="" coords="233,13,368,40"/>
+<area shape="rect" id="Node000002" href="$df/d56/hidapi__descriptor__reconstruct_8c.html#aafccfd3152b913cf618cbdca1cb669e7" title=" " alt="" coords="5,5,185,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,29,185,29,185,24,217,24"/>
+</map>

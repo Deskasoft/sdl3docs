@@ -1,0 +1,9 @@
+<map id="PLATFORM_hid_close" name="PLATFORM_hid_close">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,160,83"/>
+<area shape="rect" id="Node000002" href="$d0/d23/hidapi__thread__pthread_8h.html#a89dd6b22b93b1ea4cebafff5f78c2535" title=" " alt="" coords="231,5,356,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,53,220,34,221,39,142,58"/>
+<area shape="rect" id="Node000003" href="$d0/d23/hidapi__thread__pthread_8h.html#a6077cf90d8ab83990b927c1850fca70e" title=" " alt="" coords="208,56,380,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,67,192,67,192,72,160,72"/>
+<area shape="rect" id="Node000004" href="$d0/d23/hidapi__thread__pthread_8h.html#a9196c6c63280c1d8f6a7b53a9a27618a" title=" " alt="" coords="223,107,364,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="134,81,209,102,207,107,133,86"/>
+</map>

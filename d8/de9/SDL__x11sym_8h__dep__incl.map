@@ -1,0 +1,12 @@
+<map id="SDL&#45;main/src/video/x11/SDL_x11sym.h" name="SDL&#45;main/src/video/x11/SDL_x11sym.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="8,5,147,48"/>
+<area shape="rect" id="Node000002" href="$d2/de3/SDL__x11dyn_8h.html" title=" " alt="" coords="9,96,146,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,64,80,96,75,96,75,64"/>
+<area shape="rect" id="Node000003" href="$d9/d89/SDL__x11video_8h.html" title=" " alt="" coords="5,187,150,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,154,80,186,75,186,75,154"/>
+<area shape="rect" id="Node000004" href="$dc/dd9/SDL__x11pen_8c.html" title=" " alt="" coords="9,368,146,411"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="64,244,53,278,51,299,53,319,70,367,65,369,48,321,46,299,48,277,59,243"/>
+<area shape="rect" id="Node000005" href="$de/d80/SDL__x11pen_8h.html" title=" " alt="" coords="63,277,199,320"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="100,241,121,276,116,278,95,244"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="113,335,92,369,88,366,108,332"/>
+</map>

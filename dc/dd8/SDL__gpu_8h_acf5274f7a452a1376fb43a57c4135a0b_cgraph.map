@@ -1,0 +1,9 @@
+<map id="SDL_CreateGPUGraphicsPipeline" name="SDL_CreateGPUGraphicsPipeline">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,226,83"/>
+<area shape="rect" id="Node000002" href="$d2/daa/SDL__sysgpu_8h.html#a59969ab66ec26edf7fad00054bb714df" title=" " alt="" coords="324,5,443,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,53,308,30,309,35,190,58"/>
+<area shape="rect" id="Node000003" href="$d2/daa/SDL__sysgpu_8h.html#afa08d56cb89a48f3ac6321c4cc5296b3" title=" " alt="" coords="329,56,438,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,67,314,67,314,72,226,72"/>
+<area shape="rect" id="Node000004" href="$de/dc9/SDL__gpu_8c.html#a230594cb8d937fa47911afd4d891bda5" title=" " alt="" coords="274,107,493,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="190,81,295,101,294,106,189,86"/>
+</map>

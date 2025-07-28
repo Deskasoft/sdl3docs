@@ -1,0 +1,8 @@
+<map id="DestroySDLMenu" name="DestroySDLMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="214,31,339,57"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="309,18,298,12,276,9,256,11,246,16,243,21,248,29,244,32,238,22,242,12,255,6,276,4,299,7,311,13"/>
+<area shape="rect" id="Node000002" href="$d4/d03/unix_2SDL__tray_8c.html#abaf074894e07db3897a43bd81c63dad7" title=" " alt="" coords="22,5,149,32"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="198,36,149,30,150,24,199,31"/>
+<area shape="rect" id="Node000003" href="$d4/d03/unix_2SDL__tray_8c.html#ae3900e1e0d85325ca4fc535440f0d675" title=" " alt="" coords="5,56,166,83"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="199,57,166,61,166,56,198,52"/>
+</map>

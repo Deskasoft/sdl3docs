@@ -1,0 +1,9 @@
+<map id="SDL_ResumeHaptic" name="SDL_ResumeHaptic">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,147,83"/>
+<area shape="rect" id="Node000002" href="$d5/dcd/SDL__hidapihaptic_8h.html#a24817549ef2350a9ba01eafd76d2d74b" title=" " alt="" coords="195,5,388,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,53,217,34,218,39,137,58"/>
+<area shape="rect" id="Node000003" href="$d5/dcd/SDL__hidapihaptic_8h.html#a41e5112a0471366c9d0cbf749d770324" title=" " alt="" coords="195,56,389,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,67,179,67,179,72,147,72"/>
+<area shape="rect" id="Node000004" href="$d3/d5a/SDL__syshaptic_8h.html#a63a4aa0b086a089e31eecef46f66ac95" title=" " alt="" coords="204,107,380,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="137,81,218,100,217,105,136,86"/>
+</map>

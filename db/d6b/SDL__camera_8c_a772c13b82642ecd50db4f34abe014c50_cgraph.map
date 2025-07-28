@@ -1,0 +1,11 @@
+<map id="ChooseBestCameraSpec" name="ChooseBestCameraSpec">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,175,57"/>
+<area shape="rect" id="Node000002" href="$d3/d02/SDL__stdlib_8c.html#a1bfac1d9107e571f57ab6625dcacbdd5" title=" " alt="" coords="227,5,302,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,29,211,24,212,29,176,34"/>
+<area shape="rect" id="Node000003" href="$d3/d02/SDL__stdlib_8c.html#abf7b7019d7427e1f535ca9c911c2172a" title=" " alt="" coords="223,56,306,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,54,208,58,207,64,175,59"/>
+<area shape="rect" id="Node000004" href="$d3/d02/SDL__stdlib_8c.html#a827ffb37b67dd4b746a8a1b3d6c4caf1" title=" " alt="" coords="354,56,433,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="306,67,338,67,338,72,306,72"/>
+<area shape="rect" id="Node000005" href="$dc/d49/s__fabs_8c.html#ab3ba83fc0468bd245bd1bb6518823b79" title=" " alt="" coords="481,56,602,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="434,67,466,67,466,72,434,72"/>
+</map>

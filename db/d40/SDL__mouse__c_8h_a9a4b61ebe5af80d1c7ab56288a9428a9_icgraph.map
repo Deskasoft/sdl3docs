@@ -1,0 +1,11 @@
+<map id="SDL_SendMouseWheel" name="SDL_SendMouseWheel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="517,43,677,69"/>
+<area shape="rect" id="Node000002" href="$df/d50/classSDL__BLooper.html#a9fad3593d742f332b361e09992753051" title=" " alt="" coords="272,5,469,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="502,46,469,42,470,37,502,41"/>
+<area shape="rect" id="Node000004" href="$d0/d59/SDL__wscons__mouse_8c.html#a4f8889eff0acd332bc81e4393b79d135" title=" " alt="" coords="321,72,420,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="502,71,420,82,420,76,501,66"/>
+<area shape="rect" id="Node000003" href="$df/d50/classSDL__BLooper.html#a5af46ad176704d2ad29595213710d8af" title=" " alt="" coords="5,13,224,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="256,29,224,29,224,24,256,24"/>
+<area shape="rect" id="Node000005" href="$d7/da0/SDL__wscons__kbd_8c.html#a8c541b9db4e4dab29285b65e025d386c" title=" " alt="" coords="16,72,213,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="305,88,214,88,214,83,305,83"/>
+</map>

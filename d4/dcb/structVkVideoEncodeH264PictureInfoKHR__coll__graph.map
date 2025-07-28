@@ -1,0 +1,25 @@
+<map id="VkVideoEncodeH264PictureInfoKHR" name="VkVideoEncodeH264PictureInfoKHR">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1458,116,1644,159"/>
+<area shape="rect" id="Node000002" href="$d4/dc3/structVkVideoEncodeH264NaluSliceInfoKHR.html" title=" " alt="" coords="1091,77,1292,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1308,108,1457,125,1457,130,1307,114"/>
+<area shape="rect" id="Node000003" href="$d6/d99/structStdVideoEncodeH264SliceHeader.html" title=" " alt="" coords="711,80,931,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="947,92,1091,95,1091,100,947,98"/>
+<area shape="rect" id="Node000004" href="$d2/dc1/structStdVideoEncodeH264SliceHeaderFlags.html" title=" " alt="" coords="279,5,499,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="515,37,687,61,763,77,762,82,687,67,514,42"/>
+<area shape="rect" id="Node000005" href="$d8/d35/structStdVideoEncodeH264WeightTable.html" title=" " alt="" coords="294,72,484,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="499,91,711,91,711,96,499,96"/>
+<area shape="rect" id="Node000006" href="$d6/df1/structStdVideoEncodeH264WeightTableFlags.html" title=" " alt="" coords="5,72,195,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="210,91,294,91,294,96,210,96"/>
+<area shape="rect" id="Node000007" href="$da/d6d/structStdVideoEncodeH264PictureInfo.html" title=" " alt="" coords="1085,152,1298,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1313,165,1433,159,1457,155,1458,161,1434,164,1313,170"/>
+<area shape="rect" id="Node000008" href="$d3/de9/structStdVideoEncodeH264PictureInfoFlags.html" title=" " alt="" coords="726,144,916,187"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="931,163,1085,163,1085,168,931,168"/>
+<area shape="rect" id="Node000009" href="$dd/dfb/structStdVideoEncodeH264ReferenceListsInfo.html" title=" " alt="" coords="716,212,926,255"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="941,213,1061,192,1132,177,1133,182,1062,197,942,218"/>
+<area shape="rect" id="Node000010" href="$d0/d3c/structStdVideoEncodeH264ReferenceListsInfoFlags.html" title=" " alt="" coords="284,139,494,181"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="509,162,597,170,688,187,712,196,750,209,748,214,710,201,686,192,597,176,509,167"/>
+<area shape="rect" id="Node000011" href="$de/dfd/structStdVideoEncodeH264RefListModEntry.html" title=" " alt="" coords="293,215,484,257"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="500,233,687,232,716,232,716,237,687,237,500,238"/>
+<area shape="rect" id="Node000012" href="$d5/d3c/structStdVideoEncodeH264RefPicMarkingEntry.html" title=" " alt="" coords="294,281,484,324"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="499,289,687,263,734,253,735,258,687,268,500,295"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="VkAccelerationStructureTrianglesDisplacementMicromapNV" name="VkAccelerationStructureTrianglesDisplacementMicromapNV">
+<area shape="rect" id="Node000001" title=" " alt="" coords="123,211,338,253"/>
+<area shape="rect" id="Node000002" href="$d9/d13/unionVkDeviceOrHostAddressConstKHR.html" title=" " alt="" coords="5,5,238,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,48,118,78,119,114,127,152,143,185,155,198,170,208,167,212,152,202,139,188,122,153,114,115,113,78,115,47"/>
+<area shape="rect" id="Node000003" href="$dd/df6/structVkMicromapUsageEXT.html" title=" " alt="" coords="262,5,421,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="346,47,346,78,342,115,332,153,314,188,302,202,287,212,284,208,298,198,310,185,327,151,337,114,341,78,341,47"/>
+</map>

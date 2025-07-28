@@ -1,0 +1,9 @@
+<map id="VkMultiviewPerViewRenderAreasRenderPassBeginInfoQCOM" name="VkMultiviewPerViewRenderAreasRenderPassBeginInfoQCOM">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,229,245"/>
+<area shape="rect" id="Node000002" href="$d7/d2d/structVkRect2D.html" title=" " alt="" coords="76,104,158,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,146,120,202,114,202,114,146"/>
+<area shape="rect" id="Node000003" href="$d6/d3e/structVkOffset2D.html" title=" " alt="" coords="15,5,104,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,44,112,102,107,105,73,47"/>
+<area shape="rect" id="Node000004" href="$d1/d79/structVkExtent2D.html" title=" " alt="" coords="128,5,220,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="163,47,143,81,128,105,123,102,139,79,158,44"/>
+</map>

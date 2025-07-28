@@ -1,0 +1,26 @@
+<map id="SDL_CameraDriver" name="SDL_CameraDriver">
+<area shape="rect" id="Node000001" title=" " alt="" coords="413,365,548,392"/>
+<area shape="rect" id="Node000002" href="$dc/dae/structSDL__CameraDriverImpl.html" title=" " alt="" coords="83,245,243,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,283,208,313,242,339,272,349,315,358,413,369,412,375,315,363,271,354,239,344,204,317,178,286"/>
+<area shape="rect" id="Node000003" href="$db/ddc/structSDL__RWLock.html" title=" " alt="" coords="303,125,407,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="335,166,319,189,305,216,299,244,300,258,306,271,332,303,365,329,402,349,437,362,435,367,400,353,363,334,328,307,301,273,295,259,294,244,300,214,314,186,331,162"/>
+<area shape="rect" id="Node000008" href="$da/d27/structSDL__HashTable.html" title=" " alt="" coords="428,245,544,272"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="382,161,474,243,470,247,379,165"/>
+<area shape="rect" id="Node000004" href="$d0/df2/structSDL__Mutex.html" title=" " alt="" coords="30,5,120,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="125,37,149,54,158,67,162,79,165,89,174,99,196,109,228,117,303,129,302,135,227,123,194,114,171,103,161,92,157,80,153,69,145,58,122,41"/>
+<area shape="rect" id="Node000005" href="$d8/d0b/structSDL__Semaphore.html" title=" " alt="" coords="15,125,135,152"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="78,48,78,125,73,125,73,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="25,119,11,103,3,79,11,55,23,40,38,30,41,35,26,44,15,57,8,79,15,100,29,115"/>
+<area shape="rect" id="Node000006" href="$d0/d07/structSDL__Condition.html" title=" " alt="" coords="234,5,343,32"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="324,40,336,55,351,91,357,124,352,125,346,93,332,57,319,44"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="254,43,238,58,230,69,226,81,222,92,212,103,175,123,136,134,135,129,173,118,208,99,217,89,221,79,225,67,234,54,251,39"/>
+<area shape="rect" id="Node000007" href="$d1/dbc/structSDL__AtomicInt.html" title=" " alt="" coords="471,5,581,32"/>
+<area shape="poly" id="edge14_Node000001_Node000007" title=" " alt="" coords="557,42,566,55,596,134,606,169,611,203,609,236,602,269,588,305,565,343,552,357,535,367,533,362,549,353,561,340,583,302,597,268,604,235,605,203,601,170,591,136,561,57,553,45"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="500,44,418,104,379,127,376,123,415,99,497,39"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="485,288,485,296,483,365,478,365,480,296,480,288"/>
+<area shape="rect" id="Node000009" href="$d7/dae/structSDL__HashItem.html" title=" " alt="" coords="432,125,543,152"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="490,168,489,245,483,245,484,168"/>
+<area shape="rect" id="Node000010" href="$dc/de1/structSDL__PendingCameraEvent.html" title=" " alt="" coords="619,245,801,272"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="687,284,649,315,602,344,538,367,536,362,599,339,646,310,684,280"/>
+<area shape="poly" id="edge13_Node000010_Node000010" title=" " alt="" coords="818,249,827,259,819,268,802,272,801,266,817,263,822,259,814,253"/>
+</map>

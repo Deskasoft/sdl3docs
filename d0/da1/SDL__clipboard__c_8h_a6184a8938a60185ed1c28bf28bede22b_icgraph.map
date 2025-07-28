@@ -1,0 +1,15 @@
+<map id="SDL_CopyClipboardMimeTypes" name="SDL_CopyClipboardMimeTypes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="670,56,878,83"/>
+<area shape="rect" id="Node000002" href="$d6/da1/SDL__clipboard_8c.html#a785a85b3c40c61803bc9d27e5b8cf3df" title=" " alt="" coords="424,5,622,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="689,55,592,35,593,30,690,50"/>
+<area shape="rect" id="Node000003" href="$d6/da1/SDL__clipboard_8c.html#ad3f0bf69fa68149ecc80f81b1b344268" title=" " alt="" coords="444,56,602,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="655,72,602,72,602,67,655,67"/>
+<area shape="rect" id="Node000006" href="$d6/da1/SDL__clipboard_8c.html#a829ed0cebbc7240f77264254b790d349" title=" " alt="" coords="424,107,622,133"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="690,89,593,109,592,103,689,84"/>
+<area shape="rect" id="Node000004" href="$d6/da1/SDL__clipboard_8c.html#a9aa3cee0f84da11fa491ad40ba57a5c0" title=" " alt="" coords="208,56,376,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="429,81,376,81,376,75,429,76"/>
+<area shape="rect" id="Node000005" href="$d6/da1/SDL__clipboard_8c.html#ab4ab3c8cbbd94aef84dd792c7518de2f" title=" " alt="" coords="5,81,160,108"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="441,89,376,97,263,102,160,101,160,96,263,97,376,92,440,83"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="392,58,444,58,444,63,392,63"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="192,84,161,88,160,83,192,79"/>
+</map>

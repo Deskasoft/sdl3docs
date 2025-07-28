@@ -1,0 +1,22 @@
+<map id="SDL&#45;main/include/SDL3/SDL_atomic.h" name="SDL&#45;main/include/SDL3/SDL_atomic.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="442,5,604,48"/>
+<area shape="rect" id="Node000002" href="$d2/d5b/SDL__stdinc_8h.html" title=" " alt="" coords="401,96,538,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="512,50,489,84,484,81,507,47"/>
+<area shape="rect" id="Node000003" href="$d3/d8b/SDL__platform__defines_8h.html" title=" " alt="" coords="5,171,204,197"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="468,51,153,167,152,162,467,46"/>
+<area shape="rect" id="Node000008" href="$d8/d5f/SDL__begin__code_8h.html" title=" " alt="" coords="588,171,757,197"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="545,46,652,157,648,161,541,50"/>
+<area shape="rect" id="Node000009" href="$d9/d73/SDL__close__code_8h.html" title=" " alt="" coords="780,171,949,197"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="570,46,824,161,822,166,567,51"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="406,126,184,170,183,164,405,121"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="496,171,564,197"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="482,122,512,157,508,161,478,125"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="228,171,293,197"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="434,126,308,169,307,164,433,121"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="316,171,381,197"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="450,126,384,165,381,160,447,121"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="404,171,472,197"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="467,124,452,158,447,155,462,122"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="506,121,624,162,622,167,504,126"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="540,121,781,165,780,170,539,126"/>
+</map>

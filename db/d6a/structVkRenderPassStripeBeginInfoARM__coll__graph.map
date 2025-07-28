@@ -1,0 +1,11 @@
+<map id="VkRenderPassStripeBeginInfoARM" name="VkRenderPassStripeBeginInfoARM">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,301,234,328"/>
+<area shape="rect" id="Node000002" href="$d0/dd2/structVkRenderPassStripeInfoARM.html" title=" " alt="" coords="22,203,217,229"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,245,122,301,117,301,117,245"/>
+<area shape="rect" id="Node000003" href="$d7/d2d/structVkRect2D.html" title=" " alt="" coords="78,104,161,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,146,122,202,117,202,117,146"/>
+<area shape="rect" id="Node000004" href="$d6/d3e/structVkOffset2D.html" title=" " alt="" coords="18,5,107,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="80,44,114,102,110,105,75,47"/>
+<area shape="rect" id="Node000005" href="$d1/d79/structVkExtent2D.html" title=" " alt="" coords="131,5,223,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="165,47,146,81,130,105,126,102,141,79,161,44"/>
+</map>

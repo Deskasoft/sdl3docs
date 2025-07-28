@@ -1,0 +1,11 @@
+<map id="SDL&#45;main/src/hidapi/windows/hidapi_winapi.h" name="SDL&#45;main/src/hidapi/windows/hidapi_winapi.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="46,5,216,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,70,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,51,65,88,62,84,105,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="94,96,168,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,49,134,80,128,80,128,49"/>
+<area shape="rect" id="Node000004" href="$dc/dd0/hidapi_8h.html" title=" " alt="" coords="193,96,309,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="163,46,221,85,218,89,160,51"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="217,171,284,197"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="254,123,254,155,248,155,248,123"/>
+</map>

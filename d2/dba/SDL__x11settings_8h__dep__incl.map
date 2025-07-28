@@ -1,0 +1,10 @@
+<map id="SDL&#45;main/src/video/x11/SDL_x11settings.h" name="SDL&#45;main/src/video/x11/SDL_x11settings.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,165,48"/>
+<area shape="rect" id="Node000002" href="$d9/d89/SDL__x11video_8h.html" title=" " alt="" coords="13,96,157,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,64,88,96,82,96,82,64"/>
+<area shape="rect" id="Node000003" href="$dc/dd9/SDL__x11pen_8c.html" title=" " alt="" coords="17,277,153,320"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="71,154,61,187,58,208,61,229,77,276,72,278,56,230,53,208,56,186,66,152"/>
+<area shape="rect" id="Node000004" href="$de/d80/SDL__x11pen_8h.html" title=" " alt="" coords="70,187,206,229"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="107,151,128,185,124,188,103,153"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="120,244,100,278,95,276,116,241"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ITfUIElementMgrVtbl" name="ITfUIElementMgrVtbl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,150,229"/>
+<area shape="rect" id="Node000002" href="$db/dca/structITfUIElement.html" title=" " alt="" coords="28,104,127,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,146,80,202,75,202,75,146"/>
+<area shape="rect" id="Node000003" href="$d8/d05/structITfUIElementVtbl.html" title=" " alt="" coords="16,5,139,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,48,80,104,75,104,75,48"/>
+</map>

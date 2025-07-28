@@ -1,0 +1,9 @@
+<map id="VkCopyMemoryToImageIndirectCommandNV" name="VkCopyMemoryToImageIndirectCommandNV">
+<area shape="rect" id="Node000001" title=" " alt="" coords="155,104,364,147"/>
+<area shape="rect" id="Node000002" href="$d6/db6/structVkImageSubresourceLayers.html" title=" " alt="" coords="5,5,191,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,44,124,62,140,78,181,101,178,106,136,82,120,65,108,47"/>
+<area shape="rect" id="Node000003" href="$d7/d88/structVkOffset3D.html" title=" " alt="" coords="215,5,304,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,47,262,103,257,103,257,47"/>
+<area shape="rect" id="Node000004" href="$d0/d02/structVkExtent3D.html" title=" " alt="" coords="328,5,420,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="367,48,358,65,345,82,312,106,309,101,341,78,353,63,362,45"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,5,178,32"/>
+<area shape="rect" id="Node000001" href="$d4/d3f/interfaceMyAppDelegate.html" title=" " alt="" coords="263,5,377,32"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="193,16,262,16,262,21,193,21"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="52,157,131,184"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="118,145,176,93,198,65,208,54,224,42,261,26,264,31,227,46,212,58,202,69,180,96,122,149"/>
+<area shape="rect" id="Node000003" href="$d5/d13/interfaceSDLUIKitDelegate.html" title=" " alt="" coords="255,56,384,83"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="124,146,171,119,225,92,258,81,260,86,227,97,173,123,127,151"/>
+<area shape="rect" id="Node000005" href="$d5/de7/interfaceSDL__CocoaVideoData.html" title=" " alt="" coords="243,157,396,184"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="146,168,243,168,243,173,146,173"/>
+<area shape="rect" id="Node000006" href="$d5/dc1/interfaceSDL__CocoaWindowData.html" title=" " alt="" coords="236,208,404,235"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="147,180,257,205,256,210,145,185"/>
+<area shape="rect" id="Node000007" href="$df/d45/interfaceSDL__UIKitDisplayData.html" title=" " alt="" coords="242,259,398,285"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="127,190,173,218,227,244,260,256,258,261,225,249,171,223,124,195"/>
+<area shape="rect" id="Node000008" href="$df/de1/interfaceSDL__UIKitDisplayModeData.html" title=" " alt="" coords="226,309,414,336"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="115,194,163,246,193,272,227,295,253,306,250,311,224,300,190,277,159,250,111,198"/>
+<area shape="rect" id="Node000009" href="$d3/dae/interfaceSDL__UIKitWindowData.html" title=" " alt="" coords="240,107,400,133"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="145,156,256,131,257,137,147,161"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="8,56,175,83"/>
+<area shape="poly" id="edge9_Node000004_Node000003" title=" " alt="" coords="191,67,255,67,255,72,191,72"/>
+</map>

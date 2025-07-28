@@ -1,0 +1,13 @@
+<map id="SDL_MainCallbackEventWatcher" name="SDL_MainCallbackEventWatcher">
+<area shape="rect" id="Node000001" title=" " alt="" coords="690,31,906,57"/>
+<area shape="rect" id="Node000002" href="$d9/d78/SDL__main__callbacks_8c.html#a3d21b5bf7aa441418de48c5b2856336a" title=" " alt="" coords="260,5,418,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="675,40,418,26,419,20,675,35"/>
+<area shape="rect" id="Node000004" href="$d9/d78/SDL__main__callbacks_8c.html#a2e8bd250bb597fdf72c9da9d001181e7" title=" " alt="" coords="478,56,642,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="675,60,643,63,643,58,674,55"/>
+<area shape="rect" id="Node000003" href="$dd/db5/generic_2SDL__sysmain__callbacks_8c.html#aa50e1897a91f2547b5f31125020220e2" title=" " alt="" coords="5,56,200,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="259,38,169,58,168,53,257,33"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="462,72,200,72,200,67,462,67"/>
+<area shape="rect" id="Node000005" href="$d0/d72/emscripten_2SDL__sysmain__callbacks_8c.html#ad2e127e4f44ae815197361e79da5bf88" title=" " alt="" coords="248,107,430,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="484,89,401,109,400,103,483,84"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="257,105,168,86,169,81,259,100"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="SDL_MainThreadCallbackEntry" name="SDL_MainThreadCallbackEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,210,229"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="227,208,236,216,228,224,210,227,210,222,226,219,231,216,224,212"/>
+<area shape="rect" id="Node000002" href="$d1/dbc/structSDL__AtomicInt.html" title=" " alt="" coords="50,104,160,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,146,110,202,104,202,103,147"/>
+<area shape="rect" id="Node000003" href="$d8/d0b/structSDL__Semaphore.html" title=" " alt="" coords="215,104,336,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,139,190,157,153,181,123,205,120,200,150,177,188,152,224,135"/>
+<area shape="rect" id="Node000004" href="$d0/df2/structSDL__Mutex.html" title=" " alt="" coords="292,203,382,229"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="270,146,270,162,274,177,285,190,300,200,297,204,282,194,270,180,264,163,265,146"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="325,189,308,156,288,133,292,129,312,153,330,187"/>
+<area shape="rect" id="Node000005" href="$d0/d07/structSDL__Condition.html" title=" " alt="" coords="221,5,330,32"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="278,48,278,104,273,104,273,48"/>
+</map>

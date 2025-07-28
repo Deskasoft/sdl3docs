@@ -1,0 +1,33 @@
+<map id="mem_io" name="mem_io">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1214,95,1282,121"/>
+<area shape="rect" id="Node000002" href="$d3/d3d/SDL__iostream_8c.html#a0201b3cf80432a7b4f8ff86f9173da2c" title=" " alt="" coords="1026,19,1165,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1214,88,1165,60,1138,48,1140,43,1168,55,1217,84"/>
+<area shape="rect" id="Node000007" href="$d3/d3d/SDL__iostream_8c.html#a3db9c66f1c8e513d3288c501532e3022" title=" " alt="" coords="1025,69,1166,96"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1198,103,1166,97,1167,92,1199,97"/>
+<area shape="rect" id="Node000008" href="$d3/d3d/SDL__iostream_8c.html#a50c428299ce3752a8f5e7b3e2e46eb6e" title=" " alt="" coords="1054,120,1137,147"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1200,119,1138,129,1137,124,1199,113"/>
+<area shape="rect" id="Node000015" href="$d3/d3d/SDL__iostream_8c.html#aace63f1b273563329d43ca3861ad7561" title=" " alt="" coords="1053,171,1138,197"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="1217,132,1168,161,1140,173,1138,168,1165,156,1214,128"/>
+<area shape="rect" id="Node000003" href="$d3/d3d/SDL__iostream_8c.html#aa1a9300a7bdb16613f9eebef43a8d622" title=" " alt="" coords="798,44,977,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1011,45,978,49,977,44,1011,40"/>
+<area shape="rect" id="Node000004" href="$d4/db9/SDL__filesystem_8c.html#a8827e4b44e92aea5f7bc09f81e69138f" title=" " alt="" coords="572,44,750,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="782,60,750,60,750,55,782,55"/>
+<area shape="rect" id="Node000005" href="$d4/db9/SDL__filesystem_8c.html#a0d455f8ab2f61032712ea43081093ae7" title=" " alt="" coords="368,5,502,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="564,43,502,33,503,27,564,38"/>
+<area shape="rect" id="Node000006" href="$d1/deb/SDL__storage_8c.html#a119d70dc377e31f7bf1c434a7676e349" title=" " alt="" coords="345,56,524,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="557,66,525,67,525,62,557,60"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="1009,75,977,71,978,66,1010,70"/>
+<area shape="rect" id="Node000009" href="$d3/d3d/SDL__iostream_8c.html#a07c83de52e4b48b641df9fd8c64c695d" title=" " alt="" coords="806,120,968,147"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1039,136,969,136,969,131,1039,131"/>
+<area shape="rect" id="Node000014" href="$d3/d3d/SDL__iostream_8c.html#ae2474c997d96ebed26a9ebff093f92c6" title=" " alt="" coords="824,171,951,197"/>
+<area shape="poly" id="edge14_Node000008_Node000014" title=" " alt="" coords="1040,149,946,173,945,167,1039,144"/>
+<area shape="rect" id="Node000010" href="$d4/dac/SDL__wave_8c.html#a555c3fb0af314226bd9ef39a61aacfe1" title=" " alt="" coords="598,120,724,147"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="791,136,725,136,725,131,791,131"/>
+<area shape="rect" id="Node000011" href="$d4/dac/SDL__wave_8c.html#a74a2f92d8c663adf2d70ed3fc458c1b5" title=" " alt="" coords="394,120,476,147"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="582,136,476,136,476,131,582,131"/>
+<area shape="rect" id="Node000012" href="$d4/dac/SDL__wave_8c.html#afeaef077e6cb8f35303b234139713b6d" title=" " alt="" coords="165,120,297,147"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="378,136,298,136,298,131,378,131"/>
+<area shape="rect" id="Node000013" href="$d4/dac/SDL__wave_8c.html#a8f44fee5faff8eeca26f48be1e66141f" title=" " alt="" coords="5,120,117,147"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="149,136,117,136,117,131,149,131"/>
+<area shape="poly" id="edge16_Node000015_Node000014" title=" " alt="" coords="1038,187,951,187,951,181,1038,181"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="SDL_BlitSurfaceUncheckedScaled" name="SDL_BlitSurfaceUncheckedScaled">
+<area shape="rect" id="Node000001" title=" " alt="" coords="628,101,813,144"/>
+<area shape="poly" id="edge9_Node000001_Node000001" title=" " alt="" coords="757,88,743,82,720,80,699,82,686,87,681,93,683,100,677,101,676,91,683,82,698,77,721,75,745,77,759,83"/>
+<area shape="rect" id="Node000002" href="$d4/d8e/SDL__surface_8c.html#ad03c3bf7986461a0cdc686217bd73682" title=" " alt="" coords="414,80,573,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="613,111,573,106,574,101,613,106"/>
+<area shape="rect" id="Node000007" href="$d4/d8e/SDL__surface_8c.html#ac272f372110e77bff24f3bf5aba3e467" title=" " alt="" coords="407,131,580,173"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="613,139,581,143,580,138,612,134"/>
+<area shape="rect" id="Node000003" href="$d4/d8e/SDL__surface_8c.html#a5158f541548d706c129d2fb600a1036f" title=" " alt="" coords="210,5,359,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="440,77,358,47,326,35,327,30,360,41,442,72"/>
+<area shape="rect" id="Node000004" href="$d4/d8e/SDL__surface_8c.html#af5aa021ea1c9fde2c52baa1363327d87" title=" " alt="" coords="219,80,350,107"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="399,96,350,96,350,91,399,91"/>
+<area shape="rect" id="Node000005" href="$d4/d8e/SDL__surface_8c.html#aa16878687639cda1ecd63fbf62d1c6bf" title=" " alt="" coords="218,155,350,181"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="429,114,408,121,318,157,316,152,406,116,427,109"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="319,67,307,61,284,59,263,61,252,65,249,71,255,78,250,81,244,71,248,62,262,55,284,53,308,56,321,62"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="319,142,307,136,284,133,263,135,252,140,249,145,255,153,250,156,244,146,248,136,262,130,284,128,308,131,321,137"/>
+<area shape="rect" id="Node000006" href="$d4/d8e/SDL__surface_8c.html#acb7a1f4494f58df920f4739ee788ff49" title=" " alt="" coords="5,155,162,181"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="202,171,162,171,162,165,202,165"/>
+</map>

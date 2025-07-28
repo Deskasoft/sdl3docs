@@ -1,0 +1,12 @@
+<map id="SDL&#45;main/src/video/uikit/SDL_uikitvideo.h" name="SDL&#45;main/src/video/uikit/SDL_uikitvideo.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="127,5,279,48"/>
+<area shape="rect" id="Node000002" href="$d6/d9e/SDL__uikitmodes_8h.html" title=" " alt="" coords="5,96,166,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,60,115,98,111,93,162,55"/>
+<area shape="rect" id="Node000003" href="$d5/d29/SDL__uikitpen_8h.html" title=" " alt="" coords="132,187,274,229"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,63,206,186,200,186,200,63"/>
+<area shape="rect" id="Node000004" href="$d5/d6b/SDL__uikitwindow_8h.html" title=" " alt="" coords="241,96,405,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="244,55,296,93,293,98,241,59"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="285,150,233,188,229,184,282,146"/>
+<area shape="rect" id="Node000005" href="$df/ddd/SDL__uikitmetalview_8h.html" title=" " alt="" coords="298,187,478,229"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="349,150,375,185,371,188,345,153"/>
+</map>

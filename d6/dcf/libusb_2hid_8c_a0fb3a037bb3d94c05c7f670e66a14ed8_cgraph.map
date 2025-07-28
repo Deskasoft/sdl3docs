@@ -1,0 +1,11 @@
+<map id="PLATFORM_hid_get_device_info" name="PLATFORM_hid_get_device_info">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,220,61"/>
+<area shape="rect" id="Node000002" href="$d6/dcf/libusb_2hid_8c.html#a9b47478bcf503e894cb1d8b7575b9e0f" title=" " alt="" coords="268,35,417,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,45,252,45,252,51,220,51"/>
+<area shape="rect" id="Node000003" href="$d6/dcf/libusb_2hid_8c.html#a4fea8148230006c585be1b2832d07c9f" title=" " alt="" coords="508,5,589,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="417,35,493,24,493,29,418,40"/>
+<area shape="rect" id="Node000005" href="$d6/dcf/libusb_2hid_8c.html#aa2176cc545541020f2f55200cffad1f9" title=" " alt="" coords="465,56,632,99"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="418,56,450,61,449,66,417,61"/>
+<area shape="rect" id="Node000004" href="$d6/dcf/libusb_2hid_8c.html#aa1e8ea740e3f485b05b6004697b0c4f9" title=" " alt="" coords="680,5,759,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="590,16,665,16,665,21,590,21"/>
+</map>

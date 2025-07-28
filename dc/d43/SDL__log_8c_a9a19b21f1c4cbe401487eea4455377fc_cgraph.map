@@ -1,0 +1,17 @@
+<map id="ParseLogCategory" name="ParseLogCategory">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,64,135,91"/>
+<area shape="rect" id="Node000002" href="$d2/d23/SDL__string_8c.html#aeb781495f4470bec33217910d5353ac8" title=" " alt="" coords="210,13,285,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,61,194,39,195,44,120,66"/>
+<area shape="rect" id="Node000007" href="$d3/d02/SDL__stdlib_8c.html#a527e6563dbef9c20dc9bf4804a9a80ed" title=" " alt="" coords="203,64,292,91"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="135,75,188,75,188,80,135,80"/>
+<area shape="rect" id="Node000008" href="$d2/d23/SDL__string_8c.html#aea0d26139be20c512bd5192017c827e6" title=" " alt="" coords="183,115,312,141"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="120,89,184,107,183,113,119,94"/>
+<area shape="rect" id="Node000003" href="$d2/d23/SDL__string_8c.html#a8291f282f96ea4c1948eb5a87696b873" title=" " alt="" coords="360,13,443,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="285,24,344,24,344,29,285,29"/>
+<area shape="rect" id="Node000004" href="$d2/d23/SDL__string_8c.html#a1bed6e3ed5cfd4a6a39e5735a22168d1" title=" " alt="" coords="491,13,604,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="444,24,476,24,476,29,444,29"/>
+<area shape="rect" id="Node000005" href="$d2/d23/SDL__string_8c.html#a7973bb641d19e0ed46f90e07e09b07ed" title=" " alt="" coords="652,5,847,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="604,24,636,24,636,29,604,29"/>
+<area shape="rect" id="Node000006" href="$d3/d02/SDL__stdlib_8c.html#a0f97bab0613d4633dfc9a13c1d8bd9f7" title=" " alt="" coords="895,13,994,40"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="848,24,879,24,879,29,848,29"/>
+</map>

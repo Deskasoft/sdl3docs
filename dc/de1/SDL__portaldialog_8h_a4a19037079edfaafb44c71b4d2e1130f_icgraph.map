@@ -1,0 +1,12 @@
+<map id="SDL_Portal_ShowFileDialogWithProperties" name="SDL_Portal_ShowFileDialogWithProperties">
+<area shape="rect" id="Node000001" title=" " alt="" coords="622,56,809,99"/>
+<area shape="rect" id="Node000002" href="$d4/d8b/SDL__unixdialog_8c.html#ab2f9e0de0e94da023d667425d1320a1d" title=" " alt="" coords="402,64,574,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="607,80,575,80,575,75,607,75"/>
+<area shape="rect" id="Node000003" href="$d4/d8b/SDL__unixdialog_8c.html#a925198d8e6633242b15a3b0e250a60c8" title=" " alt="" coords="202,5,300,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,62,353,47,299,33,300,28,355,41,418,57"/>
+<area shape="rect" id="Node000005" href="$d4/d8b/SDL__unixdialog_8c.html#ac5e36f40c4a1019ab9545659a3637e8d" title=" " alt="" coords="148,56,354,99"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="386,80,355,80,355,75,386,75"/>
+<area shape="rect" id="Node000004" href="$d4/d8b/SDL__unixdialog_8c.html#a01eadec5086a813f0c8c2bc6baa38150" title=" " alt="" coords="5,64,100,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="187,36,148,47,91,66,90,61,147,41,186,31"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="99,94,148,108,205,116,251,118,354,108,400,100,442,89,444,94,401,105,354,113,251,123,205,121,147,113,98,99"/>
+</map>

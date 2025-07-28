@@ -1,0 +1,9 @@
+<map id="GetAsyncIOTaskOutcome" name="GetAsyncIOTaskOutcome">
+<area shape="rect" id="Node000001" title=" " alt="" coords="243,56,417,83"/>
+<area shape="rect" id="Node000002" href="$d7/d30/SDL__asyncio_8c.html#a7389f1a404a2cbcfcc79c92e7e1f473e" title=" " alt="" coords="5,5,195,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,55,163,35,164,30,251,49"/>
+<area shape="rect" id="Node000003" href="$d7/d30/SDL__asyncio_8c.html#ad000c5622b933b17d8cc86f3db5c4b86" title=" " alt="" coords="18,56,182,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,72,182,72,182,67,228,67"/>
+<area shape="rect" id="Node000004" href="$d7/d30/SDL__asyncio_8c.html#a59f7b9391f44bfe814dcd84b8d0f2066" title=" " alt="" coords="15,107,185,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="251,89,164,109,163,103,250,84"/>
+</map>

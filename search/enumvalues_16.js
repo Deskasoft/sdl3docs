@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['x11_5fpending_5fop_5ffullscreen_0',['X11_PENDING_OP_FULLSCREEN',['../d4/dd9/structSDL__WindowData.html#af7be38b1e7c610c98df1650d38dcbbf3a7ceba73b803788c42eb6b4bde83630cb',1,'SDL_WindowData']]],
+  ['x11_5fpending_5fop_5fmaximize_1',['X11_PENDING_OP_MAXIMIZE',['../d4/dd9/structSDL__WindowData.html#af7be38b1e7c610c98df1650d38dcbbf3a9e505c371a4bb13db46a5c9907f502e5',1,'SDL_WindowData']]],
+  ['x11_5fpending_5fop_5fminimize_2',['X11_PENDING_OP_MINIMIZE',['../d4/dd9/structSDL__WindowData.html#af7be38b1e7c610c98df1650d38dcbbf3aeee41359cc7251c83de676c650832ce5',1,'SDL_WindowData']]],
+  ['x11_5fpending_5fop_5fmove_3',['X11_PENDING_OP_MOVE',['../d4/dd9/structSDL__WindowData.html#af7be38b1e7c610c98df1650d38dcbbf3a001d53ca17e2849edfe6dbb9a3c13046',1,'SDL_WindowData']]],
+  ['x11_5fpending_5fop_5fnone_4',['X11_PENDING_OP_NONE',['../d4/dd9/structSDL__WindowData.html#af7be38b1e7c610c98df1650d38dcbbf3a9ec813cff38bd12ceb061952559a88a8',1,'SDL_WindowData']]],
+  ['x11_5fpending_5fop_5fresize_5',['X11_PENDING_OP_RESIZE',['../d4/dd9/structSDL__WindowData.html#af7be38b1e7c610c98df1650d38dcbbf3a2cfbf54825b603c693370534ad991bdd',1,'SDL_WindowData']]],
+  ['x11_5fpending_5fop_5frestore_6',['X11_PENDING_OP_RESTORE',['../d4/dd9/structSDL__WindowData.html#af7be38b1e7c610c98df1650d38dcbbf3a60c012969be597570123ff66c947c917',1,'SDL_WindowData']]],
+  ['x11_5fsize_5fmove_5fevents_5fdisable_7',['X11_SIZE_MOVE_EVENTS_DISABLE',['../d4/dd9/structSDL__WindowData.html#ab40a4bcffdcdb8bc9be75ec17549b1d0a2e0343c407788402631f9e6a2f9b8fbe',1,'SDL_WindowData']]],
+  ['x11_5fsize_5fmove_5fevents_5fwait_5ffor_5fborders_8',['X11_SIZE_MOVE_EVENTS_WAIT_FOR_BORDERS',['../d4/dd9/structSDL__WindowData.html#ab40a4bcffdcdb8bc9be75ec17549b1d0a5014a27d7c8f85135f7ba68f3ec51ab8',1,'SDL_WindowData']]],
+  ['xsettings_5faccess_9',['XSETTINGS_ACCESS',['../dd/d14/xsettings-client_8h.html#aea3330de56720dc6fafc1b0bcb2862bdab6e7cd74f57491395b5b86a86044c182',1,'xsettings-client.h']]],
+  ['xsettings_5faction_5fchanged_10',['XSETTINGS_ACTION_CHANGED',['../dd/d14/xsettings-client_8h.html#a5dde6e1f34a39a4d59acee51e1bcece3a14352b4dfc4c3e74e3758667d34f2ff4',1,'xsettings-client.h']]],
+  ['xsettings_5faction_5fdeleted_11',['XSETTINGS_ACTION_DELETED',['../dd/d14/xsettings-client_8h.html#a5dde6e1f34a39a4d59acee51e1bcece3a866857b90dc512939da830f0978a4521',1,'xsettings-client.h']]],
+  ['xsettings_5faction_5fnew_12',['XSETTINGS_ACTION_NEW',['../dd/d14/xsettings-client_8h.html#a5dde6e1f34a39a4d59acee51e1bcece3aeb517d0886083ab45a785445245dd648',1,'xsettings-client.h']]],
+  ['xsettings_5fduplicate_5fentry_13',['XSETTINGS_DUPLICATE_ENTRY',['../dd/d14/xsettings-client_8h.html#aea3330de56720dc6fafc1b0bcb2862bda0f08e0f93b365767f44ccf8bcc221a0c',1,'xsettings-client.h']]],
+  ['xsettings_5ffailed_14',['XSETTINGS_FAILED',['../dd/d14/xsettings-client_8h.html#aea3330de56720dc6fafc1b0bcb2862bda9bb372c4294092422db4701ac996e225',1,'xsettings-client.h']]],
+  ['xsettings_5fno_5fentry_15',['XSETTINGS_NO_ENTRY',['../dd/d14/xsettings-client_8h.html#aea3330de56720dc6fafc1b0bcb2862bdab011ae84dde854cf841bac3cd50678bf',1,'xsettings-client.h']]],
+  ['xsettings_5fno_5fmem_16',['XSETTINGS_NO_MEM',['../dd/d14/xsettings-client_8h.html#aea3330de56720dc6fafc1b0bcb2862bdaf27cf90db2938a43cada5be692988651',1,'xsettings-client.h']]],
+  ['xsettings_5fsuccess_17',['XSETTINGS_SUCCESS',['../dd/d14/xsettings-client_8h.html#aea3330de56720dc6fafc1b0bcb2862bda0f50a6c190028e47b82b2436325d189f',1,'xsettings-client.h']]],
+  ['xsettings_5ftype_5fcolor_18',['XSETTINGS_TYPE_COLOR',['../dd/d14/xsettings-client_8h.html#ab8bbe81bca89b1e6aa014317095b4dd1a7975645d29db788ef91db4c454db3b48',1,'xsettings-client.h']]],
+  ['xsettings_5ftype_5fint_19',['XSETTINGS_TYPE_INT',['../dd/d14/xsettings-client_8h.html#ab8bbe81bca89b1e6aa014317095b4dd1a097a02d26e8a80b978d7e93871e99f5c',1,'xsettings-client.h']]],
+  ['xsettings_5ftype_5fstring_20',['XSETTINGS_TYPE_STRING',['../dd/d14/xsettings-client_8h.html#ab8bbe81bca89b1e6aa014317095b4dd1a6334092bb938b343daab078c3f02aa2b',1,'xsettings-client.h']]]
+];

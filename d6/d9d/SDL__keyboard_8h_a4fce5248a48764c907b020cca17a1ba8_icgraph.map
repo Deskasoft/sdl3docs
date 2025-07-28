@@ -1,0 +1,13 @@
+<map id="SDL_GetModState" name="SDL_GetModState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="796,31,927,57"/>
+<area shape="rect" id="Node000002" href="$d8/d3d/SDL__fcitx_8c.html#a4024fa6ef01d675e2dda3f4c9164af53" title=" " alt="" coords="573,5,686,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="780,38,686,27,687,22,781,33"/>
+<area shape="rect" id="Node000006" href="$d3/d13/SDL__keyboard_8c.html#aac81c1c129ef5257542232496d5489e4" title=" " alt="" coords="511,56,748,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="781,55,748,59,748,54,780,50"/>
+<area shape="rect" id="Node000003" href="$d8/d3d/SDL__fcitx_8c.html#a207758bbbddba50357f0c7515467e0d2" title=" " alt="" coords="268,5,463,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="558,21,464,21,464,16,558,16"/>
+<area shape="rect" id="Node000004" href="$d6/dca/SDL__ime_8c.html#a43c3ce1b3fb7c51d28e85239d2df465f" title=" " alt="" coords="157,5,220,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="253,21,220,21,220,16,253,16"/>
+<area shape="rect" id="Node000005" href="$d6/dca/SDL__ime_8c.html#aad8672e65d5ef336bee91410b6d6cebf" title=" " alt="" coords="5,5,109,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="141,21,109,21,109,16,141,16"/>
+</map>

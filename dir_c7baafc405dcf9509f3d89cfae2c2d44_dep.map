@@ -1,0 +1,28 @@
+<map id="SDL&#45;main/src/filesystem" name="SDL&#45;main/src/filesystem">
+<area shape="rect" id="node1" href="dir_aa68752ee0740d8afca2734b95315d10.html" title="stdlib" alt="" coords="52,139,105,165"/>
+<area shape="rect" id="node2" href="dir_9737c3e3605f759e2a67737bf2c1e907.html" title="core" alt="" coords="506,139,552,165"/>
+<area shape="poly" id="edge1" href="dir_000064_000195.html" alt="" coords="81,91,81,123,76,123,76,91"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000064_000195.html" title="1" alt="" coords="84,112,91,128"/>
+<area shape="rect" id="node4" href="dir_7ec127bdf741db168ad4431ca25237fc.html" title="android" alt="" coords="143,64,206,91"/>
+<area shape="rect" id="node5" href="dir_49a4167ecdfc804b47e127b30ae7abff.html" title="cocoa" alt="" coords="230,64,287,91"/>
+<area shape="rect" id="node6" href="dir_124a7d7efc271d092092c66db1e4fa39.html" title="dummy" alt="" coords="310,64,375,91"/>
+<area shape="rect" id="node7" href="dir_b3a4a9eef5307facf654e36d30bb0a26.html" title="emscripten" alt="" coords="399,64,484,91"/>
+<area shape="rect" id="node8" href="dir_732ee8fcd0f830dcfab6c9303e148637.html" title="gdk" alt="" coords="508,64,550,91"/>
+<area shape="poly" id="edge2" href="dir_000067_000023.html" alt="" coords="532,91,532,123,527,123,527,91"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000067_000023.html" title="1" alt="" coords="534,112,541,128"/>
+<area shape="rect" id="node19" href="dir_ebf95f20007d6bc6b45c448835273ca9.html" title="include" alt="" coords="1336,139,1398,165"/>
+<area shape="poly" id="edge3" href="dir_000067_000094.html" alt="" coords="545,89,564,99,633,114,722,123,933,126,1148,125,1242,127,1321,134,1320,140,1242,133,1148,130,933,131,722,128,633,120,562,104,543,94"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000067_000094.html" title="3" alt="" coords="1315,120,1322,136"/>
+<area shape="rect" id="node9" href="dir_7904c4f5a0d48974f0eff429cbd0e60c.html" title="haiku" alt="" coords="575,64,628,91"/>
+<area shape="rect" id="node10" href="dir_bcc941434ca3c1fc4fe8e79ea6b4606f.html" title="n3ds" alt="" coords="651,64,701,91"/>
+<area shape="rect" id="node11" href="dir_36d262ef7be901172536a9021cc1d796.html" title="ngage" alt="" coords="725,64,782,91"/>
+<area shape="rect" id="node12" href="dir_15c8f937bc531b6f3bc7fac818dd5ee5.html" title="posix" alt="" coords="806,64,858,91"/>
+<area shape="rect" id="node13" href="dir_898b42e5ad7c13635a4aac1d381e9f49.html" title="ps2" alt="" coords="883,64,925,91"/>
+<area shape="rect" id="node14" href="dir_4574cd94b7a2fc12b0f400c42c762fc3.html" title="psp" alt="" coords="950,64,992,91"/>
+<area shape="rect" id="node15" href="dir_d94c90bf76e21d84ba64e6677707a1fc.html" title="riscos" alt="" coords="1016,64,1072,91"/>
+<area shape="rect" id="node16" href="dir_9f9779600381fedd865788431989c60a.html" title="unix" alt="" coords="1096,64,1141,91"/>
+<area shape="rect" id="node17" href="dir_e570616802b1726196942122ae0faf12.html" title="vita" alt="" coords="1166,64,1208,91"/>
+<area shape="rect" id="node18" href="dir_0bcd050752c7a7bc6b2f69e19c052af3.html" title="windows" alt="" coords="1232,64,1304,91"/>
+<area shape="rect" id="clust2" href="dir_c7baafc405dcf9509f3d89cfae2c2d44.html" alt="" coords="27,53,1315,101"/>
+<area shape="rect" id="clust1" href="dir_93dff7e69d031a1b18a384e0d03ab66f.html" title="src" alt="" coords="16,16,1325,176"/>
+</map>
